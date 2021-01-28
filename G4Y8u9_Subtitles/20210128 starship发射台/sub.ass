@@ -13,9 +13,10 @@ Audio File: SpaceX's Launch Pad Problem.mkv
 Video File: SpaceX's Launch Pad Problem.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Active Line: 245
-Video Position: 14972
+Video Zoom Percent: 0.500000
+Scroll Position: 194
+Active Line: 201
+Video Position: 12576
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -130,7 +131,7 @@ Dialogue: 1,0:03:30.78,0:03:33.62,辉中,,0,0,0,,但Starship的发射架仍然�
 Dialogue: 2,0:03:30.78,0:03:33.62,辉英,,0,0,0,,to the traditional launch pads we've seen in the past.
 Dialogue: 1,0:03:34.24,0:03:37.98,辉中,,0,0,0,,因为Starship设计可以进行在轨燃料加注
 Dialogue: 2,0:03:34.24,0:03:37.98,辉英,,0,0,0,,Since Starship is designed to do in-orbit refueling,
-Dialogue: 1,0:03:38.02,0:03:41.50,辉中,,0,0,0,,所以所有的燃料管路都要通道火箭底部
+Dialogue: 1,0:03:38.02,0:03:41.50,辉中,,0,0,0,,所以所有的燃料管路都要通到火箭底部
 Dialogue: 2,0:03:38.02,0:03:41.50,辉英,,0,0,0,,all of the fuel lines need to be located at the bottom of the rocket.
 Dialogue: 1,0:03:41.86,0:03:46.85,辉中,,0,0,0,,从而让Starship可以在太空进行交尾 并传输燃料
 Dialogue: 2,0:03:41.86,0:03:46.85,辉英,,0,0,0,,This will allow Starships to dock tail-to-tail in space and transfer propellants.
@@ -226,6 +227,7 @@ Dialogue: 1,0:06:51.74,0:06:55.82,辉中,,0,0,0,,月球着陆版的Starship会�
 Dialogue: 2,0:06:51.74,0:06:55.82,辉英,,0,0,0,,The Lunar version of Starship will have smaller engines at the top of the vehicle
 Dialogue: 1,0:06:55.82,0:06:59.20,辉中,,0,0,0,,会在着陆时点火减速
 Dialogue: 2,0:06:55.82,0:06:59.20,辉英,,0,0,0,,which will ignite to slow the vehicle down during a landing.
+Dialogue: 1,0:06:59.60,0:07:03.62,辉注,,0,0,0,,旁白念的“40米” YouTube自带字幕内容是“50 meters” 这里按原字幕内容翻译
 Dialogue: 1,0:06:59.60,0:07:03.62,辉中,,0,0,0,,这些发动机的位置离月球表面至少50米
 Dialogue: 2,0:06:59.60,0:07:03.62,辉英,,0,0,0,,These engines will be at least 50 meters above the Lunar surface,
 Dialogue: 1,0:07:03.62,0:07:06.40,辉中,,0,0,0,,从而最大程度减少吹起的碎石
