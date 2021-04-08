@@ -10,14 +10,15 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
+Last Style Storage: Default
 Audio File: Q:/给没组/tlou2.mp4
 Video File: Q:/给没组/tlou2.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 3424
-Active Line: 3435
-Video Position: 709989
+Scroll Position: 162
+Active Line: 172
+Video Position: 50192
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -25,6 +26,7 @@ Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 Style: 辉中,文泉驿微米黑,65,&H00FFFFFF,&H000019FF,&H00704012,&H00000000,-1,0,0,0,100,100,0.5,0,1,3,0.2,2,0,0,45,1
 Style: 辉英,PragmataPro,35,&H00FFFFFF,&H000019FF,&H003B3C3D,&H00000000,0,0,0,0,100,100,1,0,1,2.8,0.2,2,0,0,10,1
 Style: 辉注,文泉驿微米黑,50,&H00000000,&H000019FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,1,0,1,3,0.7,9,10,10,10,1
+Style: 辉注 twitter,文泉驿微米黑,72,&H00000000,&H000019FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,1,0,1,3,0.7,1,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -174,46 +176,33 @@ Dialogue: 0,0:11:59.31,0:12:01.53,辉中,,0,0,0,,So make sure that you remember 
 Dialogue: 0,0:12:01.53,0:12:05.91,辉中,,0,0,0,,Though I'm sure I don't need to tell you that because you'll likely remember this for the rest of your life.
 Dialogue: 0,0:12:05.91,0:12:08.66,辉中,,0,0,0,,considering how unbelievably touching it was.
 Dialogue: 0,0:12:08.66,0:12:11.94,辉中,,0,0,0,,Also a funny little thing that Neil Druckman tweeted out.
-Dialogue: 0,0:12:11.94,0:12:16.38,辉中,,0,0,0,,Apparently he had been asked many many times on Twitter and in person why,
-Dialogue: 0,0:12:16.38,0:12:17.07,辉中,,0,0,0,,Pearl Jams,
-Dialogue: 0,0:12:17.07,0:12:19.11,辉中,,0,0,0,,future days was used in the game.
-Dialogue: 0,0:12:19.11,0:12:25.05,辉中,,0,0,0,,People ask this because the song didn't actually drop until October of two thousand and thirteen officially.
+Dialogue: 0,0:12:11.94,0:12:16.04,辉中,,0,0,0,,Apparently he had been asked many many times on Twitter and in person
+Dialogue: 0,0:12:16.38,0:12:19.11,辉中,,0,0,0,,why Pearl Jam's "Future Days" was used in the game.
+Dialogue: 0,0:12:19.11,0:12:25.05,辉中,,0,0,0,,People ask this because the song didn't actually drop until October of 2013 officially.
 Dialogue: 0,0:12:25.05,0:12:28.80,辉中,,0,0,0,,And that is actually a month after outbreak day in this universe,
-Dialogue: 0,0:12:28.80,0:12:32.61,辉中,,0,0,0,,so it shouldn't have actually existed and he'll drunk.
-Dialogue: 0,0:12:32.61,0:12:33.81,辉中,,0,0,0,,man responded by saying,
-Dialogue: 0,0:12:33.81,0:12:34.86,辉中,,0,0,0,,Glad you asked,
-Dialogue: 0,0:12:34.86,0:12:36.45,辉中,,0,0,0,,Do you see it was performed,
-Dialogue: 0,0:12:36.45,0:12:40.83,辉中,,0,0,0,,live and posted on Youtube months prior to the albums release.
-Dialogue: 0,0:12:40.83,0:12:43.14,辉中,,0,0,0,,And you can actually go look it up on Youtube.
-Dialogue: 0,0:12:43.14,0:12:43.98,辉中,,0,0,0,,and sure enough,
-Dialogue: 0,0:12:43.98,0:12:45.81,辉中,,0,0,0,,Pearl jam performed this live,
-Dialogue: 0,0:12:45.81,0:12:48.15,辉中,,0,0,0,,and that video was posted on July,
-Dialogue: 0,0:12:48.15,0:12:51.06,辉中,,0,0,0,,Twenty sixth of two thousand and thirteen.
+Dialogue: 0,0:12:28.80,0:12:32.06,辉中,,0,0,0,,so it shouldn't have actually existed.
+Dialogue: 0,0:12:32.06,0:12:33.81,辉中,,0,0,0,,Neil Druckman responded by saying,
+Dialogue: 0,0:12:33.81,0:12:40.83,辉注 twitter,,300,0,200,,感谢您的提问！其实……这首歌在专辑发布的几个月\N之前就在YouTube上有一场live了。
+Dialogue: 0,0:12:40.83,0:12:43.14,辉中,,0,0,0,,And you can actually go look it up on Youtube,
+Dialogue: 0,0:12:43.14,0:12:45.81,辉中,,0,0,0,,and sure enough, Pearl jam performed this live,
+Dialogue: 0,0:12:45.81,0:12:51.06,辉中,,0,0,0,,and that video was posted on July, 26th of 2013.
 Dialogue: 0,0:12:51.06,0:12:53.25,辉中,,0,0,0,,That's the actual date of the video.
-Dialogue: 0,0:12:53.25,0:12:55.98,辉中,,0,0,0,,It's a perfect example of naughty dogs,
-Dialogue: 0,0:12:55.98,0:12:58.59,辉中,,0,0,0,,excessive attention to detail.
-Dialogue: 0,0:12:58.59,0:13:00.81,辉中,,0,0,0,,I don't think anybody would have cared,
-Dialogue: 0,0:13:00.81,0:13:05.73,辉中,,0,0,0,,particularly if this song released three years after outbreak day,
-Dialogue: 0,0:13:05.73,0:13:15.39,辉中,,0,0,0,,but the fact that they took it upon themselves to find a song that fit the theme and the tone of the game and that fits so perfectly within jolyon ellie's relationship,
+Dialogue: 0,0:12:53.25,0:12:58.59,辉中,,0,0,0,,It's a perfect example of Naughty Dog's excessive attention to detail.
+Dialogue: 0,0:12:58.59,0:13:05.73,辉中,,0,0,0,,I don't think anybody would have cared, particularly if this song released three years after outbreak day,
+Dialogue: 0,0:13:05.73,0:13:11.44,辉中,,0,0,0,,but the fact that they took it upon themselves to find a song that fit the theme and the tone of the game
+Dialogue: 0,0:13:11.44,0:13:15.39,辉中,,0,0,0,,and that fits so perfectly within Joel and Ellie's relationship,
 Dialogue: 0,0:13:15.39,0:13:19.71,辉中,,0,0,0,,and then to also make sure that it fit in with the timeline they were dealing with it.
-Dialogue: 0,0:13:19.71,0:13:21.15,辉中,,0,0,0,,It's unbelievable,
-Dialogue: 0,0:13:21.15,0:13:24.12,辉中,,0,0,0,,but once again its one of the examples of naughty dogs,
-Dialogue: 0,0:13:24.12,0:13:25.23,辉中,,0,0,0,,perfectionism,
-Dialogue: 0,0:13:25.23,0:13:27.48,辉中,,0,0,0,,they don't need to care about these little things,
-Dialogue: 0,0:13:27.48,0:13:28.53,辉中,,0,0,0,,but they do,
-Dialogue: 0,0:13:28.53,0:13:30.18,辉中,,0,0,0,,and that's what sets them apart,
-Dialogue: 0,0:13:30.18,0:13:32.19,辉中,,0,0,0,,whether you love them or hate them.
-Dialogue: 0,0:13:32.19,0:13:33.96,辉中,,0,0,0,,After this touching flashback,
-Dialogue: 0,0:13:33.96,0:13:34.80,辉中,,0,0,0,,we cut to Ellie,
-Dialogue: 0,0:13:34.80,0:13:36.51,辉中,,0,0,0,,waking up late Jesse,
-Dialogue: 0,0:13:36.51,0:13:38.64,辉中,,0,0,0,,a character will get to see a little bit throughout.
-Dialogue: 0,0:13:38.64,0:13:40.68,辉中,,0,0,0,,The course of the game is at her front door,
-Dialogue: 0,0:13:40.68,0:13:44.58,辉中,,0,0,0,,giving her crap for sleeping in over the next ten or so minutes.
-Dialogue: 0,0:13:44.58,0:13:46.08,辉中,,0,0,0,,As you walk through the town,
-Dialogue: 0,0:13:46.08,0:13:50.52,辉中,,0,0,0,,you have a recap of everything that went down and then some in the trailer from ie three,
-Dialogue: 0,0:13:50.52,0:13:51.60,辉中,,0,0,0,,twenty eighteen.
-Dialogue: 0,0:13:51.60,0:13:53.49,辉中,,0,0,0,,Now I found this particularly interesting.
-Dialogue: 0,0:13:53.49,0:13:57.87,辉中,,0,0,0,,Because that sequence where Dena and Elie share their first kiss,
+Dialogue: 0,0:13:19.71,0:13:21.15,辉中,,0,0,0,,It's unbelievable.
+Dialogue: 0,0:13:21.15,0:13:25.23,辉中,,0,0,0,,But once again its one of the examples of Naughty Dog's perfectionism.
+Dialogue: 0,0:13:25.23,0:13:28.53,辉中,,0,0,0,,They don't need to care about these little things, but they do.
+Dialogue: 0,0:13:28.53,0:13:32.19,辉中,,0,0,0,,And that's what sets them apart, whether you love them or hate them.
+Dialogue: 0,0:13:32.19,0:13:36.00,辉中,,0,0,0,,After this touching flashback, we cut to Ellie, waking up late.
+Dialogue: 0,0:13:36.00,0:13:39.53,辉中,,0,0,0,,Jesse, a character we'll get to see a little bit throughout the course of the game
+Dialogue: 0,0:13:39.53,0:13:42.44,辉中,,0,0,0,,is at her front door, giving her crap for sleeping in.
+Dialogue: 0,0:13:42.44,0:13:46.08,辉中,,0,0,0,,Over the next ten or so minutes as you walk through the town,
+Dialogue: 0,0:13:46.08,0:13:51.60,辉中,,0,0,0,,you have a recap of everything that went down and then some in the trailer from E3 2018.
+Dialogue: 0,0:13:51.60,0:13:53.49,辉中,,0,0,0,,Now I found this particularly interesting,
+Dialogue: 0,0:13:53.49,0:13:57.87,辉中,,0,0,0,,because that sequence where Dina and Ellie share their first kiss,
 Dialogue: 0,0:13:57.87,0:14:00.78,辉中,,0,0,0,,I thought was a pretty important sequence to see.
 Dialogue: 0,0:14:00.78,0:14:04.41,辉中,,0,0,0,,But naughty dog doesn't show it to the player at least not right now.
 Dialogue: 0,0:14:04.41,0:14:04.92,辉中,,0,0,0,,Instead,
