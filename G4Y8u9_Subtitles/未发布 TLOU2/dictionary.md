@@ -1,6 +1,7 @@
 |FULLNAME|NAME|中文|备注|
 |:----|:----|:----|:----|
 |the last of us part 2|TLOU2|最后生还者2|游戏标题|
+|Naughty Dog|Naughty Dog|顽皮狗|游戏制作组|
 |fireflies|Fireflies|火萤组织|前作组织|
 |Joel Miller|oel|乔尔·米勒|前作主角|
 |Ellie|Ellie|艾莉|主角1|

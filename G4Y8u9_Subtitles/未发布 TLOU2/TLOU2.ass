@@ -16,9 +16,9 @@ Video File: Q:/给没组/tlou2.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 162
-Active Line: 172
-Video Position: 50192
+Scroll Position: 287
+Active Line: 292
+Video Position: 77814
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -204,131 +204,126 @@ Dialogue: 0,0:13:46.08,0:13:51.60,辉中,,0,0,0,,you have a recap of everything 
 Dialogue: 0,0:13:51.60,0:13:53.49,辉中,,0,0,0,,Now I found this particularly interesting,
 Dialogue: 0,0:13:53.49,0:13:57.87,辉中,,0,0,0,,because that sequence where Dina and Ellie share their first kiss,
 Dialogue: 0,0:13:57.87,0:14:00.78,辉中,,0,0,0,,I thought was a pretty important sequence to see.
-Dialogue: 0,0:14:00.78,0:14:04.41,辉中,,0,0,0,,But naughty dog doesn't show it to the player at least not right now.
-Dialogue: 0,0:14:04.41,0:14:04.92,辉中,,0,0,0,,Instead,
-Dialogue: 0,0:14:04.92,0:14:08.28,辉中,,0,0,0,,they rely on the dialog to explain what happened,
-Dialogue: 0,0:14:08.28,0:14:15.45,辉中,,0,0,0,,but I can't help but notice that this is the first instance where trailers are important to a contextual grasp of the game itself.
-Dialogue: 0,0:14:15.45,0:14:15.93,辉中,,0,0,0,,because,
-Dialogue: 0,0:14:15.93,0:14:16.53,辉中,,0,0,0,,after all,
-Dialogue: 0,0:14:16.53,0:14:17.28,辉中,,0,0,0,,in this case,
-Dialogue: 0,0:14:17.28,0:14:25.95,辉中,,0,0,0,,the scene that's being discussed isn't actually shown to the player until the last fifteen or so minutes of the game time and time again.
-Dialogue: 0,0:14:25.95,0:14:38.31,辉中,,0,0,0,,Stuff that was shown in the trailers is either changed drastically or is moved around such that you need to have seen the trailer in order to truly understand what's going on now.
-Dialogue: 0,0:14:38.31,0:14:42.78,辉中,,0,0,0,,I understand that it's a small thing to point out or be frustrated by because after all,
-Dialogue: 0,0:14:42.78,0:14:46.80,辉中,,0,0,0,,chances are every single person who bought the game had seen that trailer.
-Dialogue: 0,0:14:46.80,0:14:47.67,辉中,,0,0,0,,However,
-Dialogue: 0,0:14:47.67,0:14:51.06,辉中,,0,0,0,,I still think it's strange to show a scene in a trailer,
-Dialogue: 0,0:14:51.06,0:14:54.87,辉中,,0,0,0,,but then not show it in the game when that item is being discussed,
-Dialogue: 0,0:14:54.87,0:14:57.12,辉中,,0,0,0,,it's one of countless times in this game.
-Dialogue: 0,0:14:57.12,0:14:59.25,辉中,,0,0,0,,When naughty dog will take a sequence,
-Dialogue: 0,0:14:59.25,0:15:02.97,辉中,,0,0,0,,cut it up into fifteen different parts and then spread it randomly,
-Dialogue: 0,0:15:02.97,0:15:05.04,辉中,,0,0,0,,seemingly throughout the course of the story.
-Dialogue: 0,0:15:05.04,0:15:11.52,辉中,,0,0,0,,Sometimes I think it helps with pacing by giving the player a break from a very stressful environment or activity,
+Dialogue: 0,0:14:00.78,0:14:04.41,辉中,,0,0,0,,But Naughty Dog doesn't show it to the player, at least not right now.
+Dialogue: 0,0:14:04.41,0:14:08.28,辉中,,0,0,0,,Instead, they rely on the dialog to explain what happened,
+Dialogue: 0,0:14:08.28,0:14:10.89,辉中,,0,0,0,,but I can't help to notice that this is the first instance
+Dialogue: 0,0:14:10.89,0:14:15.45,辉中,,0,0,0,,where trailers are important to a contextual grasp of the game itself.
+Dialogue: 0,0:14:15.45,0:14:17.28,辉中,,0,0,0,,because, after all, in this case,
+Dialogue: 0,0:14:17.28,0:14:21.71,辉中,,0,0,0,,the scene that's being discussed isn't actually shown to the player
+Dialogue: 0,0:14:21.71,0:14:24.79,辉中,,0,0,0,,until the last 15 or so minutes of the game.
+Dialogue: 0,0:14:24.79,0:14:32.09,辉中,,0,0,0,,Time and time again, stuff that was shown in the trailers is either changed drastically or is moved around
+Dialogue: 0,0:14:32.09,0:14:37.99,辉中,,0,0,0,,such that you need to have seen the trailer in order to truly understand what's going on.
+Dialogue: 0,0:14:37.99,0:14:42.07,辉中,,0,0,0,,Now I understand that it's a small thing to point out or be frustrated by,
+Dialogue: 0,0:14:42.07,0:14:46.80,辉中,,0,0,0,,because after all chances are every single person who bought the game had seen that trailer.
+Dialogue: 0,0:14:46.80,0:14:51.06,辉中,,0,0,0,,However, I still think it's strange to show a scene in a trailer,
+Dialogue: 0,0:14:51.06,0:14:54.87,辉中,,0,0,0,,but then not show it in the game when that item is being discussed.
+Dialogue: 0,0:14:54.87,0:14:57.12,辉中,,0,0,0,,It's one of countless times in this game,
+Dialogue: 0,0:14:57.12,0:15:01.22,辉中,,0,0,0,,when naughty dog will take a sequence, cut it up into fifteen different parts
+Dialogue: 0,0:15:01.22,0:15:05.04,辉中,,0,0,0,,and then spread it randomly, seemingly throughout the course of the story.
+Dialogue: 0,0:15:05.04,0:15:07.04,辉中,,0,0,0,,Sometimes I think it helps with pacing
+Dialogue: 0,0:15:07.04,0:15:11.52,辉中,,0,0,0,,by giving the player a break from a very stressful environment or activity,
 Dialogue: 0,0:15:11.52,0:15:15.75,辉中,,0,0,0,,but often it feels as though it's jarring and out of nowhere.
-Dialogue: 0,0:15:15.75,0:15:16.71,辉中,,0,0,0,,But don't worry,
-Dialogue: 0,0:15:16.71,0:15:20.43,辉中,,0,0,0,,we're going to get to some very egregious examples of this later on.
-Dialogue: 0,0:15:20.43,0:15:21.30,辉中,,0,0,0,,In the story,
-Dialogue: 0,0:15:21.30,0:15:26.13,辉中,,0,0,0,,all that's really important to understand is that Ellie and Dina shared a first kiss,
-Dialogue: 0,0:15:26.13,0:15:29.40,辉中,,0,0,0,,a character that we meet briefly,
-Dialogue: 0,0:15:29.40,0:15:32.73,辉中,,0,0,0,,said something offensive and bigoted.
-Dialogue: 0,0:15:32.73,0:15:35.61,辉中,,0,0,0,,And everybody wants you to know that it's bigoted.
+Dialogue: 0,0:15:15.75,0:15:21.20,辉中,,0,0,0,,But don't worry, we're going to get to some very egregious examples of this later on in the story.
+Dialogue: 0,0:15:21.30,0:15:26.13,辉中,,0,0,0,,All that's really important to understand is that Ellie and Dina shared a first kiss,
+Dialogue: 0,0:15:26.13,0:15:32.73,辉中,,0,0,0,,a character that we meet briefly, said something offensive and bigoted,
+Dialogue: 0,0:15:32.73,0:15:35.61,辉中,,0,0,0,,and everybody wants you to know that it's bigoted.
 Dialogue: 0,0:15:35.61,0:15:40.11,辉中,,0,0,0,,You get some sandwiches and then you go off to start on patrol.
-Dialogue: 0,0:15:40.11,0:15:48.93,辉中,,0,0,0,,It's also important to understand that Jesse just broke up with Dena around a week to a week and a half before this is taking place or may be.
-Dialogue: 0,0:15:48.93,0:15:50.79,辉中,,0,0,0,,Dina broke up with him,
-Dialogue: 0,0:15:50.79,0:15:52.05,辉中,,0,0,0,,or maybe it was mutual.
-Dialogue: 0,0:15:52.05,0:15:54.30,辉中,,0,0,0,,I don't know it's so high school.
-Dialogue: 0,0:15:54.30,0:15:56.43,辉中,,0,0,0,,These first few conversations.
-Dialogue: 0,0:15:56.43,0:15:57.51,辉中,,0,0,0,,It's kind of painful.
+Dialogue: 0,0:15:40.11,0:15:43.64,辉中,,0,0,0,,It's also important to understand that Jesse just broke up with Dina
+Dialogue: 0,0:15:40.11,0:15:48.32,辉中,,0,0,0,,around a week to a week and a half before this is taking place.
+Dialogue: 0,0:15:48.32,0:15:52.05,辉中,,0,0,0,,Or may be Dina broke up with him, or maybe it was mutual.
+Dialogue: 0,0:15:52.05,0:15:57.51,辉中,,0,0,0,,I don't know, it … it's so high school …  these first few conversations. It's kind of painful.
 Dialogue: 0,0:15:57.51,0:16:02.16,辉中,,0,0,0,,Jessie heads off to the stable to prepare the horses and the rest of the attendees.
-Dialogue: 0,0:16:02.16,0:16:06.72,辉中,,0,0,0,,While Dena and L share in a snowball fight against a bunch of kids now,
-Dialogue: 0,0:16:06.72,0:16:14.37,辉中,,0,0,0,,I can have found this snowball fight to be a little weird because it seemed as though it's meant to serve as some sort of combat introduction.
-Dialogue: 0,0:16:14.37,0:16:19.38,辉中,,0,0,0,,but I think I was just reading too much into it because I don't think it does a very good job of that.
+Dialogue: 0,0:16:02.16,0:16:06.52,辉中,,0,0,0,,While Dina and Ellie shared a snowball fight against a bunch of kids.
+Dialogue: 0,0:16:06.52,0:16:09.47,辉中,,0,0,0,,Now I kind of found this snowball fight to be a little weird
+Dialogue: 0,0:16:09.47,0:16:14.37,辉中,,0,0,0,,because it seemed as though it's meant to serve as some sort of combat introduction.
+Dialogue: 0,0:16:14.37,0:16:19.38,辉中,,0,0,0,,But I think I was just reading too much into it because I don't think it does a very good job of that.
 Dialogue: 0,0:16:19.38,0:16:22.17,辉中,,0,0,0,,Now I did go back through the game a second time,
-Dialogue: 0,0:16:22.17,0:16:32.07,辉中,,0,0,0,,as I stated previously on new Game Plus and on the hardest difficulty after becoming completely familiarized with the controls after playing the entire game,
-Dialogue: 0,0:16:32.07,0:16:39.12,辉中,,0,0,0,,this whole snowball fight was much more intriguing and interesting and frankly fun than it was the first time I played.
-Dialogue: 0,0:16:39.12,0:16:42.51,辉中,,0,0,0,,The three tiered stance that l is able to have between standing.
-Dialogue: 0,0:16:42.51,0:16:46.47,辉中,,0,0,0,,crouched in prone is something that takes a minute to get used to.
-Dialogue: 0,0:16:46.47,0:16:53.85,辉中,,0,0,0,,I know it sounds weird because that's true of pretty much any third person or first person shooter that they're going to have those three stances.
-Dialogue: 0,0:16:53.85,0:16:55.65,辉中,,0,0,0,,But in the last of his part too,
-Dialogue: 0,0:16:55.65,0:16:59.25,辉中,,0,0,0,,there are multiple levels of movement associated with each.
-Dialogue: 0,0:16:59.25,0:17:00.48,辉中,,0,0,0,,And that's more my point.
+Dialogue: 0,0:16:22.17,0:16:27.39,辉中,,0,0,0,,as I stated previously on "New Game +" and on the hardest difficulty.
+Dialogue: 0,0:16:27.39,0:16:32.07,辉中,,0,0,0,,After becoming completely familiarized with the controls after playing the entire game,
+Dialogue: 0,0:16:32.07,0:16:37.15,辉中,,0,0,0,,this whole snowball fight was much more intriguing and interesting and frankly fun
+Dialogue: 0,0:16:37.15,0:16:39.12,辉中,,0,0,0,,than it was the first time I played.
+Dialogue: 0,0:16:39.12,0:16:43.90,辉中,,0,0,0,,The three tiered stance that Ellie's able to have between standing, crouch and prone
+Dialogue: 0,0:16:43.90,0:16:46.47,辉中,,0,0,0,,is something that takes a minute to get used to.
+Dialogue: 0,0:16:46.47,0:16:51.90,辉中,,0,0,0,,I know it sounds weird because that's true of pretty much any third person or first person shooter
+Dialogue: 0,0:16:51.90,0:16:53.85,辉中,,0,0,0,,that they're going to have those three stances.
+Dialogue: 0,0:16:53.85,0:16:59.25,辉中,,0,0,0,,But in TLOU2, there are multiple levels of movement associated with each.
+Dialogue: 0,0:16:59.25,0:17:00.48,辉中,,0,0,0,,And that's more of my point.
 Dialogue: 0,0:17:00.48,0:17:05.58,辉中,,0,0,0,,The sequence does a very poor job of introducing the player to those three stances.
 Dialogue: 0,0:17:05.58,0:17:10.32,辉中,,0,0,0,,But you are able to use each of those three stances in this sequence.
 Dialogue: 0,0:17:10.32,0:17:11.79,辉中,,0,0,0,,It just seems a little jarring,
-Dialogue: 0,0:17:11.79,0:17:18.45,辉中,,0,0,0,,but I will admit I appreciate the effort that they put into this because it's still way better than the alternative,
-Dialogue: 0,0:17:18.45,0:17:26.58,辉中,,0,0,0,,which would be to have the standard stereotypical sequence where the protagonist goes and has shown how to use a gun.
-Dialogue: 0,0:17:26.58,0:17:30.36,辉中,,0,0,0,,And it's like issue bottles or some crabs.
-Dialogue: 0,0:17:30.36,0:17:31.35,辉中,,0,0,0,,I hate that.
-Dialogue: 0,0:17:31.35,0:17:36.57,辉中,,0,0,0,,Probably the most egregious example would be the opening of follow three when you're given a BB gun,
-Dialogue: 0,0:17:36.57,0:17:38.07,辉中,,0,0,0,,and then you go downstairs,
-Dialogue: 0,0:17:38.07,0:17:41.94,辉中,,0,0,0,,shoot some targets and then some giant rad roaches.
+Dialogue: 0,0:17:11.79,0:17:15.56,辉中,,0,0,0,,but I will admit I appreciate the effort that they put into this
+Dialogue: 0,0:17:15.56,0:17:18.45,辉中,,0,0,0,,because it's still way better than the alternative,
+Dialogue: 0,0:17:18.45,0:17:22.68,辉中,,0,0,0,,which would be to have the standard stereotypical sequence
+Dialogue: 0,0:17:22.68,0:17:26.58,辉中,,0,0,0,,where the protagonist goes and has shown how to use a gun,
+Dialogue: 0,0:17:26.58,0:17:31.35,辉中,,0,0,0,,and it's like issue bottles or some crabs …  I hate that.
+Dialogue: 0,0:17:31.35,0:17:36.57,辉中,,0,0,0,,Probably the most egregious example would be the opening of Fallout 3 when you're given a BB gun,
+Dialogue: 0,0:17:36.57,0:17:41.94,辉中,,0,0,0,,and then you go downstairs, shoot some targets and then some giant radroaches.
 Dialogue: 0,0:17:41.94,0:17:44.46,辉中,,0,0,0,,I just think that that's so overplayed.
 Dialogue: 0,0:17:44.46,0:17:47.58,辉中,,0,0,0,,If you're going to introduce shooting mechanics and combat,
 Dialogue: 0,0:17:47.58,0:17:50.94,辉中,,0,0,0,,you should at the very least have a little bit of a creative spin to it,
-Dialogue: 0,0:17:50.94,0:17:58.98,辉中,,0,0,0,,so I appreciate that throwing compacted snow at children was presented here after huckins and powder you meet up with Dena.
-Dialogue: 0,0:17:58.98,0:18:04.02,辉中,,0,0,0,,There's some awkward exchanges where Ellie isn't sure how to talk to me again.
-Dialogue: 0,0:18:04.02,0:18:05.34,辉中,,0,0,0,,It's very high school,
-Dialogue: 0,0:18:05.34,0:18:09.00,辉中,,0,0,0,,The two walks of the stables and you head out on patrol.
-Dialogue: 0,0:18:09.00,0:18:12.33,辉中,,0,0,0,,then the first surprise of the game hits,
-Dialogue: 0,0:18:12.33,0:18:12.99,辉中,,0,0,0,,and to be honest,
-Dialogue: 0,0:18:12.99,0:18:13.86,辉中,,0,0,0,,it's a surprise,
-Dialogue: 0,0:18:13.86,0:18:15.99,辉中,,0,0,0,,even if you had the game spoiled for you,
-Dialogue: 0,0:18:15.99,0:18:20.67,辉中,,0,0,0,,you see the camera slowly pans over a bunch of sleeping young adults.
-Dialogue: 0,0:18:20.67,0:18:27.93,辉中,,0,0,0,,It centres on one girl who most of us will immediately recognize from the Paris Games trailer from two thousand and seventeen,
+Dialogue: 0,0:17:50.94,0:17:56.00,辉中,,0,0,0,,so I appreciate that throwing compacted snow at children was presented here.
+Dialogue: 0,0:17:56.00,0:17:58.98,辉中,,0,0,0,,After hucking some powder you meet up with Dina,
+Dialogue: 0,0:17:58.98,0:18:03.36,辉中,,0,0,0,,there's some awkward exchanges where Ellie isn't sure how to talk to …
+Dialogue: 0,0:18:03.36,0:18:05.34,辉中,,0,0,0,,I mean again, it … it's very high school.
+Dialogue: 0,0:18:05.34,0:18:09.00,辉中,,0,0,0,,The two walks out the stables and you head out on patrol.
+Dialogue: 0,0:18:09.00,0:18:12.33,辉中,,0,0,0,,Then the first surprise of the game hits,
+Dialogue: 0,0:18:12.33,0:18:15.99,辉中,,0,0,0,,and to be honest, it's a surprise, even if you had the game spoiled for you.
+Dialogue: 0,0:18:15.99,0:18:20.67,辉中,,0,0,0,,You see the camera slowly pans over a bunch of sleeping young adults.
+Dialogue: 0,0:18:20.67,0:18:27.93,辉中,,0,0,0,,It centers on one girl who most of us will immediately recognize from the Paris Games trailer from 2017,
 Dialogue: 0,0:18:27.93,0:18:31.53,辉中,,0,0,0,,she gets up talks to a young man who asks to show her something,
 Dialogue: 0,0:18:31.53,0:18:34.02,辉中,,0,0,0,,and then we are given control of her.
-Dialogue: 0,0:18:34.02,0:18:35.01,辉中,,0,0,0,,like I said earlier,
-Dialogue: 0,0:18:35.01,0:18:36.75,辉中,,0,0,0,,I had the game spoiled for me.
-Dialogue: 0,0:18:36.75,0:18:44.34,辉中,,0,0,0,,But all of those spoilers said that you were going to get to play half of the game as Abbey and start halfway through.
-Dialogue: 0,0:18:44.34,0:18:48.81,辉中,,0,0,0,,I did not expect to be playing as her within the first thirty to forty five minutes.
-Dialogue: 0,0:18:48.81,0:18:49.47,辉中,,0,0,0,,I bet you.
-Dialogue: 0,0:18:49.47,0:18:50.22,辉中,,0,0,0,,at this point,
-Dialogue: 0,0:18:50.22,0:18:52.05,辉中,,0,0,0,,some people had put the game down.
-Dialogue: 0,0:18:52.05,0:18:52.53,辉中,,0,0,0,,After all,
-Dialogue: 0,0:18:52.53,0:19:00.12,辉中,,0,0,0,,there was a very vocal minority that said that they were going to flip out if you didn't play the whole game as Eliot and or Joel.
-Dialogue: 0,0:19:00.12,0:19:10.29,辉中,,0,0,0,,But a key thing to understand here is that the player must give it time and effort to stand on its own and justify itself in the same way that you can't judge a book by its cover or a film by its trailer.
+Dialogue: 0,0:18:34.02,0:18:36.75,辉中,,0,0,0,,Like I said earlier, I had the game spoiled for me.
+Dialogue: 0,0:18:36.75,0:18:42.35,辉中,,0,0,0,,But all of those spoilers said that you were going to get to play half of the game as Abby
+Dialogue: 0,0:18:42.35,0:18:44.34,辉中,,0,0,0,,and start halfway through.
+Dialogue: 0,0:18:44.34,0:18:48.81,辉中,,0,0,0,,I did not expect to be playing as her within the first 30 to 45 minutes.
+Dialogue: 0,0:18:48.81,0:18:52.05,辉中,,0,0,0,,I bet you, at this point, some people had put the game down.
+Dialogue: 0,0:18:52.05,0:18:55.25,辉中,,0,0,0,,After all, there was a very vocal minority that said
+Dialogue: 0,0:18:55.25,0:19:00.12,辉中,,0,0,0,,that they were going to flip out if you didn't play the whole game as Ellie and or Joel.
+Dialogue: 0,0:19:00.12,0:19:03.84,辉中,,0,0,0,,But a key thing to understand here is that the player must give it time and effort
+Dialogue: 0,0:19:03.84,0:19:06.51,辉中,,0,0,0,,to stand on its own and justify itself
+Dialogue: 0,0:19:06.51,0:19:10.29,辉中,,0,0,0,,in the same way that you can't judge a book by its cover or a film by its trailer.
 Dialogue: 0,0:19:10.29,0:19:14.91,辉中,,0,0,0,,You'll never get an informed opinion of the game if you don't give it a chance.
 Dialogue: 0,0:19:14.91,0:19:19.29,辉中,,0,0,0,,This isn't to say that you have to play every single game in order to have an opinion of every single game,
 Dialogue: 0,0:19:19.29,0:19:24.18,辉中,,0,0,0,,but rather that if you're going to have an extremely negative or critical opinion of a game,
 Dialogue: 0,0:19:24.18,0:19:26.91,辉中,,0,0,0,,you have to be able to justify that critical opinion.
-Dialogue: 0,0:19:26.91,0:19:28.44,辉中,,0,0,0,,And in my opinion,
-Dialogue: 0,0:19:28.44,0:19:32.94,辉中,,0,0,0,,I don't think it's fair to say that playing as any character other than the one on the box.
-Dialogue: 0,0:19:32.94,0:19:40.77,辉中,,0,0,0,,Art is bad and means that the game is terrible and not worth your time after you take control of Abbey and you start exploring through the woods,
+Dialogue: 0,0:19:26.91,0:19:31.44,辉中,,0,0,0,,And in my opinion, I don't think it's fair to say that playing as any character
+Dialogue: 0,0:19:31.44,0:19:37.07,辉中,,0,0,0,,other than the one on the Box-Art is bad bad and means that the game is terrible and not worth your time.
+Dialogue: 0,0:19:37.07,0:19:40.77,辉中,,0,0,0,,After you take control of Abby and you start exploring through the woods,
 Dialogue: 0,0:19:40.77,0:19:43.08,辉中,,0,0,0,,walking through some pretty deep snow,
 Dialogue: 0,0:19:43.08,0:19:45.27,辉中,,0,0,0,,seeing some interesting landscapes,
 Dialogue: 0,0:19:45.27,0:19:48.93,辉中,,0,0,0,,these two characters share in some dialogue about other people in the group,
-Dialogue: 0,0:19:48.93,0:19:56.31,辉中,,0,0,0,,Likely the same people that you just saw the camera pan over now we don't know any of these people at this point and naughty dog will do this a lot.
+Dialogue: 0,0:19:48.93,0:19:51.65,辉中,,0,0,0,,likely the same people that you just saw the camera pan over.
+Dialogue: 0,0:19:51.65,0:19:56.31,辉中,,0,0,0,,Now we don't know any of these people at this point and Naughty Dog will do this a lot.
 Dialogue: 0,0:19:56.31,0:20:00.18,辉中,,0,0,0,,They are unapologetic in their unexplained dialogue.
 Dialogue: 0,0:20:00.18,0:20:03.21,辉中,,0,0,0,,The characters will have conversations that makes sense to them,
-Dialogue: 0,0:20:03.21,0:20:04.14,辉中,,0,0,0,,but might not.
-Dialogue: 0,0:20:04.14,0:20:08.82,辉中,,0,0,0,,or perhaps don't make any sense at all to the player.
+Dialogue: 0,0:20:03.21,0:20:08.82,辉中,,0,0,0,,but might not, or perhaps don't make any sense at all to the player.
 Dialogue: 0,0:20:08.82,0:20:10.08,辉中,,0,0,0,,Now I love this,
 Dialogue: 0,0:20:10.08,0:20:15.27,辉中,,0,0,0,,though I do admit that it can be confusing to those who like to enjoy their content more passively.
-Dialogue: 0,0:20:16.17,0:20:17.55,辉中,,0,0,0,,This is a narrative game,
-Dialogue: 0,0:20:17.55,0:20:21.54,辉中,,0,0,0,,it seems like it comes with the territory of this type of game to have dialogue,
-Dialogue: 0,0:20:21.54,0:20:26.70,辉中,,0,0,0,,that's much more realistic and grounded compared to dialogue that just hit you over the head with exposition.
-Dialogue: 0,0:20:26.70,0:20:31.44,辉中,,0,0,0,,I also think it's important to note that these conversations make a second run of the game.
-Dialogue: 0,0:20:31.44,0:20:33.12,辉中,,0,0,0,,awesome seriously,
-Dialogue: 0,0:20:33.12,0:20:34.86,辉中,,0,0,0,,every single thing they are discussing here.
-Dialogue: 0,0:20:34.86,0:20:38.01,辉中,,0,0,0,,it makes perfect sense and is relatable and understand.
-Dialogue: 0,0:20:38.01,0:20:46.62,辉中,,0,0,0,,But once you've gone through the whole game and met all of these characters and grown to know them and care about them throughout the course of the story,
+Dialogue: 0,0:20:16.17,0:20:17.55,辉中,,0,0,0,,But this is a narrative game,
+Dialogue: 0,0:20:17.55,0:20:21.54,辉中,,0,0,0,,it seems like it comes with the territory of this type of game to have dialogue
+Dialogue: 0,0:20:21.54,0:20:23.36,辉中,,0,0,0,,that's much more realistic and grounded
+Dialogue: 0,0:20:23.36,0:20:26.70,辉中,,0,0,0,,compared to dialogue that just hit you over the head with exposition.
+Dialogue: 0,0:20:26.70,0:20:32.35,辉中,,0,0,0,,I also think it's important to note that these conversations make a second run of the game AWESOME.
+Dialogue: 0,0:20:32.35,0:20:34.86,辉中,,0,0,0,,Seriously, every single thing they are discussing here,
+Dialogue: 0,0:20:34.86,0:20:38.24,辉中,,0,0,0,,it makes perfect sense and is relatable and understandable.
+Dialogue: 0,0:20:38.24,0:20:42.12,辉中,,0,0,0,,Once you've gone through the whole game and met all of these characters
+Dialogue: 0,0:20:42.12,0:20:46.62,辉中,,0,0,0,,and grown to know them and care about them throughout the course of the story,
 Dialogue: 0,0:20:46.62,0:20:51.72,辉中,,0,0,0,,and as somebody that usually placed their games that I critique at least two times,
-Dialogue: 0,0:20:51.72,0:20:54.45,辉中,,0,0,0,,I really appreciated this because it made it so.
-Dialogue: 0,0:20:54.45,0:21:00.18,辉中,,0,0,0,,My second run through was more informed and more interesting than my first run through really,
-Dialogue: 0,0:21:00.18,0:21:03.72,辉中,,0,0,0,,I think you should play the game a second time through just to give it a shot.
+Dialogue: 0,0:20:51.72,0:20:54.18,辉中,,0,0,0,,I really appreciated this because it made it.
+Dialogue: 0,0:20:54.18,0:20:59.78,辉中,,0,0,0,,So my second run through was more informed and more interesting than my first run through.
+Dialogue: 0,0:20:59.78,0:21:03.72,辉中,,0,0,0,,Really, I think you should play the game a second time through just to give it a shot.
 Dialogue: 0,0:21:03.72,0:21:08.64,辉中,,0,0,0,,I think you'll be surprised at how many little things were added that you didn't hear before.
-Dialogue: 0,0:21:08.64,0:21:10.20,辉中,,0,0,0,,But for the sake of a first run,
-Dialogue: 0,0:21:10.20,0:21:15.18,辉中,,0,0,0,,Through its important to note that Abbey and Owen are the names of these two characters,
+Dialogue: 0,0:21:08.64,0:21:10.48,辉中,,0,0,0,,But for the sake of a first run through,
+Dialogue: 0,0:21:10.48,0:21:15.18,辉中,,0,0,0,,it's important to note that Abbey and Owen are the names of these two characters,
 Dialogue: 0,0:21:15.18,0:21:18.15,辉中,,0,0,0,,they seem to have a previous relationship.
 Dialogue: 0,0:21:18.15,0:21:18.99,辉中,,0,0,0,,In other words,
-Dialogue: 0,0:21:18.99,0:21:23.07,辉中,,0,0,0,,they dated at some sort of romantic involvement at some point,
-Dialogue: 0,0:21:23.07,0:21:25.89,辉中,,0,0,0,,and also that some girl named Mel,
-Dialogue: 0,0:21:25.89,0:21:29.25,辉中,,0,0,0,,who Owen is apparently involved with at this point,
-Dialogue: 0,0:21:29.25,0:21:30.69,辉中,,0,0,0,,is pregnant.
-Dialogue: 0,0:21:30.69,0:21:31.11,辉中,,0,0,0,,There may be,
-Dialogue: 0,0:21:31.11,0:21:32.37,辉中,,0,0,0,,I'm all alone in this,
-Dialogue: 0,0:21:32.37,0:21:34.53,辉中,,0,0,0,,but the second I heard she was pregnant,
-Dialogue: 0,0:21:34.53,0:21:36.90,辉中,,0,0,0,,I got a pit in my stomach.
-Dialogue: 0,0:21:36.90,0:21:44.85,辉中,,0,0,0,,This is what I meant when I tweeted out early in my first run through of the game that I felt as though the opening was dreadful.
+Dialogue: 0,0:21:18.99,0:21:23.07,辉中,,0,0,0,,they dated at some sort of romantic involvement at some point.
+Dialogue: 0,0:21:23.07,0:21:25.89,辉中,,0,0,0,,And also that some girl named Mel,
+Dialogue: 0,0:21:25.89,0:21:30.69,辉中,,0,0,0,,who Owen is apparently involved with at this point, is pregnant.
+Dialogue: 0,0:21:30.69,0:21:32.37,辉中,,0,0,0,,There may be, I'm all alone in this,
+Dialogue: 0,0:21:32.37,0:21:36.90,辉中,,0,0,0,,but the second I heard she was pregnant, I got a pit in my stomach.
+Dialogue: 0,0:21:36.90,0:21:40.92,辉中,,0,0,0,,This is what I meant when I tweeted out early in my first run through of the game
+Dialogue: 0,0:21:40.92,0:21:44.72,辉中,,0,0,0,,that I felt as though the opening was dreadful.
 Dialogue: 0,0:21:44.85,0:21:50.37,辉中,,0,0,0,,I meant it in the purest sense of the word that the game fills you with dread.
 Dialogue: 0,0:21:50.37,0:21:55.17,辉中,,0,0,0,,You have a sinking feeling in your stomach that something terrible is about to happen.
 Dialogue: 0,0:21:55.17,0:21:57.69,辉中,,0,0,0,,and I don't know if it's just that the game was spoiled.
@@ -5266,23 +5261,18 @@ Dialogue: 0,5:06:19.66,5:06:20.08,辉中,,0,0,0,,so.
 Dialogue: 0,5:06:21.28,5:06:24.82,辉中,,0,0,0,,It's bizarre to be done with everything it's bizarre to be at the end of this video.
 Dialogue: 0,5:06:24.82,5:06:26.05,辉中,,0,0,0,,I hope that you enjoyed it.
 Dialogue: 0,5:06:26.05,5:06:29.23,辉中,,0,0,0,,If you did please at the very least hit the like button.
-Dialogue: 0,5:06:29.23,5:06:31.00,辉中,,0,0,0,,If you really enjoyed it.
-Dialogue: 0,5:06:31.00,5:06:32.59,辉中,,0,0,0,,hit the subscribe button,
+Dialogue: 0,5:06:29.23,5:06:32.59,辉中,,0,0,0,,If you really enjoyed it, hit the subscribe button.
 Dialogue: 0,5:06:32.59,5:06:35.08,辉中,,0,0,0,,I don't mean to sound entitled,
-Dialogue: 0,5:06:35.08,5:06:36.07,辉中,,0,0,0,,but after all of this,
-Dialogue: 0,5:06:36.07,5:06:38.74,辉中,,0,0,0,,if you really did enjoy this video and got to this point,
+Dialogue: 0,5:06:35.08,5:06:38.74,辉中,,0,0,0,,but after all of this, if you really did enjoy this video and got to this point,
 Dialogue: 0,5:06:38.74,5:06:40.99,辉中,,0,0,0,,I would like to think that you would at the very least,
 Dialogue: 0,5:06:40.99,5:06:46.63,辉中,,0,0,0,,subscribe and maybe even ring the bells he get notified of the next video.
-Dialogue: 0,5:06:46.63,5:06:47.17,辉中,,0,0,0,,But truly,
-Dialogue: 0,5:06:47.17,5:06:47.86,辉中,,0,0,0,,thank you.
+Dialogue: 0,5:06:46.63,5:06:47.86,辉中,,0,0,0,,But truly, thank you.
 Dialogue: 0,5:06:47.86,5:06:49.15,辉中,,0,0,0,,Thank you for watching.
 Dialogue: 0,5:06:49.15,5:06:50.92,辉中,,0,0,0,,Thank you for sharing the video.
 Dialogue: 0,5:06:50.92,5:06:54.25,辉中,,0,0,0,,Thank you for donating thanks for doing everything that you guys do,
-Dialogue: 0,5:06:54.25,5:06:58.36,辉中,,0,0,0,,your truly amazing and I love you all more than you could possibly know.
-Dialogue: 0,5:06:58.36,5:07:00.70,辉中,,0,0,0,,I'll see you in the next video,
-Dialogue: 0,5:07:00.70,5:07:03.31,辉中,,0,0,0,,which will probably be a fair amount,
-Dialogue: 0,5:07:03.31,5:07:03.73,辉中,,0,0,0,,shorter.
-Dialogue: 0,5:07:04.75,5:07:05.65,辉中,,0,0,0,,Truly,
-Dialogue: 0,5:07:05.65,5:07:06.55,辉中,,0,0,0,,thank you,
+Dialogue: 0,5:06:54.25,5:06:58.36,辉中,,0,0,0,,you're truly amazing and I love you all more than you could possibly know.
+Dialogue: 0,5:06:58.36,5:07:03.73,辉中,,0,0,0,,I'll see you in the next video, which will probably be a fair amount, shorter.
+Dialogue: 0,5:07:04.75,5:07:06.55,辉中,,0,0,0,,Truly, thank you,
 Dialogue: 0,5:07:06.55,5:07:07.93,辉中,,0,0,0,,I love you guys,
 Dialogue: 0,5:07:07.93,5:07:09.13,辉中,,0,0,0,,and I'll see you in the next video.
+Dialogue: 0,5:07:09.50,5:07:10.32,辉中,,0,0,0,,Bye bye.
