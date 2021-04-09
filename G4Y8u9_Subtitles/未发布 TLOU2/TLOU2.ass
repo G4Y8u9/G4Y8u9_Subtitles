@@ -16,9 +16,9 @@ Video File: Q:/给没组/tlou2.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 287
-Active Line: 292
-Video Position: 77814
+Scroll Position: 390
+Active Line: 401
+Video Position: 105388
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -316,145 +316,124 @@ Dialogue: 0,0:21:03.72,0:21:08.64,辉中,,0,0,0,,I think you'll be surprised at 
 Dialogue: 0,0:21:08.64,0:21:10.48,辉中,,0,0,0,,But for the sake of a first run through,
 Dialogue: 0,0:21:10.48,0:21:15.18,辉中,,0,0,0,,it's important to note that Abbey and Owen are the names of these two characters,
 Dialogue: 0,0:21:15.18,0:21:18.15,辉中,,0,0,0,,they seem to have a previous relationship.
-Dialogue: 0,0:21:18.15,0:21:18.99,辉中,,0,0,0,,In other words,
-Dialogue: 0,0:21:18.99,0:21:23.07,辉中,,0,0,0,,they dated at some sort of romantic involvement at some point.
-Dialogue: 0,0:21:23.07,0:21:25.89,辉中,,0,0,0,,And also that some girl named Mel,
-Dialogue: 0,0:21:25.89,0:21:30.69,辉中,,0,0,0,,who Owen is apparently involved with at this point, is pregnant.
+Dialogue: 0,0:21:18.15,0:21:23.07,辉中,,0,0,0,,In other words, they dated at some sort of romantic involvement at some point.
+Dialogue: 0,0:21:23.07,0:21:30.69,辉中,,0,0,0,,And also that some girl named Mel, who Owen is apparently involved with at this point, is pregnant.
 Dialogue: 0,0:21:30.69,0:21:32.37,辉中,,0,0,0,,There may be, I'm all alone in this,
 Dialogue: 0,0:21:32.37,0:21:36.90,辉中,,0,0,0,,but the second I heard she was pregnant, I got a pit in my stomach.
 Dialogue: 0,0:21:36.90,0:21:40.92,辉中,,0,0,0,,This is what I meant when I tweeted out early in my first run through of the game
 Dialogue: 0,0:21:40.92,0:21:44.72,辉中,,0,0,0,,that I felt as though the opening was dreadful.
 Dialogue: 0,0:21:44.85,0:21:50.37,辉中,,0,0,0,,I meant it in the purest sense of the word that the game fills you with dread.
 Dialogue: 0,0:21:50.37,0:21:55.17,辉中,,0,0,0,,You have a sinking feeling in your stomach that something terrible is about to happen.
-Dialogue: 0,0:21:55.17,0:21:57.69,辉中,,0,0,0,,and I don't know if it's just that the game was spoiled.
-Dialogue: 0,0:21:57.69,0:21:59.61,辉中,,0,0,0,,And so everybody saw this coming,
-Dialogue: 0,0:21:59.61,0:22:09.36,辉中,,0,0,0,,or that it's some sort of masterful way that they designed all of these conversations and scenes that makes you feel as though there's an impending danger and doom.
+Dialogue: 0,0:21:55.17,0:21:59.61,辉中,,0,0,0,,and I don't know if it's just that the game was spoiled and so everybody saw this coming,
+Dialogue: 0,0:21:59.61,0:22:05.76,辉中,,0,0,0,,or that it's some sort of masterful way that they designed all of these conversations and scenes
+Dialogue: 0,0:22:05.76,0:22:09.36,辉中,,0,0,0,,that makes you feel as though there's an impending danger and doom.
 Dialogue: 0,0:22:09.36,0:22:10.80,辉中,,0,0,0,,I don't know which it is.
-Dialogue: 0,0:22:10.80,0:22:17.07,辉中,,0,0,0,,I would love to hear your opinion of it down in the comments section below or tweeted at me at Luke Stevens TV.
+Dialogue: 0,0:22:10.80,0:22:17.07,辉中,,0,0,0,,I would love to hear your opinion of it down in the comments section below or tweeted at me @LukeStephensTV.
 Dialogue: 0,0:22:17.07,0:22:23.10,辉中,,0,0,0,,But nonetheless I can't help but feel as though everything terrible that could happen is about to happen.
-Dialogue: 0,0:22:23.10,0:22:25.02,辉中,,0,0,0,,And so when I heard that this girl,
-Dialogue: 0,0:22:25.02,0:22:26.97,辉中,,0,0,0,,Mel was pregnant,
-Dialogue: 0,0:22:26.97,0:22:38.70,辉中,,0,0,0,,I just knew something horrible was going to happen to her and likely that one of the characters we were being introduced to on eli's side of the fence would likely become pregnant.
-Dialogue: 0,0:22:38.70,0:22:45.81,辉中,,0,0,0,,To contrast the two relationships and to set up narrative beats where you could have one character faced with an option.
-Dialogue: 0,0:22:45.81,0:22:51.15,辉中,,0,0,0,,have the other character faced with the other option and see how each reacts in their individual moments.
-Dialogue: 0,0:22:51.15,0:22:55.95,辉中,,0,0,0,,But I understand that that likely doesn't make any sense at all if you haven't played through the game yourself,
+Dialogue: 0,0:22:23.10,0:22:26.97,辉中,,0,0,0,,And so when I heard that this girl, Mel, was pregnant,
+Dialogue: 0,0:22:26.97,0:22:31.24,辉中,,0,0,0,,I just knew something horrible was going to happen to her
+Dialogue: 0,0:22:31.24,0:22:37.08,辉中,,0,0,0,,and likely that one of the characters we were being introduced to on Ellie's side of the fence
+Dialogue: 0,0:22:37.08,0:22:41.12,辉中,,0,0,0,,would likely become pregnant to contrast the two relationships
+Dialogue: 0,0:22:41.12,0:22:45.81,辉中,,0,0,0,,and to set up narrative beats where you could have one character faced with an option,
+Dialogue: 0,0:22:45.81,0:22:47.86,辉中,,0,0,0,,have the other character faced with the other option
+Dialogue: 0,0:22:47.86,0:22:51.15,辉中,,0,0,0,,and see how each reacts in their individual moments.
+Dialogue: 0,0:22:51.15,0:22:55.95,辉中,,0,0,0,,But I understand that they likely doesn't make any sense at all if you haven't played through the game yourself,
 Dialogue: 0,0:22:55.95,0:22:59.22,辉中,,0,0,0,,so I'm simply going to move on and loop back to it later.
-Dialogue: 0,0:22:59.22,0:23:02.82,辉中,,0,0,0,,I promise it'll make sense albino and reach their destination.
-Dialogue: 0,0:23:02.82,0:23:04.65,辉中,,0,0,0,,and they overlook Jackson.
-Dialogue: 0,0:23:04.65,0:23:08.19,辉中,,0,0,0,,It's a massive city and judging Abby's reaction,
-Dialogue: 0,0:23:08.19,0:23:12.30,辉中,,0,0,0,,it seems as though she didn't expect it to be this massive at all.
-Dialogue: 0,0:23:12.30,0:23:14.07,辉中,,0,0,0,,It's not clear what they're looking for.
-Dialogue: 0,0:23:14.07,0:23:16.17,辉中,,0,0,0,,But it's a man for sure.
-Dialogue: 0,0:23:16.17,0:23:25.62,辉中,,0,0,0,,any one with two brain cells to rub together will instantly know that they're talking about and looking for Joel though we don't know why at this particular moment now,
-Dialogue: 0,0:23:25.62,0:23:35.31,辉中,,0,0,0,,Owen doesn't think that they should continue on this quest to reach whoever they're looking for because they obviously aren't going to be able to infiltrate Jackson.
-Dialogue: 0,0:23:35.31,0:23:36.78,辉中,,0,0,0,,no matter how hard they try,
-Dialogue: 0,0:23:36.78,0:23:39.15,辉中,,0,0,0,,they're a small group and they aren't going to be able to do it.
-Dialogue: 0,0:23:39.15,0:23:41.52,辉中,,0,0,0,,So he thinks that they should just turn back,
-Dialogue: 0,0:23:41.52,0:23:43.71,辉中,,0,0,0,,especially since malaise now pregnant,
-Dialogue: 0,0:23:43.71,0:23:46.32,辉中,,0,0,0,,they need to return to take care of her again.
-Dialogue: 0,0:23:46.32,0:23:48.66,辉中,,0,0,0,,Remember this plot point,
-Dialogue: 0,0:23:48.66,0:23:56.34,辉中,,0,0,0,,Owen the dude wants to turn back to make sure that he can take care of the woman that he impregnated.
-Dialogue: 0,0:23:56.34,0:23:58.02,辉中,,0,0,0,,It seems like a weird,
-Dialogue: 0,0:23:58.02,0:23:59.64,辉中,,0,0,0,,random thing to say.
+Dialogue: 0,0:22:59.22,0:23:00.70,辉中,,0,0,0,,I promise it'll make sense.
+Dialogue: 0,0:23:00.70,0:23:04.65,辉中,,0,0,0,,Abby and Owen reach their destination, and they overlook Jackson.
+Dialogue: 0,0:23:04.65,0:23:06.45,辉中,,0,0,0,,It's a massive city.
+Dialogue: 0,0:23:06.45,0:23:12.30,辉中,,0,0,0,,And judging Abby's reaction, it seems as though she didn't expect it to be this massive at all.
+Dialogue: 0,0:23:12.30,0:23:16.17,辉中,,0,0,0,,It's not clear what they're looking for, but it's a man for sure.
+Dialogue: 0,0:23:16.17,0:23:22.61,辉中,,0,0,0,,any one with two brain cells to rub together will instantly know that they're talking about and looking for Joel
+Dialogue: 0,0:23:22.61,0:23:25.18,辉中,,0,0,0,,though we don't know why at this particular moment.
+Dialogue: 0,0:23:25.18,0:23:31.08,辉中,,0,0,0,,Now Owen doesn't think that they should continue on this quest to reach whoever they're looking for
+Dialogue: 0,0:23:31.08,0:23:36.78,辉中,,0,0,0,,because they obviously aren't going to be able to infiltrate Jackson no matter how hard they try.
+Dialogue: 0,0:23:36.78,0:23:39.15,辉中,,0,0,0,,They're a small group and they aren't going to be able to do it.
+Dialogue: 0,0:23:39.15,0:23:41.52,辉中,,0,0,0,,So he thinks that they should just turn back.
+Dialogue: 0,0:23:41.52,0:23:45.76,辉中,,0,0,0,,Especially since malaise now pregnant, they need to return to take care of her.
+Dialogue: 0,0:23:45.76,0:23:48.66,辉中,,0,0,0,,Again remember this plot point,
+Dialogue: 0,0:23:48.66,0:23:56.34,辉中,,0,0,0,,Owen, the dude, wants to turn back to make sure that he can take care of the woman that he impregnated.
+Dialogue: 0,0:23:56.34,0:23:59.64,辉中,,0,0,0,,It seems like a weird, random thing to say.
 Dialogue: 0,0:23:59.64,0:24:03.06,辉中,,0,0,0,,But this is something that's going to be repeated later in the story,
-Dialogue: 0,0:24:03.06,0:24:06.99,辉中,,0,0,0,,and Ellie is going to be making the same decision that Abby makes.
-Dialogue: 0,0:24:06.99,0:24:08.04,辉中,,0,0,0,,in this moment.
-Dialogue: 0,0:24:08.04,0:24:13.92,辉中,,0,0,0,,A stupid one naughty dog will do this a lot throughout the course of the main story where they will have Abby.
-Dialogue: 0,0:24:13.92,0:24:20.16,辉中,,0,0,0,,Do something and then change it with a fresh coat of paint and have Ellie do the same exact thing.
-Dialogue: 0,0:24:20.16,0:24:24.84,辉中,,0,0,0,,But you can't help but feel as though Ellie is more justified in her actions.
-Dialogue: 0,0:24:24.84,0:24:28.23,辉中,,0,0,0,,While Abbey is just a bad villainess character,
-Dialogue: 0,0:24:28.23,0:24:36.00,辉中,,0,0,0,,This game is all about perspectives and this flip flopping that they do constantly is an important piece of that narrative mechanism.
+Dialogue: 0,0:24:03.06,0:24:08.99,辉中,,0,0,0,,and Ellie is going to be making the same decision that Abby makes in this moment, a stupid one.
+Dialogue: 0,0:24:08.99,0:24:12.68,辉中,,0,0,0,,Naughty Dog will do this a lot throughout the course of the main story
+Dialogue: 0,0:24:13.92,0:24:17.18,辉中,,0,0,0,,where they will have Abby do something and then change it with a fresh coat of paint
+Dialogue: 0,0:24:17.18,0:24:20.20,辉中,,0,0,0,,and have Ellie do the same exact thing.
+Dialogue: 0,0:24:20.20,0:24:24.84,辉中,,0,0,0,,But you can't help feel as though Ellie is more justified in her actions,
+Dialogue: 0,0:24:24.84,0:24:28.23,辉中,,0,0,0,,while Abbey is just a bad villainess character.
+Dialogue: 0,0:24:28.23,0:24:30.30,辉中,,0,0,0,,This game is all about perspectives
+Dialogue: 0,0:24:30.30,0:24:36.00,辉中,,0,0,0,,and this flip flopping that they do constantly is an important piece of that narrative mechanism.
 Dialogue: 0,0:24:36.00,0:24:38.37,辉中,,0,0,0,,Now I'll be obviously doesn't want to turn back.
-Dialogue: 0,0:24:38.37,0:24:39.06,辉中,,0,0,0,,They've travelled,
-Dialogue: 0,0:24:39.06,0:24:40.68,辉中,,0,0,0,,presumably for days,
-Dialogue: 0,0:24:40.68,0:24:48.66,辉中,,0,0,0,,weeks and even months to get to where they are now and simply to turn around upon seeing the city of Jackson.
+Dialogue: 0,0:24:38.37,0:24:44.06,辉中,,0,0,0,,They've travelled, presumably for days, weeks and even months to get to where they are now
+Dialogue: 0,0:24:44.06,0:24:48.66,辉中,,0,0,0,,and simply to turn around upon seeing the city of Jackson.
 Dialogue: 0,0:24:48.66,0:24:50.40,辉中,,0,0,0,,It doesn't seem like it's a good option.
 Dialogue: 0,0:24:50.40,0:24:53.64,辉中,,0,0,0,,Owen says that they should return back to the mansion they're staying at.
 Dialogue: 0,0:24:53.64,0:24:56.70,辉中,,0,0,0,,But Abby doesn't like their recommendation,
-Dialogue: 0,0:24:56.70,0:24:59.04,辉中,,0,0,0,,and she starts to become enraged,
-Dialogue: 0,0:24:59.04,0:25:02.34,辉中,,0,0,0,,and she pushes on herself towards Jackson,
-Dialogue: 0,0:25:02.34,0:25:09.75,辉中,,0,0,0,,trying to find a patrol that was traveling that Owen spotted in order to get them to tell her where their target is,
-Dialogue: 0,0:25:09.75,0:25:15.45,辉中,,0,0,0,,so that she can finish the job herself before returning back to wherever they came from controlling Abby.
-Dialogue: 0,0:25:15.45,0:25:17.73,辉中,,0,0,0,,You push forward into an impending storm.
+Dialogue: 0,0:24:56.70,0:25:02.34,辉中,,0,0,0,,and she starts to become enraged, and she pushes on herself towards Jackson,
+Dialogue: 0,0:25:02.34,0:25:06.65,辉中,,0,0,0,,trying to find a patrol that was traveling that Owen spotted
+Dialogue: 0,0:25:06.65,0:25:09.75,辉中,,0,0,0,,in order to get them to tell her where their target is,
+Dialogue: 0,0:25:09.75,0:25:14.41,辉中,,0,0,0,,so that she can finish the job herself before returning back to wherever they came from.
+Dialogue: 0,0:25:14.41,0:25:17.73,辉中,,0,0,0,,Controlling Abby, you push forward into an impending storm.
 Dialogue: 0,0:25:17.73,0:25:22.32,辉中,,0,0,0,,You fight some zombies and you eventually find some tracks from one of the patrols.
-Dialogue: 0,0:25:22.32,0:25:26.52,辉中,,0,0,0,,These patrols are the same ones that characters such as El Medina,
-Dialogue: 0,0:25:26.52,0:25:29.43,辉中,,0,0,0,,Jessie Joel and Tommy are all on,
+Dialogue: 0,0:25:22.32,0:25:29.43,辉中,,0,0,0,,These patrols are the same ones that characters such as Ellie, Dina, Jesse, Joel and Tommy are all on,
 Dialogue: 0,0:25:29.43,0:25:36.18,辉中,,0,0,0,,and this is the first of a plethora of coincidences in the early hours of the game that set up its narrative,
-Dialogue: 0,0:25:36.18,0:25:42.99,辉中,,0,0,0,,the coincidence that Abby happened to be driven into a rage at the same time that Joel than everyone else happens to be out on patrol.
+Dialogue: 0,0:25:36.18,0:25:39.53,辉中,,0,0,0,,the coincidence that Abby happened to be driven into a rage
+Dialogue: 0,0:25:39.53,0:25:42.99,辉中,,0,0,0,,at the same time that Joel and everyone else happens to be out on patrol.
 Dialogue: 0,0:25:42.99,0:25:44.55,辉中,,0,0,0,,It's going to happen a lot.
 Dialogue: 0,0:25:44.55,0:25:47.22,辉中,,0,0,0,,Joel is an old man as his Tommy,
 Dialogue: 0,0:25:47.22,0:25:52.02,辉中,,0,0,0,,at the very least older than all the youngsters that they have out on the patrols with them.
-Dialogue: 0,0:25:52.02,0:25:54.93,辉中,,0,0,0,,The fact that Joel is still going on patrols is,
-Dialogue: 0,0:25:54.93,0:25:56.34,辉中,,0,0,0,,in my opinion,
-Dialogue: 0,0:25:56.34,0:25:57.48,辉中,,0,0,0,,a bit of a stretch.
-Dialogue: 0,0:25:57.48,0:25:59.43,辉中,,0,0,0,,It would be stupid for him to go on patrols,
-Dialogue: 0,0:25:59.43,0:26:02.73,辉中,,0,0,0,,especially because he has a leadership position within the city.
-Dialogue: 0,0:26:02.73,0:26:04.86,辉中,,0,0,0,,His super fancy house,
-Dialogue: 0,0:26:04.86,0:26:05.34,辉中,,0,0,0,,I think,
-Dialogue: 0,0:26:05.34,0:26:06.96,辉中,,0,0,0,,serves as proof positive of that,
-Dialogue: 0,0:26:06.96,0:26:08.40,辉中,,0,0,0,,Not to mention that Tommy,
-Dialogue: 0,0:26:08.40,0:26:08.97,辉中,,0,0,0,,his brother,
-Dialogue: 0,0:26:08.97,0:26:11.61,辉中,,0,0,0,,who was also going out on patrols with him,
+Dialogue: 0,0:25:52.02,0:25:57.48,辉中,,0,0,0,,The fact that Joel is still going on patrols is, in my opinion, a bit of a stretch.
+Dialogue: 0,0:25:57.48,0:26:02.73,辉中,,0,0,0,,It would be stupid for him to go on patrols, especially because he has a leadership position within the city.
+Dialogue: 0,0:26:02.73,0:26:06.96,辉中,,0,0,0,,His super fancy house, I think, serves as proof positive of that,
+Dialogue: 0,0:26:06.96,0:26:11.61,辉中,,0,0,0,,Not to mention that Tommy, his brother, who was also going out on patrols with him,
 Dialogue: 0,0:26:11.61,0:26:14.85,辉中,,0,0,0,,has a leadership position within the city.
-Dialogue: 0,0:26:14.85,0:26:15.69,辉中,,0,0,0,,In many ways,
-Dialogue: 0,0:26:15.69,0:26:17.85,辉中,,0,0,0,,Tommy runs the city along with his wife.
-Dialogue: 0,0:26:17.85,0:26:18.45,辉中,,0,0,0,,So to me,
-Dialogue: 0,0:26:18.45,0:26:23.22,辉中,,0,0,0,,it just seems like a bit of a stretch that Tommy and Joel would be going out on patrols at all.
+Dialogue: 0,0:26:14.85,0:26:17.85,辉中,,0,0,0,,In many ways, Tommy runs the city along with his wife.
+Dialogue: 0,0:26:17.85,0:26:23.22,辉中,,0,0,0,,So to me, it just seems like a bit of a stretch that Tommy and Joel would be going out on patrols at all.
 Dialogue: 0,0:26:23.22,0:26:28.92,辉中,,0,0,0,,But I understand that perhaps Joel or Tommy just want to get out and get their hands dirty.
-Dialogue: 0,0:26:28.92,0:26:30.42,辉中,,0,0,0,,They don't want to feel old.
-Dialogue: 0,0:26:30.42,0:26:33.27,辉中,,0,0,0,,they don't want to feel as though they can't contribute,
+Dialogue: 0,0:26:28.92,0:26:33.27,辉中,,0,0,0,,They don't want to feel old, they don't want to feel as though they can't contribute,
 Dialogue: 0,0:26:33.27,0:26:35.25,辉中,,0,0,0,,so they want to go out and do things themselves.
-Dialogue: 0,0:26:35.25,0:26:38.52,辉中,,0,0,0,,I understand that perhaps that's justifiable,
-Dialogue: 0,0:26:38.52,0:26:46.65,辉中,,0,0,0,,but I can't help but feel as though Joel and Tommy being out on patrols the same patrol routes that Ellie Dena and Jesse are taking,
-Dialogue: 0,0:26:46.65,0:26:48.51,辉中,,0,0,0,,was purely designed,
-Dialogue: 0,0:26:48.51,0:26:57.60,辉中,,0,0,0,,an established that way to make sure that Abby would be able to encounter Joel and Tommy while she randomly ran through the forest.
+Dialogue: 0,0:26:35.25,0:26:38.52,辉中,,0,0,0,,I understand that perhaps that's justifiable.
+Dialogue: 0,0:26:38.52,0:26:42.16,辉中,,0,0,0,,But I can't help feel as though Joel and Tommy being out on patrols
+Dialogue: 0,0:26:42.16,0:26:46.65,辉中,,0,0,0,,the same patrol routes that Ellie Dina and Jesse are taking,
+Dialogue: 0,0:26:46.65,0:26:50.98,辉中,,0,0,0,,was purely designed, and established that way to make sure
+Dialogue: 0,0:26:50.98,0:26:57.60,辉中,,0,0,0,,that Abby would be able to encounter Joel and Tommy while she randomly ran through the forest.
 Dialogue: 0,0:26:57.60,0:27:01.32,辉中,,0,0,0,,And this is the reason that I don't like narrative coincidences.
-Dialogue: 0,0:27:01.32,0:27:09.27,辉中,,0,0,0,,Often it's just to give away that the writers are trying to force characters into normally unjustifiable situations.
+Dialogue: 0,0:27:01.32,0:27:03.21,辉中,,0,0,0,,Often it's just to give a way
+Dialogue: 0,0:27:03.21,0:27:09.27,辉中,,0,0,0,,that the writers are trying to force characters into normally unjustifiable situations.
 Dialogue: 0,0:27:09.27,0:27:11.58,辉中,,0,0,0,,But it's not always a bad thing.
-Dialogue: 0,0:27:11.58,0:27:12.12,辉中,,0,0,0,,In fact,
-Dialogue: 0,0:27:12.12,0:27:12.93,辉中,,0,0,0,,in some cases,
-Dialogue: 0,0:27:12.93,0:27:16.80,辉中,,0,0,0,,I think these coincidences can lead to some really interesting sequences.
-Dialogue: 0,0:27:16.80,0:27:17.16,辉中,,0,0,0,,I mean,
-Dialogue: 0,0:27:17.16,0:27:19.29,辉中,,0,0,0,,look at that scene from breaking bad.
+Dialogue: 0,0:27:11.58,0:27:16.80,辉中,,0,0,0,,In fact, in some cases, I think these coincidences can lead to some really interesting sequences.
+Dialogue: 0,0:27:16.80,0:27:19.29,辉中,,0,0,0,,I mean, look at that scene from Breaking Bad.
 Dialogue: 0,0:27:19.29,0:27:23.25,辉中,,0,0,0,,Where Jane's father runs into vault at a bar.
-Dialogue: 0,0:27:23.25,0:27:27.90,辉中,,0,0,0,,They share a short conversation about fatherhood about kids,
-Dialogue: 0,0:27:27.90,0:27:31.44,辉中,,0,0,0,,and they don't realize that they're talking about two characters,
-Dialogue: 0,0:27:31.44,0:27:32.34,辉中,,0,0,0,,in this case,
-Dialogue: 0,0:27:32.34,0:27:33.87,辉中,,0,0,0,,Jesse and Jane,
-Dialogue: 0,0:27:33.87,0:27:44.01,辉中,,0,0,0,,who are inextricably tied and who are about to go on a roller coaster together For those of you who have seen the show and know what happens right after this meeting,
+Dialogue: 0,0:27:23.25,0:27:27.90,辉中,,0,0,0,,They share a short conversation about fatherhood, about kids,
+Dialogue: 0,0:27:27.90,0:27:33.87,辉中,,0,0,0,,and they don't realize that they're talking about two characters, in this case, Jesse and Jane,
+Dialogue: 0,0:27:33.87,0:27:39.40,辉中,,0,0,0,,who are inextricably tied and who are about to go on a roller coaster together.
+Dialogue: 0,0:27:39.40,0:27:44.01,辉中,,0,0,0,,For those of you who have seen the show and know what happens right after this meeting,
 Dialogue: 0,0:27:44.01,0:27:48.12,辉中,,0,0,0,,you are going to probably think roller coaster is a bit of an understatement.
-Dialogue: 0,0:27:48.12,0:27:49.86,辉中,,0,0,0,,But didn't I didn't want to spoil it?
-Dialogue: 0,0:27:49.86,0:27:51.39,辉中,,0,0,0,,So the point is,
-Dialogue: 0,0:27:51.39,0:27:51.78,辉中,,0,0,0,,go Watch,
-Dialogue: 0,0:27:51.78,0:27:52.35,辉中,,0,0,0,,breaking bad.
-Dialogue: 0,0:27:52.35,0:27:53.01,辉中,,0,0,0,,It's awesome.
+Dialogue: 0,0:27:48.12,0:27:50.29,辉中,,0,0,0,,But didn't I didn't want to spoil it? So …
+Dialogue: 0,0:27:50.76,0:27:53.01,辉中,,0,0,0,,The point is, go watch Breaking Bad, it's awesome.
 Dialogue: 0,0:27:53.01,0:27:57.24,辉中,,0,0,0,,The other point is that narrative coincidences can be fine.
-Dialogue: 0,0:27:57.24,0:27:58.14,辉中,,0,0,0,,After all,
-Dialogue: 0,0:27:58.14,0:28:02.46,辉中,,0,0,0,,Coincidences do happen in real life all the time.
-Dialogue: 0,0:28:02.46,0:28:11.34,辉中,,0,0,0,,The problem comes when they are used to make characters do things they wouldn't otherwise be doing in order to fulfill some sort of plot point.
+Dialogue: 0,0:27:57.24,0:28:02.46,辉中,,0,0,0,,After all, coincidences do happen in real life all the time.
+Dialogue: 0,0:28:02.46,0:28:08.05,辉中,,0,0,0,,The problem comes when they are used to make characters do things they wouldn't otherwise be doing
+Dialogue: 0,0:28:08.05,0:28:11.34,辉中,,0,0,0,,in order to fulfill some sort of plot point.
 Dialogue: 0,0:28:11.34,0:28:17.67,辉中,,0,0,0,,It's the same reason I hate psychics or prophecies in stories because I think that they're just lazy.
 Dialogue: 0,0:28:17.67,0:28:20.94,辉中,,0,0,0,,The writers know that they want a character to go and do something,
 Dialogue: 0,0:28:20.94,0:28:25.53,辉中,,0,0,0,,so they write some sort of prophecy to explain how it's going to happen,
 Dialogue: 0,0:28:25.53,0:28:29.13,辉中,,0,0,0,,and then they make sure that they have characters that fit around that prophecy.
 Dialogue: 0,0:28:29.13,0:28:30.24,辉中,,0,0,0,,And if it's a little messy,
-Dialogue: 0,0:28:30.24,0:28:35.13,辉中,,0,0,0,,or if it doesn't seem to be totally justified narratively or in terms of the characters,
-Dialogue: 0,0:28:35.13,0:28:36.06,辉中,,0,0,0,,motivations,
-Dialogue: 0,0:28:36.06,0:28:40.41,辉中,,0,0,0,,they simply explain it by way of while he or she was fulfilling the prophecy,
-Dialogue: 0,0:28:40.41,0:28:41.61,辉中,,0,0,0,,it had to happen.
+Dialogue: 0,0:28:30.24,0:28:36.06,辉中,,0,0,0,,or if it doesn't seem to be totally justified narratively or in terms of the characters, motivations,
+Dialogue: 0,0:28:36.06,0:28:40.41,辉中,,0,0,0,,they simply explain it by way of while he or she was fulfilling the prophecy.
+Dialogue: 0,0:28:40.41,0:28:41.61,辉中,,0,0,0,,It had to happen.
 Dialogue: 0,0:28:41.61,0:28:44.73,辉中,,0,0,0,,It must have happened because the prophecy stated.
 Dialogue: 0,0:28:44.73,0:28:46.20,辉中,,0,0,0,,It's just lazy,
-Dialogue: 0,0:28:46.20,0:28:50.55,辉中,,0,0,0,,and while I feel as though many of the instances of coincidences in the last was part,
-Dialogue: 0,0:28:50.55,0:28:55.53,辉中,,0,0,0,,two are not justifiable and are a grievous offences.
-Dialogue: 0,0:28:55.53,0:29:00.33,辉中,,0,0,0,,I think that other instances are more justifiable and could be explained,
-Dialogue: 0,0:29:00.33,0:29:04.95,辉中,,0,0,0,,but eventually there becomes so many that stack up on top of each other.
-Dialogue: 0,0:29:04.95,0:29:09.21,辉中,,0,0,0,,It just seems as though naughty dog needed jolt to run into Abbey,
-Dialogue: 0,0:29:09.21,0:29:10.89,辉中,,0,0,0,,and this was the fastest,
-Dialogue: 0,0:29:10.89,0:29:13.17,辉中,,0,0,0,,cleanest way that they could figure out how to do that.
-Dialogue: 0,0:29:13.17,0:29:14.88,辉中,,0,0,0,,In a previous episode of NYC Grit,
-Dialogue: 0,0:29:14.88,0:29:17.13,辉中,,0,0,0,,A showed that I do here on Youtube.
-Dialogue: 0,0:29:17.13,0:29:18.99,辉中,,0,0,0,,I discussed narrative.
-Dialogue: 0,0:29:18.99,0:29:21.60,辉中,,0,0,0,,coincidences in the last was part too,
-Dialogue: 0,0:29:21.60,0:29:27.75,辉中,,0,0,0,,and I couldn't help but notice that they were all front loaded in the opening hour or two of the last was part two.
+Dialogue: 0,0:28:46.20,0:28:50.79,辉中,,0,0,0,,And while I feel as though many of the instances of coincidences in TLOU2,
+Dialogue: 0,0:28:50.79,0:28:55.53,辉中,,0,0,0,,are not justifiable and are a grievous offences,
+Dialogue: 0,0:28:55.53,0:29:00.33,辉中,,0,0,0,,I think that other instances are more justifiable and could be explained.
+Dialogue: 0,0:29:00.33,0:29:04.95,辉中,,0,0,0,,But eventually there becomes so many that stack up on top of each other.
+Dialogue: 0,0:29:04.95,0:29:09.21,辉中,,0,0,0,,It just seems as though Naughty Dog need Joel to run into Abby,
+Dialogue: 0,0:29:09.21,0:29:13.17,辉中,,0,0,0,,and this was the fastest, cleanest way that they could figure out how to do that.
+Dialogue: 0,0:29:13.17,0:29:17.13,辉中,,0,0,0,,In a previous episode of NYC Grit, a show that I do here on Youtube,
+Dialogue: 0,0:29:17.13,0:29:21.60,辉中,,0,0,0,,I discussed narrative coincidences in TLOU2,
+Dialogue: 0,0:29:21.60,0:29:27.75,辉中,,0,0,0,,and I couldn't help but notice that they were all front loaded in the opening hour or two of TLOU2.
 Dialogue: 0,0:29:27.75,0:29:31.14,辉中,,0,0,0,,I threw out a potential intro that they could have swapped where,
 Dialogue: 0,0:29:31.14,0:29:32.13,辉中,,0,0,0,,for instance,
 Dialogue: 0,0:29:32.13,0:29:43.83,辉中,,0,0,0,,Abbey Owen and perhaps a few other members of her crew infiltrated Jackson working with the people being welcomed in and eventually earning the trust of Joel and Tommy,
