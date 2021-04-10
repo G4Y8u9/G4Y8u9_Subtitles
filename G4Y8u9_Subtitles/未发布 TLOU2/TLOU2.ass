@@ -16,9 +16,9 @@ Video File: Q:/给没组/tlou2.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 671
-Active Line: 676
-Video Position: 186324
+Scroll Position: 880
+Active Line: 888
+Video Position: 233490
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -635,7 +635,7 @@ Dialogue: 0,0:42:18.96,0:42:23.55,辉中,,0,0,0,,she recommends that they weighe
 Dialogue: 0,0:42:23.55,0:42:26.98,辉中,,0,0,0,,Joel and Tommy agree to go without any significant hesitance
 Dialogue: 0,0:42:26.98,0:42:29.92,辉中,,0,0,0,,beyond the initial belief that they could survive in the lodge.
 Dialogue: 0,0:42:30.05,0:42:32.55,辉中,,0,0,0,,Once again, it's another coincidence.
-Dialogue: 0,0:42:32.55,0:42:34.49,辉中,,0,0,0,,Joel and Tommy, aren't this naive, 
+Dialogue: 0,0:42:32.55,0:42:34.49,辉中,,0,0,0,,Joel and Tommy, aren't this naive,
 Dialogue: 0,0:42:34.49,0:42:39.27,辉中,,0,0,0,,or at the very least they shouldn't be, even when pushed in these extreme conditions.
 Dialogue: 0,0:42:39.27,0:42:42.27,辉中,,0,0,0,,我的意思是我明白外面暴风雪肆虐\NWhat I mean is, I understand that there's a blizzard raging,
 Dialogue: 0,0:42:42.27,0:42:47.49,辉中,,0,0,0,,我也明白这会让他们做出相比天气晴好的时候不会做出的选择\Nand I understand that would push them into choices that they wouldn't otherwise make,
@@ -706,255 +706,219 @@ Dialogue: 0,0:51:22.14,0:51:24.90,辉中,,0,0,0,,though we will get to see this 
 Dialogue: 0,0:51:24.90,0:51:26.73,辉中,,0,0,0,,Eventually they just knocked her out.
 Dialogue: 0,0:51:26.73,0:51:30.94,辉中,,0,0,0,,and Ellie wakes up after some time to Dina and Jesse rescuing them.
 Dialogue: 0,0:51:30.94,0:51:35.76,辉中,,0,0,0,,At this point is not clear if Tommy survived, but it's clear that Joel did not.
-Dialogue: 0,0:51:45.39,0:51:51.12,辉中,,0,0,0,,You know what this is as good a time as any to address the elephant in the room dead on the floor,
+Dialogue: 0,0:51:45.39,0:51:51.12,辉中,,0,0,0,,You know what? This is as good a time as any to address the elephant in the room dead on the floor,
 Dialogue: 0,0:51:51.12,0:51:52.41,辉中,,0,0,0,,I had the game spoiled for me,
 Dialogue: 0,0:51:52.41,0:51:55.56,辉中,,0,0,0,,so I knew that Joel was going to die at some point.
-Dialogue: 0,0:51:55.56,0:51:56.37,辉中,,0,0,0,,and to be honest,
-Dialogue: 0,0:51:56.37,0:52:03.78,辉中,,0,0,0,,many of us had a feeling as though Jo was going to die at some point in the game years ago because they only made sense.
-Dialogue: 0,0:52:03.78,0:52:11.91,辉中,,0,0,0,,One of the stereotypes of a sequel is that they're going to kill off one of the major characters from the first iteration of whatever is in question,
-Dialogue: 0,0:52:11.91,0:52:13.29,辉中,,0,0,0,,whether it's a movie and novel,
-Dialogue: 0,0:52:13.29,0:52:16.59,辉中,,0,0,0,,a podcast or a video game Time and time again.
-Dialogue: 0,0:52:16.59,0:52:22.17,辉中,,0,0,0,,We've seen this trope played out and it's become a trope because this actually works pretty well.
+Dialogue: 0,0:51:55.56,0:51:56.37,辉中,,0,0,0,,And to be honest,
+Dialogue: 0,0:51:56.37,0:52:01.83,辉中,,0,0,0,,many of us had a feeling as though Joel was going to die at some point in the game years ago
+Dialogue: 0,0:52:01.83,0:52:03.72,辉中,,0,0,0,,because they only made sense. 
+Dialogue: 0,0:52:03.72,0:52:08.44,辉中,,0,0,0,,One of the stereotypes of a sequel is that they're going to kill off one of the major characters
+Dialogue: 0,0:52:08.44,0:52:11.91,辉中,,0,0,0,,from the first iteration of whatever is in question,
+Dialogue: 0,0:52:11.91,0:52:15.52,辉中,,0,0,0,,whether it's a movie and novel, a podcast or a video game,
+Dialogue: 0,0:52:15.52,0:52:18.59,辉中,,0,0,0,,time and time again, we've seen this trope played out.
+Dialogue: 0,0:52:18.59,0:52:22.17,辉中,,0,0,0,,And it's become a trope because this actually works pretty well.
 Dialogue: 0,0:52:22.17,0:52:27.00,辉中,,0,0,0,,You grow the character and the audience falls in love with them over the course of the first story.
-Dialogue: 0,0:52:27.00,0:52:27.36,辉中,,0,0,0,,Then,
-Dialogue: 0,0:52:27.36,0:52:34.26,辉中,,0,0,0,,with this foundation laid you pull the rug out from everybody and smack them over the head with a two by four of emotion.
-Dialogue: 0,0:52:34.26,0:52:35.37,辉中,,0,0,0,,or maybe in this case,
-Dialogue: 0,0:52:35.37,0:52:38.46,辉中,,0,0,0,,a golf club of emotion.
-Dialogue: 0,0:52:38.46,0:52:39.45,辉中,,0,0,0,,Maybe that's too soon.
-Dialogue: 0,0:52:39.45,0:52:40.62,辉中,,0,0,0,,I don't care moving on.
-Dialogue: 0,0:52:40.62,0:52:42.12,辉中,,0,0,0,,Even with this presumption,
-Dialogue: 0,0:52:42.12,0:52:46.23,辉中,,0,0,0,,Having been established by many people before this game was launched,
-Dialogue: 0,0:52:46.23,0:52:52.98,辉中,,0,0,0,,naughty dog seems to have actively tried to dissuade fans from this presupposition by way of their pre launch trailers.
-Dialogue: 0,0:52:52.98,0:52:59.01,辉中,,0,0,0,,Now this actually got a lot of people pretty upset when they played through the entirety of the last of his part.
-Dialogue: 0,0:52:59.01,0:52:59.61,辉中,,0,0,0,,Two.
-Dialogue: 0,0:52:59.61,0:53:06.45,辉中,,0,0,0,,There are multiple events that were shown in the trailers that aren't actually indicative of what the game has to offer.
-Dialogue: 0,0:53:06.45,0:53:12.00,辉中,,0,0,0,,The clearest example would be this one where Ellie is fighting through a bunch of wl laugh,
+Dialogue: 0,0:52:27.00,0:52:30.86,辉中,,0,0,0,,Then, with this foundation laid you pull the rug out from everybody
+Dialogue: 0,0:52:30.86,0:52:34.26,辉中,,0,0,0,,and smack them over the head with a two by four of emotion.
+Dialogue: 0,0:52:34.26,0:52:38.46,辉中,,0,0,0,,Or maybe in this case, a golf club of emotion.
+Dialogue: 0,0:52:38.46,0:52:40.62,辉中,,0,0,0,,Maybe that's too soon, I don't care, moving on.
+Dialogue: 0,0:52:40.62,0:52:46.23,辉中,,0,0,0,,Even with this presumption, having been established by many people before this game was launched,
+Dialogue: 0,0:52:46.23,0:52:50.72,辉中,,0,0,0,,Naughty Dog seems to have actively tried to dissuade fans from this presupposition
+Dialogue: 0,0:52:50.72,0:52:52.98,辉中,,0,0,0,,by way of their pre launch trailers.
+Dialogue: 0,0:52:52.98,0:52:59.61,辉中,,0,0,0,,Now this actually got a lot of people pretty upset when they played through the entirety of TLOU2.
+Dialogue: 0,0:52:59.61,0:53:02.72,辉中,,0,0,0,,There are multiple events that were shown in the trailers
+Dialogue: 0,0:53:02.72,0:53:06.45,辉中,,0,0,0,,that aren't actually indicative of what the game has to offer.
+Dialogue: 0,0:53:06.45,0:53:08.86,辉中,,0,0,0,,The clearest example would be this one,
+Dialogue: 0,0:53:08.86,0:53:12.00,辉中,,0,0,0,,where Ellie is fighting through a bunch of WLF,
 Dialogue: 0,0:53:12.00,0:53:15.00,辉中,,0,0,0,,and then has a hand put over her mouth,
-Dialogue: 0,0:53:15.00,0:53:16.29,辉中,,0,0,0,,and when she turns round,
-Dialogue: 0,0:53:16.29,0:53:18.06,辉中,,0,0,0,,she sees that it's Joel,
+Dialogue: 0,0:53:15.00,0:53:18.06,辉中,,0,0,0,,and when she turns round, she sees that it's Joel,
 Dialogue: 0,0:53:18.06,0:53:21.39,辉中,,0,0,0,,telling her that he's not going to let her do this by herself.
-Dialogue: 0,0:53:21.39,0:53:27.42,辉中,,0,0,0,,Now I'm not going to respond in the same way that a lot of people on Twitter responded where they demanded their money back to the false advertising.
+Dialogue: 0,0:53:21.39,0:53:24.59,辉中,,0,0,0,,Now I'm not going to respond in the same way that a lot of people on Twitter responded
+Dialogue: 0,0:53:24.59,0:53:27.42,辉中,,0,0,0,,where they demanded their money back to the false advertising.
 Dialogue: 0,0:53:27.42,0:53:28.86,辉中,,0,0,0,,I don't think that's fair,
-Dialogue: 0,0:53:28.86,0:53:33.33,辉中,,0,0,0,,especially because you paid sixty dollars didn't have gotten a lot of game play out of it before you know,
-Dialogue: 0,0:53:33.33,0:53:35.43,辉中,,0,0,0,,I don't even need to explain my reasoning.
-Dialogue: 0,0:53:35.43,0:53:36.66,辉中,,0,0,0,,I just think that's stupid.
-Dialogue: 0,0:53:36.66,0:53:37.44,辉中,,0,0,0,,What I will say,
-Dialogue: 0,0:53:37.44,0:53:37.86,辉中,,0,0,0,,however,
-Dialogue: 0,0:53:37.86,0:53:39.42,辉中,,0,0,0,,Was that this was very confusing,
-Dialogue: 0,0:53:39.42,0:53:40.38,辉中,,0,0,0,,at least for me,
-Dialogue: 0,0:53:40.38,0:53:42.09,辉中,,0,0,0,,the first time I play through the game.
+Dialogue: 0,0:53:28.86,0:53:32.99,辉中,,0,0,0,,especially because you paid sixty dollars and have gotten a lot of game play out of it before.
+Dialogue: 0,0:53:32.99,0:53:36.66,辉中,,0,0,0,,You know, I don't even need to explain my reasoning, I just think that's stupid.
+Dialogue: 0,0:53:36.66,0:53:39.42,辉中,,0,0,0,,What I will say, however, was that this was very confusing,
+Dialogue: 0,0:53:39.42,0:53:42.09,辉中,,0,0,0,,at least for me, the first time I play through the game.
 Dialogue: 0,0:53:42.09,0:53:44.85,辉中,,0,0,0,,Having watched all of the trailers multiple times,
 Dialogue: 0,0:53:44.85,0:53:50.43,辉中,,0,0,0,,I knew that Joel made an appearance later on in the game because Ellie responds to him.
 Dialogue: 0,0:53:50.43,0:53:53.70,辉中,,0,0,0,,But that never happens in the actual game.
-Dialogue: 0,0:53:53.70,0:54:00.33,辉中,,0,0,0,,so I kept asking myself whether or not there was going to be some sort of dream sequence where she plays back through the same level again.
-Dialogue: 0,0:54:00.33,0:54:03.42,辉中,,0,0,0,,But this time Joel is at the end of the line instead,
-Dialogue: 0,0:54:03.42,0:54:05.13,辉中,,0,0,0,,and then that scene plays out.
-Dialogue: 0,0:54:05.13,0:54:05.52,辉中,,0,0,0,,Of course,
-Dialogue: 0,0:54:05.52,0:54:08.25,辉中,,0,0,0,,I don't have to tell you that never happens.
-Dialogue: 0,0:54:08.25,0:54:14.58,辉中,,0,0,0,,This was simply a way to divert the attention from the fans away from what was actually going to happen and naughty.
-Dialogue: 0,0:54:14.58,0:54:16.68,辉中,,0,0,0,,Dog does have a history of doing this type of thing,
+Dialogue: 0,0:53:53.70,0:53:57.69,辉中,,0,0,0,,So I kept asking myself whether or not there was going to be some sort of dream sequence
+Dialogue: 0,0:53:57.69,0:54:00.33,辉中,,0,0,0,,where she plays back through the same level again.
+Dialogue: 0,0:54:00.33,0:54:05.13,辉中,,0,0,0,,But this time Joel is at the end of the line instead, and then that scene plays out.
+Dialogue: 0,0:54:05.13,0:54:08.25,辉中,,0,0,0,,Of course, I don't have to tell you that never happens.
+Dialogue: 0,0:54:08.25,0:54:11.86,辉中,,0,0,0,,This was simply a way to divert the attention from the fans
+Dialogue: 0,0:54:11.86,0:54:14.16,辉中,,0,0,0,,away from what was actually going to happen.
+Dialogue: 0,0:54:14.16,0:54:16.68,辉中,,0,0,0,,And Naughty Dog does have a history of doing this type of thing,
 Dialogue: 0,0:54:16.68,0:54:18.99,辉中,,0,0,0,,which is part of the reason I can't fault them completely,
 Dialogue: 0,0:54:18.99,0:54:20.64,辉中,,0,0,0,,because usually it's for a good reason.
-Dialogue: 0,0:54:20.64,0:54:23.58,辉中,,0,0,0,,The most obvious example would be with the original last of us,
+Dialogue: 0,0:54:20.64,0:54:23.58,辉中,,0,0,0,,The most obvious example would be with the original TLOU,
 Dialogue: 0,0:54:23.58,0:54:27.45,辉中,,0,0,0,,when they said that you would only be playing his Joel throughout the entirety of the game.
-Dialogue: 0,0:54:27.45,0:54:28.44,辉中,,0,0,0,,Of course,
-Dialogue: 0,0:54:28.44,0:54:29.91,辉中,,0,0,0,,This isn't true,
-Dialogue: 0,0:54:29.91,0:54:32.97,辉中,,0,0,0,,and it made it so when you actually get your hands on Ellie,
+Dialogue: 0,0:54:27.45,0:54:29.91,辉中,,0,0,0,,Of course, this isn't true.
+Dialogue: 0,0:54:29.91,0:54:32.97,辉中,,0,0,0,,And it made it so when you actually get your hands on Ellie,
 Dialogue: 0,0:54:32.97,0:54:36.03,辉中,,0,0,0,,that sounded weird when I said it out loud,
-Dialogue: 0,0:54:36.03,0:54:36.69,辉中,,0,0,0,,it made hit,
-Dialogue: 0,0:54:36.69,0:54:38.85,辉中,,0,0,0,,so when you started playing as alley,
+Dialogue: 0,0:54:36.03,0:54:38.85,辉中,,0,0,0,,it made it, so when you started playing as alley,
 Dialogue: 0,0:54:38.85,0:54:45.39,辉中,,0,0,0,,the entire sequence was much more surreal because you didn't expect at all to have this opportunity.
 Dialogue: 0,0:54:45.39,0:54:47.49,辉中,,0,0,0,,Another example would be with this very game,
-Dialogue: 0,0:54:47.49,0:54:53.28,辉中,,0,0,0,,the last part two when they said that you would only be playing as Elie throughout the entirety of the campaign,
+Dialogue: 0,0:54:47.49,0:54:53.28,辉中,,0,0,0,,TLOU2 when they said that you would only be playing as Elie throughout the entirety of the campaign,
 Dialogue: 0,0:54:53.28,0:54:55.47,辉中,,0,0,0,,something which was obviously not true.
-Dialogue: 0,0:54:55.47,0:55:05.85,辉中,,0,0,0,,The problem with these sort of white lies to better the game play experience for the player is that they only work if people don't know any better and with the original game.
-Dialogue: 0,0:55:05.85,0:55:06.99,辉中,,0,0,0,,As far as I am aware,
+Dialogue: 0,0:54:55.47,0:55:00.85,辉中,,0,0,0,,The problem with these sort of white lies to better the game play experience for the player
+Dialogue: 0,0:55:00.85,0:55:04.48,辉中,,0,0,0,,is that they only work if people don't know any better.
+Dialogue: 0,0:55:04.48,0:55:06.99,辉中,,0,0,0,,And with the original game, as far as I am aware,
 Dialogue: 0,0:55:06.99,0:55:11.37,辉中,,0,0,0,,most people believed that you would only play as Joel throughout the entirety of the game,
-Dialogue: 0,0:55:11.37,0:55:15.48,辉中,,0,0,0,,and it made it so when they got their hands on the controller playing as Ali.
-Dialogue: 0,0:55:15.48,0:55:19.98,辉中,,0,0,0,,it was much more interesting because they didnt expect it at all.
-Dialogue: 0,0:55:19.98,0:55:21.21,辉中,,0,0,0,,But with the last of his part,
-Dialogue: 0,0:55:21.21,0:55:25.80,辉中,,0,0,0,,two and all of the leaks that followed people saw this coming from a mile away,
-Dialogue: 0,0:55:25.80,0:55:27.75,辉中,,0,0,0,,And it lost a lot of its punch.
-Dialogue: 0,0:55:27.75,0:55:34.83,辉中,,0,0,0,,I've actually spent a lot of time thinking what this game would be like if I had no expectations and nothing spoiled for me.
+Dialogue: 0,0:55:11.37,0:55:15.48,辉中,,0,0,0,,and it made it so when they got their hands on the controller playing as Ellie.
+Dialogue: 0,0:55:15.48,0:55:19.98,辉中,,0,0,0,,It was much more interesting because they didn't expect it at all.
+Dialogue: 0,0:55:19.98,0:55:25.80,辉中,,0,0,0,,But with TLOU2 and all of the leaks that followed, people saw this coming from a mile away,
+Dialogue: 0,0:55:25.80,0:55:27.75,辉中,,0,0,0,,and it lost a lot of its punch.
+Dialogue: 0,0:55:27.75,0:55:30.88,辉中,,0,0,0,,I've actually spent a lot of time thinking what this game would be like
+Dialogue: 0,0:55:30.88,0:55:34.83,辉中,,0,0,0,,if I had no expectations and nothing spoiled for me.
 Dialogue: 0,0:55:34.83,0:55:37.23,辉中,,0,0,0,,I think the experience would have been much different,
 Dialogue: 0,0:55:37.23,0:55:40.38,辉中,,0,0,0,,and I'm not sure how that would have changed my perspective.
-Dialogue: 0,0:55:40.38,0:55:41.04,辉中,,0,0,0,,Nonetheless,
-Dialogue: 0,0:55:41.04,0:55:48.00,辉中,,0,0,0,,if you happen to be one of the few lucky people who got to play the entire game without having anything spoiled for you,
-Dialogue: 0,0:55:48.00,0:55:52.95,辉中,,0,0,0,,I want to hear your thoughts down in the comment section below or in a tweet sent it to me.
-Dialogue: 0,0:55:52.95,0:55:56.73,辉中,,0,0,0,,I'm really interested in hearing what your perspective is on all of this.
-Dialogue: 0,0:55:56.73,0:55:57.72,辉中,,0,0,0,,But as for jewels,
-Dialogue: 0,0:55:57.72,0:55:59.16,辉中,,0,0,0,,death itself,
-Dialogue: 0,0:55:59.16,0:56:01.44,辉中,,0,0,0,,I have no problem with it.
-Dialogue: 0,0:56:01.44,0:56:09.84,辉中,,0,0,0,,Joles actions throughout the course of the first game were quite reckless and he screwed over a lot of people and killed a lot of people while he was at it.
-Dialogue: 0,0:56:09.84,0:56:10.86,辉中,,0,0,0,,I've said before,
-Dialogue: 0,0:56:10.86,0:56:12.30,辉中,,0,0,0,,and I'll say it again.
-Dialogue: 0,0:56:12.30,0:56:14.82,辉中,,0,0,0,,I don't think Joel is a hero.
-Dialogue: 0,0:56:14.82,0:56:15.81,辉中,,0,0,0,,If anything,
-Dialogue: 0,0:56:15.81,0:56:17.01,辉中,,0,0,0,,he's an anti hero.
-Dialogue: 0,0:56:17.01,0:56:19.38,辉中,,0,0,0,,If you look at his actions in a vacuum,
-Dialogue: 0,0:56:19.38,0:56:25.08,辉中,,0,0,0,,You can only say that life and morality is much more complicated and looking at it purely in a vacuum,
-Dialogue: 0,0:56:25.08,0:56:31.80,辉中,,0,0,0,,but I think it still stands to say that Joel is not a pillar of morality,
-Dialogue: 0,0:56:31.80,0:56:35.70,辉中,,0,0,0,,to which we should all look and pray for guidance.
-Dialogue: 0,0:56:35.70,0:56:36.81,辉中,,0,0,0,,I think rather,
-Dialogue: 0,0:56:36.81,0:56:38.34,辉中,,0,0,0,,he's a damaged,
-Dialogue: 0,0:56:38.34,0:56:39.12,辉中,,0,0,0,,broken,
-Dialogue: 0,0:56:39.12,0:56:48.06,辉中,,0,0,0,,sad and a moral character who is looking to do what he needs to do to survive and protect those he cares about.
+Dialogue: 0,0:55:40.38,0:55:43.96,辉中,,0,0,0,,Nonetheless, if you happen to be one of the few lucky people
+Dialogue: 0,0:55:43.96,0:55:48.00,辉中,,0,0,0,,who got to play the entire game without having anything spoiled for you,
+Dialogue: 0,0:55:48.00,0:55:52.04,辉中,,0,0,0,,I want to hear your thoughts down in the comment section below or in a tweet.
+Dialogue: 0,0:55:52.04,0:55:56.73,辉中,,0,0,0,,Sent it to me, I'm really interested in hearing what your perspective is on all of this.
+Dialogue: 0,0:55:56.73,0:56:01.44,辉中,,0,0,0,,But as for Joel's death itself, I have no problem with it.
+Dialogue: 0,0:56:01.44,0:56:04.83,辉中,,0,0,0,,Joel's actions throughout the course of the first game were quite reckless
+Dialogue: 0,0:56:04.83,0:56:09.84,辉中,,0,0,0,,and he screwed over a lot of people and killed a lot of people while he was at it.
+Dialogue: 0,0:56:09.84,0:56:14.82,辉中,,0,0,0,,I've said before, and I'll say it again: I don't think Joel is a hero.
+Dialogue: 0,0:56:14.82,0:56:19.38,辉中,,0,0,0,,If anything, he's an anti hero, if you look at his actions in a vacuum.
+Dialogue: 0,0:56:19.38,0:56:25.08,辉中,,0,0,0,,你完全可以说人生与道德在实际生活中会复杂得多\NYou can always say that life and morality is much more complicated than looking at it purely in a vacuum,
+Dialogue: 0,0:56:25.08,0:56:31.80,辉中,,0,0,0,,但我仍然认为乔尔不能算是我们大家应该敬仰 应该向他学习的道德标杆\Nbut I think it still stands to say that Joel is not a pillar of morality,
+Dialogue: 0,0:56:31.80,0:56:35.70,辉中,,0,0,0,,但我仍然认为乔尔不能算是我们大家应该敬仰 应该向他学习的道德标杆\Nto which we should all look and pray for guidance.
+Dialogue: 0,0:56:35.70,0:56:42.55,辉中,,0,0,0,,I think rather, he's a damaged, broken, sad and a moral character
+Dialogue: 0,0:56:42.55,0:56:48.06,辉中,,0,0,0,,who is looking to do what he needs to do, to survive and protect those he cares about.
 Dialogue: 0,0:56:48.06,0:56:51.51,辉中,,0,0,0,,That's something that I think is in a way admirable in and of itself.
-Dialogue: 0,0:56:51.51,0:57:04.50,辉中,,0,0,0,,But I don't think that that makes you a hero quote unquote in the same way that you could compare a character such as a lawyer who is actively trying to do the moral thing in any instance that she comes across.
-Dialogue: 0,0:57:04.50,0:57:05.13,辉中,,0,0,0,,Furthermore,
-Dialogue: 0,0:57:05.13,0:57:06.99,辉中,,0,0,0,,from a game play perspective,
-Dialogue: 0,0:57:06.99,0:57:09.96,辉中,,0,0,0,,we got our game with Joel we know him.
-Dialogue: 0,0:57:09.96,0:57:13.11,辉中,,0,0,0,,we have experienced him and his perspectives.
+Dialogue: 0,0:56:51.51,0:56:56.30,辉中,,0,0,0,,But I don't think that that makes you a hero quote-unquote in the same way
+Dialogue: 0,0:56:56.30,0:56:59.37,辉中,,0,0,0,,that you could compare a character such as a lawyer
+Dialogue: 0,0:56:59.37,0:57:04.50,辉中,,0,0,0,,who is actively trying to do the moral thing in any instance that she comes across.
+Dialogue: 0,0:57:04.50,0:57:08.96,辉中,,0,0,0,,Furthermore, from a game play perspective, we got our game with Joel.
+Dialogue: 0,0:57:08.96,0:57:13.11,辉中,,0,0,0,,We know him, we have experienced him and his perspectives.
 Dialogue: 0,0:57:13.11,0:57:15.00,辉中,,0,0,0,,I think it was time for something new,
-Dialogue: 0,0:57:15.00,0:57:20.10,辉中,,0,0,0,,and if we had played through the entire game as Joel or half and half between Joel and L,
+Dialogue: 0,0:57:15.00,0:57:20.10,辉中,,0,0,0,,and if we had played through the entire game as Joel or half and half between Joel and Ellie,
 Dialogue: 0,0:57:20.10,0:57:22.47,辉中,,0,0,0,,I think it would have lost a lot of its punch.
-Dialogue: 0,0:57:22.47,0:57:25.47,辉中,,0,0,0,,Now Jones' death didn't come as a surprise to me.
-Dialogue: 0,0:57:25.47,0:57:27.00,辉中,,0,0,0,,or probably any one,
+Dialogue: 0,0:57:22.47,0:57:27.00,辉中,,0,0,0,,Now Joel's death didn't come as a surprise to me. or probably any one,
 Dialogue: 0,0:57:27.00,0:57:29.94,辉中,,0,0,0,,especially once you walk through that door in the cabin.
-Dialogue: 0,0:57:29.94,0:57:30.63,辉中,,0,0,0,,That being said,
-Dialogue: 0,0:57:30.63,0:57:36.00,辉中,,0,0,0,,it's still pretty horrible having to watch him get his head crammed in with a golf club.
-Dialogue: 0,0:57:36.00,0:57:37.62,辉中,,0,0,0,,It's pretty haunting,
-Dialogue: 0,0:57:37.62,0:57:39.12,辉中,,0,0,0,,but that's by design,
-Dialogue: 0,0:57:39.12,0:57:47.31,辉中,,0,0,0,,naughty dog needed the player to be just as haunted by this event as Ellie is because then they feel emotionally equivalent,
-Dialogue: 0,0:57:47.31,0:57:50.04,辉中,,0,0,0,,especially in their hatred towards Abbey,
-Dialogue: 0,0:57:50.04,0:57:53.82,辉中,,0,0,0,,which is one of the major elements that they need to establish.
-Dialogue: 0,0:57:53.82,0:57:55.17,辉中,,0,0,0,,Early on you,
-Dialogue: 0,0:57:55.17,0:58:00.03,辉中,,0,0,0,,the player need to hate this girl with every fiber of your being.
-Dialogue: 0,0:58:00.03,0:58:05.04,辉中,,0,0,0,,Just like Ellie hates her with every fibre of her being so that later,
-Dialogue: 0,0:58:05.04,0:58:08.88,辉中,,0,0,0,,when they try to flip perspectives and flip the table on you,
+Dialogue: 0,0:57:29.94,0:57:36.00,辉中,,0,0,0,,That being said, it's still pretty horrible having to watch him get his head crammed in with a golf club.
+Dialogue: 0,0:57:36.00,0:57:39.12,辉中,,0,0,0,,It's pretty haunting, but that's by design.
+Dialogue: 0,0:57:39.12,0:57:44.04,辉中,,0,0,0,,Naughty Dog needed the player to be just as haunted by this event as Ellie is
+Dialogue: 0,0:57:44.04,0:57:47.31,辉中,,0,0,0,,because then they feel emotionally equivalent,
+Dialogue: 0,0:57:47.31,0:57:50.04,辉中,,0,0,0,,especially in their hatred towards Abby,
+Dialogue: 0,0:57:50.04,0:57:54.81,辉中,,0,0,0,,which is one of the major elements that they need to establish early on.
+Dialogue: 0,0:57:54.81,0:58:00.03,辉中,,0,0,0,,You, the player, need to hate this girl with every fiber of your being.
+Dialogue: 0,0:58:00.03,0:58:03.99,辉中,,0,0,0,,Just like Ellie hates her with every fibre of her being.
+Dialogue: 0,0:58:03.99,0:58:08.88,辉中,,0,0,0,,so that later, when they try to flip perspectives and flip the table on you,
 Dialogue: 0,0:58:08.88,0:58:10.92,辉中,,0,0,0,,they can do that effectively.
-Dialogue: 0,0:58:10.92,0:58:17.01,辉中,,0,0,0,,If you're apathetic towards Abbey and then you go through the entirety of the game trying to pursue revenge,
+Dialogue: 0,0:58:10.92,0:58:12.68,辉中,,0,0,0,,If you're apathetic towards Abby
+Dialogue: 0,0:58:12.68,0:58:17.01,辉中,,0,0,0,,and then you go through the entirety of the game trying to pursue revenge,
 Dialogue: 0,0:58:17.01,0:58:19.26,辉中,,0,0,0,,you're not going to be motivated at all.
 Dialogue: 0,0:58:19.26,0:58:26.01,辉中,,0,0,0,,It's going to be pretty uninteresting because the entire premise of the game and the story is a moot point.
-Dialogue: 0,0:58:26.01,0:58:27.72,辉中,,0,0,0,,But if you hate Abbey,
-Dialogue: 0,0:58:27.72,0:58:32.37,辉中,,0,0,0,,Just as much as Elie hates her and wants to see her die,
-Dialogue: 0,0:58:32.37,0:58:37.41,辉中,,0,0,0,,you'll be motivated to get through the first half of the game and then naughty dog.
-Dialogue: 0,0:58:37.41,0:58:39.87,辉中,,0,0,0,,Has you set up for the final act?
-Dialogue: 0,0:58:39.87,0:58:40.08,辉中,,0,0,0,,Now,
-Dialogue: 0,0:58:40.08,0:58:40.59,辉中,,0,0,0,,after this,
-Dialogue: 0,0:58:40.59,0:58:42.60,辉中,,0,0,0,,we enter the end of the prologue.
-Dialogue: 0,0:58:42.60,0:58:43.11,辉中,,0,0,0,,Yes,
-Dialogue: 0,0:58:43.11,0:58:45.42,辉中,,0,0,0,,we are an hour into this video,
-Dialogue: 0,0:58:45.42,0:58:47.64,辉中,,0,0,0,,and we are just getting out of the prologue.
-Dialogue: 0,0:58:47.64,0:58:49.74,辉中,,0,0,0,,alien Tommy discuss their next steps.
-Dialogue: 0,0:58:49.74,0:58:50.76,辉中,,0,0,0,,Tommy talk to Maria,
-Dialogue: 0,0:58:50.76,0:58:53.43,辉中,,0,0,0,,and she's not going to let him go or do anything,
+Dialogue: 0,0:58:26.01,0:58:32.37,辉中,,0,0,0,,But if you hate Abby, just as much as Elie hates her and wants to see her die,
+Dialogue: 0,0:58:32.37,0:58:35.85,辉中,,0,0,0,,you'll be motivated to get through the first half of the game.
+Dialogue: 0,0:58:35.85,0:58:39.87,辉中,,0,0,0,,And then Naughty Dog has you set up for the final act.
+Dialogue: 0,0:58:39.87,0:58:42.60,辉中,,0,0,0,,Now, after this, we enter the end of the prologue.
+Dialogue: 0,0:58:42.60,0:58:47.64,辉中,,0,0,0,,Yes, we are an hour into this video, and we are just getting out of the prologue.
+Dialogue: 0,0:58:47.64,0:58:49.74,辉中,,0,0,0,,Ellie and Tommy discuss their next steps.
+Dialogue: 0,0:58:49.74,0:58:53.43,辉中,,0,0,0,,Tommy talk to Maria, and she's not going to let him go or do anything,
 Dialogue: 0,0:58:53.43,0:58:56.55,辉中,,0,0,0,,and he's not allowed to have any sort of spare men.
 Dialogue: 0,0:58:56.55,0:58:58.41,辉中,,0,0,0,,He has to keep them all in Jackson.
 Dialogue: 0,0:58:58.41,0:59:00.18,辉中,,0,0,0,,She thinks that they should just move on,
 Dialogue: 0,0:59:00.18,0:59:03.99,辉中,,0,0,0,,except that what happened was terrible and go on with their lives.
-Dialogue: 0,0:59:03.99,0:59:04.92,辉中,,0,0,0,,As usual,
-Dialogue: 0,0:59:04.92,0:59:07.08,辉中,,0,0,0,,Maria seems to be the one voice of reason.
-Dialogue: 0,0:59:07.08,0:59:07.83,辉中,,0,0,0,,Tommy and Elie,
-Dialogue: 0,0:59:07.83,0:59:08.31,辉中,,0,0,0,,however,
-Dialogue: 0,0:59:08.31,0:59:10.23,辉中,,0,0,0,,are understandably upset.
+Dialogue: 0,0:59:03.99,0:59:07.08,辉中,,0,0,0,,As usual, Maria seems to be the one voice of reason.
+Dialogue: 0,0:59:07.08,0:59:10.23,辉中,,0,0,0,,Tommy and Ellie, however, are understandably upset.
 Dialogue: 0,0:59:10.23,0:59:13.26,辉中,,0,0,0,,Tommy lost his brother in a terrible way,
-Dialogue: 0,0:59:13.26,0:59:15.81,辉中,,0,0,0,,and Ellie also lost her father.
-Dialogue: 0,0:59:15.81,0:59:17.76,辉中,,0,0,0,,Figure in a terrible way.
-Dialogue: 0,0:59:17.76,0:59:20.22,辉中,,0,0,0,,They still aren't certain why this happened.
+Dialogue: 0,0:59:13.26,0:59:17.76,辉中,,0,0,0,,and Ellie also lost her "father figure" in a terrible way.
+Dialogue: 0,0:59:17.76,0:59:20.22,辉中,,0,0,0,,They still aren't certain why this happened,
 Dialogue: 0,0:59:20.22,0:59:25.32,辉中,,0,0,0,,or what Joel did that made them seek his death out so fervently.
-Dialogue: 0,0:59:25.32,0:59:30.00,辉中,,0,0,0,,Tommy happened to see some patches on their coats that read w l F.
-Dialogue: 0,0:59:30.00,0:59:32.79,辉中,,0,0,0,,And because of his previous history with the fireflies,
+Dialogue: 0,0:59:25.32,0:59:30.00,辉中,,0,0,0,,Tommy happened to see some patches on their coats that read "WLF".
+Dialogue: 0,0:59:30.00,0:59:32.79,辉中,,0,0,0,,And because of his previous history with the Fireflies,
 Dialogue: 0,0:59:32.79,0:59:35.91,辉中,,0,0,0,,he knows that that would be the Washington Liberation Front,
-Dialogue: 0,0:59:35.91,0:59:38.79,辉中,,0,0,0,,which is a group that's in Washington.
-Dialogue: 0,0:59:38.79,0:59:39.54,辉中,,0,0,0,,Go figure.
+Dialogue: 0,0:59:35.91,0:59:38.40,辉中,,0,0,0,,which is a group that's in Washington.
+Dialogue: 0,0:59:38.40,0:59:39.54,辉中,,0,0,0,,Huh … Go figure.
 Dialogue: 0,0:59:39.54,0:59:43.59,辉中,,0,0,0,,And that's what allows Ellie to know where she needs to go next.
-Dialogue: 0,0:59:43.59,0:59:49.89,辉中,,0,0,0,,It's a long stretch that they would have returned to Seattle and that they would still be there and that they would be feasible.
-Dialogue: 0,0:59:49.89,0:59:52.56,辉中,,0,0,0,,But when you're motivated this strongly,
-Dialogue: 0,0:59:52.56,0:59:55.47,辉中,,0,0,0,,you're willing to go and try anything in the same way.
-Dialogue: 0,0:59:55.47,0:59:59.04,辉中,,0,0,0,,That Abby was so desperate to go and get revenge against.
-Dialogue: 0,0:59:59.04,1:00:04.26,辉中,,0,0,0,,Joel Ellie now is motivated to go to her turf and get revenge against her.
-Dialogue: 0,1:00:04.26,1:00:06.81,辉中,,0,0,0,,Now Tommy wants to go to Seattle by himself,
-Dialogue: 0,1:00:06.81,1:00:08.82,辉中,,0,0,0,,and Hunt Abby down and get revenge.
-Dialogue: 0,1:00:08.82,1:00:09.24,辉中,,0,0,0,,Maria,
-Dialogue: 0,1:00:09.24,1:00:09.60,辉中,,0,0,0,,of course,
-Dialogue: 0,1:00:09.60,1:00:11.31,辉中,,0,0,0,,is not going to let him do that.
+Dialogue: 0,0:59:43.59,0:59:47.60,辉中,,0,0,0,,It's a long stretch that they would have returned to Seattle
+Dialogue: 0,0:59:47.60,0:59:49.89,辉中,,0,0,0,,and that they would still be there and that they would be findable.
+Dialogue: 0,0:59:49.89,0:59:54.73,辉中,,0,0,0,,But when you're motivated this strongly, you're willing to go and try anything.
+Dialogue: 0,0:59:54.73,0:59:59.93,辉中,,0,0,0,,In the same way that Abby was so desperate to go and get revenge against Joel.
+Dialogue: 0,0:59:59.93,1:00:04.26,辉中,,0,0,0,,Ellie now is motivated to go to her turf and get revenge against her.
+Dialogue: 0,1:00:04.26,1:00:08.82,辉中,,0,0,0,,Now Tommy wants to go to Seattle by himself, and Hunt Abby down and get revenge.
+Dialogue: 0,1:00:08.82,1:00:11.31,辉中,,0,0,0,,Maria, of course, is not going to let him do that.
 Dialogue: 0,1:00:11.31,1:00:15.54,辉中,,0,0,0,,But Tommy's main objective is to prevent Ellie from going,
-Dialogue: 0,1:00:15.54,1:00:17.97,辉中,,0,0,0,,he promised Joel that he would take care of Ellie.
-Dialogue: 0,1:00:17.97,1:00:19.23,辉中,,0,0,0,,No matter what.
-Dialogue: 0,1:00:19.23,1:00:20.37,辉中,,0,0,0,,And in this case,
-Dialogue: 0,1:00:20.37,1:00:22.29,辉中,,0,0,0,,he knows that if he goes to Seattle,
+Dialogue: 0,1:00:15.54,1:00:19.23,辉中,,0,0,0,,he promised Joel that he would take care of Ellie, no matter what.
+Dialogue: 0,1:00:19.23,1:00:22.29,辉中,,0,0,0,,And in this case, he knows that if Ellie goes to Seattle,
 Dialogue: 0,1:00:22.29,1:00:24.51,辉中,,0,0,0,,her chances of survival aren't very high.
-Dialogue: 0,1:00:24.51,1:00:31.77,辉中,,0,0,0,,So he'd rather go take on those chances himself and spare Ellie while trying to get revenge for the sake of the both of them,
+Dialogue: 0,1:00:24.51,1:00:27.90,辉中,,0,0,0,,So he'd rather go take on those chances himself
+Dialogue: 0,1:00:27.90,1:00:31.77,辉中,,0,0,0,,and spare Ellie while trying to get revenge for the sake of the both of them,
 Dialogue: 0,1:00:31.77,1:00:33.69,辉中,,0,0,0,,Ellie demands that they either go together,
-Dialogue: 0,1:00:33.69,1:00:41.13,辉中,,0,0,0,,or that Tommy allow Ellie to go with Dena and some other people with some troops from the camp to get revenge herself.
-Dialogue: 0,1:00:41.13,1:00:41.46,辉中,,0,0,0,,Tommy,
-Dialogue: 0,1:00:41.46,1:00:41.94,辉中,,0,0,0,,of course,
-Dialogue: 0,1:00:41.94,1:00:49.14,辉中,,0,0,0,,rejects this idea and asks for and more time just a day or so so that he can try and work something out in this case,
-Dialogue: 0,1:00:49.14,1:00:50.55,辉中,,0,0,0,,he's just buying time.
+Dialogue: 0,1:00:33.69,1:00:36.56,辉中,,0,0,0,,or that Tommy allow Ellie to go with Dina
+Dialogue: 0,1:00:36.56,1:00:41.13,辉中,,0,0,0,,and some other people with some troops from the camp to get revenge herself.
+Dialogue: 0,1:00:41.13,1:00:46.36,辉中,,0,0,0,,Tommy, of course, rejects this idea and asks for and more time just a day or so
+Dialogue: 0,1:00:46.36,1:00:48.50,辉中,,0,0,0,,so that he can try and work something out.
+Dialogue: 0,1:00:48.50,1:00:50.55,辉中,,0,0,0,,In this case, he's just buying time.
 Dialogue: 0,1:00:50.55,1:00:52.71,辉中,,0,0,0,,He's made up his mind as to what he's going to do.
-Dialogue: 0,1:00:52.71,1:00:54.75,辉中,,0,0,0,,We then see Eliot Joles grave site.
+Dialogue: 0,1:00:52.71,1:00:54.75,辉中,,0,0,0,,We then see Ellie in Joel's grave site.
 Dialogue: 0,1:00:54.75,1:00:56.22,辉中,,0,0,0,,It's a really touching moment,
 Dialogue: 0,1:00:56.22,1:00:59.82,辉中,,0,0,0,,and it reaffirms that Joel is actually gone.
 Dialogue: 0,1:00:59.82,1:01:01.35,辉中,,0,0,0,,I don't know about you guys.
-Dialogue: 0,1:01:01.35,1:01:07.53,辉中,,0,0,0,,But I had this sort of surreal feeling when I played through this game the first time I kept saying to myself.
-Dialogue: 0,1:01:07.53,1:01:10.80,辉中,,0,0,0,,Joel can't actually be dead for one because we saw that trailer,
-Dialogue: 0,1:01:10.80,1:01:16.74,辉中,,0,0,0,,where Joel was featured later on in the game in Seattle and for two because Joel is Joel,
-Dialogue: 0,1:01:16.74,1:01:21.42,辉中,,0,0,0,,you can't just kill off Joel that suddenly there has to be more to it,
-Dialogue: 0,1:01:21.42,1:01:23.52,辉中,,0,0,0,,but there isn't he's dead.
-Dialogue: 0,1:01:23.52,1:01:28.74,辉中,,0,0,0,,This is his grave and it said Ellie then visits Joles house with Dena,
-Dialogue: 0,1:01:28.74,1:01:30.81,辉中,,0,0,0,,picks up his watch from the first game.
-Dialogue: 0,1:01:30.81,1:01:33.96,辉中,,0,0,0,,It's still broken and also takes his revolver,
-Dialogue: 0,1:01:33.96,1:01:36.30,辉中,,0,0,0,,which you'll be using throughout the rest of the game.
+Dialogue: 0,1:01:01.35,1:01:06.02,辉中,,0,0,0,,But I had this sort of surreal feeling when I played through this game the first time.
+Dialogue: 0,1:01:06.02,1:01:09.16,辉中,,0,0,0,,I kept saying to myself: Joel can't actually be dead.
+Dialogue: 0,1:01:09.16,1:01:14.23,辉中,,0,0,0,,For one because we saw that trailer, where Joel was featured later on in the game in Seattle.
+Dialogue: 0,1:01:14.23,1:01:16.74,辉中,,0,0,0,,And for two because Joel is Joel,
+Dialogue: 0,1:01:16.74,1:01:21.42,辉中,,0,0,0,,you can't just kill off Joel that suddenly, there has to be more to it.
+Dialogue: 0,1:01:21.42,1:01:23.52,辉中,,0,0,0,,But there isn't.
+Dialogue: 0,1:01:23.52,1:01:26.04,辉中,,0,0,0,,He's dead. This is his grave and it's sad.
+Dialogue: 0,1:01:26.04,1:01:28.04,辉中,,0,0,0,,Ellie then visits Joles house with Dina,
+Dialogue: 0,1:01:28.04,1:01:32.48,辉中,,0,0,0,,picks up his watch from the first game, it's still broken.
+Dialogue: 0,1:01:32.48,1:01:36.30,辉中,,0,0,0,,And also takes his revolver, which you'll be using throughout the rest of the game.
 Dialogue: 0,1:01:36.30,1:01:39.63,辉中,,0,0,0,,It's actually pretty cool that this is where she gets it.
-Dialogue: 0,1:01:39.63,1:01:40.32,辉中,,0,0,0,,We do this,
-Dialogue: 0,1:01:40.32,1:01:43.17,辉中,,0,0,0,,though only after exploring his house a little bit,
+Dialogue: 0,1:01:39.63,1:01:43.17,辉中,,0,0,0,,We do this though, only after exploring his house a little bit,
 Dialogue: 0,1:01:43.17,1:01:46.95,辉中,,0,0,0,,and there's a lot of incredible detail here,
-Dialogue: 0,1:01:46.95,1:01:49.77,辉中,,0,0,0,,and it really encapsulates Jules character.
+Dialogue: 0,1:01:46.95,1:01:49.77,辉中,,0,0,0,,and it really encapsulates Joel's character.
 Dialogue: 0,1:01:49.77,1:01:54.66,辉中,,0,0,0,,He's very music heavy and organized his neat and tidy,
 Dialogue: 0,1:01:54.66,1:01:58.02,辉中,,0,0,0,,and his house is also painfully empty.
-Dialogue: 0,1:01:58.02,1:01:58.92,辉中,,0,0,0,,Theres a lot of big,
-Dialogue: 0,1:01:58.92,1:01:59.97,辉中,,0,0,0,,empty rooms,
-Dialogue: 0,1:01:59.97,1:02:01.74,辉中,,0,0,0,,and maybe I'm just reading too much into it.
-Dialogue: 0,1:02:01.74,1:02:07.56,辉中,,0,0,0,,But I couldn't help but feel as though there was a lot of space where Ellie could have stayed if she had wanted to like,
-Dialogue: 0,1:02:07.56,1:02:08.94,辉中,,0,0,0,,I said earlier,
-Dialogue: 0,1:02:08.94,1:02:15.60,辉中,,0,0,0,,there was no reason other than the emotional turmoil between the two for Elie to go and live in the grandmother,
-Dialogue: 0,1:02:15.60,1:02:17.01,辉中,,0,0,0,,sweet out back,
-Dialogue: 0,1:02:17.01,1:02:21.66,辉中,,0,0,0,,but truly everything from the paintings on the walls which we'll come back to later.
-Dialogue: 0,1:02:21.66,1:02:30.27,辉中,,0,0,0,,I promise to joles bed still being a little rough and that there is a space magazine and books by his bed.
-Dialogue: 0,1:02:30.27,1:02:34.53,辉中,,0,0,0,,That he was reading because he's interested in space like it's so cute,
-Dialogue: 0,1:02:34.53,1:02:35.70,辉中,,0,0,0,,and it's so touching,
+Dialogue: 0,1:01:58.02,1:01:59.97,辉中,,0,0,0,,There's a lot of big, empty rooms.
+Dialogue: 0,1:01:59.97,1:02:01.74,辉中,,0,0,0,,And maybe I'm just reading too much into it,
+Dialogue: 0,1:02:01.74,1:02:04.55,辉中,,0,0,0,,but I couldn't help but feel as though there was a lot of space
+Dialogue: 0,1:02:04.55,1:02:07.17,辉中,,0,0,0,,where Ellie could have stayed if she had wanted to.
+Dialogue: 0,1:02:07.17,1:02:13.76,辉中,,0,0,0,,Like I said earlier, there was no reason other than the emotional turmoil between the two
+Dialogue: 0,1:02:13.76,1:02:17.01,辉中,,0,0,0,,for Ellie to go and live in the grandmother, sweet out back.
+Dialogue: 0,1:02:17.01,1:02:23.52,辉中,,0,0,0,,But truly everything from the paintings on the walls which we'll come back to later, I promise to,
+Dialogue: 0,1:02:23.52,1:02:30.27,辉中,,0,0,0,,Joel's bed still being a little rough and that there is a space magazine and books by his bed,
+Dialogue: 0,1:02:30.27,1:02:32.38,辉中,,0,0,0,,that he was reading because he's interested in space
+Dialogue: 0,1:02:32.38,1:02:35.70,辉中,,0,0,0,,like it's … it's so cute, and it's so touching,
 Dialogue: 0,1:02:35.70,1:02:41.10,辉中,,0,0,0,,and it's so painfully sad to know that he's never going to walk through that house ever again.
 Dialogue: 0,1:02:41.10,1:02:42.66,辉中,,0,0,0,,After you grab these items,
-Dialogue: 0,1:02:42.66,1:02:47.61,辉中,,0,0,0,,you walked downstairs and realized that Maria is there sitting with Dena.
-Dialogue: 0,1:02:47.61,1:02:55.83,辉中,,0,0,0,,She informs you that Tommy left on his own already and is asking the Ellie be locked up to prevent her from following him.
-Dialogue: 0,1:02:55.83,1:02:58.20,辉中,,0,0,0,,Maria is understandably frustrated,
-Dialogue: 0,1:02:58.20,1:02:59.34,辉中,,0,0,0,,angry Pest,
+Dialogue: 0,1:02:42.66,1:02:47.61,辉中,,0,0,0,,you walked downstairs and realized that Maria is there sitting with Dina.
+Dialogue: 0,1:02:47.61,1:02:51.19,辉中,,0,0,0,,She informs you that Tommy left on his own already
+Dialogue: 0,1:02:51.19,1:02:55.83,辉中,,0,0,0,,and is asking that Ellie be locked up to prevent her from following him.
+Dialogue: 0,1:02:55.83,1:02:59.34,辉中,,0,0,0,,Maria is understandably frustrated, angry, Pissed,
 Dialogue: 0,1:02:59.34,1:03:01.89,辉中,,0,0,0,,whatever words you want to associate with it.
-Dialogue: 0,1:03:01.89,1:03:03.03,辉中,,0,0,0,,But more than anything,
-Dialogue: 0,1:03:03.03,1:03:04.41,辉中,,0,0,0,,she's worried,
-Dialogue: 0,1:03:04.41,1:03:11.91,辉中,,0,0,0,,and she knows that if she sends Elie and Dina off to try and help Tommy at least till stand a better chance.
-Dialogue: 0,1:03:11.91,1:03:20.19,辉中,,0,0,0,,So Maria allows Ellie Indiana to leave Jackson with their horses and some extra supplies so long as they promised to bring back tomy.
-Dialogue: 0,1:03:20.19,1:03:22.56,辉中,,0,0,0,,When they return in one piece.
-Dialogue: 0,1:03:22.56,1:03:25.05,辉中,,0,0,0,,This sets up the dual purpose of your journey,
-Dialogue: 0,1:03:25.05,1:03:28.08,辉中,,0,0,0,,and there's your going there to kill Abbey,
-Dialogue: 0,1:03:28.08,1:03:30.33,辉中,,0,0,0,,but also to save Tommy.
-Dialogue: 0,1:03:30.33,1:03:33.39,辉中,,0,0,0,,Although Tommy probably doesn't need much saving.
+Dialogue: 0,1:03:01.89,1:03:04.41,辉中,,0,0,0,,But more than anything, she's worried.
+Dialogue: 0,1:03:04.41,1:03:09.93,辉中,,0,0,0,,and she knows that if she sends Ellie and Dina off to try and help Tommy
+Dialogue: 0,1:03:09.93,1:03:11.91,辉中,,0,0,0,,at least still stand a better chance.
+Dialogue: 0,1:03:11.91,1:03:17.09,辉中,,0,0,0,,So Maria allows Ellie Indiana to leave Jackson with their horses and some extra supplies
+Dialogue: 0,1:03:17.09,1:03:22.56,辉中,,0,0,0,,so long as they promised to bring back Tommy, when they return, in one piece.
+Dialogue: 0,1:03:22.56,1:03:26.12,辉中,,0,0,0,,This sets up the dual purpose of your journey and theirs.
+Dialogue: 0,1:03:26.12,1:03:30.33,辉中,,0,0,0,,You're going there to kill Abby, but also to save Tommy,
+Dialogue: 0,1:03:30.33,1:03:33.39,辉中,,0,0,0,,although Tommy probably doesn't need much saving.
 Dialogue: 0,1:03:33.39,1:03:36.36,辉中,,0,0,0,,And you'll realize that once we get to Seattle,
-Dialogue: 0,1:03:36.36,1:03:42.87,辉中,,0,0,0,,Theres going to be a third purpose in their journey and motivation to everything that they're doing.
-Dialogue: 0,1:03:42.87,1:03:43.41,辉中,,0,0,0,,that's added.
-Dialogue: 0,1:03:43.41,1:03:44.31,辉中,,0,0,0,,on top of it.
-Dialogue: 0,1:03:44.31,1:03:52.98,辉中,,0,0,0,,I find it really interesting that they set up these multiple goals because it seems as though it just complicates things which I actually like having a single quest.
-Dialogue: 0,1:03:52.98,1:03:57.57,辉中,,0,0,0,,We are just going to try and kill one person as a little bland.
-Dialogue: 0,1:03:57.57,1:03:59.01,辉中,,0,0,0,,It's a little uninteresting,
-Dialogue: 0,1:03:59.01,1:04:01.56,辉中,,0,0,0,,so to see that we have multiple things we're trying to do.
-Dialogue: 0,1:04:01.56,1:04:04.26,辉中,,0,0,0,,all at once is a little refreshing.
-Dialogue: 0,1:04:04.26,1:04:10.98,辉中,,0,0,0,,After this we jumped to the start of the core game itself Seattle Day One.
-Dialogue: 0,1:04:10.98,1:04:11.67,辉中,,0,0,0,,And after this,
-Dialogue: 0,1:04:11.67,1:04:15.93,辉中,,0,0,0,,we're done with the prologue and ready to move into the core of the game.
-Dialogue: 0,1:04:15.93,1:04:17.07,辉中,,0,0,0,,But before we do that,
-Dialogue: 0,1:04:17.07,1:04:20.31,辉中,,0,0,0,,I want to discuss our feelings at this point.
-Dialogue: 0,1:04:20.31,1:04:21.03,辉中,,0,0,0,,at this moment.
-Dialogue: 0,1:04:21.03,1:04:21.84,辉中,,0,0,0,,in my first run,
-Dialogue: 0,1:04:21.84,1:04:23.43,辉中,,0,0,0,,I felt motivated.
-Dialogue: 0,1:04:23.43,1:04:25.38,辉中,,0,0,0,,yet still pretty dreadful.
-Dialogue: 0,1:04:25.38,1:04:26.22,辉中,,0,0,0,,In again,
-Dialogue: 0,1:04:26.22,1:04:30.45,辉中,,0,0,0,,the purer sense of the word dread overwhelmed me,
-Dialogue: 0,1:04:30.45,1:04:34.62,辉中,,0,0,0,,these revenge quests never and dwell for anybody,
-Dialogue: 0,1:04:34.62,1:04:42.93,辉中,,0,0,0,,and I couldn't help but feel as though Ellie was going to totally screw herself over and end up dead in a ditch somewhere if she tried to do this.
-Dialogue: 0,1:04:42.93,1:04:43.53,辉中,,0,0,0,,But again,
-Dialogue: 0,1:04:43.53,1:04:45.99,辉中,,0,0,0,,I think that's kind of the point.
-Dialogue: 0,1:04:45.99,1:04:51.51,辉中,,0,0,0,,the player should be just as hesitant and doubtful as Ellie is in this pursuit.
+Dialogue: 0,1:03:36.36,1:03:42.87,辉中,,0,0,0,,There's going to be a third purpose in their journey and motivation to everything that they're doing,
+Dialogue: 0,1:03:42.87,1:03:44.31,辉中,,0,0,0,,that's added on top of it.
+Dialogue: 0,1:03:44.31,1:03:47.24,辉中,,0,0,0,,I find it really interesting that they set up these multiple goals
+Dialogue: 0,1:03:47.24,1:03:51.56,辉中,,0,0,0,,because it seems as though it just complicates things which I actually like.
+Dialogue: 0,1:03:51.56,1:03:57.57,辉中,,0,0,0,,Having a single quest, we are just going to try and kill one person, is a little bland.
+Dialogue: 0,1:03:57.57,1:03:59.01,辉中,,0,0,0,,It's a little uninteresting.
+Dialogue: 0,1:03:59.01,1:04:04.08,辉中,,0,0,0,,So to see that we have multiple things we're trying to do all at once is a little refreshing.
+Dialogue: 0,1:04:04.26,1:04:10.98,辉中,,0,0,0,,After this we jumped to the start of the core game itself, Seattle day 1.
+Dialogue: 0,1:04:10.98,1:04:15.93,辉中,,0,0,0,,And after this, we're done with the prologue and ready to move into the core of the game.
+Dialogue: 0,1:04:15.93,1:04:20.31,辉中,,0,0,0,,But before we do that, I want to discuss our feelings at this point.
+Dialogue: 0,1:04:20.31,1:04:23.43,辉中,,0,0,0,,At this moment in my first run, I felt motivated.
+Dialogue: 0,1:04:23.43,1:04:30.45,辉中,,0,0,0,,Yet still pretty dreadful, in again, the pure sense of the word dread overwhelmed me.
+Dialogue: 0,1:04:30.45,1:04:34.62,辉中,,0,0,0,,These revenge quests never end well for anybody,
+Dialogue: 0,1:04:34.62,1:04:38.69,辉中,,0,0,0,,and I couldn't help but feel as though Ellie was going to totally screw herself over
+Dialogue: 0,1:04:38.69,1:04:42.93,辉中,,0,0,0,,and end up dead in a ditch somewhere if she tried to do this.
+Dialogue: 0,1:04:42.93,1:04:45.99,辉中,,0,0,0,,But again, I think that's kind of the point.
+Dialogue: 0,1:04:45.99,1:04:51.51,辉中,,0,0,0,,The player should be just as hesitant and doubtful as Ellie is in this pursuit.
 Dialogue: 0,1:04:51.51,1:04:51.90,辉中,,0,0,0,,Sure,
 Dialogue: 0,1:04:51.90,1:04:57.12,辉中,,0,0,0,,Ellie Taxa big game and explains how she's going to go and kill Abby without any remorse,
 Dialogue: 0,1:04:57.12,1:04:59.64,辉中,,0,0,0,,and she's going to get revenge for this terrible act.
