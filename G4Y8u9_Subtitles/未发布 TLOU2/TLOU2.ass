@@ -16,9 +16,9 @@ Video File: Q:/给没组/tlou2.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 390
-Active Line: 401
-Video Position: 105388
+Scroll Position: 671
+Active Line: 676
+Video Position: 186324
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -431,382 +431,281 @@ Dialogue: 0,0:28:55.53,0:29:00.33,辉中,,0,0,0,,I think that other instances ar
 Dialogue: 0,0:29:00.33,0:29:04.95,辉中,,0,0,0,,But eventually there becomes so many that stack up on top of each other.
 Dialogue: 0,0:29:04.95,0:29:09.21,辉中,,0,0,0,,It just seems as though Naughty Dog need Joel to run into Abby,
 Dialogue: 0,0:29:09.21,0:29:13.17,辉中,,0,0,0,,and this was the fastest, cleanest way that they could figure out how to do that.
-Dialogue: 0,0:29:13.17,0:29:17.13,辉中,,0,0,0,,In a previous episode of NYC Grit, a show that I do here on Youtube,
+Dialogue: 0,0:29:13.17,0:29:17.13,辉中,,0,0,0,,In a previous episode of NitGrit, a show that I do here on Youtube,
 Dialogue: 0,0:29:17.13,0:29:21.60,辉中,,0,0,0,,I discussed narrative coincidences in TLOU2,
 Dialogue: 0,0:29:21.60,0:29:27.75,辉中,,0,0,0,,and I couldn't help but notice that they were all front loaded in the opening hour or two of TLOU2.
-Dialogue: 0,0:29:27.75,0:29:31.14,辉中,,0,0,0,,I threw out a potential intro that they could have swapped where,
-Dialogue: 0,0:29:31.14,0:29:32.13,辉中,,0,0,0,,for instance,
-Dialogue: 0,0:29:32.13,0:29:43.83,辉中,,0,0,0,,Abbey Owen and perhaps a few other members of her crew infiltrated Jackson working with the people being welcomed in and eventually earning the trust of Joel and Tommy,
-Dialogue: 0,0:29:43.83,0:29:46.59,辉中,,0,0,0,,and Elie until eventually they turned on.
-Dialogue: 0,0:29:46.59,0:29:47.25,辉中,,0,0,0,,Everybody,
-Dialogue: 0,0:29:47.25,0:29:49.53,辉中,,0,0,0,,killed Joel and escape in the middle of the night.
+Dialogue: 0,0:29:27.75,0:29:32.13,辉中,,0,0,0,,I threw out a potential intro that they could have swapped where, for instance,
+Dialogue: 0,0:29:32.13,0:29:35.46,辉中,,0,0,0,,Abby, Owen and perhaps a few other members of her crew
+Dialogue: 0,0:29:35.46,0:29:39.88,辉中,,0,0,0,,infiltrated Jackson working with the people being welcomed in
+Dialogue: 0,0:29:39.88,0:29:44.92,辉中,,0,0,0,,and eventually earning the trust of Joel and Tommy, and Ellie
+Dialogue: 0,0:29:44.92,0:29:49.53,辉中,,0,0,0,,until eventually they turned on everybody, killed Joel and escape in the middle of the night,
 Dialogue: 0,0:29:49.53,0:29:53.19,辉中,,0,0,0,,while the game then carries out just like it would have otherwise,
 Dialogue: 0,0:29:53.19,0:29:58.23,辉中,,0,0,0,,it could have been really interesting because Abby and Ellie could have even formed a friendship,
 Dialogue: 0,0:29:58.23,0:30:02.61,辉中,,0,0,0,,or at least some sort of sympathetic position towards each other,
 Dialogue: 0,0:30:02.61,0:30:05.07,辉中,,0,0,0,,which would have made the betrayal all the worse.
-Dialogue: 0,0:30:05.07,0:30:05.34,辉中,,0,0,0,,I mean,
-Dialogue: 0,0:30:05.34,0:30:06.24,辉中,,0,0,0,,as of right now,
-Dialogue: 0,0:30:06.24,0:30:08.76,辉中,,0,0,0,,Tommy and Joel are very welcoming to this group.
-Dialogue: 0,0:30:08.76,0:30:16.98,辉中,,0,0,0,,They even invite them back to Jackson to restock on supplies before leaving right before you know the thing happens.
+Dialogue: 0,0:30:05.07,0:30:08.76,辉中,,0,0,0,,I mean, as of right now, Tommy and Joel are very welcoming to this group.
+Dialogue: 0,0:30:08.76,0:30:12.88,辉中,,0,0,0,,They even invite them back to Jackson to restock on supplies before leaving
+Dialogue: 0,0:30:12.88,0:30:16.98,辉中,,0,0,0,,right before you know the thing happens.
 Dialogue: 0,0:30:16.98,0:30:19.35,辉中,,0,0,0,,So we know that Tommy and Joel are welcoming.
-Dialogue: 0,0:30:19.35,0:30:20.82,辉中,,0,0,0,,They would have brought this group in,
-Dialogue: 0,0:30:20.82,0:30:22.17,辉中,,0,0,0,,at least for a little bit.
+Dialogue: 0,0:30:19.35,0:30:22.17,辉中,,0,0,0,,They would have brought this group in, at least for a little bit.
 Dialogue: 0,0:30:22.17,0:30:23.70,辉中,,0,0,0,,Perhaps if they came in,
 Dialogue: 0,0:30:23.70,0:30:29.94,辉中,,0,0,0,,they pretended to be wandering survivors simply in need of assistance in a new fresh start.
 Dialogue: 0,0:30:29.94,0:30:33.42,辉中,,0,0,0,,Perhaps then they go when they work at Jackson for a few weeks,
-Dialogue: 0,0:30:33.42,0:30:39.60,辉中,,0,0,0,,Or maybe even just a couple of days before turning and killing Joel and escaping at the very least,
-Dialogue: 0,0:30:39.60,0:30:43.02,辉中,,0,0,0,,then you don't have to rely on a bunch of coincidences.
-Dialogue: 0,0:30:43.02,0:30:52.08,辉中,,0,0,0,,but I do understand that it might have been bad for pacing and especially considering the leaks that happened towards the game's release.
+Dialogue: 0,0:30:33.42,0:30:38.85,辉中,,0,0,0,,Or maybe even just a couple of days before turning and killing Joel and escaping.
+Dialogue: 0,0:30:38.85,0:30:43.02,辉中,,0,0,0,,At the very least, then you don't have to rely on a bunch of coincidences.
+Dialogue: 0,0:30:43.02,0:30:47.35,辉中,,0,0,0,,But I do understand that it might have been bad for pacing
+Dialogue: 0,0:30:47.35,0:30:52.08,辉中,,0,0,0,,and especially considering the leaks that happened towards the game's release.
 Dialogue: 0,0:30:52.08,0:30:54.27,辉中,,0,0,0,,It seems as though is probably for the best.
 Dialogue: 0,0:30:54.27,0:30:56.10,辉中,,0,0,0,,because once the game was spoiled,
-Dialogue: 0,0:30:56.10,0:31:05.67,辉中,,0,0,0,,we all knew that Abby was going to kill Joel so that would have completely negated the opening sequence where Abby and Ellie are starting to bond,
+Dialogue: 0,0:30:56.10,0:30:58.91,辉中,,0,0,0,,we all knew that Abby was going to kill Joel
+Dialogue: 0,0:30:58.91,0:31:05.67,辉中,,0,0,0,,so that would have completely negated the opening sequence where Abby and Ellie are starting to bond,
 Dialogue: 0,0:31:05.67,0:31:08.67,辉中,,0,0,0,,or perhaps at least tolerating each other.
-Dialogue: 0,0:31:08.67,0:31:11.79,辉中,,0,0,0,,I've heard from various people on Twitter and through email.
-Dialogue: 0,0:31:11.79,0:31:15.12,辉中,,0,0,0,,That naughty dog was actually considering this as an opening,
-Dialogue: 0,0:31:15.12,0:31:18.60,辉中,,0,0,0,,which is funny because I just let it roll off my dome.
-Dialogue: 0,0:31:18.60,0:31:20.34,辉中,,0,0,0,,I wasn't actually thinking that our,
-Dialogue: 0,0:31:20.34,0:31:28.02,辉中,,0,0,0,,but apparently this was a seriously considered intro sequence instead of what we got in the end product of the last of his part too,
+Dialogue: 0,0:31:08.67,0:31:11.79,辉中,,0,0,0,,I've heard from various people on Twitter and through Email
+Dialogue: 0,0:31:11.79,0:31:15.12,辉中,,0,0,0,,that Naughty Dog was actually considering this as an opening,
+Dialogue: 0,0:31:15.12,0:31:18.60,辉中,,0,0,0,,which is funny because I just let it roll off my dome,
+Dialogue: 0,0:31:18.60,0:31:20.34,辉中,,0,0,0,,I wasn't actually thinking that hard.
+Dialogue: 0,0:31:20.34,0:31:24.12,辉中,,0,0,0,,But apparently this was a seriously considered intro sequence
+Dialogue: 0,0:31:24.12,0:31:28.02,辉中,,0,0,0,,instead of what we got in the end product of TLOU2,
 Dialogue: 0,0:31:28.02,0:31:35.25,辉中,,0,0,0,,But they decided to go in this current direction because the other version ran into a lot of pacing issues.
-Dialogue: 0,0:31:35.25,0:31:36.00,辉中,,0,0,0,,In other words,
-Dialogue: 0,0:31:36.00,0:31:46.35,辉中,,0,0,0,,You likely would have needed to spend the first five or six hours of the game in Jackson doing menial chores while getting to know abbie and her crew before being betrayed,
+Dialogue: 0,0:31:35.25,0:31:40.80,辉中,,0,0,0,,In other words, you likely would have needed to spend the first five or six hours of the game in Jackson
+Dialogue: 0,0:31:40.80,0:31:46.35,辉中,,0,0,0,,doing menial chores while getting to know Abby and her crew before being betrayed,
 Dialogue: 0,0:31:46.35,0:31:50.25,辉中,,0,0,0,,it would have completely changed the structure of the rest of the game,
-Dialogue: 0,0:31:50.25,0:31:53.49,辉中,,0,0,0,,so naughty dog just decided to expedite the process.
-Dialogue: 0,0:31:53.49,0:31:59.61,辉中,,0,0,0,,Have Abby get to Joel within the first two hours of the game and get the revenge plot moving?
+Dialogue: 0,0:31:50.25,0:31:53.49,辉中,,0,0,0,,so Naughty Dog just decided to expedite the process,
+Dialogue: 0,0:31:53.49,0:31:59.61,辉中,,0,0,0,,have Abby get to Joel within the first two hours of the game and get the revenge plot moving.
 Dialogue: 0,0:31:59.61,0:32:00.75,辉中,,0,0,0,,I think that's fair.
-Dialogue: 0,0:32:00.75,0:32:02.73,辉中,,0,0,0,,I just think it's a little sloppy.
-Dialogue: 0,0:32:02.73,0:32:06.42,辉中,,0,0,0,,considering how many coincidences they rely on to make it happen.
-Dialogue: 0,0:32:06.42,0:32:08.73,辉中,,0,0,0,,After Abby finds the tracks in the snow,
-Dialogue: 0,0:32:08.73,0:32:10.26,辉中,,0,0,0,,leading to one of the patrols,
-Dialogue: 0,0:32:10.26,0:32:11.82,辉中,,0,0,0,,we swap back to Ellie,
-Dialogue: 0,0:32:11.82,0:32:13.65,辉中,,0,0,0,,whose on patrol with Dena.
-Dialogue: 0,0:32:13.65,0:32:17.07,辉中,,0,0,0,,You ride your horses through a beautifully realized landscape,
-Dialogue: 0,0:32:17.07,0:32:19.26,辉中,,0,0,0,,walking on ice in a river.
+Dialogue: 0,0:32:00.75,0:32:06.42,辉中,,0,0,0,,I just think it's a little sloppy, considering how many coincidences they rely on to make it happen.
+Dialogue: 0,0:32:06.42,0:32:10.26,辉中,,0,0,0,,After Abby finds the tracks in the snow, leading to one of the patrols,
+Dialogue: 0,0:32:10.26,0:32:13.65,辉中,,0,0,0,,we swap back to Ellie, whose on patrol with Dina.
+Dialogue: 0,0:32:13.65,0:32:19.26,辉中,,0,0,0,,You ride your horses through a beautifully realized landscape, walking on ice in a river.
 Dialogue: 0,0:32:19.26,0:32:20.82,辉中,,0,0,0,,It's absolutely beautiful.
-Dialogue: 0,0:32:20.82,0:32:24.99,辉中,,0,0,0,,I mean again how naughty dog achieves these graphical features?
-Dialogue: 0,0:32:24.99,0:32:29.91,辉中,,0,0,0,,I don't know it really makes it look like every other development studio isn't even trying.
-Dialogue: 0,0:32:29.91,0:32:32.31,辉中,,0,0,0,,There's a lot of character building in this sequence.
-Dialogue: 0,0:32:32.31,0:32:33.75,辉中,,0,0,0,,as you go on your patrol.
-Dialogue: 0,0:32:33.75,0:32:35.85,辉中,,0,0,0,,There's some light flirting clearly,
-Dialogue: 0,0:32:35.85,0:32:38.82,辉中,,0,0,0,,Dina likes Ellie and Ellie likes Dina.
-Dialogue: 0,0:32:38.82,0:32:40.68,辉中,,0,0,0,,And the tension starts to rise.
-Dialogue: 0,0:32:40.68,0:32:41.85,辉中,,0,0,0,,Here again.
-Dialogue: 0,0:32:41.85,0:32:43.29,辉中,,0,0,0,,There's a lot of dread,
-Dialogue: 0,0:32:43.29,0:32:45.45,辉中,,0,0,0,,things are going too well,
-Dialogue: 0,0:32:45.45,0:32:46.89,辉中,,0,0,0,,and the world of the last of us,
-Dialogue: 0,0:32:46.89,0:32:47.73,辉中,,0,0,0,,as we know,
-Dialogue: 0,0:32:47.73,0:32:49.38,辉中,,0,0,0,,is very cutthroat.
-Dialogue: 0,0:32:49.38,0:32:56.58,辉中,,0,0,0,,sometimes literally the fact that everybody's happy that they are so carefree that they're even flirting with each other.
-Dialogue: 0,0:32:56.58,0:33:01.14,辉中,,0,0,0,,It's unsettling because we know that something bad has to happen soon,
-Dialogue: 0,0:33:01.14,0:33:02.58,辉中,,0,0,0,,but you continue exploring.
-Dialogue: 0,0:33:02.58,0:33:02.73,辉中,,0,0,0,,you.
-Dialogue: 0,0:33:02.73,0:33:05.91,辉中,,0,0,0,,go to an outpost to explore some abandoned houses.
+Dialogue: 0,0:32:20.82,0:32:26.31,辉中,,0,0,0,,I mean again, how Naughty Dog achieves these graphical features, I don't know.
+Dialogue: 0,0:32:26.31,0:32:29.91,辉中,,0,0,0,,It really makes it look like every other development studio isn't even trying.
+Dialogue: 0,0:32:29.91,0:32:33.75,辉中,,0,0,0,,There's a lot of character building in this sequence as you go on your patrol.
+Dialogue: 0,0:32:33.75,0:32:38.82,辉中,,0,0,0,,There's some light flirting, clearly, Dina likes Ellie and Ellie likes Dina.
+Dialogue: 0,0:32:38.82,0:32:41.06,辉中,,0,0,0,,And the tension starts to rise here.
+Dialogue: 0,0:32:41.06,0:32:45.45,辉中,,0,0,0,,Again there's a lot of dread, things are going too well,
+Dialogue: 0,0:32:45.45,0:32:51.19,辉中,,0,0,0,,and the world of TLOU, as we know, is very cutthroat, sometimes literally.
+Dialogue: 0,0:32:51.19,0:32:56.58,辉中,,0,0,0,,The fact that everybody's happy that they are so carefree that they're even flirting with each other.
+Dialogue: 0,0:32:56.58,0:33:01.14,辉中,,0,0,0,,It's unsettling, because we know that something bad has to happen soon.
+Dialogue: 0,0:33:01.14,0:33:05.91,辉中,,0,0,0,,But you continue exploring, you go to an outpost to explore some abandoned houses.
 Dialogue: 0,0:33:05.91,0:33:06.96,辉中,,0,0,0,,And at one point,
 Dialogue: 0,0:33:06.96,0:33:13.02,辉中,,0,0,0,,Ellie even says that she's going to be inviting Joel over for a movie later that night.
-Dialogue: 0,0:33:13.02,0:33:17.76,辉中,,0,0,0,,This will be very important at the end of the game,
+Dialogue: 0,0:33:13.02,0:33:17.76,辉中,,0,0,0,,This will be VERY important at the end of the game,
 Dialogue: 0,0:33:17.76,0:33:19.56,辉中,,0,0,0,,so make sure you remember this.
 Dialogue: 0,0:33:19.56,0:33:26.07,辉中,,0,0,0,,Ellie on this day was planning on having Joel over for a movie that night.
 Dialogue: 0,0:33:26.07,0:33:27.60,辉中,,0,0,0,,It seems like a small point,
 Dialogue: 0,0:33:27.60,0:33:33.09,辉中,,0,0,0,,especially considering that Ellie and Joel have this deep connection with each other.
-Dialogue: 0,0:33:33.09,0:33:34.53,辉中,,0,0,0,,She lives right behind him,
-Dialogue: 0,0:33:34.53,0:33:37.20,辉中,,0,0,0,,even still in the grandmothers sweet,
+Dialogue: 0,0:33:33.09,0:33:37.20,辉中,,0,0,0,,She lives right behind him, even still in the grandmothers sweet,
 Dialogue: 0,0:33:37.20,0:33:40.74,辉中,,0,0,0,,and it makes sense that perhaps they would try to fill an empty time,
 Dialogue: 0,0:33:40.74,0:33:42.60,辉中,,0,0,0,,watching movies and spending time together.
-Dialogue: 0,0:33:42.60,0:33:44.16,辉中,,0,0,0,,But again,
-Dialogue: 0,0:33:44.16,0:33:44.91,辉中,,0,0,0,,at the end of the game,
-Dialogue: 0,0:33:44.91,0:33:46.29,辉中,,0,0,0,,we're going to find out a lot more.
-Dialogue: 0,0:33:46.29,0:33:53.46,辉中,,0,0,0,,And this very statement by Elie something that happens as an optional moment while you're exploring an abandoned house.
+Dialogue: 0,0:33:42.60,0:33:46.29,辉中,,0,0,0,,But again, at the end of the game, we're going to find out a lot more.
+Dialogue: 0,0:33:46.29,0:33:51.32,辉中,,0,0,0,,And this very statement by Ellie something that happens as an optional moment
+Dialogue: 0,0:33:51.32,0:33:53.46,辉中,,0,0,0,,while you're exploring an abandoned house.
 Dialogue: 0,0:33:54.30,0:33:56.10,辉中,,0,0,0,,This is going to be very important.
-Dialogue: 0,0:33:56.10,0:33:56.76,辉中,,0,0,0,,Ellie Indiana,
-Dialogue: 0,0:33:56.76,0:33:59.07,辉中,,0,0,0,,come up on a supermarket that's infested.
-Dialogue: 0,0:33:59.07,0:33:59.25,辉中,,0,0,0,,you.
-Dialogue: 0,0:33:59.25,0:33:59.91,辉中,,0,0,0,,Cleared out,
-Dialogue: 0,0:33:59.91,0:34:03.84,辉中,,0,0,0,,gives you the chance to explore some stealth options and combat,
+Dialogue: 0,0:33:56.10,0:33:59.07,辉中,,0,0,0,,Ellie and Dina, come up on a supermarket that's infested.
+Dialogue: 0,0:33:59.07,0:34:03.84,辉中,,0,0,0,,You cleared out, gives you the chance to explore some stealth options and combat,
 Dialogue: 0,0:34:03.84,0:34:07.44,辉中,,0,0,0,,and it's a good thing that this is a really well done portion of the game.
-Dialogue: 0,0:34:07.44,0:34:13.71,辉中,,0,0,0,,Because this stealth and the crafting that goes along with it is going to be the bread and butter of the game,
+Dialogue: 0,0:34:07.44,0:34:10.76,辉中,,0,0,0,,Because this stealth and the crafting that goes along with it
+Dialogue: 0,0:34:10.76,0:34:13.71,辉中,,0,0,0,,is going to be the bread and butter of the game,
 Dialogue: 0,0:34:13.71,0:34:16.05,辉中,,0,0,0,,especially if you're playing on higher difficulties,
 Dialogue: 0,0:34:16.05,0:34:20.55,辉中,,0,0,0,,you're going to need to get acclimated to these mechanics as soon as possible.
 Dialogue: 0,0:34:20.55,0:34:23.61,辉中,,0,0,0,,You are also given a quick introduction to clickers as well,
 Dialogue: 0,0:34:23.61,0:34:27.39,辉中,,0,0,0,,and these guys work almost identically to how they did in the first game.
 Dialogue: 0,0:34:27.39,0:34:31.86,辉中,,0,0,0,,I don't really feel the need to explain a lot as to how these sequences work,
-Dialogue: 0,0:34:31.86,0:34:33.60,辉中,,0,0,0,,because if you've played the first game,
-Dialogue: 0,0:34:33.60,0:34:36.00,辉中,,0,0,0,,you're going to know how this goes.
-Dialogue: 0,0:34:36.00,0:34:37.80,辉中,,0,0,0,,It's going to be a hot minute before were thrown,
-Dialogue: 0,0:34:37.80,0:34:39.57,辉中,,0,0,0,,anything that's markedly different,
+Dialogue: 0,0:34:31.86,0:34:36.00,辉中,,0,0,0,,because if you've played the first game, you're going to know how this goes.
+Dialogue: 0,0:34:36.00,0:34:39.57,辉中,,0,0,0,,It's going to be a hot minute before we're thrown anything that's markedly different.
 Dialogue: 0,0:34:39.57,0:34:41.25,辉中,,0,0,0,,I will say that in the first game,
-Dialogue: 0,0:34:41.25,0:34:51.27,辉中,,0,0,0,,it always bugging me that clickers are obviously able to navigate their environments by use of clicking sounds that use echolocation to map out their environment.
-Dialogue: 0,0:34:51.27,0:34:52.05,辉中,,0,0,0,,However,
-Dialogue: 0,0:34:52.05,0:34:59.88,辉中,,0,0,0,,They never were able to hear characters talking to each other or you reloading your weapon or moving your backpack on and off.
-Dialogue: 0,0:34:59.88,0:35:04.05,辉中,,0,0,0,,That is mostly true again in this game,
-Dialogue: 0,0:35:04.05,0:35:06.36,辉中,,0,0,0,,except only on the lower levels.
-Dialogue: 0,0:35:06.36,0:35:07.17,辉中,,0,0,0,,In my testing,
-Dialogue: 0,0:35:07.17,0:35:11.43,辉中,,0,0,0,,I actually found that on new game Plus on survivor difficulty,
+Dialogue: 0,0:34:41.25,0:34:45.91,辉中,,0,0,0,,it always bugging me that clickers are obviously able to navigate their environments
+Dialogue: 0,0:34:45.91,0:34:51.27,辉中,,0,0,0,,by use of clicking sounds that use echolocation to map out their environment.
+Dialogue: 0,0:34:51.27,0:34:55.40,辉中,,0,0,0,,However, they never were able to hear characters talking to each other
+Dialogue: 0,0:34:55.40,0:34:59.88,辉中,,0,0,0,,or you reloading your weapon or moving your backpack on and off.
+Dialogue: 0,0:34:59.88,0:35:06.36,辉中,,0,0,0,,That is mostly true again in this game, except only on the lower levels.
+Dialogue: 0,0:35:06.36,0:35:11.43,辉中,,0,0,0,,In my testing, I actually found that on new game Plus on survivor difficulty,
 Dialogue: 0,0:35:11.43,0:35:13.98,辉中,,0,0,0,,the clickers can actually hear this as well.
-Dialogue: 0,0:35:13.98,0:35:16.68,辉中,,0,0,0,,If you open your backpack to swap weapons,
-Dialogue: 0,0:35:16.68,0:35:18.96,辉中,,0,0,0,,they notice and they'll come running.
+Dialogue: 0,0:35:13.98,0:35:18.96,辉中,,0,0,0,,If you open your backpack to swap weapons, they'll notice and they'll come running.
 Dialogue: 0,0:35:18.96,0:35:22.89,辉中,,0,0,0,,This was a game changer in terms of immersion.
-Dialogue: 0,0:35:22.89,0:35:23.49,辉中,,0,0,0,,Seriously.
-Dialogue: 0,0:35:23.49,0:35:28.53,辉中,,0,0,0,,I've never played a game where I was so attentive to everything that I was doing,
+Dialogue: 0,0:35:22.89,0:35:28.53,辉中,,0,0,0,,Seriously, I've never played a game where I was so attentive to everything that I was doing,
 Dialogue: 0,0:35:28.53,0:35:31.74,辉中,,0,0,0,,that I was scared to even open up the inventory,
 Dialogue: 0,0:35:31.74,0:35:37.56,辉中,,0,0,0,,because I knew that it was going to create a small amount of sound that could attract clickers,
-Dialogue: 0,0:35:37.56,0:35:41.49,辉中,,0,0,0,,which could mean that I die and have to reload granted to some people.
-Dialogue: 0,0:35:41.49,0:35:43.44,辉中,,0,0,0,,I'm sure that sounds absolutely terrible,
+Dialogue: 0,0:35:37.56,0:35:40.36,辉中,,0,0,0,,which could mean that I die and have to reload.
+Dialogue: 0,0:35:40.36,0:35:43.44,辉中,,0,0,0,,Granted to some people, I'm sure that sounds absolutely terrible,
 Dialogue: 0,0:35:43.44,0:35:46.08,辉中,,0,0,0,,which is why there are difficulty settings to begin with.
 Dialogue: 0,0:35:46.08,0:35:49.47,辉中,,0,0,0,,But if you want to be totally immersed in this game,
 Dialogue: 0,0:35:49.47,0:35:52.92,辉中,,0,0,0,,I recommend you play it on the hardest possible difficulty.
 Dialogue: 0,0:35:52.92,0:35:54.90,辉中,,0,0,0,,It really does change everything.
-Dialogue: 0,0:35:54.90,0:36:00.51,辉中,,0,0,0,,Another thing to note in this supermarket sequences that Ellie is wearing a mask when she encounters spores.
-Dialogue: 0,0:36:00.51,0:36:01.32,辉中,,0,0,0,,Now.
+Dialogue: 0,0:35:54.90,0:35:57.68,辉中,,0,0,0,,Another thing to note in this supermarket sequences that
+Dialogue: 0,0:35:57.68,0:36:01.32,辉中,,0,0,0,,Ellie is wearing a mask when she encounters spores now.
 Dialogue: 0,0:36:01.32,0:36:02.43,辉中,,0,0,0,,If you played the first game,
 Dialogue: 0,0:36:02.43,0:36:07.41,辉中,,0,0,0,,this is going to be kind of weird because obviously Ellie is immune to the virus,
-Dialogue: 0,0:36:07.41,0:36:08.64,辉中,,0,0,0,,or so we thought,
-Dialogue: 0,0:36:08.64,0:36:12.66,辉中,,0,0,0,,why does she need to wear a mask in the trailers we saw before the game's launch.
-Dialogue: 0,0:36:12.66,0:36:16.11,辉中,,0,0,0,,A lot of people thought that this would mean that Ellie was no longer immune,
+Dialogue: 0,0:36:07.41,0:36:10.41,辉中,,0,0,0,,or so we thought, why does she need to wear a mask?
+Dialogue: 0,0:36:10.41,0:36:12.66,辉中,,0,0,0,,In the trailers we saw before the game's launch,
+Dialogue: 0,0:36:12.66,0:36:16.11,辉中,,0,0,0,,a lot of people thought that this would mean that Ellie was no longer immune,
 Dialogue: 0,0:36:16.11,0:36:20.49,辉中,,0,0,0,,or perhaps she was not as immune as she once was,
-Dialogue: 0,0:36:20.49,0:36:22.23,辉中,,0,0,0,,so perhaps if she inhaled spores,
-Dialogue: 0,0:36:22.23,0:36:24.06,辉中,,0,0,0,,that would make her very very sick,
+Dialogue: 0,0:36:20.49,0:36:24.06,辉中,,0,0,0,,so perhaps if she inhaled spores, that would make her very very sick,
 Dialogue: 0,0:36:24.06,0:36:25.74,辉中,,0,0,0,,but she would eventually pull through it.
-Dialogue: 0,0:36:25.74,0:36:26.13,辉中,,0,0,0,,However,
-Dialogue: 0,0:36:26.13,0:36:28.02,辉中,,0,0,0,,the explanation is far simpler.
-Dialogue: 0,0:36:28.02,0:36:31.59,辉中,,0,0,0,,Joel and Elie obviously know that l is immune,
-Dialogue: 0,0:36:31.59,0:36:35.82,辉中,,0,0,0,,but nobody else can know that if people were to find out that alleys immune,
+Dialogue: 0,0:36:25.74,0:36:28.02,辉中,,0,0,0,,However, the explanation is far simpler.
+Dialogue: 0,0:36:28.02,0:36:33.69,辉中,,0,0,0,,Joel and Ellie obviously know that Ellie is immune, but nobody else can know that.
+Dialogue: 0,0:36:33.69,0:36:35.82,辉中,,0,0,0,,If people were to find out that Ellie's immune,
 Dialogue: 0,0:36:35.82,0:36:39.72,辉中,,0,0,0,,the same crap with the fireflies would happen all over again.
-Dialogue: 0,0:36:39.72,0:36:43.14,辉中,,0,0,0,,Now this seems to be much more joles wish than it is,
-Dialogue: 0,0:36:43.14,0:36:44.37,辉中,,0,0,0,,at least after all,
-Dialogue: 0,0:36:44.37,0:36:51.09,辉中,,0,0,0,,Ellie was totally prepared and fine with giving her life to save humanity in the form of a vaccine,
-Dialogue: 0,0:36:51.09,0:36:58.53,辉中,,0,0,0,,And this would of course make sense because Joel wanted to make sure nobody else would come too early to try and capitalize on her gift,
-Dialogue: 0,0:36:58.53,0:36:59.79,辉中,,0,0,0,,because if they did,
-Dialogue: 0,0:36:59.79,0:37:01.29,辉中,,0,0,0,,it would mean that he would lose her.
-Dialogue: 0,0:37:01.29,0:37:03.51,辉中,,0,0,0,,But the fact that Ellie is still using the mask,
-Dialogue: 0,0:37:03.51,0:37:04.98,辉中,,0,0,0,,even though she doesn't need to,
-Dialogue: 0,0:37:04.98,0:37:05.49,辉中,,0,0,0,,I think,
-Dialogue: 0,0:37:05.49,0:37:08.79,辉中,,0,0,0,,serves as proof positive that she still cares about what he thinks,
+Dialogue: 0,0:36:39.72,0:36:43.71,辉中,,0,0,0,,Now this seems to be much more Joel's wish than it is Ellie's,
+Dialogue: 0,0:36:43.71,0:36:51.09,辉中,,0,0,0,,after all, Ellie was totally prepared and fine with giving her life to save humanity in the form of a vaccine,
+Dialogue: 0,0:36:51.09,0:36:53.84,辉中,,0,0,0,,And this would of course make sense because Joel wanted to make sure
+Dialogue: 0,0:36:53.84,0:36:58.53,辉中,,0,0,0,,nobody else would come to Ellie to try and capitalize on her gift,
+Dialogue: 0,0:36:58.53,0:37:01.29,辉中,,0,0,0,,because if they did, it would mean that he would lose her.
+Dialogue: 0,0:37:01.29,0:37:04.98,辉中,,0,0,0,,But the fact that Ellie is still using the mask, even though she doesn't need to,
+Dialogue: 0,0:37:04.98,0:37:08.79,辉中,,0,0,0,,I think, serves as proof positive that she still cares about what he thinks,
 Dialogue: 0,0:37:08.79,0:37:11.64,辉中,,0,0,0,,and she's yet to fully separate and become her own person.
 Dialogue: 0,0:37:11.64,0:37:16.14,辉中,,0,0,0,,But this isn't something that's explained or really justified at this point in the game,
-Dialogue: 0,0:37:16.14,0:37:20.52,辉中,,0,0,0,,but we will see an actual conversation between alien Joel later on.
-Dialogue: 0,0:37:20.52,0:37:22.32,辉中,,0,0,0,,That explains all of this.
-Dialogue: 0,0:37:22.32,0:37:27.33,辉中,,0,0,0,,if I throw a bunch of zombies and clickers and eventually find your way up to the top of the supermarket,
+Dialogue: 0,0:37:16.14,0:37:22.32,辉中,,0,0,0,,but we will see an actual conversation between Ellie and Joel later on that explains all of this.
+Dialogue: 0,0:37:22.32,0:37:27.33,辉中,,0,0,0,,If I throw a bunch of zombies and clickers and eventually find your way up to the top of the supermarket,
 Dialogue: 0,0:37:27.33,0:37:29.58,辉中,,0,0,0,,where you jumped down out to the front,
-Dialogue: 0,0:37:29.58,0:37:29.88,辉中,,0,0,0,,Ellie.
-Dialogue: 0,0:37:29.88,0:37:35.16,辉中,,0,0,0,,India's entire goal throughout exploring this supermarket was to clear it of infected.
-Dialogue: 0,0:37:35.16,0:37:36.33,辉中,,0,0,0,,And they've done just that.
-Dialogue: 0,0:37:36.33,0:37:36.84,辉中,,0,0,0,,Honestly,
-Dialogue: 0,0:37:36.84,0:37:44.01,辉中,,0,0,0,,it's not a bad way of forcing the player to kill zombies in order to get experience with the combat system and become more comfortable with it.
-Dialogue: 0,0:37:44.01,0:37:47.07,辉中,,0,0,0,,A lot of people are going to simply try to stealth around them.
-Dialogue: 0,0:37:47.07,0:37:48.33,辉中,,0,0,0,,In most instances,
-Dialogue: 0,0:37:48.33,0:37:49.59,辉中,,0,0,0,,especially later in the game,
-Dialogue: 0,0:37:49.59,0:37:51.45,辉中,,0,0,0,,when resources become very scarce.
-Dialogue: 0,0:37:51.45,0:37:57.63,辉中,,0,0,0,,but if the characters mission is to wipe out all infected in an area to protect Jackson,
-Dialogue: 0,0:37:57.63,0:38:05.46,辉中,,0,0,0,,the city you all of a sudden don't have to worry about players doing that because they're going to be justified Narratively in killing absolutely everything.
-Dialogue: 0,0:38:05.46,0:38:05.97,辉中,,0,0,0,,After all,
-Dialogue: 0,0:38:05.97,0:38:11.07,辉中,,0,0,0,,they can't leave the area unless they've completely wiped all of the infected within that area.
-Dialogue: 0,0:38:11.07,0:38:12.57,辉中,,0,0,0,,Once you get out of the supermarket,
-Dialogue: 0,0:38:12.57,0:38:15.93,辉中,,0,0,0,,the blizzard starts to come in full force.
-Dialogue: 0,0:38:15.93,0:38:19.02,辉中,,0,0,0,,So Ellie andina race through the snow,
-Dialogue: 0,0:38:19.02,0:38:21.66,辉中,,0,0,0,,and end up at a library that Dina knew about.
+Dialogue: 0,0:37:29.58,0:37:35.16,辉中,,0,0,0,,Ellie and Dina's entire goal throughout exploring this supermarket was to clear it of infected,
+Dialogue: 0,0:37:35.16,0:37:36.33,辉中,,0,0,0,,and they've done just that.
+Dialogue: 0,0:37:36.33,0:37:40.12,辉中,,0,0,0,,Honestly, it's not a bad way of forcing the player to kill zombies
+Dialogue: 0,0:37:40.12,0:37:44.01,辉中,,0,0,0,,in order to get experience with the combat system and become more comfortable with it.
+Dialogue: 0,0:37:44.01,0:37:48.33,辉中,,0,0,0,,A lot of people are going to simply try to stealth around them in most instances,
+Dialogue: 0,0:37:48.33,0:37:51.45,辉中,,0,0,0,,especially later in the game, when resources become very scarce.
+Dialogue: 0,0:37:51.45,0:37:58.23,辉中,,0,0,0,,but if the characters mission is to wipe out all infected in an area to protect Jackson, the city,
+Dialogue: 0,0:37:58.23,0:38:01.04,辉中,,0,0,0,,you all of a sudden don't have to worry about players doing that
+Dialogue: 0,0:38:01.04,0:38:05.46,辉中,,0,0,0,,because they're going to be justified narratively in killing absolutely everything.
+Dialogue: 0,0:38:05.46,0:38:11.07,辉中,,0,0,0,,After all, they can't leave the area unless they've completely wiped all of the infected within that area.
+Dialogue: 0,0:38:11.07,0:38:15.93,辉中,,0,0,0,,Once you get out of the supermarket, the blizzard starts to come in full force.
+Dialogue: 0,0:38:15.93,0:38:21.66,辉中,,0,0,0,,So Ellie and Dina race through the snow, and end up at a library that Dina knew about.
 Dialogue: 0,0:38:21.66,0:38:24.36,辉中,,0,0,0,,It's the previous abode of somebody named Eugene,
-Dialogue: 0,0:38:24.36,0:38:24.66,辉中,,0,0,0,,who,
-Dialogue: 0,0:38:24.66,0:38:28.50,辉中,,0,0,0,,by my calculations using the log book in the first outpost,
+Dialogue: 0,0:38:24.36,0:38:28.50,辉中,,0,0,0,,who, by my calculations, using the log book in the first outpost,
 Dialogue: 0,0:38:28.50,0:38:34.92,辉中,,0,0,0,,likely died of a stroke laid in the previous year just a few months before this game starts.
-Dialogue: 0,0:38:34.92,0:38:35.10,辉中,,0,0,0,,Well,
-Dialogue: 0,0:38:35.10,0:38:38.31,辉中,,0,0,0,,we know about him is that he was a firefly who served with Tommy,
+Dialogue: 0,0:38:34.92,0:38:38.31,辉中,,0,0,0,,Well, we know about him is that he was a firefly who served with Tommy,
 Dialogue: 0,0:38:38.31,0:38:42.45,辉中,,0,0,0,,and he was also an electronics geek who was a total hippy.
-Dialogue: 0,0:38:42.45,0:38:43.47,辉中,,0,0,0,,In other words,
-Dialogue: 0,0:38:43.47,0:38:46.32,辉中,,0,0,0,,he loved weed after being introduced to the workbench,
-Dialogue: 0,0:38:46.32,0:38:58.68,辉中,,0,0,0,,Which has to be the most awesome and kick ass weapon customization system I have ever seen in a game you went down to the basement where you find Eugene's true passion.
-Dialogue: 0,0:38:58.68,0:38:58.89,辉中,,0,0,0,,Now,
-Dialogue: 0,0:38:58.89,0:39:00.15,辉中,,0,0,0,,when I first saw all of this,
-Dialogue: 0,0:39:00.15,0:39:06.00,辉中,,0,0,0,,I had to ask the question Was he actually like selling this stuff?
-Dialogue: 0,0:39:06.00,0:39:07.17,辉中,,0,0,0,,Was he trading it?
-Dialogue: 0,0:39:07.17,0:39:07.56,辉中,,0,0,0,,I don't know.
-Dialogue: 0,0:39:07.56,0:39:09.21,辉中,,0,0,0,,maybe there's a notes that I missed.
+Dialogue: 0,0:38:42.45,0:38:44.42,辉中,,0,0,0,,In other words, he loved weed.
+Dialogue: 0,0:38:44.42,0:38:46.32,辉中,,0,0,0,,After being introduced to the workbench,
+Dialogue: 0,0:38:46.32,0:38:54.50,辉中,,0,0,0,,Which has to be the most awesome and kick ass weapon customization system I have ever seen in a game
+Dialogue: 0,0:38:54.50,0:38:58.68,辉中,,0,0,0,,you went down to the basement where you find Eugene's true passion.
+Dialogue: 0,0:38:58.68,0:39:00.15,辉中,,0,0,0,,Now, when I first saw all of this,
+Dialogue: 0,0:39:00.15,0:39:07.17,辉中,,0,0,0,,I had to ask the question: Was he actually like selling this stuff? Was he trading it?
+Dialogue: 0,0:39:07.17,0:39:09.21,辉中,,0,0,0,,I don't know, maybe there's a notes that I missed,
 Dialogue: 0,0:39:09.21,0:39:12.78,辉中,,0,0,0,,that explained what he was doing with all of this pot.
-Dialogue: 0,0:39:12.78,0:39:13.50,辉中,,0,0,0,,I don't know,
-Dialogue: 0,0:39:13.50,0:39:16.23,辉中,,0,0,0,,let me know if there is something there probably is,
-Dialogue: 0,0:39:16.23,0:39:17.40,辉中,,0,0,0,,and I just didn't find it.
-Dialogue: 0,0:39:17.40,0:39:22.56,辉中,,0,0,0,,But it seems as though it's a huge potential opportunity for Jackson in terms of trade.
-Dialogue: 0,0:39:22.56,0:39:27.36,辉中,,0,0,0,,If they had a whole of this marijuana to offer took transients coming in and out,
+Dialogue: 0,0:39:12.78,0:39:17.40,辉中,,0,0,0,,I don't know, let me know if there is something there probably is, and I just didn't find it.
+Dialogue: 0,0:39:17.40,0:39:22.56,辉中,,0,0,0,,But it seems as though it's a huge potential opportunity for Jackson in terms of trade,
+Dialogue: 0,0:39:22.56,0:39:27.36,辉中,,0,0,0,,if they had a whole of this marijuana to offer took transients coming in and out,
 Dialogue: 0,0:39:27.36,0:39:29.40,辉中,,0,0,0,,I mean it would be pretty funny if Jackson,
 Dialogue: 0,0:39:29.40,0:39:36.42,辉中,,0,0,0,,this thriving city in the apocalypse if their entire economy was based off of selling weed.
-Dialogue: 0,0:39:36.42,0:39:41.10,辉中,,0,0,0,,I think it would be hilarious and kind of cool that in this world,
-Dialogue: 0,0:39:41.10,0:39:44.58,辉中,,0,0,0,,this one thing this plant has brought everybody together.
-Dialogue: 0,0:39:44.58,0:39:44.88,辉中,,0,0,0,,I mean,
-Dialogue: 0,0:39:44.88,0:39:45.24,辉中,,0,0,0,,yeah,
-Dialogue: 0,0:39:45.24,0:39:46.35,辉中,,0,0,0,,I live in Colorado.
+Dialogue: 0,0:39:36.42,0:39:39.76,辉中,,0,0,0,,I think it would be hilarious and kind of cool
+Dialogue: 0,0:39:39.76,0:39:44.58,辉中,,0,0,0,,that in this world, this one thing this plant has brought everybody together.
+Dialogue: 0,0:39:44.58,0:39:46.35,辉中,,0,0,0,,I mean, yeah, I live in Colorado.
 Dialogue: 0,0:39:46.35,0:39:50.13,辉中,,0,0,0,,Maybe that's why I'm partial to that argument.
-Dialogue: 0,0:39:50.13,0:39:52.77,辉中,,0,0,0,,I mean I don't smoke and I don't.
-Dialogue: 0,0:39:52.77,0:39:53.67,辉中,,0,0,0,,I don't smoke.
-Dialogue: 0,0:39:54.72,0:39:55.32,辉中,,0,0,0,,Still,
-Dialogue: 0,0:39:55.32,0:39:56.34,辉中,,0,0,0,,like you live in Colorado,
-Dialogue: 0,0:39:56.34,0:39:57.75,辉中,,0,0,0,,everyone talks about pot,
-Dialogue: 0,0:39:57.75,0:39:58.77,辉中,,0,0,0,,and this is what you do.
-Dialogue: 0,0:39:58.77,0:40:00.15,辉中,,0,0,0,,What was I talking about?
-Dialogue: 0,0:40:00.15,0:40:00.36,辉中,,0,0,0,,Oh,
-Dialogue: 0,0:40:00.36,0:40:00.66,辉中,,0,0,0,,yeah,
-Dialogue: 0,0:40:00.66,0:40:02.31,辉中,,0,0,0,,Dana and Alli smoke a blunt.
-Dialogue: 0,0:40:02.31,0:40:07.71,辉中,,0,0,0,,They share in some high school musical style discussion about their kiss from the night before.
-Dialogue: 0,0:40:07.71,0:40:10.80,辉中,,0,0,0,,and then they share another one and then a few other ones,
-Dialogue: 0,0:40:10.80,0:40:12.33,辉中,,0,0,0,,and eventually their overcome.
-Dialogue: 0,0:40:12.33,0:40:15.60,辉中,,0,0,0,,And they begin making out as we cut too.
-Dialogue: 0,0:40:15.60,0:40:16.02,辉中,,0,0,0,,Abby.
-Dialogue: 0,0:40:16.02,0:40:16.62,辉中,,0,0,0,,Once again,
+Dialogue: 0,0:39:50.13,0:39:53.67,辉中,,0,0,0,,I mean I don't smoke and I don't … I don't smoke.
+Dialogue: 0,0:39:53.80,0:39:58.77,辉中,,0,0,0,,But, still, like you live in Colorado, everyone talks about pot, and this is what you do.
+Dialogue: 0,0:39:58.77,0:40:00.66,辉中,,0,0,0,,What was I talking about? Oh, yeah!
+Dialogue: 0,0:40:00.66,0:40:02.31,辉中,,0,0,0,,Dana and Ellie smoke a blunt.
+Dialogue: 0,0:40:02.31,0:40:07.71,辉中,,0,0,0,,They shared some high school musical style discussion about their kiss from the night before.
+Dialogue: 0,0:40:07.71,0:40:10.80,辉中,,0,0,0,,And then they share another one and then a few other ones,
+Dialogue: 0,0:40:10.80,0:40:16.62,辉中,,0,0,0,,and eventually their overcome, and they begin making out as we cut to Abby, once again.
 Dialogue: 0,0:40:16.62,0:40:18.51,辉中,,0,0,0,,she's running from all sorts of hordes.
-Dialogue: 0,0:40:18.51,0:40:19.89,辉中,,0,0,0,,She's making a lot of noise,
-Dialogue: 0,0:40:19.89,0:40:21.75,辉中,,0,0,0,,and they are definitely hearing it.
+Dialogue: 0,0:40:18.51,0:40:21.75,辉中,,0,0,0,,She's making a lot of noise, and they are definitely hearing it.
 Dialogue: 0,0:40:21.75,0:40:26.04,辉中,,0,0,0,,This increases the tension a lot after the calm of the previous scene.
 Dialogue: 0,0:40:26.04,0:40:28.29,辉中,,0,0,0,,And this type of pacing is going to happen often.
-Dialogue: 0,0:40:28.29,0:40:29.10,辉中,,0,0,0,,Honestly,
-Dialogue: 0,0:40:29.10,0:40:29.70,辉中,,0,0,0,,I love it.
-Dialogue: 0,0:40:29.70,0:40:30.48,辉中,,0,0,0,,It's a very common,
-Dialogue: 0,0:40:30.48,0:40:32.46,辉中,,0,0,0,,naughty dog tactic they work you up,
-Dialogue: 0,0:40:32.46,0:40:41.37,辉中,,0,0,0,,and then they contrast it with something that's very calm that lowers your heart rate only to whack you over the head again and then luring you back into a sense of calm.
+Dialogue: 0,0:40:28.29,0:40:29.70,辉中,,0,0,0,,Honestly, I love it.
+Dialogue: 0,0:40:29.70,0:40:31.50,辉中,,0,0,0,,It's a very common Naughty Dog tactic.
+Dialogue: 0,0:40:31.50,0:40:36.05,辉中,,0,0,0,,They work you up, and then they contrast it with something that's very calm that lowers your heart rate
+Dialogue: 0,0:40:36.05,0:40:41.37,辉中,,0,0,0,,only to whack you over the head again and then luring you back into a sense of calm.
 Dialogue: 0,0:40:41.37,0:40:44.52,辉中,,0,0,0,,The best example would be in the opening of the original game.
 Dialogue: 0,0:40:44.52,0:40:46.59,辉中,,0,0,0,,Everything's calm and relaxed,
 Dialogue: 0,0:40:46.59,0:40:50.88,辉中,,0,0,0,,And then the world starts to fall apart and everything's terrible and then your daughter dies,
-Dialogue: 0,0:40:50.88,0:40:58.65,辉中,,0,0,0,,and then you cut forward to Joel sleeping on a mattress twenty years later and having a very calm,
-Dialogue: 0,0:40:58.65,0:41:06.18,辉中,,0,0,0,,comparatively conversation with tests and prepare your butts because this is going to happen on a regular basis throughout all of the sequel.
-Dialogue: 0,0:41:06.18,0:41:06.90,辉中,,0,0,0,,And thankfully,
-Dialogue: 0,0:41:06.90,0:41:11.52,辉中,,0,0,0,,the predictability of this doesn't actually negatively affect the efficacy of this mechanism.
-Dialogue: 0,0:41:11.52,0:41:16.08,辉中,,0,0,0,,It still works pretty well now as you run as Abbey through all of these hordes,
-Dialogue: 0,0:41:16.08,0:41:21.81,辉中,,0,0,0,,you eventually reach a chain link fence you squeeze through it and a bunch of zombies grab onto you,
-Dialogue: 0,0:41:21.81,0:41:26.85,辉中,,0,0,0,,start ripping your hat off and doing all sorts of gross stuff,
-Dialogue: 0,0:41:26.85,0:41:28.23,辉中,,0,0,0,,and then one breaks through,
-Dialogue: 0,0:41:28.23,0:41:29.13,辉中,,0,0,0,,and this happen.
+Dialogue: 0,0:40:50.88,0:40:55.75,辉中,,0,0,0,,and then you cut forward to Joel sleeping on a mattress twenty years later
+Dialogue: 0,0:40:55.75,0:41:00.97,辉中,,0,0,0,,and having a very calm, comparatively conversation with Tess
+Dialogue: 0,0:41:00.97,0:41:06.18,辉中,,0,0,0,,and prepare your butts because this is going to happen on a regular basis throughout all of the sequel.
+Dialogue: 0,0:41:06.18,0:41:11.52,辉中,,0,0,0,,And thankfully, the predictability of this doesn't actually negatively affect the efficacy of this mechanism.
+Dialogue: 0,0:41:11.52,0:41:12.70,辉中,,0,0,0,,It still works pretty well.
+Dialogue: 0,0:41:12.70,0:41:18.28,辉中,,0,0,0,,Now as you run as Abby through all of these hordes, you eventually reach a chain link fence.
+Dialogue: 0,0:41:18.28,0:41:21.81,辉中,,0,0,0,,You squeeze through it and a bunch of zombies grab onto you,
+Dialogue: 0,0:41:21.81,0:41:28.23,辉中,,0,0,0,,start ripping your hat off and doing all sorts of gross stuff, and then one breaks through,
+Dialogue: 0,0:41:28.23,0:41:29.13,辉中,,0,0,0,,and this happens.
 Dialogue: 0,0:41:46.44,0:41:48.00,辉中,,0,0,0,,Now they haven't been introduced yet.
-Dialogue: 0,0:41:48.00,0:41:49.26,辉中,,0,0,0,,but as of right now,
-Dialogue: 0,0:41:49.26,0:41:51.54,辉中,,0,0,0,,Abby's just glad to be alive.
+Dialogue: 0,0:41:48.00,0:41:51.54,辉中,,0,0,0,,but as of right now, Abby's just glad to be alive.
 Dialogue: 0,0:41:51.54,0:41:52.92,辉中,,0,0,0,,As far as she knows,
-Dialogue: 0,0:41:52.92,0:41:54.75,辉中,,0,0,0,,Joel is just some random guy,
-Dialogue: 0,0:41:54.75,0:41:55.80,辉中,,0,0,0,,as is Tommy,
-Dialogue: 0,0:41:55.80,0:42:00.54,辉中,,0,0,0,,and they just happened to be in the right place at the right time to save her again.
-Dialogue: 0,0:42:00.54,0:42:01.32,辉中,,0,0,0,,a coincidence.
-Dialogue: 0,0:42:01.32,0:42:10.44,辉中,,0,0,0,,This one's a little harder to justify and explained because they have no reason to be out at this dead and area of a building they have likely been in before.
+Dialogue: 0,0:41:52.92,0:41:55.80,辉中,,0,0,0,,Joel is just some random guy, as is Tommy,
+Dialogue: 0,0:41:55.80,0:41:59.71,辉中,,0,0,0,,and they just happened to be in the right place at the right time to save her.
+Dialogue: 0,0:41:59.71,0:42:01.32,辉中,,0,0,0,,Again, a coincidence.
+Dialogue: 0,0:42:01.32,0:42:04.75,辉中,,0,0,0,,This one's a little harder to justify and explained.
+Dialogue: 0,0:42:04.75,0:42:10.44,辉中,,0,0,0,,Because they have no reason to be out at this dead end area of a building they have likely been in before.
 Dialogue: 0,0:42:10.44,0:42:13.68,辉中,,0,0,0,,All of you escaped together to a ski lodge at the top of the mountain.
-Dialogue: 0,0:42:13.68,0:42:14.82,辉中,,0,0,0,,you up on some horses,
+Dialogue: 0,0:42:13.68,0:42:14.82,辉中,,0,0,0,,You up on some horses,
 Dialogue: 0,0:42:14.82,0:42:18.96,辉中,,0,0,0,,and after a brief introduction wherein Abby learns who she's with,
 Dialogue: 0,0:42:18.96,0:42:23.55,辉中,,0,0,0,,she recommends that they weighed out the storm in a mansion that she and her friends have been staying in.
-Dialogue: 0,0:42:23.55,0:42:30.75,辉中,,0,0,0,,Joel and Tommy agree to go without any significant hesitance beyond the initial belief that they could survive in the lodge Once again.
-Dialogue: 0,0:42:30.75,0:42:32.55,辉中,,0,0,0,,it's another coincidence.
-Dialogue: 0,0:42:32.55,0:42:33.39,辉中,,0,0,0,,Joel and Tommy.
-Dialogue: 0,0:42:33.39,0:42:34.56,辉中,,0,0,0,,aren't this naive,
-Dialogue: 0,0:42:34.56,0:42:39.27,辉中,,0,0,0,,or at the very least they shouldn't be even when pushed in these extreme conditions.
-Dialogue: 0,0:42:39.27,0:42:40.02,辉中,,0,0,0,,What I mean is,
-Dialogue: 0,0:42:40.02,0:42:42.27,辉中,,0,0,0,,I understand that there's a blizzard raging,
-Dialogue: 0,0:42:42.27,0:42:47.49,辉中,,0,0,0,,And I understand that that would push them into choices that they wouldn't otherwise make.
-Dialogue: 0,0:42:47.49,0:42:49.35,辉中,,0,0,0,,Should the weather be fine and dandy,
-Dialogue: 0,0:42:49.35,0:42:51.15,辉中,,0,0,0,,But Joel and Tommy aren't stupid,
-Dialogue: 0,0:42:51.15,0:42:53.49,辉中,,0,0,0,,and they know not to trust strangers,
+Dialogue: 0,0:42:23.55,0:42:26.98,辉中,,0,0,0,,Joel and Tommy agree to go without any significant hesitance
+Dialogue: 0,0:42:26.98,0:42:29.92,辉中,,0,0,0,,beyond the initial belief that they could survive in the lodge.
+Dialogue: 0,0:42:30.05,0:42:32.55,辉中,,0,0,0,,Once again, it's another coincidence.
+Dialogue: 0,0:42:32.55,0:42:34.49,辉中,,0,0,0,,Joel and Tommy, aren't this naive, 
+Dialogue: 0,0:42:34.49,0:42:39.27,辉中,,0,0,0,,or at the very least they shouldn't be, even when pushed in these extreme conditions.
+Dialogue: 0,0:42:39.27,0:42:42.27,辉中,,0,0,0,,我的意思是我明白外面暴风雪肆虐\NWhat I mean is, I understand that there's a blizzard raging,
+Dialogue: 0,0:42:42.27,0:42:47.49,辉中,,0,0,0,,我也明白这会让他们做出相比天气晴好的时候不会做出的选择\Nand I understand that would push them into choices that they wouldn't otherwise make,
+Dialogue: 0,0:42:47.49,0:42:49.35,辉中,,0,0,0,,我也明白这会让他们做出相比天气晴好的时候不会做出的选择\Nshould the weather be fine and dandy.
+Dialogue: 0,0:42:49.35,0:42:53.49,辉中,,0,0,0,,But Joel and Tommy aren't stupid, and they know not to trust strangers,
 Dialogue: 0,0:42:53.49,0:42:58.44,辉中,,0,0,0,,even a stranger that looks as innocent as hulked out heroin.
-Dialogue: 0,0:42:58.44,0:43:06.93,辉中,,0,0,0,,and they definitely should know that they shouldn't trust a group of strangers that are living out of a mansion that's on their patrol route,
-Dialogue: 0,0:43:06.93,0:43:07.41,辉中,,0,0,0,,she says.
-Dialogue: 0,0:43:07.41,0:43:10.59,辉中,,0,0,0,,They've been staying there for a few days that they have weapons,
-Dialogue: 0,0:43:10.59,0:43:14.22,辉中,,0,0,0,,food and all sorts of things that could help Joel and Tommy.
-Dialogue: 0,0:43:14.22,0:43:17.55,辉中,,0,0,0,,while it's nice that she's offering to help them in this way,
+Dialogue: 0,0:42:58.44,0:43:03.51,辉中,,0,0,0,,and they definitely should know that they shouldn't trust a group of strangers
+Dialogue: 0,0:43:03.51,0:43:06.93,辉中,,0,0,0,,that are living out of a mansion that's on their patrol route.
+Dialogue: 0,0:43:06.93,0:43:09.20,辉中,,0,0,0,,She says they've been staying there for a few days
+Dialogue: 0,0:43:09.20,0:43:14.22,辉中,,0,0,0,,that they have weapons, food and all sorts of things that could help Joel and Tommy.
+Dialogue: 0,0:43:14.22,0:43:17.55,辉中,,0,0,0,,While it's nice that she's offering to help them in this way,
 Dialogue: 0,0:43:17.55,0:43:23.22,辉中,,0,0,0,,it should also raise a lot of red flags that she's willing to help them first of all,
 Dialogue: 0,0:43:23.22,0:43:30.15,辉中,,0,0,0,,and also that this giant group of people is present so close to Jackson without their knowledge.
-Dialogue: 0,0:43:30.15,0:43:33.66,辉中,,0,0,0,,But nonetheless Julian Tommy agree to go once you arrive at the cabin.
-Dialogue: 0,0:43:33.66,0:43:34.35,辉中,,0,0,0,,Joel Tommy,
-Dialogue: 0,0:43:34.35,0:43:36.93,辉中,,0,0,0,,an Abbey Dismount and settle into the house.
-Dialogue: 0,0:43:36.93,0:43:38.58,辉中,,0,0,0,,Abby is clearly distressed,
-Dialogue: 0,0:43:38.58,0:43:41.82,辉中,,0,0,0,,while Tommy and Joel are none the wiser again.
-Dialogue: 0,0:43:41.82,0:43:47.16,辉中,,0,0,0,,The dread is building something is very wrong.
-Dialogue: 0,0:43:47.16,0:43:49.65,辉中,,0,0,0,,Every one moves into the nearby basement room,
-Dialogue: 0,0:43:49.65,0:43:52.86,辉中,,0,0,0,,And Tommy and Joel introduce themselves again.
-Dialogue: 0,0:43:52.86,0:43:58.65,辉中,,0,0,0,,This might be construed as out of character that they would use their real names to a bunch of strangers.
-Dialogue: 0,0:43:58.65,0:44:00.09,辉中,,0,0,0,,But in my opinion,
-Dialogue: 0,0:44:00.09,0:44:06.03,辉中,,0,0,0,,it's not actually stretch because Tommy and Joel have no reason to believe that their first names could give them away,
+Dialogue: 0,0:43:30.15,0:43:32.36,辉中,,0,0,0,,But nonetheless Joel and Tommy agree to go.
+Dialogue: 0,0:43:32.36,0:43:36.93,辉中,,0,0,0,,Once you arrive at the cabin, Joel, Tommy, and Abby dismount and settle into the house.
+Dialogue: 0,0:43:36.93,0:43:40.81,辉中,,0,0,0,,Abby is clearly distressed, while Tommy and Joel are none the wiser.
+Dialogue: 0,0:43:40.81,0:43:47.16,辉中,,0,0,0,,Again, the dread is building. Something is very wrong.
+Dialogue: 0,0:43:47.16,0:43:52.01,辉中,,0,0,0,,Everyone moves into the nearby basement room, And Tommy and Joel introduce themselves.
+Dialogue: 0,0:43:52.01,0:43:56.08,辉中,,0,0,0,,Again, this might be construed as out of character
+Dialogue: 0,0:43:56.08,0:43:58.65,辉中,,0,0,0,,that they would use their real names to a bunch of strangers.
+Dialogue: 0,0:43:58.65,0:44:01.29,辉中,,0,0,0,,But in my opinion, it's not actually stretch
+Dialogue: 0,0:44:01.29,0:44:06.03,辉中,,0,0,0,,because Tommy and Joel have no reason to believe that their first names could give them away,
 Dialogue: 0,0:44:06.03,0:44:09.18,辉中,,0,0,0,,or that one of them is being hunted for that matter.
-Dialogue: 0,0:44:09.18,0:44:09.57,辉中,,0,0,0,,Yes,
-Dialogue: 0,0:44:09.57,0:44:12.18,辉中,,0,0,0,,they've all done a lot of really messed up stuff,
+Dialogue: 0,0:44:09.18,0:44:12.18,辉中,,0,0,0,,Yes, they've all done a lot of really messed up stuff,
 Dialogue: 0,0:44:12.18,0:44:17.40,辉中,,0,0,0,,but knowing somebody's first name and hunting them down across the country,
 Dialogue: 0,0:44:17.40,0:44:19.20,辉中,,0,0,0,,that seems like a bit of a stretch.
-Dialogue: 0,0:44:19.20,0:44:28.71,辉中,,0,0,0,,But here we are point is I don't think that it's unrealistic that Joel and Tommy use their real names when introducing themselves to a group that seemingly is helping them out.
-Dialogue: 0,0:44:28.71,0:44:36.78,辉中,,0,0,0,,And I have to say it's pretty impressive at how slow and steady the dread is building throughout this entire introductory sequence,
-Dialogue: 0,0:44:36.78,0:44:38.55,辉中,,0,0,0,,the prologue of the game,
-Dialogue: 0,0:44:38.55,0:44:39.87,辉中,,0,0,0,,and then at this very moment,
-Dialogue: 0,0:44:39.87,0:44:47.91,辉中,,0,0,0,,when Joel says his name and everybody's faces turn from very friendly to cold and evil,
-Dialogue: 0,0:44:47.91,0:44:51.30,辉中,,0,0,0,,it's a moment that I'm not sure I'll ever forget the second,
-Dialogue: 0,0:44:51.30,0:44:52.98,辉中,,0,0,0,,Joel says his name,
-Dialogue: 0,0:44:52.98,0:44:54.18,辉中,,0,0,0,,The Rome shifts.
-Dialogue: 0,0:44:54.18,0:44:57.60,辉中,,0,0,0,,You could hear a pin drop instead of being friendly.
-Dialogue: 0,0:44:57.60,0:45:01.53,辉中,,0,0,0,,They all looked at him as though their hyenas looking at their next meal.
-Dialogue: 0,0:45:01.53,0:45:10.62,辉中,,0,0,0,,And it's important to note that this kindness that we feel before Joel introduces himself is very important and it will come up again later.
-Dialogue: 0,0:45:10.62,0:45:12.21,辉中,,0,0,0,,I promise you now,
-Dialogue: 0,0:45:12.21,0:45:14.16,辉中,,0,0,0,,Joel picks up on this shift,
-Dialogue: 0,0:45:14.16,0:45:16.62,辉中,,0,0,0,,and this plays out fishing.
-Dialogue: 0,0:45:19.05,0:45:20.97,辉中,,0,0,0,,Tommy is my brother.
-Dialogue: 0,0:45:22.83,0:45:23.16,辉中,,0,0,0,,Joe.
-Dialogue: 0,0:45:29.91,0:45:31.41,辉中,,0,0,0,,I'd like you heard of us or some.
-Dialogue: 0,0:45:33.87,0:45:34.56,辉中,,0,0,0,,Because they have.
-Dialogue: 0,0:45:45.78,0:45:46.77,辉中,,0,0,0,,Clare,
-Dialogue: 0,0:45:46.77,0:45:47.13,辉中,,0,0,0,,he's out.
-Dialogue: 0,0:45:51.81,0:45:51.84,辉中,,0,0,0,,Ah.
-Dialogue: 0,0:45:54.99,0:45:55.02,辉中,,0,0,0,,Ah.
-Dialogue: 0,0:46:12.39,0:46:12.84,辉中,,0,0,0,,Chalk.
-Dialogue: 0,0:46:19.08,0:46:19.68,辉中,,0,0,0,,Who are you?
-Dialogue: 0,0:46:21.66,0:46:22.26,辉中,,0,0,0,,I guess.
-Dialogue: 0,0:46:35.25,0:46:35.49,辉中,,0,0,0,,Well,
-Dialogue: 0,0:46:35.49,0:46:35.85,辉中,,0,0,0,,you say,
-Dialogue: 0,0:46:35.85,0:46:39.09,辉中,,0,0,0,,whatever speed you got rehearsed software.
-Dialogue: 0,0:46:47.16,0:46:47.94,辉中,,0,0,0,,Tourniquet is like.
-Dialogue: 0,0:46:49.68,0:46:50.01,辉中,,0,0,0,,Do it.
-Dialogue: 0,0:47:04.38,0:47:05.13,辉中,,0,0,0,,Don't you fuck him?
-Dialogue: 0,0:47:08.79,0:47:09.39,辉中,,0,0,0,,dot.
-Dialogue: 0,0:47:19.77,0:47:20.22,辉中,,0,0,0,,Clear up.
-Dialogue: 0,0:47:34.89,0:47:35.58,辉中,,0,0,0,,Stupid.
-Dialogue: 0,0:47:41.37,0:47:42.72,辉中,,0,0,0,,You don't need to rush this.
-Dialogue: 0,0:47:43.95,0:47:43.98,辉中,,0,0,0,,Ah.
-Dialogue: 0,0:47:45.63,0:47:46.32,辉中,,0,0,0,,We cut back too,
-Dialogue: 0,0:47:46.32,0:47:46.65,辉中,,0,0,0,,Ellie,
-Dialogue: 0,0:47:46.65,0:47:48.36,辉中,,0,0,0,,closing in on the cabin now,
-Dialogue: 0,0:47:48.36,0:47:52.29,辉中,,0,0,0,,right before jolyon Tommy pushed up to the cabin with Abbey.
+Dialogue: 0,0:44:19.20,0:44:20.39,辉中,,0,0,0,,But here we are.
+Dialogue: 0,0:44:20.39,0:44:24.88,辉中,,0,0,0,,Point is I don't think that it's unrealistic that Joel and Tommy use their real names
+Dialogue: 0,0:44:24.88,0:44:28.71,辉中,,0,0,0,,when introducing themselves to a group that seemingly is helping them out.
+Dialogue: 0,0:44:28.71,0:44:32.52,辉中,,0,0,0,,And I have to say it's pretty impressive at how slow and steady
+Dialogue: 0,0:44:32.52,0:44:38.55,辉中,,0,0,0,,the dread is building throughout this entire introductory sequence, the prologue of the game.
+Dialogue: 0,0:44:38.55,0:44:39.87,辉中,,0,0,0,,And then at this very moment,
+Dialogue: 0,0:44:39.87,0:44:47.91,辉中,,0,0,0,,when Joel says his name and everybody's faces turn from very friendly to cold and evil.
+Dialogue: 0,0:44:47.91,0:44:50.41,辉中,,0,0,0,,It's a moment that I'm not sure I'll ever forget
+Dialogue: 0,0:44:50.41,0:44:54.18,辉中,,0,0,0,,the second Joel says his name, the room shifts.
+Dialogue: 0,0:44:54.18,0:44:56.36,辉中,,0,0,0,,You could hear a pin drop.
+Dialogue: 0,0:44:56.36,0:45:01.53,辉中,,0,0,0,,Instead of being friendly, they all looked at him as though their hyenas looking at their next meal.
+Dialogue: 0,0:45:01.53,0:45:07.00,辉中,,0,0,0,,And it's important to note that this kindness that we feel before Joel introduces himself
+Dialogue: 0,0:45:07.00,0:45:11.97,辉中,,0,0,0,,is very important and it will come up again later, I promise you.
+Dialogue: 0,0:45:11.97,0:45:15.92,辉中,,0,0,0,,Now Joel picks up on this shift, and this plays out.
+Dialogue: 0,0:47:45.63,0:47:48.06,辉中,,0,0,0,,We cut back to Ellie, closing in on the cabin.
+Dialogue: 0,0:47:48.06,0:47:52.29,辉中,,0,0,0,,Now right before Joel and Tommy pushed up to the cabin with Abby,
 Dialogue: 0,0:47:52.29,0:48:01.26,辉中,,0,0,0,,We saw Jesse come across Abby and Dina in the basement of Eugene's library in a compromised position.
-Dialogue: 0,0:48:01.26,0:48:06.48,辉中,,0,0,0,,He tells them that Joel and Tommy are missing and nobody has seen them since the storm came in,
+Dialogue: 0,0:48:01.26,0:48:06.48,辉中,,0,0,0,,He tells them that Joel and Tommy are missing and nobody has seen them since the storm came in.
 Dialogue: 0,0:48:06.48,0:48:10.35,辉中,,0,0,0,,Ellie becomes panicked and races off to help find them.
-Dialogue: 0,0:48:10.35,0:48:17.16,辉中,,0,0,0,,It's important to note also that Ellie stressed that they should all split up to try and cover as much ground as possible.
-Dialogue: 0,0:48:17.16,0:48:23.04,辉中,,0,0,0,,Some people have said that this itself is a coincidence or a bit of a stretch that they wouldn't actually do this but again,
-Dialogue: 0,0:48:23.04,0:48:23.94,辉中,,0,0,0,,think about it.
-Dialogue: 0,0:48:23.94,0:48:25.56,辉中,,0,0,0,,From her perspective.
-Dialogue: 0,0:48:25.56,0:48:26.73,辉中,,0,0,0,,I don't think it's a stretch.
+Dialogue: 0,0:48:10.35,0:48:13.41,辉中,,0,0,0,,It's important to note also that Ellie stressed
+Dialogue: 0,0:48:13.41,0:48:17.16,辉中,,0,0,0,,that they should all split up to try and cover as much ground as possible.
+Dialogue: 0,0:48:17.16,0:48:19.72,辉中,,0,0,0,,Some people have said that this itself is a coincidence
+Dialogue: 0,0:48:19.72,0:48:22.37,辉中,,0,0,0,,or a bit of a stretch that they wouldn't actually do this,
+Dialogue: 0,0:48:22.37,0:48:23.94,辉中,,0,0,0,,but again, think about it.
+Dialogue: 0,0:48:23.94,0:48:26.73,辉中,,0,0,0,,From her perspective, I don't think it's a stretch.
 Dialogue: 0,0:48:26.73,0:48:28.56,辉中,,0,0,0,,Because as far as Ellie is concerned,
-Dialogue: 0,0:48:28.56,0:48:36.27,辉中,,0,0,0,,it's very possible that Joel and Tommy simply had to bunker down somewhere because of the blizzard and were caught there by surprise.
-Dialogue: 0,0:48:36.27,0:48:42.15,辉中,,0,0,0,,It's not to say that she expected gold to be hunted by some random chick from Seattle.
-Dialogue: 0,0:48:42.15,0:48:46.05,辉中,,0,0,0,,But regardless every body breaks off looking for Joel and Tommy.
-Dialogue: 0,0:48:46.05,0:48:48.24,辉中,,0,0,0,,after Abby starts her attack on Joel,
-Dialogue: 0,0:48:48.24,0:48:49.05,辉中,,0,0,0,,we cut to Ellie,
-Dialogue: 0,0:48:49.05,0:48:50.37,辉中,,0,0,0,,Closing in on the cabin,
-Dialogue: 0,0:48:50.37,0:48:52.92,辉中,,0,0,0,,they give a bit of a fake out here by dropping some ammo.
-Dialogue: 0,0:48:52.92,0:48:54.54,辉中,,0,0,0,,Right as you enter the cabin,
+Dialogue: 0,0:48:28.56,0:48:33.80,辉中,,0,0,0,,it's very possible that Joel and Tommy simply had to bunker down somewhere because of the blizzard
+Dialogue: 0,0:48:33.80,0:48:36.27,辉中,,0,0,0,,and were caught there by surprise.
+Dialogue: 0,0:48:36.27,0:48:42.15,辉中,,0,0,0,,It's not to say that she expected Joel to be hunted by some random chick from Seattle.
+Dialogue: 0,0:48:42.15,0:48:46.05,辉中,,0,0,0,,But regardless everybody breaks off looking for Joel and Tommy.
+Dialogue: 0,0:48:46.05,0:48:50.37,辉中,,0,0,0,,After Abby starts her attack on Joel, we cut to Ellie, closing in on the cabin,
+Dialogue: 0,0:48:50.37,0:48:54.54,辉中,,0,0,0,,they give a bit of a fake out here by dropping some ammo right as you enter the cabin,
 Dialogue: 0,0:48:54.54,0:48:56.70,辉中,,0,0,0,,which makes the player think that you're about to fight.
 Dialogue: 0,0:48:56.70,0:48:58.08,辉中,,0,0,0,,I actually really like it.
-Dialogue: 0,0:48:58.08,0:48:58.98,辉中,,0,0,0,,When games do this,
-Dialogue: 0,0:48:58.98,0:49:00.09,辉中,,0,0,0,,do this little fake out.
+Dialogue: 0,0:48:58.08,0:49:00.09,辉中,,0,0,0,,When games do this, do this little fake out.
 Dialogue: 0,0:49:00.09,0:49:01.14,辉中,,0,0,0,,So you're prepped for a fight,
-Dialogue: 0,0:49:01.14,0:49:02.34,辉中,,0,0,0,,and then it's taken away from you,
-Dialogue: 0,0:49:02.34,0:49:04.23,辉中,,0,0,0,,but I know that's just me.
-Dialogue: 0,0:49:04.23,0:49:07.98,辉中,,0,0,0,,Of course this is in the case because the second that we enter the basement,
-Dialogue: 0,0:49:07.98,0:49:08.85,辉中,,0,0,0,,this happens.
-Dialogue: 0,0:49:24.24,0:49:24.48,辉中,,0,0,0,,Get up.
-Dialogue: 0,0:49:28.50,0:49:28.53,辉中,,0,0,0,,Ah.
-Dialogue: 0,0:49:37.23,0:49:37.77,辉中,,0,0,0,,Die.
-Dialogue: 0,0:49:40.11,0:49:47.34,辉中,,0,0,0,,What's going on here is that once you have enough outside anyone else to show off,
-Dialogue: 0,0:49:47.34,0:49:48.42,辉中,,0,0,0,,how did you expect?
-Dialogue: 0,0:49:49.62,0:49:51.24,辉中,,0,0,0,,We've got to get out of here before the whole towns,
-Dialogue: 0,0:49:51.24,0:49:51.93,辉中,,0,0,0,,autonomous.
-Dialogue: 0,0:49:54.84,0:49:57.12,辉中,,0,0,0,,You've done what I want right.
-Dialogue: 0,0:49:58.62,0:49:59.13,辉中,,0,0,0,,And it.
-Dialogue: 0,0:50:09.00,0:50:11.31,辉中,,0,0,0,,Get up your fucking.
-Dialogue: 0,0:50:11.31,0:50:11.73,辉中,,0,0,0,,get up.
-Dialogue: 0,0:50:14.49,0:50:17.88,辉中,,0,0,0,,Please stop this.
-Dialogue: 0,0:50:20.40,0:50:21.78,辉中,,0,0,0,,Just please get up.
+Dialogue: 0,0:49:01.14,0:49:04.23,辉中,,0,0,0,,and then it's taken away from you, but I know that's just me.
+Dialogue: 0,0:49:04.23,0:49:08.85,辉中,,0,0,0,,Of course this is in the case because the second that we enter the basement, this happens.
 Dialogue: 0,0:51:15.15,0:51:19.44,辉中,,0,0,0,,There are some heated discussion between the members of Abby's party as to what to do with Ellie.
-Dialogue: 0,0:51:19.44,0:51:20.49,辉中,,0,0,0,,It's all very muffled,
-Dialogue: 0,0:51:20.49,0:51:22.14,辉中,,0,0,0,,and you can't understand any of it,
+Dialogue: 0,0:51:19.44,0:51:22.14,辉中,,0,0,0,,It's all very muffled, and you can't understand any of it,
 Dialogue: 0,0:51:22.14,0:51:24.90,辉中,,0,0,0,,though we will get to see this from another perspective later.
 Dialogue: 0,0:51:24.90,0:51:26.73,辉中,,0,0,0,,Eventually they just knocked her out.
-Dialogue: 0,0:51:26.73,0:51:29.94,辉中,,0,0,0,,and Elie wakes up after some time to Dena and Jesse.
-Dialogue: 0,0:51:29.94,0:51:33.00,辉中,,0,0,0,,Rescuing them at this point is not clear if Tommy survived,
-Dialogue: 0,0:51:33.00,0:51:35.76,辉中,,0,0,0,,but it's clear that Joel did not.
-Dialogue: 0,0:51:40.32,0:51:41.22,辉中,,0,0,0,,The?
+Dialogue: 0,0:51:26.73,0:51:30.94,辉中,,0,0,0,,and Ellie wakes up after some time to Dina and Jesse rescuing them.
+Dialogue: 0,0:51:30.94,0:51:35.76,辉中,,0,0,0,,At this point is not clear if Tommy survived, but it's clear that Joel did not.
 Dialogue: 0,0:51:45.39,0:51:51.12,辉中,,0,0,0,,You know what this is as good a time as any to address the elephant in the room dead on the floor,
 Dialogue: 0,0:51:51.12,0:51:52.41,辉中,,0,0,0,,I had the game spoiled for me,
 Dialogue: 0,0:51:52.41,0:51:55.56,辉中,,0,0,0,,so I knew that Joel was going to die at some point.
