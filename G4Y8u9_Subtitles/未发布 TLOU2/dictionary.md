@@ -1,8 +1,10 @@
+翻译主要取自游戏简体中文版、维基百科
+
 ## 人物/组织/感染者
 |FULLNAME|NAME|中文|备注|
 |:----|:----|:----|:----|
 |-|Fireflies|火萤组织|前作组织|
-||WLF|||
+|Washington Liberation Front|WLF|华盛顿解放战线|西雅图帮派之一|
 |-|Seraphites|赛拉菲特|西雅图帮派之一|
 |-|Scars|疤脸帮|赛拉菲特帮的人的称呼|
 |Joel Miller|Joel|乔尔·米勒|前作主角|
