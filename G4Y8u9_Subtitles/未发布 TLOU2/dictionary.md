@@ -23,7 +23,10 @@
 |Isaac Dixon|Isaac|伊萨克|WLF头领之一|
 |-|Jordan|乔丹|WLF成员，Leah之爱人|
 |-|Leah|利娅|WLF8人之一 被疤脸帮杀害|
+|-|Danny|丹尼|WLF成员|
+|-|Prophet/Prophetess|先知大人/先知|疤脸帮信奉的神|
 |-|Lev|勒弗|疤脸帮成员|
+|-|Lily|？|勒弗的另一个名字|
 |-|Yara|雅拉|疤脸帮成员|
 |-|Mike|麦克|疤脸帮成员|
 |-|Seraphite Brute|赛拉菲特野蛮人|几个赛拉菲特的小boss|
@@ -48,6 +51,7 @@
 |KMAB 13 News Station|13频道电视台|西雅图Day1的广播电台|
 |Hillcrest|希尔科列斯特|西雅图Day2的地区|
 |Santa Barbara|圣塔芭芭拉||
+|Ground Zero|？|医院地下室 疫情爆发点|
 |St Mary's Hospital|圣玛莉医院|前作火萤组织的医院|
 
 ## 其他
@@ -74,3 +78,7 @@
 |Atreus|阿特柔斯|真正的战神|
 |Faye|菲|阿特柔斯他妈|
 |realms/nine realms|九界|战神的世界？|
+|The Elder Scrolls V: Skyrim|上古卷轴V：天际|2011年RPG|
+|Death Stranding|死亡搁浅|小岛秀夫2019年游戏|
+|Mad Max|疯狂麦克斯|2015年游戏|
+|Bethesda Game Studios/Bethesda|贝塞斯达游戏工作室/贝塞斯达|辐射 上古卷轴制作商|
