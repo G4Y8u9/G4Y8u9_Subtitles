@@ -26,7 +26,7 @@
 |-|Danny|丹尼|WLF成员|
 |-|Prophet/Prophetess|先知大人/先知|疤脸帮信奉的神|
 |-|Lev|勒弗|疤脸帮成员|
-|-|Lily|？|勒弗的另一个名字|
+|-|Lily|莉莉|勒弗的另一个名字|
 |-|Yara|雅拉|疤脸帮成员|
 |-|Mike|麦克|疤脸帮成员|
 |-|Seraphite Brute|赛拉菲特野蛮人|几个赛拉菲特的小boss|
