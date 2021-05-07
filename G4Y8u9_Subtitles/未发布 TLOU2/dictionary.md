@@ -76,13 +76,15 @@
 |The Legend of Zelda: Breath of the Wild|塞尔达传说 旷野之息|抄袭原神！（|
 |Red dead redemption 2|荒野大镖客：救赎2|Rockstar的游戏|
 |Arthur|亚瑟|RDR2的主角|
-|Rockstar|R星|RDR2的制作组|
+|Rockstar|R星|RDR2的制作商|
 |God of War|战神|2018年游戏|
 |Kratos|奎托斯|战神的老父亲|
 |Atreus|阿特柔斯|真正的战神|
 |Faye|菲|阿特柔斯他妈|
 |realms/nine realms|九界|战神的世界？|
 |The Elder Scrolls V: Skyrim|上古卷轴V：天际|2011年RPG|
-|Death Stranding|死亡搁浅|小岛秀夫2019年游戏|
+|Death Stranding|死亡搁浅|快递模拟2019|
 |Mad Max|疯狂麦克斯|2015年游戏|
 |Bethesda Game Studios/Bethesda|贝塞斯达游戏工作室/贝塞斯达|辐射 上古卷轴制作商|
+|Cyberpunk 2077|赛博朋克2077|2020年发售的做一半的游戏|
+|CD Projekt Red|CDPR|2077的制作商|

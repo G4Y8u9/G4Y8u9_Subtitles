@@ -16,9 +16,9 @@ Video File: Q:/给没组/tlou2.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 3947
-Active Line: 3954
-Video Position: 1071308
+Scroll Position: 4089
+Active Line: 4096
+Video Position: 1104855
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -3985,182 +3985,148 @@ Dialogue: 0,4:57:18.44,4:57:21.32,辉中,,0,0,0,,and they're just not going to b
 Dialogue: 0,4:57:22.48,4:57:24.40,辉中,,0,0,0,,That's at least what I choose to believe,
 Dialogue: 0,4:57:24.40,4:57:29.65,辉中,,0,0,0,,because I think Ellie deserves that ending after all of this,
 Dialogue: 0,4:57:29.65,4:57:32.92,辉中,,0,0,0,,and so that's what I'm going to go with until I learn differently.
-Dialogue: 0,4:57:32.92,4:57:45.67,辉中,,0,0,0,,And I think the fact that the designers included the bracelet on Eli's wrist at that ending farm scene is directly indicative of that being what happened?
-Dialogue: 0,4:57:45.67,4:57:48.01,辉中,,0,0,0,,I think it's a little nod may be a little hint.
-Dialogue: 0,4:57:48.01,4:57:50.92,辉中,,0,0,0,,hint that things actually ended happily,
-Dialogue: 0,4:57:50.92,4:57:53.86,辉中,,0,0,0,,but who knows I'd like to think that things ended happily.
-Dialogue: 0,4:57:55.66,4:57:56.74,辉中,,0,0,0,,But all told,
-Dialogue: 0,4:57:56.74,4:57:58.03,辉中,,0,0,0,,the game is very.
-Dialogue: 0,4:57:59.26,4:58:07.30,辉中,,0,0,0,,Difficult to come to terms with because it wasn't what I was expecting and perhaps even hoping for.
-Dialogue: 0,4:58:08.68,4:58:09.37,辉中,,0,0,0,,But even so,
-Dialogue: 0,4:58:09.37,4:58:11.80,辉中,,0,0,0,,I think it succeeded in what it was trying to do.
-Dialogue: 0,4:58:11.80,4:58:13.54,辉中,,0,0,0,,As I said earlier in the video,
-Dialogue: 0,4:58:13.54,4:58:24.55,辉中,,0,0,0,,I think the mission was to get you to sympathise with Abbey and to flip the script so that you went from hating Abbey to caring about her.
-Dialogue: 0,4:58:24.55,4:58:32.92,辉中,,0,0,0,,And so when you reach this conclusion that you initially had hoped for for l to take on Abby and kill her.
-Dialogue: 0,4:58:32.92,4:58:35.47,辉中,,0,0,0,,It feels empty and hollow and unsatisfying.
-Dialogue: 0,4:58:35.47,4:58:40.06,辉中,,0,0,0,,Because you realize that this isn't as simple as just revenge,
-Dialogue: 0,4:58:40.06,4:58:47.95,辉中,,0,0,0,,and I think that that in and of itself as a narrative decision is truly remarkable.
-Dialogue: 0,4:58:47.95,4:58:50.32,辉中,,0,0,0,,It really is whether you love it or hate it.
-Dialogue: 0,4:58:50.32,4:59:02.11,辉中,,0,0,0,,You've got to give Naughty Dog credit for having the balls to do something so unbelievably risky that has obviously polarized the fan base.
-Dialogue: 0,4:59:02.11,4:59:04.06,辉中,,0,0,0,,Pissed off a lot of people.
+Dialogue: 0,4:57:32.92,4:57:40.62,辉中,,0,0,0,,And I think the fact that the designers included the bracelet on Eli's wrist at that ending farm scene
+Dialogue: 0,4:57:40.62,4:57:45.67,辉中,,0,0,0,,is directly indicative of that being what happened.
+Dialogue: 0,4:57:45.67,4:57:50.92,辉中,,0,0,0,,I think it's a little nod, maybe a little hint-hint that things actually ended happily,
+Dialogue: 0,4:57:50.92,4:57:53.86,辉中,,0,0,0,,but who knows? I'd like to think that things ended happily.
+Dialogue: 0,4:57:55.66,4:57:58.03,辉中,,0,0,0,,But all told, the game is very …
+Dialogue: 0,4:57:59.26,4:58:02.31,辉中,,0,0,0,,difficult to come to terms with.
+Dialogue: 0,4:58:02.31,4:58:08.68,辉中,,0,0,0,,Because it wasn't what I was expecting and perhaps even hoping for.
+Dialogue: 0,4:58:08.68,4:58:13.54,辉中,,0,0,0,,But even so, I think it succeeded in what it was trying to do as I said earlier in the video.
+Dialogue: 0,4:58:13.54,4:58:17.62,辉中,,0,0,0,,I think the mission was to get you to sympathise with Abby
+Dialogue: 0,4:58:17.62,4:58:24.55,辉中,,0,0,0,,and to flip the script so that you went from hating Abby to caring about her.
+Dialogue: 0,4:58:24.55,4:58:28.95,辉中,,0,0,0,,And so when you reach this conclusion that you initially had hoped for.
+Dialogue: 0,4:58:28.95,4:58:35.47,辉中,,0,0,0,,For Ellie to take on Abby and kill her, it feels empty and hollow and unsatisfying.
+Dialogue: 0,4:58:35.47,4:58:40.06,辉中,,0,0,0,,Because you realize that this isn't as simple as just revenge.
+Dialogue: 0,4:58:40.06,4:58:47.95,辉中,,0,0,0,,And I think that that in and of itself as a narrative decision is truly remarkable.
+Dialogue: 0,4:58:47.95,4:58:52.26,辉中,,0,0,0,,It really is, whether you love it or hate it, you've got to give Naughty Dog credit
+Dialogue: 0,4:58:52.75,4:58:58.62,辉中,,0,0,0,,for having the balls to do something so unbelievably risky
+Dialogue: 0,4:58:58.62,4:59:04.06,辉中,,0,0,0,,that has obviously polarized the fan base, pissed off a lot of people.
 Dialogue: 0,4:59:04.06,4:59:08.59,辉中,,0,0,0,,I can only imagine the hate mail that they've received since this went live,
-Dialogue: 0,4:59:08.59,4:59:10.18,辉中,,0,0,0,,but they knew that it would.
-Dialogue: 0,4:59:10.18,4:59:12.10,辉中,,0,0,0,,They knew that it would,
-Dialogue: 0,4:59:12.10,4:59:12.67,辉中,,0,0,0,,and.
-Dialogue: 0,4:59:13.96,4:59:16.27,辉中,,0,0,0,,They chose to do it anyways.
-Dialogue: 0,4:59:16.27,4:59:17.44,辉中,,0,0,0,,when they didn't need to,
-Dialogue: 0,4:59:17.44,4:59:20.38,辉中,,0,0,0,,they could have done just an obligatory.
-Dialogue: 0,4:59:20.38,4:59:27.64,辉中,,0,0,0,,You know sequel where Joel and Ellie embark on some new journey may be Tommy gets murdered by Abby,
-Dialogue: 0,4:59:27.64,4:59:30.25,辉中,,0,0,0,,and then they chase him down and may be right.
-Dialogue: 0,4:59:30.25,4:59:31.69,辉中,,0,0,0,,Before the final scene,
-Dialogue: 0,4:59:31.69,4:59:33.52,辉中,,0,0,0,,Abby kills Joel,
-Dialogue: 0,4:59:33.52,4:59:35.68,辉中,,0,0,0,,and then Ellie gets revenge.
-Dialogue: 0,4:59:35.68,4:59:37.03,辉中,,0,0,0,,I'll Abby wipes her out.
-Dialogue: 0,4:59:37.03,4:59:41.26,辉中,,0,0,0,,and it's kind of the uncharted style ending where everything wraps up,
+Dialogue: 0,4:59:08.59,4:59:11.59,辉中,,0,0,0,,but they knew that it would, they knew that it would.
+Dialogue: 0,4:59:12.10,4:59:17.44,辉中,,0,0,0,,And … they chose to do it anyways, when they didn't need to.
+Dialogue: 0,4:59:17.44,4:59:20.38,辉中,,0,0,0,,They could have done just an obligatory,
+Dialogue: 0,4:59:20.38,4:59:25.02,辉中,,0,0,0,,you know, sequel where Joel and Ellie embark on some new journey
+Dialogue: 0,4:59:25.02,4:59:29.44,辉中,,0,0,0,,maybe Tommy gets murdered by Abby, and then they chase him down.
+Dialogue: 0,4:59:29.44,4:59:33.52,辉中,,0,0,0,,And maybe right before the final scene, Abby kills Joel,
+Dialogue: 0,4:59:33.52,4:59:37.03,辉中,,0,0,0,,and then Ellie gets revenge and Abby wipes her out.
+Dialogue: 0,4:59:37.03,4:59:41.26,辉中,,0,0,0,,and it's kind of the Uncharted style ending where everything wraps up,
 Dialogue: 0,4:59:41.26,4:59:42.76,辉中,,0,0,0,,but a character died in it.
 Dialogue: 0,4:59:42.76,4:59:45.43,辉中,,0,0,0,,It makes you feel more appreciative of what you have,
 Dialogue: 0,4:59:45.43,4:59:47.38,辉中,,0,0,0,,and they could have done that.
-Dialogue: 0,4:59:47.38,4:59:48.73,辉中,,0,0,0,,That would have been the easy way to go,
-Dialogue: 0,4:59:48.73,4:59:49.39,辉中,,0,0,0,,though,
-Dialogue: 0,4:59:49.39,4:59:51.46,辉中,,0,0,0,,and while I think it would have been received well,
-Dialogue: 0,4:59:51.46,4:59:52.93,辉中,,0,0,0,,the gameplay would have been really solid.
-Dialogue: 0,4:59:52.93,5:00:00.46,辉中,,0,0,0,,I don't think it would have challenged so many of us to think about video game narratives in a different way because,
-Dialogue: 0,5:00:00.46,5:00:06.25,辉中,,0,0,0,,as I've said for many many years at this point and by many many years and be like two or three,
-Dialogue: 0,5:00:06.25,5:00:07.45,辉中,,0,0,0,,ah,
+Dialogue: 0,4:59:47.38,4:59:49.39,辉中,,0,0,0,,That would have been the easy way to go, though.
+Dialogue: 0,4:59:49.39,4:59:52.93,辉中,,0,0,0,,And while I think it would have been received well, the gameplay would have been really solid.
+Dialogue: 0,4:59:52.93,4:59:57.62,辉中,,0,0,0,,I don't think it would have challenged so many of us to think about
+Dialogue: 0,4:59:57.62,4:59:59.93,辉中,,0,0,0,,video game narratives in a different way.
+Dialogue: 0,4:59:59.93,5:00:03.57,辉中,,0,0,0,,Because as I've said for many many years at this point
+Dialogue: 0,5:00:03.57,5:00:06.25,辉中,,0,0,0,,and by many many years and be like two or three,
 Dialogue: 0,5:00:07.45,5:00:11.44,辉中,,0,0,0,,I think video games are the evolution of narrative storytelling.
-Dialogue: 0,5:00:11.44,5:00:15.28,辉中,,0,0,0,,I think gaming is a remarkable tool.
-Dialogue: 0,5:00:16.36,5:00:17.38,辉中,,0,0,0,,For storytelling.
-Dialogue: 0,5:00:18.79,5:00:21.52,辉中,,0,0,0,,And I can't help but feel as though the last was part.
-Dialogue: 0,5:00:21.52,5:00:28.78,辉中,,0,0,0,,Two takes a huge leap forward in the types of stories that can and will be told on the platform,
-Dialogue: 0,5:00:28.78,5:00:31.42,辉中,,0,0,0,,especially moving into the next generation,
-Dialogue: 0,5:00:31.42,5:00:33.01,辉中,,0,0,0,,though some people think that that's terrible,
-Dialogue: 0,5:00:33.01,5:00:33.85,辉中,,0,0,0,,some people hear that,
-Dialogue: 0,5:00:33.85,5:00:36.73,辉中,,0,0,0,,and they think why cant stories just end happily ever after?
-Dialogue: 0,5:00:36.73,5:00:37.24,辉中,,0,0,0,,Nowadays,
-Dialogue: 0,5:00:37.24,5:00:38.41,辉中,,0,0,0,,everything's going to be so dark.
-Dialogue: 0,5:00:38.41,5:00:39.40,辉中,,0,0,0,,Everything so dreary,
-Dialogue: 0,5:00:39.40,5:00:39.73,辉中,,0,0,0,,everything,
-Dialogue: 0,5:00:39.73,5:00:40.81,辉中,,0,0,0,,so sad.
+Dialogue: 0,5:00:11.44,5:00:17.38,辉中,,0,0,0,,I think gaming is a remarkable tool, for storytelling.
+Dialogue: 0,5:00:18.79,5:00:21.94,辉中,,0,0,0,,And I can't help but feel as though TLOU2
+Dialogue: 0,5:00:21.94,5:00:28.78,辉中,,0,0,0,,takes a huge leap forward in the types of stories that can and will be told on the platform,
+Dialogue: 0,5:00:28.78,5:00:31.12,辉中,,0,0,0,,especially moving into the next generation.
+Dialogue: 0,5:00:31.42,5:00:33.01,辉中,,0,0,0,,Now some people think that that's terrible,
+Dialogue: 0,5:00:33.01,5:00:37.24,辉中,,0,0,0,,some people hear that, and they think why cant stories just end happily ever after nowadays?
+Dialogue: 0,5:00:37.24,5:00:40.81,辉中,,0,0,0,,Everything's going to be so dark, everything so dreary, everything so sad.
 Dialogue: 0,5:00:40.81,5:00:44.05,辉中,,0,0,0,,And while that's true for some stories,
 Dialogue: 0,5:00:44.05,5:00:45.16,辉中,,0,0,0,,I think more than anything,
-Dialogue: 0,5:00:45.16,5:00:48.94,辉中,,0,0,0,,it's just trying to push narratives to the point where they can be.
-Dialogue: 0,5:00:50.14,5:00:53.47,辉中,,0,0,0,,Thought provoking in a way that very few happy go,
-Dialogue: 0,5:00:53.47,5:00:55.21,辉中,,0,0,0,,lucky stories are,
-Dialogue: 0,5:00:55.21,5:00:56.59,辉中,,0,0,0,,I enjoy uncharted?
-Dialogue: 0,5:00:56.59,5:01:00.94,辉中,,0,0,0,,I'm making a whole series of uncharted critiques.
-Dialogue: 0,5:01:00.94,5:01:02.77,辉中,,0,0,0,,and that's what I was doing before.
-Dialogue: 0,5:01:02.77,5:01:04.21,辉中,,0,0,0,,The last was part two launched,
-Dialogue: 0,5:01:04.21,5:01:07.48,辉中,,0,0,0,,and this whole video experience began.
-Dialogue: 0,5:01:09.49,5:01:12.85,辉中,,0,0,0,,But those stories don't really make you ponder they don't make you think.
-Dialogue: 0,5:01:12.85,5:01:16.72,辉中,,0,0,0,,I've never played an uncharted game and then sat back and just.
-Dialogue: 0,5:01:18.43,5:01:19.72,辉中,,0,0,0,,Wow,
-Dialogue: 0,5:01:19.72,5:01:20.71,辉中,,0,0,0,,what does this mean?
-Dialogue: 0,5:01:20.71,5:01:21.64,辉中,,0,0,0,,What do I think of this?
-Dialogue: 0,5:01:21.64,5:01:22.06,辉中,,0,0,0,,I don't.
-Dialogue: 0,5:01:22.06,5:01:23.53,辉中,,0,0,0,,Even though I'm so conflicted.
-Dialogue: 0,5:01:23.53,5:01:25.27,辉中,,0,0,0,,I have so many thoughts and emotions.
-Dialogue: 0,5:01:25.27,5:01:27.46,辉中,,0,0,0,,Going on usually uncharted.
-Dialogue: 0,5:01:27.46,5:01:32.83,辉中,,0,0,0,,Emotional repertoire consists of action and excitement,
-Dialogue: 0,5:01:32.83,5:01:40.18,辉中,,0,0,0,,and there may be some light heartwarming moments with some witty banter back and forth between two characters you like,
+Dialogue: 0,5:00:45.16,5:00:48.94,辉中,,0,0,0,,it's just trying to push narratives to the point where they can be
+Dialogue: 0,5:00:50.14,5:00:55.21,辉中,,0,0,0,,thought provoking in a way that very few happy go lucky stories are.
+Dialogue: 0,5:00:55.21,5:00:56.59,辉中,,0,0,0,,I enjoy Uncharted.
+Dialogue: 0,5:00:56.59,5:01:00.94,辉中,,0,0,0,,I'm making a whole series of Uncharted critiques,
+Dialogue: 0,5:01:00.94,5:01:04.21,辉中,,0,0,0,,and that's what I was doing before TLOU2 launched.
+Dialogue: 0,5:01:04.21,5:01:07.48,辉中,,0,0,0,,And this whole video experience began.
+Dialogue: 0,5:01:09.49,5:01:12.85,辉中,,0,0,0,,But those stories don't really make you ponder, they don't make you think.
+Dialogue: 0,5:01:12.85,5:01:16.72,辉中,,0,0,0,,I've never played an Uncharted game and then sat back and just …
+Dialogue: 0,5:01:18.43,5:01:21.64,辉中,,0,0,0,,Wow, what does this mean? What do I think of this?
+Dialogue: 0,5:01:21.64,5:01:26.09,辉中,,0,0,0,,I don't even know, I'm so conflicted, I have so many thoughts and emotions going on.
+Dialogue: 0,5:01:26.09,5:01:32.83,辉中,,0,0,0,,Usually Uncharted's emotional repertoire consists of action and excitement,
+Dialogue: 0,5:01:32.83,5:01:36.32,辉中,,0,0,0,,and then maybe some light heartwarming moments
+Dialogue: 0,5:01:36.32,5:01:40.18,辉中,,0,0,0,,with some witty banter back and forth between two characters you like,
 Dialogue: 0,5:01:40.18,5:01:41.11,辉中,,0,0,0,,and that's kind of it.
-Dialogue: 0,5:01:43.30,5:01:49.60,辉中,,0,0,0,,I think Naughty Dog is trying to push the boundary and tell a story that does a lot more than that,
-Dialogue: 0,5:01:49.60,5:01:51.46,辉中,,0,0,0,,and I think they're successful,
+Dialogue: 0,5:01:43.30,5:01:49.60,辉中,,0,0,0,,I think Naughty Dog is trying to push the boundary, and tell a story that does a lot more than that.
+Dialogue: 0,5:01:49.60,5:01:51.46,辉中,,0,0,0,,And I think they're successful,
 Dialogue: 0,5:01:51.46,5:01:56.02,辉中,,0,0,0,,and I think it's pretty remarkable what they've managed to accomplish.
-Dialogue: 0,5:01:56.02,5:02:01.33,辉中,,0,0,0,,So while I am frustrated with the last was part two for pacing issues for flip,
-Dialogue: 0,5:02:01.33,5:02:06.01,辉中,,0,0,0,,flopping back and forth between character so frequently that you start to lose focus.
+Dialogue: 0,5:01:56.02,5:02:00.35,辉中,,0,0,0,,So while I am frustrated with TLOU2 for pacing issues,
+Dialogue: 0,5:02:00.35,5:02:06.01,辉中,,0,0,0,,for flip flopping back and forth between character so frequently that you start to lose focus,
 Dialogue: 0,5:02:06.01,5:02:09.94,辉中,,0,0,0,,I do think that it's truly a remarkable game,
 Dialogue: 0,5:02:09.94,5:02:13.60,辉中,,0,0,0,,and I think it does far more good than it does bad.
-Dialogue: 0,5:02:13.60,5:02:15.37,辉中,,0,0,0,,And while a couple of things are handled,
-Dialogue: 0,5:02:15.37,5:02:19.87,辉中,,0,0,0,,Kenneth Clinically and I think some characters aren't as reliable as they were hoping,
-Dialogue: 0,5:02:19.87,5:02:20.05,辉中,,0,0,0,,for.
-Dialogue: 0,5:02:20.05,5:02:22.69,辉中,,0,0,0,,instance Owen and Mel.
-Dialogue: 0,5:02:22.69,5:02:23.50,辉中,,0,0,0,,When they get killed,
-Dialogue: 0,5:02:23.50,5:02:26.08,辉中,,0,0,0,,you're supposed to feel really bad as far as I can tell.
-Dialogue: 0,5:02:26.08,5:02:29.77,辉中,,0,0,0,,and I just even after playing through Abyei sections.
-Dialogue: 0,5:02:29.77,5:02:31.45,辉中,,0,0,0,,it just didn't really hit me hard.
+Dialogue: 0,5:02:13.60,5:02:16.42,辉中,,0,0,0,,And while a couple of things are handled kinda clinically
+Dialogue: 0,5:02:16.42,5:02:19.87,辉中,,0,0,0,,and I think some characters aren't as reliable as they were hoping,
+Dialogue: 0,5:02:19.87,5:02:22.69,辉中,,0,0,0,,for instance, Owen and Mel.
+Dialogue: 0,5:02:22.69,5:02:26.08,辉中,,0,0,0,,When they get killed, you're supposed to feel really bad as far as I can tell,
+Dialogue: 0,5:02:26.08,5:02:31.45,辉中,,0,0,0,,and I just even after playing through Abby sections, it just didn't really hit me hard.
 Dialogue: 0,5:02:31.45,5:02:34.33,辉中,,0,0,0,,What hit me hard with seeing Abby so upset about it,
-Dialogue: 0,5:02:34.33,5:02:38.47,辉中,,0,0,0,,It wasn't saying Owen and Mel killed that upset me.
-Dialogue: 0,5:02:38.47,5:02:42.91,辉中,,0,0,0,,and I think that that's more a failure of Naughty Dogs writing than a success.
-Dialogue: 0,5:02:42.91,5:02:44.74,辉中,,0,0,0,,I don't think that was intentional.
-Dialogue: 0,5:02:45.94,5:02:47.50,辉中,,0,0,0,,As I said earlier in the video,
-Dialogue: 0,5:02:47.50,5:02:49.60,辉中,,0,0,0,,but all told,
-Dialogue: 0,5:02:49.60,5:02:57.25,辉中,,0,0,0,,I think the game is pretty amazing and it's taken me months of playing through it multiple times to come to that conclusion,
-Dialogue: 0,5:02:57.25,5:02:59.35,辉中,,0,0,0,,and I'll tell you right now.
-Dialogue: 0,5:02:59.35,5:03:01.96,辉中,,0,0,0,,When I finished the game the first time I was not.
+Dialogue: 0,5:02:34.33,5:02:38.47,辉中,,0,0,0,,it wasn't saying Owen and Mel killed that upset me.
+Dialogue: 0,5:02:38.47,5:02:42.91,辉中,,0,0,0,,And I think that that's more a failure of Naughty Dogs writing than a success.
+Dialogue: 0,5:02:42.91,5:02:44.74,辉中,,0,0,0,,I don't think that was intentional
+Dialogue: 0,5:02:45.88,5:02:47.50,辉中,,0,0,0,,as I said earlier in the video.
+Dialogue: 0,5:02:47.50,5:02:49.60,辉中,,0,0,0,,But … all told,
+Dialogue: 0,5:02:49.60,5:02:51.41,辉中,,0,0,0,,I think the game is pretty amazing.
+Dialogue: 0,5:02:51.91,5:02:57.25,辉中,,0,0,0,,And it's taken me months of playing through it multiple times to come to that conclusion,
+Dialogue: 0,5:02:57.25,5:03:01.96,辉中,,0,0,0,,and I'll tell you right now when I finished the game the first time I was not …
 Dialogue: 0,5:03:03.46,5:03:06.10,辉中,,0,0,0,,I was not in the same place I am now.
 Dialogue: 0,5:03:06.10,5:03:10.03,辉中,,0,0,0,,I would not have said that I thought it was a masterpiece.
 Dialogue: 0,5:03:10.03,5:03:14.05,辉中,,0,0,0,,I would not have said that I thought it was amazing and remarkable.
 Dialogue: 0,5:03:14.05,5:03:18.79,辉中,,0,0,0,,I was pretty frustrated and emotionally torn apart,
 Dialogue: 0,5:03:18.79,5:03:24.58,辉中,,0,0,0,,but after playing through the game a couple more times it really is kind of like an acquired taste.
 Dialogue: 0,5:03:24.58,5:03:27.79,辉中,,0,0,0,,It's like a fine wine or caviar or something.
-Dialogue: 0,5:03:27.79,5:03:30.67,辉中,,0,0,0,,It's it's something where the more that you engage with it,
+Dialogue: 0,5:03:27.79,5:03:30.67,辉中,,0,0,0,,It's … it's something where the more that you engage with it,
 Dialogue: 0,5:03:30.67,5:03:34.66,辉中,,0,0,0,,the more you realize and appreciate all of the little details,
 Dialogue: 0,5:03:34.66,5:03:39.46,辉中,,0,0,0,,all of the interweaving plot lines and character arcs.
-Dialogue: 0,5:03:39.46,5:03:44.02,辉中,,0,0,0,,And for that reason I think the game is truly remarkable.
-Dialogue: 0,5:03:44.02,5:03:45.61,辉中,,0,0,0,,Will it take my game of the year?
-Dialogue: 0,5:03:45.61,5:03:51.37,辉中,,0,0,0,,I don't know I'm really hoping that Cyber punk twenty seventy seven comes out and just blows us all away.
-Dialogue: 0,5:03:51.37,5:03:53.41,辉中,,0,0,0,,I love CD project read,
-Dialogue: 0,5:03:53.41,5:03:57.82,辉中,,0,0,0,,and from what I saw behind closed doors at age three last year of Cyber Punk,
-Dialogue: 0,5:03:57.82,5:04:01.93,辉中,,0,0,0,,I think it has the possibility of being really impressive,
-Dialogue: 0,5:04:01.93,5:04:05.35,辉中,,0,0,0,,but I'm also worried that hype is getting out of control,
-Dialogue: 0,5:04:05.35,5:04:07.69,辉中,,0,0,0,,which is very possible with that game.
-Dialogue: 0,5:04:07.69,5:04:09.01,辉中,,0,0,0,,But we'll see who knows,
-Dialogue: 0,5:04:09.01,5:04:11.59,辉中,,0,0,0,,by the time you're watching this video,
-Dialogue: 0,5:04:11.59,5:04:13.60,辉中,,0,0,0,,you've probably played through Cyber Punk,
-Dialogue: 0,5:04:13.60,5:04:15.07,辉中,,0,0,0,,or you might have played through Cyber punk,
-Dialogue: 0,5:04:15.07,5:04:17.02,辉中,,0,0,0,,and you'll be laughing at what I'm saying,
-Dialogue: 0,5:04:17.02,5:04:18.52,辉中,,0,0,0,,or maybe they'll be like.
-Dialogue: 0,5:04:18.52,5:04:18.73,辉中,,0,0,0,,Yeah,
-Dialogue: 0,5:04:18.73,5:04:18.88,辉中,,0,0,0,,no,
-Dialogue: 0,5:04:18.88,5:04:19.42,辉中,,0,0,0,,it is terrible,
-Dialogue: 0,5:04:19.42,5:04:19.87,辉中,,0,0,0,,It's awful.
-Dialogue: 0,5:04:19.87,5:04:20.77,辉中,,0,0,0,,I have no idea,
-Dialogue: 0,5:04:20.77,5:04:21.37,辉中,,0,0,0,,I have no idea.
-Dialogue: 0,5:04:21.37,5:04:27.94,辉中,,0,0,0,,But what I can say is that I think the last of us does a lot to move the industry forward.
-Dialogue: 0,5:04:27.94,5:04:33.10,辉中,,0,0,0,,I think that the risks that they took our truly.
-Dialogue: 0,5:04:36.07,5:04:38.59,辉中,,0,0,0,,A plausible if that's even a word,
+Dialogue: 0,5:03:39.46,5:03:44.02,辉中,,0,0,0,,因此我觉得TLOU2这个游戏仍然是非凡的\NAnd for that reason I think the game is truly remarkable.
+Dialogue: 0,5:03:44.02,5:03:46.80,辉中,,0,0,0,,它会是我心中的年度游戏吗？……不好说\NWill it take my game of the year? I … I don't know.
+Dialogue: 0,5:03:46.80,5:03:51.37,辉注,,0,0,0,,原视频发布于2020年9月14日
+Dialogue: 0,5:03:46.80,5:03:51.37,辉中,,0,0,0,,我真心希望赛博朋克2077出来以后能震惊四座\NI'm really hoping that Cyberpunk 2077 comes out and just blows us all away.
+Dialogue: 0,5:03:51.37,5:03:53.41,辉中,,0,0,0,,我真的很喜欢CDPR\NI love CD Projekt Red,
+Dialogue: 0,5:03:53.41,5:03:57.82,辉中,,0,0,0,,而且从我看到的他们去年（2019年）E3上的闭门演示中来看\Nand from what I saw behind closed doors at E3 last year of Cyberpunk,
+Dialogue: 0,5:03:57.82,5:04:01.93,辉中,,0,0,0,,我觉得这个游戏有火的潜力\NI think it has the possibility of being really impressive,
+Dialogue: 0,5:04:01.93,5:04:05.35,辉中,,0,0,0,,但我还是担心它会被宣发抬得太高\Nbut I'm also worried that hype is getting out of control,
+Dialogue: 0,5:04:05.35,5:04:07.69,辉中,,0,0,0,,因为这游戏很可能会在这翻车\Nwhich is very possible with that game.
+Dialogue: 0,5:04:07.69,5:04:09.01,辉中,,0,0,0,,到时候再看吧 谁知道呢\NBut we'll see, who knows,
+Dialogue: 0,5:04:09.01,5:04:13.60,辉中,,0,0,0,,等大家看到这个视频的时候可能已经通关2077了\Nby the time you're watching this video, you've probably played through Cyberpunk,
+Dialogue: 0,5:04:13.60,5:04:17.02,辉中,,0,0,0,,而且可能通关了之后看这视频然后笑话我被打脸了\Nor you might have played through Cyberpunk, and you'll be laughing at what I'm saying,
+Dialogue: 0,5:04:17.02,5:04:19.87,辉中,,0,0,0,,或者这样那样……太可怕了 我什么都不知道！\Nor maybe they'll be like … Yeah, no, it is terrible, It's awful.
+Dialogue: 0,5:04:19.87,5:04:21.37,辉中,,0,0,0,,我可什么都不知道！\NI have no idea, I have no idea.
+Dialogue: 0,5:04:21.37,5:04:27.94,辉中,,0,0,0,,But what I can say is that I think TLOU does a lot to move the industry forward.
+Dialogue: 0,5:04:27.94,5:04:33.10,辉中,,0,0,0,,I think that the risks that they took are truly …
+Dialogue: 0,5:04:36.07,5:04:38.59,辉中,,0,0,0,,"applautable", if that's even a word.
 Dialogue: 0,5:04:38.59,5:04:42.34,辉中,,0,0,0,,I appreciate that they took those risks that they didn't play it safe.
-Dialogue: 0,5:04:42.34,5:04:45.58,辉中,,0,0,0,,and while I think a lot of us probably wish,
-Dialogue: 0,5:04:45.58,5:04:47.20,辉中,,0,0,0,,they had gone a different direction,
-Dialogue: 0,5:04:47.20,5:04:51.55,辉中,,0,0,0,,I respect the hell out of them for what they did and I think it worked.
+Dialogue: 0,5:04:42.34,5:04:47.20,辉中,,0,0,0,,And while I think a lot of us probably wish, they had gone a different direction,
+Dialogue: 0,5:04:47.20,5:04:51.55,辉中,,0,0,0,,I respect the hell out of them for what they did, and I think it worked.
 Dialogue: 0,5:04:52.39,5:04:56.47,辉中,,0,0,0,,And while I wouldn't have thought to go this direction,
-Dialogue: 0,5:04:56.47,5:04:58.12,辉中,,0,0,0,,I'm in the end.
-Dialogue: 0,5:04:58.12,5:04:59.56,辉中,,0,0,0,,I think glad that they did.
-Dialogue: 0,5:05:00.97,5:05:02.92,辉中,,0,0,0,,But even now I am,
-Dialogue: 0,5:05:02.92,5:05:17.26,辉中,,0,0,0,,I'm very conflicted and I think the point of art is to make you think to make you ponder everything that went on in the story that was being told to ponder your place in this world and everything that's going on,
-Dialogue: 0,5:05:17.26,5:05:18.88,辉中,,0,0,0,,and I think the last of us part two.
-Dialogue: 0,5:05:18.88,5:05:23.17,辉中,,0,0,0,,Does that in a way that literally no game has ever done for me,
-Dialogue: 0,5:05:23.17,5:05:26.80,辉中,,0,0,0,,and for that I just have to say thank you to Naughty Dog.
-Dialogue: 0,5:05:26.80,5:05:29.89,辉中,,0,0,0,,They've done something truly incredible.
-Dialogue: 0,5:05:29.89,5:05:31.27,辉中,,0,0,0,,truly,
-Dialogue: 0,5:05:31.27,5:05:33.43,辉中,,0,0,0,,so that's all from me.
-Dialogue: 0,5:05:33.43,5:05:39.55,辉中,,0,0,0,,Thank you for watching this monstrosity of a video at me and everybody that I've worked with on this video.
-Dialogue: 0,5:05:39.55,5:05:41.35,辉中,,0,0,0,,We truly appreciate it.
-Dialogue: 0,5:05:41.35,5:05:44.41,辉中,,0,0,0,,I big thanks to Jacob,
-Dialogue: 0,5:05:44.41,5:05:47.65,辉中,,0,0,0,,my editor for all of the hard work he's done on this video,
-Dialogue: 0,5:05:47.65,5:05:53.41,辉中,,0,0,0,,he's edited a lot of sections that you've seen and been watching for the last few hours.
-Dialogue: 0,5:05:53.41,5:05:53.74,辉中,,0,0,0,,So.
-Dialogue: 0,5:05:54.70,5:05:59.59,辉中,,0,0,0,,Big thanks to him and thanked all of the patrons and all of the viewers who have been so patient.
-Dialogue: 0,5:05:59.59,5:06:04.18,辉中,,0,0,0,,because this has been the video that's eaten up all my time for the last few months.
-Dialogue: 0,5:06:04.18,5:06:08.05,辉中,,0,0,0,,as I was getting ready for a wedding as I was starting a new job.
+Dialogue: 0,5:04:56.47,5:04:59.56,辉中,,0,0,0,,I'm … in the end, I think glad that they did.
+Dialogue: 0,5:05:00.97,5:05:04.05,辉中,,0,0,0,,But even now, I am … I'm very conflicted.
+Dialogue: 0,5:05:04.28,5:05:08.84,辉中,,0,0,0,,And I think the point of art is to make you think to make you ponder.
+Dialogue: 0,5:05:08.84,5:05:15.24,辉中,,0,0,0,,Everything that went on in the story that was being told to ponder your place in this world
+Dialogue: 0,5:05:15.24,5:05:17.26,辉中,,0,0,0,,and everything that's going on.
+Dialogue: 0,5:05:17.26,5:05:23.17,辉中,,0,0,0,,And I think TLOU2 does that, in a way that literally no game has ever done for me.
+Dialogue: 0,5:05:23.17,5:05:26.80,辉中,,0,0,0,,And for that I just have to say thank you to Naughty Dog.
+Dialogue: 0,5:05:26.80,5:05:31.27,辉中,,0,0,0,,They've done something truly incredible, truly.
+Dialogue: 0,5:05:31.27,5:05:33.43,辉中,,0,0,0,,So that's all from me.
+Dialogue: 0,5:05:33.43,5:05:36.44,辉中,,0,0,0,,Thank you for watching this monstrosity of a video.
+Dialogue: 0,5:05:36.44,5:05:41.35,辉中,,0,0,0,,At me and everybody that I've worked with on this video we truly appreciate it.
+Dialogue: 0,5:05:41.35,5:05:47.65,辉中,,0,0,0,,A big thank to Jacob, my editor for all of the hard work he's done on this video,
+Dialogue: 0,5:05:47.65,5:05:54.00,辉中,,0,0,0,,he's edited a lot of sections that you've seen and been watching for the last few hours, so …
+Dialogue: 0,5:05:54.70,5:05:59.59,辉中,,0,0,0,,Big thanks to him, and thanked all of the patrons, and all of the viewers who have been so patient
+Dialogue: 0,5:05:59.59,5:06:04.18,辉中,,0,0,0,,because this has been the video that's eaten up all my time for the last few months
+Dialogue: 0,5:06:04.18,5:06:08.05,辉中,,0,0,0,,as I was getting ready for a wedding, as I was starting a new job.
 Dialogue: 0,5:06:08.05,5:06:10.27,辉中,,0,0,0,,This is consumed all of my time.
-Dialogue: 0,5:06:10.27,5:06:15.28,辉中,,0,0,0,,and while I think the last of his party was incredible in a lot of ways,
-Dialogue: 0,5:06:15.28,5:06:16.36,辉中,,0,0,0,,I'm at,
-Dialogue: 0,5:06:16.36,5:06:19.66,辉中,,0,0,0,,I am ready to move on and to tackle the next big thing.
-Dialogue: 0,5:06:19.66,5:06:20.08,辉中,,0,0,0,,so.
-Dialogue: 0,5:06:21.28,5:06:24.82,辉中,,0,0,0,,It's bizarre to be done with everything it's bizarre to be at the end of this video.
+Dialogue: 0,5:06:10.27,5:06:15.28,辉中,,0,0,0,,And while I think TLOU2 was incredible in a lot of ways,
+Dialogue: 0,5:06:15.28,5:06:20.31,辉中,,0,0,0,,I'm … I am ready to move on and to tackle the next big thing, so …
+Dialogue: 0,5:06:21.28,5:06:24.82,辉中,,0,0,0,,It's bizarre to be done with everything, it's bizarre to be at the end of this video.
 Dialogue: 0,5:06:24.82,5:06:26.05,辉中,,0,0,0,,I hope that you enjoyed it.
-Dialogue: 0,5:06:26.05,5:06:29.23,辉中,,0,0,0,,If you did please at the very least hit the like button.
+Dialogue: 0,5:06:26.05,5:06:29.23,辉中,,0,0,0,,If you did, please at the very least hit the like button.
 Dialogue: 0,5:06:29.23,5:06:32.59,辉中,,0,0,0,,If you really enjoyed it, hit the subscribe button.
 Dialogue: 0,5:06:32.59,5:06:35.08,辉中,,0,0,0,,I don't mean to sound entitled,
 Dialogue: 0,5:06:35.08,5:06:38.74,辉中,,0,0,0,,but after all of this, if you really did enjoy this video and got to this point,
-Dialogue: 0,5:06:38.74,5:06:40.99,辉中,,0,0,0,,I would like to think that you would at the very least,
-Dialogue: 0,5:06:40.99,5:06:46.63,辉中,,0,0,0,,subscribe and maybe even ring the bells he get notified of the next video.
+Dialogue: 0,5:06:38.74,5:06:41.66,辉中,,0,0,0,,I would like to think that you would, at the very least, subscribe
+Dialogue: 0,5:06:41.66,5:06:46.63,辉中,,0,0,0,,and maybe even ring the bells so to get notified of the next video.
 Dialogue: 0,5:06:46.63,5:06:47.86,辉中,,0,0,0,,But truly, thank you.
 Dialogue: 0,5:06:47.86,5:06:49.15,辉中,,0,0,0,,Thank you for watching.
 Dialogue: 0,5:06:49.15,5:06:50.92,辉中,,0,0,0,,Thank you for sharing the video.
-Dialogue: 0,5:06:50.92,5:06:54.25,辉中,,0,0,0,,Thank you for donating thanks for doing everything that you guys do,
-Dialogue: 0,5:06:54.25,5:06:58.36,辉中,,0,0,0,,you're truly amazing and I love you all more than you could possibly know.
+Dialogue: 0,5:06:50.92,5:06:54.25,辉中,,0,0,0,,Thank you for donating thanks for doing everything that you guys do.
+Dialogue: 0,5:06:54.25,5:06:58.36,辉中,,0,0,0,,You're truly amazing and I love you all more than you could possibly know.
 Dialogue: 0,5:06:58.36,5:07:03.73,辉中,,0,0,0,,I'll see you in the next video, which will probably be a fair amount, shorter.
 Dialogue: 0,5:07:04.75,5:07:06.55,辉中,,0,0,0,,Truly, thank you,
 Dialogue: 0,5:07:06.55,5:07:07.93,辉中,,0,0,0,,I love you guys,
