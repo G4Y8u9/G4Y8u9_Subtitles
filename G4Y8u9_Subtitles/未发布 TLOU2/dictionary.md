@@ -30,6 +30,7 @@
 |-|Yara|雅拉|疤脸帮成员|
 |-|Mike|麦克|疤脸帮成员|
 |-|Seraphite Brute|赛拉菲特野蛮人|几个赛拉菲特的小boss|
+|-|Sarah|莎拉|一代角色 乔尔女儿|
 |-|Tess|泰丝|一代角色|
 |-|Riley|莱莉|一代角色|
 |-|Bill|比尔|一代角色|
@@ -53,6 +54,8 @@
 |Santa Barbara|圣塔芭芭拉||
 |Ground Zero|？|医院地下室 疫情爆发点|
 |St Mary's Hospital|圣玛莉医院|前作火萤组织的医院|
+|2425 Constance|康斯坦斯街2425号|火萤在圣塔芭芭拉的据点|
+|the Resort|？|圣塔芭芭拉的奴隶营地|
 
 ## 其他
 |FULLNAME|中文|备注|
@@ -72,6 +75,7 @@
 |Uncharted: The Lost Legacy|神秘海域：失落的遗产|顽皮狗另一个游戏|
 |The Legend of Zelda: Breath of the Wild|塞尔达传说 旷野之息|抄袭原神！（|
 |Red dead redemption 2|荒野大镖客：救赎2|Rockstar的游戏|
+|Arthur|亚瑟|RDR2的主角|
 |Rockstar|R星|RDR2的制作组|
 |God of War|战神|2018年游戏|
 |Kratos|奎托斯|战神的老父亲|
