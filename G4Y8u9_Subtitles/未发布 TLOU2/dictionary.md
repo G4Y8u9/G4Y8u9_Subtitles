@@ -52,10 +52,10 @@
 |KMAB 13 News Station|13频道电视台|西雅图Day1的广播电台|
 |Hillcrest|希尔科列斯特|西雅图Day2的地区|
 |Santa Barbara|圣塔芭芭拉||
-|Ground Zero|？|医院地下室 疫情爆发点|
+|Ground Zero|原爆点|医院地下室 疫情爆发点|
 |St Mary's Hospital|圣玛莉医院|前作火萤组织的医院|
 |2425 Constance|康斯坦斯街2425号|火萤在圣塔芭芭拉的据点|
-|the Resort|？|圣塔芭芭拉的奴隶营地|
+|the Resort|度假村|圣塔芭芭拉的奴隶营地|
 
 ## 其他
 |FULLNAME|中文|备注|
