@@ -14,6 +14,7 @@
 |-|Dina|蒂娜|艾莉的同伴|
 |-|Jesse|杰西|蒂娜的前男友|
 |Eugene Linden|Eugene|尤金|种大麻的|
+|-|Seth|赛斯|小镇角色 曾和艾莉有冲突|
 |Abigail "Abby" Anderson|Abby|埃比|主角2|
 |Jerry Anderson|Jerry|杰瑞|埃比的父亲|
 |-|Mel|梅尔|欧文的恋人|
