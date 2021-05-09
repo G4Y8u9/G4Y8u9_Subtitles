@@ -16,9 +16,9 @@ Video File: Q:/给没组/tlou2.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 4517
-Active Line: 4528
-Video Position: 1044509
+Scroll Position: 4794
+Active Line: 4800
+Video Position: 1072756
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -4348,13 +4348,12 @@ Dialogue: 1,4:38:26.50,4:38:30.10,辉中,,0,0,0,,总之 这里已经很久没人
 Dialogue: 2,4:38:26.50,4:38:30.10,辉英,,0,0,0,,But regardless, it's been quite a while since anyone's been here.
 Dialogue: 1,4:38:30.10,4:38:33.87,辉中,,0,0,0,,但是虽然现在艾莉看起来已经孤身一人
 Dialogue: 2,4:38:30.10,4:38:33.87,辉英,,0,0,0,,And so while it may be meant to show that Ellie is alone
-Dialogue: 1,4:38:33.87,4:38:36.86,辉中,,0,0,0,,而且她的行为造成的后果比失去几根手指要严重得多
+Dialogue: 1,4:38:33.87,4:38:40.96,辉中,,0,0,0,,而且她的行为造成的后果也比失去几根手指要严重得多
 Dialogue: 2,4:38:33.87,4:38:36.86,辉英,,0,0,0,,and that the ramifications for her actions
-Dialogue: 1,4:38:36.86,4:38:40.96,辉中,,0,0,0,,而且她的行为造成的后果比失去几根手指要严重得多
 Dialogue: 2,4:38:36.86,4:38:40.96,辉英,,0,0,0,,have taken much more of a toll than just the loss of a couple fingers.
 Dialogue: 1,4:38:40.96,4:38:42.76,辉中,,0,0,0,,但我觉得事情没那么简单
 Dialogue: 2,4:38:40.96,4:38:42.76,辉英,,0,0,0,,I think it might not be that simple,
-Dialogue: 1,4:38:42.76,4:38:46.78,辉中,,0,0,0,,实际上我觉得这可能是一个比最初看起来更美好的结局
+Dialogue: 1,4:38:42.76,4:38:46.78,辉中,,0,0,0,,相反 实际上我觉得这可能是比乍看起来更美好的结局
 Dialogue: 2,4:38:42.76,4:38:46.78,辉英,,0,0,0,,and this might actually be a happier ending than it might initially seem to be.
 Dialogue: 1,4:38:46.78,4:38:48.82,辉中,,0,0,0,,而我们之后会细讲这件事
 Dialogue: 2,4:38:46.78,4:38:48.82,辉英,,0,0,0,,But we'll get to that in just a few minutes.
@@ -4368,7 +4367,7 @@ Dialogue: 1,4:38:58.66,4:39:00.52,辉中,,0,0,0,,她拿起乔尔的吉他
 Dialogue: 2,4:38:58.66,4:39:00.52,辉英,,0,0,0,,She takes up Joel's guitar
 Dialogue: 1,4:39:00.52,4:39:06.04,辉中,,0,0,0,,蹩脚地弹起了乔尔在开场给她弹的那首歌
 Dialogue: 2,4:39:00.52,4:39:06.04,辉英,,0,0,0,,and plays a strained version of the song that he played for her in the beginning.
-Dialogue: 1,4:39:06.04,4:39:12.16,辉中,,0,0,0,,她那几根缺失的手指 现在成了她和乔尔之间最远的距离
+Dialogue: 1,4:39:06.04,4:39:12.16,辉中,,0,0,0,,她那几根缺失的手指 现在成了她和乔尔之间再也无法触及的距离
 Dialogue: 2,4:39:06.04,4:39:12.16,辉英,,0,0,0,,Her missing fingers, now a permanent example of the distance between Joel and Ellie
 Dialogue: 1,4:39:12.16,4:39:14.84,辉中,,0,0,0,,两人的那份联系已荡然无存
 Dialogue: 2,4:39:12.16,4:39:14.84,辉英,,0,0,0,,and their inability to truly connect,
@@ -4376,9 +4375,8 @@ Dialogue: 1,4:39:14.84,4:39:18.52,辉中,,0,0,0,,她甚至无法完整正确地�
 Dialogue: 2,4:39:14.84,4:39:18.52,辉英,,0,0,0,,she can't even play the song properly or fully now.
 Dialogue: 1,4:39:18.52,4:39:21.61,辉中,,0,0,0,,然后来到了整个游戏中最重要的画面
 Dialogue: 2,4:39:18.52,4:39:21.61,辉英,,0,0,0,,We then cut to the most important scene of the whole game.
-Dialogue: 1,4:39:21.61,4:39:23.65,辉中,,0,0,0,,一幅即使我花了几周字斟句酌也无法形容的场景
+Dialogue: 1,4:39:21.61,4:39:26.62,辉中,,0,0,0,,一幅我花了几周字斟句酌也无法形容的场景
 Dialogue: 2,4:39:21.61,4:39:23.65,辉英,,0,0,0,,A scene that I couldn't do justice
-Dialogue: 1,4:39:23.65,4:39:26.62,辉中,,0,0,0,,一幅即使我花了几周字斟句酌也无法形容的场景
 Dialogue: 2,4:39:23.65,4:39:26.62,辉英,,0,0,0,,even if I were to spend weeks riding it outward for word.
 Dialogue: 1,4:39:26.62,4:39:28.81,辉中,,0,0,0,,所以我还是直接放给大家看吧
 Dialogue: 2,4:39:26.62,4:39:28.81,辉英,,0,0,0,,So instead, I'm just going to let it play.
@@ -4460,9 +4458,9 @@ Dialogue: 1,4:43:54.60,4:43:56.60,辉中,,0,0,0,,乔尔：嗯
 Dialogue: 2,4:43:54.60,4:43:56.60,辉英,,0,0,0,,Joel: Yep.
 Dialogue: 1,4:45:32.17,4:45:34.87,辉中,,0,0,0,,游戏就这样结束了
 Dialogue: 2,4:45:32.17,4:45:34.87,辉英,,0,0,0,,And just like that, the game is over.
-Dialogue: 1,4:45:34.87,4:45:38.37,辉中,,0,0,0,,和游戏开场时候一样
+Dialogue: 1,4:45:34.87,4:45:38.37,辉中,,0,0,0,,和游戏开场时的镜头一样
 Dialogue: 2,4:45:34.87,4:45:38.37,辉英,,0,0,0,,Closing in on the same shot that the game opened up with,
-Dialogue: 1,4:45:38.37,4:45:41.98,辉中,,0,0,0,,游戏开场镜头聚焦在乔尔正在清洁的吉他
+Dialogue: 1,4:45:38.37,4:45:41.98,辉中,,0,0,0,,那时镜头聚焦在乔尔正在清洁的吉他
 Dialogue: 2,4:45:38.37,4:45:41.98,辉英,,0,0,0,,a focus on Joel's guitar as he was cleaning it at the very start,
 Dialogue: 1,4:45:41.98,4:45:46.09,辉中,,0,0,0,,一边清洁一边描述一代作品结尾在医院发生了什么
 Dialogue: 2,4:45:41.98,4:45:46.09,辉英,,0,0,0,,describing what happened the hospital at the end of the first game.
@@ -4474,7 +4472,7 @@ Dialogue: 1,4:45:54.04,4:45:57.73,辉中,,0,0,0,,这段结尾也让玩家恍然�
 Dialogue: 2,4:45:54.04,4:45:57.73,辉英,,0,0,0,,The story reaches a surprising conclusion.
 Dialogue: 1,4:45:57.73,4:45:59.86,辉中,,0,0,0,,在视频开头
 Dialogue: 2,4:45:57.73,4:45:59.86,辉英,,0,0,0,,This is why, back at the beginning of the video,
-Dialogue: 1,4:45:59.86,4:46:05.92,辉中,,0,0,0,,我跟大家讲过 艾莉晚上要和乔尔看电影这件事为何如此重要
+Dialogue: 1,4:45:59.86,4:46:05.92,辉中,,0,0,0,,我跟大家讲过 艾莉晚上要和乔尔看电影这件事是何其重要
 Dialogue: 2,4:45:59.86,4:46:05.92,辉英,,0,0,0,,I told you that Ellie wanting to have a movie night with Joel was so very important.
 Dialogue: 1,4:46:05.92,4:46:09.04,辉中,,0,0,0,,因为这将是两人重新建立感情的第一步
 Dialogue: 2,4:46:05.92,4:46:09.04,辉英,,0,0,0,,It was going to be their first step towards healing.
@@ -4488,13 +4486,12 @@ Dialogue: 1,4:46:18.37,4:46:19.45,辉中,,0,0,0,,但是看起来
 Dialogue: 2,4:46:18.37,4:46:19.45,辉英,,0,0,0,,But it seems as though,
 Dialogue: 1,4:46:19.45,4:46:22.72,辉中,,0,0,0,,在经过所有的沉思 所有的紧张
 Dialogue: 2,4:46:19.45,4:46:22.72,辉英,,0,0,0,,after all of this contemplation, all of this nervousness,
-Dialogue: 1,4:46:22.72,4:46:27.94,辉中,,0,0,0,,所有的压力 所有几个月来积累起来的仇恨
+Dialogue: 1,4:46:22.72,4:46:27.94,辉中,,0,0,0,,所有的压力 所有几个月来积累起来的仇恨过后
 Dialogue: 2,4:46:22.72,4:46:27.94,辉英,,0,0,0,,all of this stress, all of this hatred that had built up over months,
-Dialogue: 1,4:46:27.94,4:46:31.84,辉中,,0,0,0,,以及此时 多年来因失去乔尔所带来的痛苦
+Dialogue: 1,4:46:27.94,4:46:31.84,辉中,,0,0,0,,以及此时 经历了多年因失去乔尔所带来的痛苦后
 Dialogue: 2,4:46:27.94,4:46:31.84,辉英,,0,0,0,,and at this point, years of struggling with Joel's demise
-Dialogue: 1,4:46:31.84,4:46:35.75,辉中,,0,0,0,,让艾莉意识到战胜这种悲伤的最好方式就是接受乔尔的离去 继续快乐地生活
+Dialogue: 1,4:46:31.84,4:46:40.60,辉中,,0,0,0,,艾莉意识到战胜这种悲伤的最好方式就是接受乔尔的离去 继续快乐地生活
 Dialogue: 2,4:46:31.84,4:46:35.75,辉英,,0,0,0,,that she's realized the best way to deal with that grief
-Dialogue: 1,4:46:35.75,4:46:40.60,辉中,,0,0,0,,让艾莉意识到战胜这种悲伤的最好方式就是接受乔尔的离去 继续快乐地生活
 Dialogue: 2,4:46:35.75,4:46:40.60,辉英,,0,0,0,,is to accept that he's gone and to move on, living her life happily,
 Dialogue: 1,4:46:40.60,4:46:42.40,辉中,,0,0,0,,不是去整天寻求报仇
 Dialogue: 2,4:46:40.60,4:46:42.40,辉英,,0,0,0,,not seeking revenge,
@@ -4512,109 +4509,213 @@ Dialogue: 1,4:47:04.87,4:47:08.77,辉中,,0,0,0,,在经历了如此漫长的旅�
 Dialogue: 2,4:47:04.87,4:47:08.77,辉英,,0,0,0,,And it seems as though, after a very long journey,
 Dialogue: 1,4:47:08.77,4:47:13.48,辉中,,0,0,0,,乔尔和艾莉的故事 终于结束了
 Dialogue: 2,4:47:08.77,4:47:13.48,辉英,,0,0,0,,Joel and Ellie story has finally come to an end.
-Dialogue: 1,4:47:13.48,4:47:16.69,辉中,,0,0,0,,就这样突然结束了\NAnd just like that the game is over.
-Dialogue: 1,4:47:16.69,4:47:19.41,辉中,,0,0,0,,真的 我在看结尾制作人员名单的时候我的思路完全是迷茫的\NI mean, I really don't know
-Dialogue: 1,4:47:19.41,4:47:23.97,辉中,,0,0,0,,真的 我在看结尾制作人员名单的时候我的思路完全是迷茫的\Nhow to break down where my mind was when I first saw these credits roll.
-Dialogue: 1,4:47:24.84,4:47:30.01,辉中,,0,0,0,,我觉得总结这一切的最好方式就是与你们交谈\NAnd I feel as though the best way to kind of wrap all of this up is by talking with you guys,
-Dialogue: 1,4:47:30.01,4:47:34.39,辉中,,0,0,0,,面对面不打草稿地交流 一边唠嗑一边总结\None on one in an unscripted way, or I can just wrap up all of my thoughts.
-Dialogue: 1,4:47:34.39,4:47:37.85,辉中,,0,0,0,,因为我觉得这个游戏太非同寻常了\NBecause I think that this game is truly exceptional,
-Dialogue: 1,4:47:37.85,4:47:41.83,辉中,,0,0,0,,真的是字面意义上的 超乎大家对游戏认知的非同寻常\Nagain in the purest sense of the word, where it's an exception to the rule.
-Dialogue: 1,4:47:41.83,4:47:43.93,辉中,,0,0,0,,绝大多数游戏你可以轻松给出好评或者差评\NMost games, you can give a thumbs up or thumbs down,
-Dialogue: 1,4:47:43.93,4:47:45.70,辉中,,0,0,0,,你可以说它很好 也可以说它很烂\Nyou can say it's really good or it's really bad.
-Dialogue: 1,4:47:45.70,4:47:49.45,辉中,,0,0,0,,而我认为TLOU2是一款非常非常好的游戏\NAnd TLOU2 is a game I think is very, very good.
-Dialogue: 1,4:47:49.45,4:47:52.45,辉中,,0,0,0,,我认为游戏性上体验很棒\NIt's an enjoyable game play experience, I think.
-Dialogue: 1,4:47:52.45,4:47:56.53,辉中,,0,0,0,,除了一点节奏问题外 大部分内容做得很好\NFor the most part, it works really well, except for some pacing issues.
-Dialogue: 1,4:47:56.53,4:48:02.61,辉中,,0,0,0,,但其中很多节奏上的问题主要是由叙事引起的\NBut a lot of those pacing issues are problematic, primarily because of the narrative
-Dialogue: 1,4:48:02.61,4:48:07.12,辉中,,0,0,0,,因为你又想专注于一个角色 又要在两个角色之间不断交换\Nbecause you want to focus on one character and you're having to keep swap between the two.
-Dialogue: 1,4:48:07.12,4:48:09.46,辉中,,0,0,0,,同时还有一些其他游戏内容上的节奏问题\NBut even so, there're some gameplay pacing issues,
-Dialogue: 1,4:48:09.46,4:48:14.39,辉中,,0,0,0,,比如游戏高潮内容的构建\Nsuch as having problems with climax building
-Dialogue: 1,4:48:14.39,4:48:19.87,辉中,,0,0,0,,确保最终boss战的沉浸感和有趣程度的方面是有问题的\Nand making sure that the final boss fights are really intriguing and interesting, and things like that.
-Dialogue: 1,4:48:19.87,4:48:25.37,辉中,,0,0,0,,但对于游玩部分来讲 它仍然是个好游戏\NBut all told, as far as the game is concerned, it's very well done as a game,
-Dialogue: 1,4:48:25.37,4:48:28.63,辉中,,0,0,0,,很多对TLOU2不满的人\Nand most people who have a problem with TLOU2
-Dialogue: 1,4:48:28.63,4:48:31.24,辉中,,0,0,0,,也并不会否认这方面的问题\Ndon't deny that they accepted and agree with it.
-Dialogue: 1,4:48:31.24,4:48:35.98,辉中,,0,0,0,,所以许多批评内容并不是指向这一点的\NSo that doesn't seem to be where the criticisms tend to come out.
-Dialogue: 1,4:48:35.98,4:48:39.52,辉中,,0,0,0,,我发现我们很多人的批评最后都来自于……\NI think we're most criticisms find themselves presented…
-Dialogue: 1,4:48:40.51,4:48:44.23,辉中,,0,0,0,,顽皮狗对于剧情方向上做出的选择\Nour with regards to the direction Naughty Dog chose to go in.
-Dialogue: 1,4:48:45.19,4:48:47.80,辉中,,0,0,0,,因为编剧当然是有很多选择的\NBecause the writers, of course, had the option,
-Dialogue: 1,4:48:47.80,4:48:50.35,辉中,,0,0,0,,他们不需要非得做出某些选择\Nthey didn't have to go the direction that they did.
-Dialogue: 1,4:48:50.35,4:48:52.36,辉中,,0,0,0,,他们不用非得让乔尔领便当\NThey didn't have to kill Joel off for one,
-Dialogue: 1,4:48:52.36,4:48:55.93,辉中,,0,0,0,,他们不用非得让你和埃比产生共鸣\Nthey didn't have to make you empathize with Abby,
-Dialogue: 1,4:48:55.93,4:49:00.70,辉中,,0,0,0,,他们不用非得让你在游戏后半去操控埃比\Nthey didn't have to make you play as Abby for the second half of the game,
-Dialogue: 1,4:49:00.70,4:49:02.17,辉中,,0,0,0,,很多都不是一定这样做才行的\Nthey didn't have to do any of that.
-Dialogue: 1,4:49:02.17,4:49:04.03,辉中,,0,0,0,,但他们还是选择这样做了\NBut that's the direction they chose to go in.
-Dialogue: 1,4:49:04.03,4:49:06.25,辉中,,0,0,0,,而且我自己也能看得出\NAnd I think as far as I can tell,
-Dialogue: 1,4:49:06.25,4:49:13.15,辉中,,0,0,0,,很多玩家最开始都以为 都期待游戏是完全关于艾莉的\Nmost people were hoping and expecting that the game would be about Ellie,
-Dialogue: 1,4:49:13.15,4:49:14.56,辉中,,0,0,0,,and that's it.
-Dialogue: 1,4:49:14.56,4:49:19.06,辉中,,0,0,0,,They weren't interested in playing and getting to know this new character.
-Dialogue: 1,4:49:20.20,4:49:23.76,辉中,,0,0,0,,And I think that that's just the frustrating thing about it
-Dialogue: 1,4:49:23.76,4:49:26.96,辉中,,0,0,0,,is that a lot of people were hoping and expecting to
-Dialogue: 1,4:49:26.96,4:49:29.44,辉中,,0,0,0,,have exposure and experience with Ellie
-Dialogue: 1,4:49:29.44,4:49:34.03,辉中,,0,0,0,,that was not just dreadful through and through.
-Dialogue: 1,4:49:34.03,4:49:37.97,辉中,,0,0,0,,But instead they were forced to go through this very frustrating and
-Dialogue: 1,4:49:37.97,4:49:41.35,辉中,,0,0,0,,very emotionally taxing journey with her,
-Dialogue: 1,4:49:41.35,4:49:43.75,辉中,,0,0,0,,which I think is probably where I land.
-Dialogue: 1,4:49:43.75,4:49:48.97,辉中,,0,0,0,,Because I really cherish Ellie as a character, I care about her,
-Dialogue: 1,4:49:48.97,4:49:50.64,辉中,,0,0,0,,and I connected with her on a level,
-Dialogue: 1,4:49:50.64,4:49:53.74,辉中,,0,0,0,,I didn't realize I could connect with the character in the first game.
-Dialogue: 1,4:49:53.74,4:49:58.66,辉中,,0,0,0,,And her actions in the second game make her very difficult to sympathize with.
-Dialogue: 1,4:49:58.66,4:50:02.04,辉中,,0,0,0,,Because she's doing things that are objectively pretty dumb and stupid
-Dialogue: 1,4:50:02.04,4:50:05.95,辉中,,0,0,0,,that aren't for the betterment of her and the people around her.
-Dialogue: 1,4:50:05.95,4:50:08.47,辉中,,0,0,0,,She's being fairly selfish in what she's doing,
-Dialogue: 1,4:50:08.47,4:50:14.98,辉中,,0,0,0,,and she does feel a… an obligation of sorts to Joel to continue on in her revenge journey.
-Dialogue: 1,4:50:14.98,4:50:20.59,辉中,,0,0,0,,But still, it's not the same as the actions of Joel in the first game
-Dialogue: 1,4:50:20.59,4:50:25.72,辉中,,0,0,0,,where he goes after Ellie, even though he's killing a lot of people to get to her and to save her
-Dialogue: 1,4:50:25.72,4:50:29.28,辉中,,0,0,0,,from the Fireflies and everything they are about to do to her.
-Dialogue: 1,4:50:29.28,4:50:32.70,辉中,,0,0,0,,At least there you can understand why he's doing it and you might even agreed
-Dialogue: 1,4:50:32.70,4:50:34.27,辉中,,0,0,0,,because you care about Ellie too.
-Dialogue: 1,4:50:34.27,4:50:36.49,辉中,,0,0,0,,And you might say I care about her so much,
-Dialogue: 1,4:50:36.49,4:50:39.39,辉中,,0,0,0,,I would probably do the same thing if I was in his shoes.
-Dialogue: 1,4:50:39.39,4:50:44.83,辉中,,0,0,0,,With Ellie in this game, many times, I found myself saying I would not have done that.
-Dialogue: 1,4:50:44.83,4:50:47.44,辉中,,0,0,0,,That was the wrong choice, I don't agree with that.
-Dialogue: 1,4:50:47.44,4:50:50.53,辉中,,0,0,0,,I care about you Ellie, and that's why I disagree with what you're doing.
-Dialogue: 1,4:50:50.53,4:50:55.93,辉中,,0,0,0,,She's on a self destructive, borderline suicide mission throughout the entire game,
-Dialogue: 1,4:50:55.93,4:50:59.38,辉中,,0,0,0,,and that just makes it so hard to sympathize with her, if not impossible.
-Dialogue: 1,4:51:00.40,4:51:02.95,辉中,,0,0,0,,And when you don't sympathise with somebody,
-Dialogue: 1,4:51:02.95,4:51:05.53,辉中,,0,0,0,,you shouldn't be surprised when people don't connect with them,
-Dialogue: 1,4:51:05.53,4:51:07.33,辉中,,0,0,0,,which is why, for a lot of people,
-Dialogue: 1,4:51:07.33,4:51:12.76,辉中,,0,0,0,,they found themselves feeling as though that this wasn't a TLOU game, even by itself.
-Dialogue: 1,4:51:12.76,4:51:16.63,辉中,,0,0,0,,It wasn't a sequel, it was a completely separate story.
-Dialogue: 1,4:51:16.63,4:51:18.85,辉中,,0,0,0,,Ellie had grown up and become a different person,
-Dialogue: 1,4:51:18.85,4:51:23.50,辉中,,0,0,0,,and she was almost unrecognisable from the character she was in the first game,
-Dialogue: 1,4:51:23.50,4:51:27.04,辉中,,0,0,0,,which is why Naughty Dog keep springing up all these flashbacks
-Dialogue: 1,4:51:27.04,4:51:30.13,辉中,,0,0,0,,to kind of remind you of what Ellie used to be like.
-Dialogue: 1,4:51:31.30,4:51:34.66,辉中,,0,0,0,,But that isn't enough, because you're playing in the current timeline.
-Dialogue: 1,4:51:34.66,4:51:39.55,辉中,,0,0,0,,And if that Ellie is not enjoyable, isn't sympathetic, and you don't care about her,
-Dialogue: 1,4:51:39.55,4:51:41.08,辉中,,0,0,0,,you don't care about her.
-Dialogue: 1,4:51:41.08,4:51:43.51,辉中,,0,0,0,,So when we bring up the question,
-Dialogue: 1,4:51:43.51,4:51:47.86,辉中,,0,0,0,,whether or not Ellie is is a well written character in this story.
-Dialogue: 1,4:51:47.86,4:51:50.95,辉中,,0,0,0,,I think for the story they were trying to tell she was well written,
-Dialogue: 1,4:51:50.95,4:51:53.94,辉中,,0,0,0,,and it accomplish the purpose which for Naughty Dog
-Dialogue: 1,4:51:53.94,4:52:00.00,辉中,,0,0,0,,was to make you sympathize with somebody that killed a character you loved and cared about,
-Dialogue: 1,4:52:00.00,4:52:03.58,辉中,,0,0,0,,to make you see the other side of the story,
-Dialogue: 1,4:52:03.58,4:52:08.92,辉中,,0,0,0,,to understand all the perspectives, and to get that sometimes violence isn't the answer.
-Dialogue: 1,4:52:08.92,4:52:14.38,辉中,,0,0,0,,And sometimes, terrible things happen and are somewhat justified.
-Dialogue: 1,4:52:14.38,4:52:18.85,辉中,,0,0,0,,Or that you could even find yourself in the shoes of that character doing that thing
-Dialogue: 1,4:52:19.16,4:52:23.17,辉中,,0,0,0,,if you were put into some sort of like different circumstances, you know.
-Dialogue: 1,4:52:23.17,4:52:27.76,辉中,,0,0,0,,And I think that that's a really interesting story to tell.
-Dialogue: 1,4:52:27.76,4:52:29.29,辉中,,0,0,0,,And I think that's a fair story to tell.
-Dialogue: 1,4:52:29.29,4:52:31.84,辉中,,0,0,0,,And that's… when I think of the game that way,
-Dialogue: 1,4:52:31.84,4:52:36.58,辉中,,0,0,0,,I find myself much more impressed with it and thinking that it's absolutely a masterpiece.
-Dialogue: 1,4:52:37.42,4:52:40.91,辉中,,0,0,0,,But I think my frustration is that it was a TLOU game.
-Dialogue: 1,4:52:41.48,4:52:49.09,辉中,,0,0,0,,And that they sacrifice not just Joel but also Ellie at the altar of that story.
-Dialogue: 1,4:52:49.09,4:52:53.29,辉中,,0,0,0,,Because I don't think that creating new characters
-Dialogue: 1,4:52:53.29,4:52:58.24,辉中,,0,0,0,,and telling the story from start to finish with new characters would have been as successful.
-Dialogue: 1,4:52:58.24,4:53:05.14,辉中,,0,0,0,,I think part of what makes that story arc of "Forgiving the Unforgivable", the title of this video.
-Dialogue: 1,4:53:06.13,4:53:10.93,辉中,,0,0,0,,I think that's part of what of what makes it so impressive is that
-Dialogue: 1,4:53:10.93,4:53:16.35,辉中,,0,0,0,,you are dealing with characters you've known effectively for a decade at this point.
-Dialogue: 1,4:53:16.35,4:53:18.58,辉中,,0,0,0,,You've known for seven plus years,
-Dialogue: 1,4:53:18.58,4:53:21.34,辉中,,0,0,0,,by the time you're watching this magnum for… for longer than that.
-Dialogue: 1,4:53:22.45,4:53:27.95,辉中,,0,0,0,,And I think that that's just what's really frustrating, but understandable is that
-Dialogue: 1,4:53:27.95,4:53:33.34,辉中,,0,0,0,,they sacrifice these two characters that you love for the sake of telling this story,
-Dialogue: 1,4:53:33.34,4:53:37.05,辉中,,0,0,0,,when they reassured us prior to launch that they were doing
-Dialogue: 1,4:53:37.05,4:53:40.84,辉中,,0,0,0,,what was best for the characters that they weren't going to do them dirty,
-Dialogue: 1,4:53:40.84,4:53:44.08,辉中,,0,0,0,,that this was what was best for Joel and Ellie,
-Dialogue: 1,4:53:44.08,4:53:48.25,辉中,,0,0,0,,and they wouldn't be making the game if they didn't feel as though it was the right story to tell.
-Dialogue: 1,4:53:49.72,4:53:53.80,辉中,,0,0,0,,So I can understand the frustration on that end.
+Dialogue: 1,4:47:13.48,4:47:16.69,辉中,,0,0,0,,就这样 游戏结束了
+Dialogue: 2,4:47:13.48,4:47:16.69,辉英,,0,0,0,,And just like that the game is over.
+Dialogue: 1,4:47:16.69,4:47:23.97,辉中,,0,0,0,,真的 我在看结尾制作人员名单的时候我的思路完全是迷茫的
+Dialogue: 2,4:47:16.69,4:47:19.41,辉英,,0,0,0,,I mean, I really don't know
+Dialogue: 2,4:47:19.41,4:47:23.97,辉英,,0,0,0,,how to break down where my mind was when I first saw these credits roll.
+Dialogue: 1,4:47:24.84,4:47:30.01,辉中,,0,0,0,,我觉得总结这一切的最好方式就是与你们交谈
+Dialogue: 2,4:47:24.84,4:47:30.01,辉英,,0,0,0,,And I feel as though the best way to kind of wrap all of this up is by talking with you guys,
+Dialogue: 1,4:47:30.01,4:47:34.39,辉中,,0,0,0,,面对面不打草稿地交流 一边唠嗑一边总结
+Dialogue: 2,4:47:30.01,4:47:34.39,辉英,,0,0,0,,one on one in an unscripted way, or I can just wrap up all of my thoughts.
+Dialogue: 1,4:47:34.39,4:47:37.85,辉中,,0,0,0,,因为我觉得这个游戏太非同寻常了
+Dialogue: 2,4:47:34.39,4:47:37.85,辉英,,0,0,0,,Because I think that this game is truly exceptional,
+Dialogue: 1,4:47:37.85,4:47:41.83,辉中,,0,0,0,,真的是字面意义上的 超乎大家对游戏认知的非同寻常
+Dialogue: 2,4:47:37.85,4:47:41.83,辉英,,0,0,0,,again in the purest sense of the word, where it's an exception to the rule.
+Dialogue: 1,4:47:41.83,4:47:43.93,辉中,,0,0,0,,绝大多数游戏你可以轻松给出好评或者差评
+Dialogue: 2,4:47:41.83,4:47:43.93,辉英,,0,0,0,,Most games, you can give a thumbs up or thumbs down,
+Dialogue: 1,4:47:43.93,4:47:45.70,辉中,,0,0,0,,你可以说它很好 也可以说它很烂
+Dialogue: 2,4:47:43.93,4:47:45.70,辉英,,0,0,0,,you can say it's really good or it's really bad.
+Dialogue: 1,4:47:45.70,4:47:49.45,辉中,,0,0,0,,而我认为TLOU2是一款非常非常好的游戏
+Dialogue: 2,4:47:45.70,4:47:49.45,辉英,,0,0,0,,And TLOU2 is a game I think is very, very good.
+Dialogue: 1,4:47:49.45,4:47:52.45,辉中,,0,0,0,,我认为游戏性上体验很棒
+Dialogue: 2,4:47:49.45,4:47:52.45,辉英,,0,0,0,,It's an enjoyable game play experience, I think.
+Dialogue: 1,4:47:52.45,4:47:56.53,辉中,,0,0,0,,除了一点节奏问题外 大部分内容做得很好
+Dialogue: 2,4:47:52.45,4:47:56.53,辉英,,0,0,0,,For the most part, it works really well, except for some pacing issues.
+Dialogue: 1,4:47:56.53,4:48:02.61,辉中,,0,0,0,,但其中很多节奏上的问题主要是由叙事引起的
+Dialogue: 2,4:47:56.53,4:48:02.61,辉英,,0,0,0,,But a lot of those pacing issues are problematic, primarily because of the narrative
+Dialogue: 1,4:48:02.61,4:48:07.12,辉中,,0,0,0,,因为你又想专注于一个角色 又要在两个角色之间不断交换
+Dialogue: 2,4:48:02.61,4:48:07.12,辉英,,0,0,0,,because you want to focus on one character and you're having to keep swap between the two.
+Dialogue: 1,4:48:07.12,4:48:09.46,辉中,,0,0,0,,同时还有一些其他游戏内容上的节奏问题
+Dialogue: 2,4:48:07.12,4:48:09.46,辉英,,0,0,0,,But even so, there're some gameplay pacing issues,
+Dialogue: 1,4:48:09.46,4:48:14.39,辉中,,0,0,0,,比如游戏高潮内容的构建
+Dialogue: 2,4:48:09.46,4:48:14.39,辉英,,0,0,0,,such as having problems with climax building
+Dialogue: 1,4:48:14.39,4:48:19.87,辉中,,0,0,0,,最终boss战的沉浸感和有趣程度的方面是有问题的
+Dialogue: 2,4:48:14.39,4:48:19.87,辉英,,0,0,0,,and making sure that the final boss fights are really intriguing and interesting, and things like that.
+Dialogue: 1,4:48:19.87,4:48:25.37,辉中,,0,0,0,,但对于游玩部分来讲 它仍然是个好游戏
+Dialogue: 2,4:48:19.87,4:48:25.37,辉英,,0,0,0,,But all told, as far as the game is concerned, it's very well done as a game,
+Dialogue: 1,4:48:25.37,4:48:28.63,辉中,,0,0,0,,很多对TLOU2不满的人
+Dialogue: 2,4:48:25.37,4:48:28.63,辉英,,0,0,0,,and most people who have a problem with TLOU2
+Dialogue: 1,4:48:28.63,4:48:31.24,辉中,,0,0,0,,也并不会否认这方面的问题
+Dialogue: 2,4:48:28.63,4:48:31.24,辉英,,0,0,0,,don't deny that they accepted and agree with it.
+Dialogue: 1,4:48:31.24,4:48:35.98,辉中,,0,0,0,,所以许多批评内容并不是指向这里的
+Dialogue: 2,4:48:31.24,4:48:35.98,辉英,,0,0,0,,So that doesn't seem to be where the criticisms tend to come out.
+Dialogue: 1,4:48:35.98,4:48:39.52,辉中,,0,0,0,,我发现我们很多人的批评最后都来自于……
+Dialogue: 2,4:48:35.98,4:48:39.52,辉英,,0,0,0,,I think we're most criticisms find themselves presented…
+Dialogue: 1,4:48:40.51,4:48:44.23,辉中,,0,0,0,,顽皮狗对于剧情方向上做出的选择
+Dialogue: 2,4:48:40.51,4:48:44.23,辉英,,0,0,0,,our with regards to the direction Naughty Dog chose to go in.
+Dialogue: 1,4:48:45.19,4:48:47.80,辉中,,0,0,0,,因为编剧们当然是有很多选择的
+Dialogue: 2,4:48:45.19,4:48:47.80,辉英,,0,0,0,,Because the writers, of course, had the option,
+Dialogue: 1,4:48:47.80,4:48:50.35,辉中,,0,0,0,,他们不需要非得做出某些选择
+Dialogue: 2,4:48:47.80,4:48:50.35,辉英,,0,0,0,,they didn't have to go the direction that they did.
+Dialogue: 1,4:48:50.35,4:48:52.36,辉中,,0,0,0,,他们不用非得让乔尔领便当
+Dialogue: 2,4:48:50.35,4:48:52.36,辉英,,0,0,0,,They didn't have to kill Joel off for one,
+Dialogue: 1,4:48:52.36,4:48:55.93,辉中,,0,0,0,,他们不用非得让你和埃比产生共鸣
+Dialogue: 2,4:48:52.36,4:48:55.93,辉英,,0,0,0,,they didn't have to make you empathize with Abby,
+Dialogue: 1,4:48:55.93,4:49:00.70,辉中,,0,0,0,,他们不用非得让你在游戏后半去操控埃比
+Dialogue: 2,4:48:55.93,4:49:00.70,辉英,,0,0,0,,they didn't have to make you play as Abby for the second half of the game,
+Dialogue: 1,4:49:00.70,4:49:02.17,辉中,,0,0,0,,很多都不是一定这样做才行的
+Dialogue: 2,4:49:00.70,4:49:02.17,辉英,,0,0,0,,they didn't have to do any of that.
+Dialogue: 1,4:49:02.17,4:49:04.03,辉中,,0,0,0,,但他们还是选择这样做了
+Dialogue: 2,4:49:02.17,4:49:04.03,辉英,,0,0,0,,But that's the direction they chose to go in.
+Dialogue: 1,4:49:04.03,4:49:06.25,辉中,,0,0,0,,而且我自己也能看得出
+Dialogue: 2,4:49:04.03,4:49:06.25,辉英,,0,0,0,,And I think as far as I can tell,
+Dialogue: 1,4:49:06.25,4:49:13.15,辉中,,0,0,0,,很多玩家最开始都以为、都期待游戏是完全关于艾莉的
+Dialogue: 2,4:49:06.25,4:49:13.15,辉英,,0,0,0,,most people were hoping and expecting that the game would be about Ellie,
+Dialogue: 1,4:49:13.15,4:49:14.56,辉中,,0,0,0,,确实如此
+Dialogue: 2,4:49:13.15,4:49:14.56,辉英,,0,0,0,,and that's it.
+Dialogue: 1,4:49:14.56,4:49:19.06,辉中,,0,0,0,,他们并不想去认识新的角色
+Dialogue: 2,4:49:14.56,4:49:19.06,辉英,,0,0,0,,They weren't interested in playing and getting to know this new character.
+Dialogue: 1,4:49:20.20,4:49:23.76,辉中,,0,0,0,,我想这正是大家的困扰所在
+Dialogue: 2,4:49:20.20,4:49:23.76,辉英,,0,0,0,,And I think that that's just the frustrating thing about it
+Dialogue: 1,4:49:23.76,4:49:26.96,辉中,,0,0,0,,许多玩家都期待着
+Dialogue: 2,4:49:23.76,4:49:26.96,辉英,,0,0,0,,is that a lot of people were hoping and expecting to
+Dialogue: 1,4:49:26.96,4:49:34.03,辉中,,0,0,0,,能够有更多和艾莉在一起的 不只是悲伤与绝望的经历
+Dialogue: 2,4:49:26.96,4:49:29.44,辉英,,0,0,0,,have exposure and experience with Ellie
+Dialogue: 2,4:49:29.44,4:49:34.03,辉英,,0,0,0,,that was not just dreadful through and through.
+Dialogue: 1,4:49:34.03,4:49:41.35,辉中,,0,0,0,,结果却发现玩家要陪着艾莉一起经历这种令人沮丧到心累的漫漫旅程
+Dialogue: 2,4:49:34.03,4:49:37.97,辉英,,0,0,0,,But instead they were forced to go through this very frustrating and
+Dialogue: 2,4:49:37.97,4:49:41.35,辉英,,0,0,0,,very emotionally taxing journey with her,
+Dialogue: 1,4:49:41.35,4:49:43.75,辉中,,0,0,0,,我觉得这正是我的观点的落脚点
+Dialogue: 2,4:49:41.35,4:49:43.75,辉英,,0,0,0,,which I think is probably where I land.
+Dialogue: 1,4:49:43.75,4:49:48.97,辉中,,0,0,0,,因为我真的非常非常喜爱艾莉这个角色 我关心她
+Dialogue: 2,4:49:43.75,4:49:48.97,辉英,,0,0,0,,Because I really cherish Ellie as a character, I care about her,
+Dialogue: 1,4:49:48.97,4:49:50.64,辉中,,0,0,0,,我觉得我和她产生了很深的羁绊
+Dialogue: 2,4:49:48.97,4:49:50.64,辉英,,0,0,0,,and I connected with her on a level,
+Dialogue: 1,4:49:50.64,4:49:53.74,辉中,,0,0,0,,我之前都没想到我会和一个游戏中的角色产生这种联系
+Dialogue: 2,4:49:50.64,4:49:53.74,辉英,,0,0,0,,I didn't realize I could connect with the character in the first game.
+Dialogue: 1,4:49:53.74,4:49:58.66,辉中,,0,0,0,,而她在第二部作品中的表现也是在实在让人心疼不起来
+Dialogue: 2,4:49:53.74,4:49:58.66,辉英,,0,0,0,,And her actions in the second game make her very difficult to sympathize with.
+Dialogue: 1,4:49:58.66,4:50:02.04,辉中,,0,0,0,,因为客观来看她的行为很愚蠢
+Dialogue: 2,4:49:58.66,4:50:02.04,辉英,,0,0,0,,Because she's doing things that are objectively pretty dumb and stupid
+Dialogue: 1,4:50:02.04,4:50:05.95,辉中,,0,0,0,,丝毫不为她自己和周围的人着想
+Dialogue: 2,4:50:02.04,4:50:05.95,辉英,,0,0,0,,that aren't for the betterment of her and the people around her.
+Dialogue: 1,4:50:05.95,4:50:08.47,辉中,,0,0,0,,她做的事情相当自私
+Dialogue: 2,4:50:05.95,4:50:08.47,辉英,,0,0,0,,She's being fairly selfish in what she's doing,
+Dialogue: 1,4:50:08.47,4:50:14.98,辉中,,0,0,0,,而且她对继续进行乔尔的复仇之旅有……有一种执念
+Dialogue: 2,4:50:08.47,4:50:14.98,辉英,,0,0,0,,and she does feel a… an obligation of sorts to Joel to continue on in her revenge journey.
+Dialogue: 1,4:50:14.98,4:50:20.59,辉中,,0,0,0,,但要注意 这和前作里乔尔的行为是不同的
+Dialogue: 2,4:50:14.98,4:50:20.59,辉英,,0,0,0,,But still, it's not the same as the actions of Joel in the first game
+Dialogue: 1,4:50:20.59,4:50:22.07,辉中,,0,0,0,,乔尔去救艾莉
+Dialogue: 2,4:50:20.59,4:50:22.07,辉英,,0,0,0,,where he goes after Ellie,
+Dialogue: 1,4:50:22.07,4:50:29.28,辉中,,0,0,0,,把她从火萤组织手里救出来的时候同样也杀了很多人
+Dialogue: 2,4:50:22.07,4:50:27.12,辉英,,0,0,0,,even though he's killing a lot of people to get to her and to save her from the Fireflies
+Dialogue: 2,4:50:27.12,4:50:29.28,辉英,,0,0,0,,and everything they are about to do to her.
+Dialogue: 1,4:50:29.28,4:50:32.70,辉中,,0,0,0,,至少大家能够明白乔尔在做什么 甚至会认同他的做法
+Dialogue: 2,4:50:29.28,4:50:32.70,辉英,,0,0,0,,At least there you can understand why he's doing it and you might even agreed
+Dialogue: 1,4:50:32.70,4:50:34.27,辉中,,0,0,0,,因为大家也很爱艾莉
+Dialogue: 2,4:50:32.70,4:50:34.27,辉英,,0,0,0,,because you care about Ellie too.
+Dialogue: 1,4:50:34.27,4:50:36.49,辉中,,0,0,0,,玩家可能会说自己太关心艾莉了
+Dialogue: 2,4:50:34.27,4:50:36.49,辉英,,0,0,0,,And you might say I care about her so much,
+Dialogue: 1,4:50:36.49,4:50:39.39,辉中,,0,0,0,,换我是乔尔 我也会做同样的事
+Dialogue: 2,4:50:36.49,4:50:39.39,辉英,,0,0,0,,I would probably do the same thing if I was in his shoes.
+Dialogue: 1,4:50:39.39,4:50:43.67,辉中,,0,0,0,,而在这个游戏中操控艾莉的时候 很多次我都在跟自己说
+Dialogue: 2,4:50:39.39,4:50:43.67,辉英,,0,0,0,,With Ellie in this game, many times, I found myself saying
+Dialogue: 1,4:50:43.67,4:50:47.44,辉中,,0,0,0,,“我肯定不会这样做”“这是错误的”“我可不敢苟同”
+Dialogue: 2,4:50:43.67,4:50:47.44,辉英,,0,0,0,,I would not have done that. That was the wrong choice, I don't agree with that.
+Dialogue: 1,4:50:47.44,4:50:50.53,辉中,,0,0,0,,正因为我关心艾莉 所以我才不同意她的行为
+Dialogue: 2,4:50:47.44,4:50:50.53,辉英,,0,0,0,,I care about you Ellie, and that's why I disagree with what you're doing.
+Dialogue: 1,4:50:50.53,4:50:55.93,辉中,,0,0,0,,她整个游戏都在进行自我毁灭、边缘人格化的、自杀式的任务
+Dialogue: 2,4:50:50.53,4:50:55.93,辉英,,0,0,0,,She's on a self destructive, borderline suicide mission throughout the entire game,
+Dialogue: 1,4:50:55.93,4:50:59.38,辉中,,0,0,0,,这让人很难同情她 甚至根本不会同情她
+Dialogue: 2,4:50:55.93,4:50:59.38,辉英,,0,0,0,,and that just makes it so hard to sympathize with her, if not impossible.
+Dialogue: 1,4:51:00.40,4:51:02.95,辉中,,0,0,0,,而当你不同情某个人的时候
+Dialogue: 2,4:51:00.40,4:51:02.95,辉英,,0,0,0,,And when you don't sympathize with somebody,
+Dialogue: 1,4:51:02.95,4:51:05.53,辉中,,0,0,0,,和那个人产生不了情感上的羁绊就不奇怪了
+Dialogue: 2,4:51:02.95,4:51:05.53,辉英,,0,0,0,,you shouldn't be surprised when people don't connect with them,
+Dialogue: 1,4:51:05.53,4:51:07.33,辉中,,0,0,0,,也因此 对于很多人来说
+Dialogue: 2,4:51:05.53,4:51:07.33,辉英,,0,0,0,,which is why, for a lot of people,
+Dialogue: 1,4:51:07.33,4:51:12.76,辉中,,0,0,0,,他们觉得自己玩的不是一款《最后生还者》游戏 甚至可以说它本身就不是
+Dialogue: 2,4:51:07.33,4:51:12.76,辉英,,0,0,0,,they found themselves feeling as though that this wasn't a TLOU game, even by itself.
+Dialogue: 1,4:51:12.76,4:51:16.63,辉中,,0,0,0,,这算不上是续作 而是一个独立出来的故事
+Dialogue: 2,4:51:12.76,4:51:16.63,辉英,,0,0,0,,It wasn't a sequel, it was a completely separate story.
+Dialogue: 1,4:51:16.63,4:51:18.85,辉中,,0,0,0,,艾莉已经长大了 已经不是之前那个她了
+Dialogue: 2,4:51:16.63,4:51:18.85,辉英,,0,0,0,,Ellie had grown up and become a different person,
+Dialogue: 1,4:51:18.85,4:51:23.50,辉中,,0,0,0,,已经无法与第一部里那个她相提并论了
+Dialogue: 2,4:51:18.85,4:51:23.50,辉英,,0,0,0,,and she was almost unrecognisable from the character she was in the first game,
+Dialogue: 1,4:51:23.50,4:51:27.04,辉中,,0,0,0,,所以顽皮狗才一直插入闪回剧情
+Dialogue: 2,4:51:23.50,4:51:27.04,辉英,,0,0,0,,which is why Naughty Dog keep springing up all these flashbacks
+Dialogue: 1,4:51:27.04,4:51:30.13,辉中,,0,0,0,,不断提醒大家 原来的艾莉是什么样的
+Dialogue: 2,4:51:27.04,4:51:30.13,辉英,,0,0,0,,to kind of remind you of what Ellie used to be like.
+Dialogue: 1,4:51:31.30,4:51:34.66,辉中,,0,0,0,,但那是不够的 因为你主要玩的还是当前的时间线
+Dialogue: 2,4:51:31.30,4:51:34.66,辉英,,0,0,0,,But that isn't enough, because you're playing in the current timeline.
+Dialogue: 1,4:51:34.66,4:51:39.55,辉中,,0,0,0,,如果当前时间线的艾莉不好玩 不值得同情 那你就不会关心她
+Dialogue: 2,4:51:34.66,4:51:39.55,辉英,,0,0,0,,And if that Ellie is not enjoyable, isn't sympathetic, and you don't care about her,
+Dialogue: 1,4:51:39.55,4:51:41.08,辉中,,0,0,0,,你就是不会关心她
+Dialogue: 2,4:51:39.55,4:51:41.08,辉英,,0,0,0,,you don't care about her.
+Dialogue: 1,4:51:41.08,4:51:43.51,辉中,,0,0,0,,于是问题来了
+Dialogue: 2,4:51:41.08,4:51:43.51,辉英,,0,0,0,,So when we bring up the question,
+Dialogue: 1,4:51:43.51,4:51:47.86,辉中,,0,0,0,,艾莉这个人物在本作中描写得够好吗？
+Dialogue: 2,4:51:43.51,4:51:47.86,辉英,,0,0,0,,whether or not Ellie is is a well written character in this story.
+Dialogue: 1,4:51:47.86,4:51:50.95,辉中,,0,0,0,,我认为就他们想要讲述的故事而言 写得很好
+Dialogue: 2,4:51:47.86,4:51:50.95,辉英,,0,0,0,,I think for the story they were trying to tell she was well written,
+Dialogue: 1,4:51:50.95,4:51:53.94,辉中,,0,0,0,,这个角色达成了顽皮狗的目的
+Dialogue: 2,4:51:50.95,4:51:53.94,辉英,,0,0,0,,and it accomplish the purpose which for Naughty Dog
+Dialogue: 1,4:51:53.94,4:52:00.00,辉中,,0,0,0,,即让你同情杀害你所爱所关心的角色的人
+Dialogue: 2,4:51:53.94,4:52:00.00,辉英,,0,0,0,,was to make you sympathize with somebody that killed a character you loved and cared about,
+Dialogue: 1,4:52:00.00,4:52:03.58,辉中,,0,0,0,,让你看到故事的另一面
+Dialogue: 2,4:52:00.00,4:52:03.58,辉英,,0,0,0,,to make you see the other side of the story,
+Dialogue: 1,4:52:03.58,4:52:05.76,辉中,,0,0,0,,看清不同的视角下的故事
+Dialogue: 2,4:52:03.58,4:52:05.76,辉英,,0,0,0,,to understand all the perspectives,
+Dialogue: 1,4:52:05.76,4:52:08.92,辉中,,0,0,0,,并明白有时暴力并不是答案
+Dialogue: 2,4:52:05.76,4:52:08.92,辉英,,0,0,0,,and to get that sometimes violence isn't the answer.
+Dialogue: 1,4:52:08.92,4:52:14.38,辉中,,0,0,0,,而有时可怕的事情换个角度看就变得合理了
+Dialogue: 2,4:52:08.92,4:52:14.38,辉英,,0,0,0,,And sometimes, terrible things happen and are somewhat justified.
+Dialogue: 1,4:52:14.38,4:52:18.85,辉中,,0,0,0,,或者当你被置于某种类似情境下的时候
+Dialogue: 2,4:52:14.38,4:52:18.85,辉英,,0,0,0,,Or that you could even find yourself in the shoes of that character doing that thing
+Dialogue: 1,4:52:19.16,4:52:23.17,辉中,,0,0,0,,你甚至可以发现自己有时也变成了那个角色 做着那样的事请
+Dialogue: 2,4:52:19.16,4:52:23.17,辉英,,0,0,0,,if you were put into some sort of like different circumstances, you know.
+Dialogue: 1,4:52:23.17,4:52:27.76,辉中,,0,0,0,,也因此我认为游戏的故事是有趣的
+Dialogue: 2,4:52:23.17,4:52:27.76,辉英,,0,0,0,,And I think that that's a really interesting story to tell.
+Dialogue: 1,4:52:27.76,4:52:29.29,辉中,,0,0,0,,而且我认为故事内容也是恰当的
+Dialogue: 2,4:52:27.76,4:52:29.29,辉英,,0,0,0,,And I think that's a fair story to tell.
+Dialogue: 1,4:52:29.29,4:52:31.84,辉中,,0,0,0,,而这就……每当我这样去思考这个游戏的时候
+Dialogue: 2,4:52:29.29,4:52:31.84,辉英,,0,0,0,,And that's… when I think of the game that way,
+Dialogue: 1,4:52:31.84,4:52:36.58,辉中,,0,0,0,,我就发现这个游戏竟然给我留下如此深刻的印象 感觉它绝对是个神作
+Dialogue: 2,4:52:31.84,4:52:36.58,辉英,,0,0,0,,I find myself much more impressed with it and thinking that it's absolutely a masterpiece.
+Dialogue: 1,4:52:37.42,4:52:40.91,辉中,,0,0,0,,但我觉得我的纠结之处在于 这是一款《最后生还者》系列的游戏
+Dialogue: 2,4:52:37.42,4:52:40.91,辉英,,0,0,0,,But I think my frustration is that it was a TLOU game.
+Dialogue: 1,4:52:41.48,4:52:49.09,辉中,,0,0,0,,他们为了这个故事不但牺牲了乔尔 还牺牲了艾莉
+Dialogue: 2,4:52:41.48,4:52:49.09,辉英,,0,0,0,,And that they sacrifice not just Joel but also Ellie at the altar of that story.
+Dialogue: 1,4:52:49.09,4:52:53.29,辉中,,0,0,0,,因为我认为他们搬上来一个新的故事
+Dialogue: 2,4:52:49.09,4:52:53.29,辉英,,0,0,0,,Because I don't think that creating new characters
+Dialogue: 1,4:52:53.29,4:52:58.24,辉中,,0,0,0,,从头到尾讲一个新角色的故事并不会达到前作那样的高度
+Dialogue: 2,4:52:53.29,4:52:58.24,辉英,,0,0,0,,and telling the story from start to finish with new characters would have been as successful.
+Dialogue: 1,4:52:58.24,4:53:05.14,辉中,,0,0,0,,这也是游戏的故事线——“原谅不可饶恕之事” 也是视频标题——的部分由来
+Dialogue: 2,4:52:58.24,4:53:05.14,辉英,,0,0,0,,”I think part of what makes that story arc of "Forgiving the Unforgivable", the title of this video.
+Dialogue: 1,4:53:06.13,4:53:10.93,辉中,,0,0,0,,我认为这也是使它令人印象深刻的部分原因
+Dialogue: 2,4:53:06.13,4:53:10.93,辉英,,0,0,0,,I think that's part… of what of what makes it so impressive is that
+Dialogue: 1,4:53:10.93,4:53:16.35,辉中,,0,0,0,,因为在玩游戏的时候 你面对的是你已经认识了近十年的人物
+Dialogue: 2,4:53:10.93,4:53:16.35,辉英,,0,0,0,,you are dealing with characters you've known effectively for a decade at this point.
+Dialogue: 1,4:53:16.35,4:53:18.58,辉中,,0,0,0,,到录制视频的时候是七年多
+Dialogue: 2,4:53:16.35,4:53:18.58,辉英,,0,0,0,,You've known for seven plus years,
+Dialogue: 1,4:53:18.58,4:53:21.34,辉中,,0,0,0,,等大家在看这个视频的时候肯定更久了
+Dialogue: 2,4:53:18.58,4:53:21.34,辉英,,0,0,0,,by the time you're watching this magnum for… for longer than that.
+Dialogue: 1,4:53:22.45,4:53:26.52,辉中,,0,0,0,,我认为这才是真正令人郁闷的
+Dialogue: 2,4:53:22.45,4:53:26.52,辉英,,0,0,0,,And I think that that's just what's really frustrating,
+Dialogue: 1,4:53:26.52,4:53:33.34,辉中,,0,0,0,,我能理解大家 制作组为了讲这个故事而牺牲了两个你喜欢的角色
+Dialogue: 2,4:53:26.52,4:53:31.28,辉英,,0,0,0,,but understandable is that they sacrifice these two characters that you love
+Dialogue: 2,4:53:31.28,4:53:33.34,辉英,,0,0,0,,for the sake of telling this story,
+Dialogue: 1,4:53:33.34,4:53:36.16,辉中,,0,0,0,,而且他们在发售前就保证过
+Dialogue: 2,4:53:33.34,4:53:36.16,辉英,,0,0,0,,when they reassured us prior to launch
+Dialogue: 1,4:53:36.16,4:53:40.84,辉中,,0,0,0,,他们正在做对这些角色最好的事情 他们不会抹黑这些角色
+Dialogue: 2,4:53:36.16,4:53:40.84,辉英,,0,0,0,,that they were doing what was best for the characters that they weren't going to do them dirty,
+Dialogue: 1,4:53:40.84,4:53:44.08,辉中,,0,0,0,,这是对乔尔和艾莉最好的安排
+Dialogue: 2,4:53:40.84,4:53:44.08,辉英,,0,0,0,,that this was what was best for Joel and Ellie,
+Dialogue: 1,4:53:44.08,4:53:48.25,辉中,,0,0,0,,如果他们觉得这个故事不合适 他们就不会制作这个游戏
+Dialogue: 2,4:53:44.08,4:53:48.25,辉英,,0,0,0,,and they wouldn't be making the game if they didn't feel as though it was the right story to tell.
+Dialogue: 1,4:53:49.72,4:53:53.80,辉中,,0,0,0,,所以我也能理解大家在这方面的沮丧
+Dialogue: 2,4:53:49.72,4:53:53.80,辉英,,0,0,0,,So I can understand the frustration on that end.
 Dialogue: 1,4:53:53.80,4:53:57.46,辉中,,0,0,0,,很多人也感到沮丧的是游戏似乎没有一个圆满的结局
 Dialogue: 2,4:53:53.80,4:53:57.46,辉英,,0,0,0,,A lot of people also are frustrated that the game doesn't seem to have a happy ending
 Dialogue: 1,4:53:57.46,4:54:00.19,辉中,,0,0,0,,艾莉失去了一切 然后继续前行下去
@@ -4625,64 +4726,113 @@ Dialogue: 1,4:54:03.94,4:54:06.20,辉中,,0,0,0,,抛弃了一切
 Dialogue: 2,4:54:03.94,4:54:06.20,辉英,,0,0,0,,and leaves everything behind and
 Dialogue: 1,4:54:06.20,4:54:10.08,辉中,,0,0,0,,也失去了一切
 Dialogue: 2,4:54:06.20,4:54:10.08,辉英,,0,0,0,,seemingly has lost everything hasn't gained, anything other than
-Dialogue: 1,4:54:10.08,4:54:14.17,辉中,,0,0,0,,把乔尔的东西留在农场的房子里 继续前行下去
+Dialogue: 1,4:54:10.08,4:54:17.14,辉中,,0,0,0,,把乔尔的东西留在农场的房子里 坦然面对乔尔的事情 继续向前看
 Dialogue: 2,4:54:10.08,4:54:14.17,辉英,,0,0,0,,maybe coming to grips and peace with what happened with Joel moving on,
-Dialogue: 1,4:54:14.17,4:54:17.14,辉中,,0,0,0,,把乔尔的东西留在农场的房子里 继续前行下去
 Dialogue: 2,4:54:14.17,4:54:17.14,辉英,,0,0,0,,leaving all of his stuff behind in the farmhouse.
-Dialogue: 1,4:54:17.14,4:54:21.13,辉中,,0,0,0,,But I actually think that there's remnants of a happy ending here,
-Dialogue: 1,4:54:21.13,4:54:23.02,辉中,,0,0,0,,and it's something that's a small detail,
-Dialogue: 1,4:54:23.02,4:54:29.90,辉中,,0,0,0,,and it's something I didn't really consider until a good number of people had tweeted it at me
-Dialogue: 1,4:54:29.90,4:54:35.02,辉中,,0,0,0,,and… had… mentioned it on Discord.
-Dialogue: 1,4:54:35.02,4:54:38.11,辉中,,0,0,0,,And it's something that once I started to investigate it, I was kind of blown away,
-Dialogue: 1,4:54:38.11,4:54:40.68,辉中,,0,0,0,,and I thought that it's actually really interesting theory.
-Dialogue: 1,4:54:40.68,4:54:46.06,辉中,,0,0,0,,Because you see at the end of the core story of TLOU2 after Ellie and Abby have their fight out,
-Dialogue: 1,4:54:47.05,4:54:53.26,辉中,,0,0,0,,Ellie is not wearing any sort of adornment, she is bare arrested.
-Dialogue: 1,4:54:53.26,4:54:58.36,辉中,,0,0,0,,But when you see her back at the farmhouse, in the final scene of the game,
-Dialogue: 1,4:54:58.36,4:55:01.75,辉中,,0,0,0,,she's actually wearing this very bracelet,
-Dialogue: 1,4:55:01.75,4:55:05.62,辉中,,0,0,0,,which is why it's interesting that they included it as part of the Collector's Edition.
-Dialogue: 1,4:55:05.62,4:55:10.40,辉中,,0,0,0,,This is actually dina's bracelet that she has.
-Dialogue: 1,4:55:10.40,4:55:16.99,辉中,,0,0,0,,And the one that they include here, I mean, it's just it's a crappy little Collector's Edition.
-Dialogue: 1,4:55:16.99,4:55:21.10,辉中,,0,0,0,,You know, trinket, but it's still it's still fun.
-Dialogue: 1,4:55:21.10,4:55:23.13,辉中,,0,0,0,,But Ellie is wearing that.
-Dialogue: 1,4:55:23.46,4:55:29.53,辉中,,0,0,0,,And Ellie wearing it even though seemingly she's split up with Dina,
-Dialogue: 1,4:55:29.53,4:55:34.48,辉中,,0,0,0,,And Dina moved away and has completely cut ties.
-Dialogue: 1,4:55:34.48,4:55:36.49,辉中,,0,0,0,,And the theory basically goes that
-Dialogue: 1,4:55:36.76,4:55:41.68,辉中,,0,0,0,,they've returned to the house after a good amount of time, at least Ellie has.
-Dialogue: 1,4:55:41.68,4:55:45.85,辉中,,0,0,0,,The house is cleared out, and they've decided to completely move on from Jackson.
-Dialogue: 1,4:55:45.85,4:55:49.12,辉中,,0,0,0,,They're moving out, which is why the house is much more dilapidated.
-Dialogue: 1,4:55:50.04,4:55:54.82,辉中,,0,0,0,,And Ellie has decided to leave all of Joel's things behind because she needs to move on,
-Dialogue: 1,4:55:54.82,4:55:57.49,辉中,,0,0,0,,and she needs to stop bringing this with her.
-Dialogue: 1,4:55:57.49,4:56:02.41,辉中,,0,0,0,,And so her wearing of the bracelet isn't just meant
-Dialogue: 1,4:56:02.96,4:56:08.17,辉中,,0,0,0,,to symbolise that she still feels a connection with Dina,
-Dialogue: 1,4:56:08.17,4:56:12.04,辉中,,0,0,0,,or that she misses Dina or wishes she had made a different decision.
-Dialogue: 1,4:56:12.04,4:56:18.99,辉中,,0,0,0,,But that it's actually a direct message that she and Dina are back together.
-Dialogue: 1,4:56:19.38,4:56:21.76,辉中,,0,0,0,,And that they've decided to move on together.
-Dialogue: 1,4:56:21.76,4:56:26.11,辉中,,0,0,0,,Dina has forgiven Ellie, and that they are effectively living happily ever after.
-Dialogue: 1,4:56:27.79,4:56:30.32,辉中,,0,0,0,,Now is that a stretch, perhaps… perhaps.
-Dialogue: 1,4:56:30.32,4:56:35.29,辉中,,0,0,0,,Not many things in TLOU, at the world of TLOU, have happy endings.
-Dialogue: 1,4:56:35.29,4:56:38.50,辉中,,0,0,0,,But I think the tone of the end of the game is very uplifting,
-Dialogue: 1,4:56:38.50,4:56:40.63,辉中,,0,0,0,,very bright and sunny.
-Dialogue: 1,4:56:40.63,4:56:46.15,辉中,,0,0,0,,And the title screen at the end of the game goes back to a sunny beach right outside the Resort,
-Dialogue: 1,4:56:46.15,4:56:48.64,辉中,,0,0,0,,where the game reaches its climax,
-Dialogue: 1,4:56:48.64,4:56:50.92,辉中,,0,0,0,,which I think symbolizes the same thing.
-Dialogue: 1,4:56:50.92,4:56:54.40,辉中,,0,0,0,,It's a bright, happy ending, morning has come.
-Dialogue: 1,4:56:54.94,4:56:59.92,辉中,,0,0,0,,The light is always after the darkness, the sun has risen after night.
-Dialogue: 1,4:56:59.92,4:57:03.00,辉中,,0,0,0,,Use any analogy or simply you want.
-Dialogue: 1,4:57:03.24,4:57:04.48,辉中,,0,0,0,,So,
-Dialogue: 1,4:57:04.96,4:57:08.02,辉中,,0,0,0,,I'd like to think that the story actually has a happy ending,
-Dialogue: 1,4:57:08.02,4:57:12.61,辉中,,0,0,0,,and that Ellie and Dina and the baby all got back together.
-Dialogue: 1,4:57:12.61,4:57:15.70,辉中,,0,0,0,,And they're off living in some cabin in the middle of nowhere.
-Dialogue: 1,4:57:15.70,4:57:18.44,辉中,,0,0,0,,They've left Jackson and they've moved on
-Dialogue: 1,4:57:18.44,4:57:21.32,辉中,,0,0,0,,and they're just not going to be burdened by any of this anymore.
-Dialogue: 1,4:57:22.48,4:57:24.40,辉中,,0,0,0,,That's at least what I choose to believe,
-Dialogue: 1,4:57:24.40,4:57:29.65,辉中,,0,0,0,,because I think Ellie deserves that ending after all of this,
-Dialogue: 1,4:57:29.65,4:57:32.92,辉中,,0,0,0,,and so that's what I'm going to go with until I learn differently.
-Dialogue: 1,4:57:32.92,4:57:40.62,辉中,,0,0,0,,And I think the fact that the designers included the bracelet on Eli's wrist at that ending farm scene
-Dialogue: 1,4:57:40.62,4:57:45.67,辉中,,0,0,0,,is directly indicative of that being what happened.
-Dialogue: 1,4:57:45.67,4:57:50.92,辉中,,0,0,0,,I think it's a little nod, maybe a little hint-hint that things actually ended happily,
-Dialogue: 1,4:57:50.92,4:57:53.86,辉中,,0,0,0,,but who knows? I'd like to think that things ended happily.
-Dialogue: 1,4:57:55.66,4:57:58.03,辉中,,0,0,0,,But all told, the game is very…
-Dialogue: 1,4:57:59.26,4:58:02.31,辉中,,0,0,0,,difficult to come to terms with.
+Dialogue: 1,4:54:17.14,4:54:21.13,辉中,,0,0,0,,但实际上我觉得这里隐藏着一个好结局
+Dialogue: 2,4:54:17.14,4:54:21.13,辉英,,0,0,0,,But I actually think that there's remnants of a happy ending here,
+Dialogue: 1,4:54:21.13,4:54:23.02,辉中,,0,0,0,,原因出自一个小细节
+Dialogue: 2,4:54:21.13,4:54:23.02,辉英,,0,0,0,,and it's something that's a small detail,
+Dialogue: 1,4:54:23.02,4:54:35.02,辉中,,0,0,0,,小到有很多人在推特和Discord上告诉我之后 我才真正发觉
+Dialogue: 2,4:54:23.02,4:54:29.90,辉英,,0,0,0,,and it's something I didn't really consider until a good number of people had tweeted it at me
+Dialogue: 2,4:54:29.90,4:54:35.02,辉英,,0,0,0,,and… had… mentioned it on Discord.
+Dialogue: 1,4:54:35.02,4:54:38.11,辉中,,0,0,0,,而且当我真的深入研究以后 简直都惊呆了
+Dialogue: 2,4:54:35.02,4:54:38.11,辉英,,0,0,0,,And it's something that once I started to investigate it, I was kind of blown away,
+Dialogue: 1,4:54:38.11,4:54:40.68,辉中,,0,0,0,,我觉得这套解释非常有意思
+Dialogue: 2,4:54:38.11,4:54:40.68,辉英,,0,0,0,,and I thought that it's actually really interesting theory.
+Dialogue: 1,4:54:40.68,4:54:46.06,辉中,,0,0,0,,在TLOU2核心故事的结尾 也就是艾莉和埃比对打那段
+Dialogue: 2,4:54:40.68,4:54:46.06,辉英,,0,0,0,,Because you see at the end of the core story of TLOU2 after Ellie and Abby have their fight out,
+Dialogue: 1,4:54:47.05,4:54:53.26,辉中,,0,0,0,,艾莉身上没有穿戴任何装饰品 她是赤手空拳被埃比拿下的
+Dialogue: 2,4:54:47.05,4:54:53.26,辉英,,0,0,0,,Ellie is not wearing any sort of adornment, she is bare arrested.
+Dialogue: 1,4:54:53.26,4:54:58.36,辉中,,0,0,0,,但再看她在游戏结尾的农场里时
+Dialogue: 2,4:54:53.26,4:54:58.36,辉英,,0,0,0,,But when you see her back at the farmhouse, in the final scene of the game,
+Dialogue: 1,4:54:58.36,4:55:01.75,辉中,,0,0,0,,她却戴着这样的一条手链
+Dialogue: 2,4:54:58.36,4:55:01.75,辉英,,0,0,0,,she's actually wearing this very bracelet,
+Dialogue: 1,4:55:01.75,4:55:05.62,辉中,,0,0,0,,有趣的是这条手链竟然还作为周边被收录在游戏的典藏版里
+Dialogue: 2,4:55:01.75,4:55:05.62,辉英,,0,0,0,,which is why it's interesting that they included it as part of the Collector's Edition.
+Dialogue: 1,4:55:05.62,4:55:10.40,辉中,,0,0,0,,但这其实是蒂娜的手链
+Dialogue: 2,4:55:05.62,4:55:10.40,辉英,,0,0,0,,This is actually Dina's bracelet that she has.
+Dialogue: 1,4:55:10.40,4:55:16.99,辉中,,0,0,0,,我刚说“竟然”是因为这只是一个很不起眼的小玩意 却被纳入典藏版里
+Dialogue: 2,4:55:10.40,4:55:16.99,辉英,,0,0,0,,And the one that they include here, I mean, it's just it's a crappy little Collector's Edition.
+Dialogue: 1,4:55:16.99,4:55:21.10,辉中,,0,0,0,,你们懂的 小饰品罢了 但还挺有意思的
+Dialogue: 2,4:55:16.99,4:55:21.10,辉英,,0,0,0,,You know, trinket, but it's still it's still fun.
+Dialogue: 1,4:55:21.10,4:55:23.13,辉中,,0,0,0,,问题在于 艾莉戴着它
+Dialogue: 2,4:55:21.10,4:55:23.13,辉英,,0,0,0,,But Ellie is wearing that.
+Dialogue: 1,4:55:23.46,4:55:29.53,辉中,,0,0,0,,艾莉还戴着它 即使艾莉看上去已经和蒂娜分道扬镳
+Dialogue: 2,4:55:23.46,4:55:29.53,辉英,,0,0,0,,And Ellie wearing it even though seemingly she's split up with Dina,
+Dialogue: 1,4:55:29.53,4:55:34.48,辉中,,0,0,0,,即使蒂娜已经远走他乡 和艾莉断了联系
+Dialogue: 2,4:55:29.53,4:55:34.48,辉英,,0,0,0,,And Dina moved away and has completely cut ties.
+Dialogue: 1,4:55:34.48,4:55:36.49,辉中,,0,0,0,,所以一种解释是
+Dialogue: 2,4:55:34.48,4:55:36.49,辉英,,0,0,0,,And the theory basically goes that
+Dialogue: 1,4:55:36.76,4:55:41.68,辉中,,0,0,0,,两人在很久以后又回到了这个房子 或者至少艾莉回来了
+Dialogue: 2,4:55:36.76,4:55:41.68,辉英,,0,0,0,,they've returned to the house after a good amount of time, at least Ellie has.
+Dialogue: 1,4:55:41.68,4:55:45.85,辉中,,0,0,0,,房子已经被被搬空了 而两人决定彻底搬离杰克逊小镇
+Dialogue: 2,4:55:41.68,4:55:45.85,辉英,,0,0,0,,The house is cleared out, and they've decided to completely move on from Jackson.
+Dialogue: 1,4:55:45.85,4:55:49.12,辉中,,0,0,0,,她们要搬走了 所以房子才看上去破烂不堪
+Dialogue: 2,4:55:45.85,4:55:49.12,辉英,,0,0,0,,They're moving out, which is why the house is much more dilapidated.
+Dialogue: 1,4:55:50.04,4:55:54.82,辉中,,0,0,0,,而艾莉决定把所有乔尔的东西留下 因为她决定要向前看
+Dialogue: 2,4:55:50.04,4:55:54.82,辉英,,0,0,0,,And Ellie has decided to leave all of Joel's things behind because she needs to move on,
+Dialogue: 1,4:55:54.82,4:55:57.49,辉中,,0,0,0,,所以她不想继续把这些东西留在身边
+Dialogue: 2,4:55:54.82,4:55:57.49,辉英,,0,0,0,,and she needs to stop bringing this with her.
+Dialogue: 1,4:55:57.49,4:56:02.41,辉中,,0,0,0,,因此 她戴着手链并不仅仅是意味着
+Dialogue: 2,4:55:57.49,4:56:02.41,辉英,,0,0,0,,And so her wearing of the bracelet isn't just meant
+Dialogue: 1,4:56:02.96,4:56:08.17,辉中,,0,0,0,,象征她仍然觉得与蒂娜有所羁绊
+Dialogue: 2,4:56:02.96,4:56:08.17,辉英,,0,0,0,,to symbolise that she still feels a connection with Dina,
+Dialogue: 1,4:56:08.17,4:56:12.04,辉中,,0,0,0,,或者她想念蒂娜 或者希望她反悔之类的
+Dialogue: 2,4:56:08.17,4:56:12.04,辉英,,0,0,0,,or that she misses Dina or wishes she had made a different decision.
+Dialogue: 1,4:56:12.04,4:56:18.99,辉中,,0,0,0,,而是在直接向玩家传达一个消息 即两人已经重新在一起了
+Dialogue: 2,4:56:12.04,4:56:18.99,辉英,,0,0,0,,But that it's actually a direct message that she and Dina are back together.
+Dialogue: 1,4:56:19.38,4:56:21.76,辉中,,0,0,0,,而她们决定一起继续抛弃过去 向前看
+Dialogue: 2,4:56:19.38,4:56:21.76,辉英,,0,0,0,,And that they've decided to move on together.
+Dialogue: 1,4:56:21.76,4:56:26.11,辉中,,0,0,0,,蒂娜已经原谅了艾莉 而且之后两人也幸福地生活在一起了
+Dialogue: 2,4:56:21.76,4:56:26.11,辉英,,0,0,0,,Dina has forgiven Ellie, and that they are effectively living happily ever after.
+Dialogue: 1,4:56:27.79,4:56:30.32,辉中,,0,0,0,,好吧 听着有点……可能有点离谱
+Dialogue: 2,4:56:27.79,4:56:30.32,辉英,,0,0,0,,Now is that a stretch, perhaps… perhaps.
+Dialogue: 1,4:56:30.32,4:56:35.29,辉中,,0,0,0,,TLOU的世界观里可没什么好结局的故事
+Dialogue: 2,4:56:30.32,4:56:35.29,辉英,,0,0,0,,Not many things in TLOU, at the world of TLOU, have happy endings.
+Dialogue: 1,4:56:35.29,4:56:40.63,辉中,,0,0,0,,但我还是认为游戏结束时的感情基调应该是令人振奋 阳光向上的
+Dialogue: 2,4:56:35.29,4:56:38.50,辉英,,0,0,0,,But I think the tone of the end of the game is very uplifting,
+Dialogue: 2,4:56:38.50,4:56:40.63,辉英,,0,0,0,,very bright and sunny.
+Dialogue: 1,4:56:40.63,4:56:46.15,辉中,,0,0,0,,而且游戏结束后回到标题画面 度假村也变成了阳光明媚的海滩
+Dialogue: 2,4:56:40.63,4:56:46.15,辉英,,0,0,0,,And the title screen at the end of the game goes back to a sunny beach right outside the Resort,
+Dialogue: 1,4:56:46.15,4:56:48.64,辉中,,0,0,0,,游戏到达了它的高潮
+Dialogue: 2,4:56:46.15,4:56:48.64,辉英,,0,0,0,,where the game reaches its climax,
+Dialogue: 1,4:56:48.64,4:56:50.92,辉中,,0,0,0,,我觉得也是在暗示同样的事情
+Dialogue: 2,4:56:48.64,4:56:50.92,辉英,,0,0,0,,which I think symbolizes the same thing.
+Dialogue: 1,4:56:50.92,4:56:54.40,辉中,,0,0,0,,这是一个阳光 美满的结局 天已经亮了
+Dialogue: 2,4:56:50.92,4:56:54.40,辉英,,0,0,0,,It's a bright, happy ending, morning has come.
+Dialogue: 1,4:56:54.94,4:56:59.92,辉中,,0,0,0,,黑暗之后总有光明 黑夜之后太阳总会升起
+Dialogue: 2,4:56:54.94,4:56:59.92,辉英,,0,0,0,,The light is always after the darkness, the sun has risen after night.
+Dialogue: 1,4:56:59.92,4:57:03.00,辉中,,0,0,0,,随便你想怎么比喻……
+Dialogue: 2,4:56:59.92,4:57:03.00,辉英,,0,0,0,,Use any analogy or simply you want.
+Dialogue: 1,4:57:03.24,4:57:04.48,辉中,,0,0,0,,所以
+Dialogue: 2,4:57:03.24,4:57:04.48,辉英,,0,0,0,,So,
+Dialogue: 1,4:57:04.96,4:57:08.02,辉中,,0,0,0,,我选择相信游戏结尾其实是个好结局
+Dialogue: 2,4:57:04.96,4:57:08.02,辉英,,0,0,0,,I'd like to think that the story actually has a happy ending,
+Dialogue: 1,4:57:08.02,4:57:12.61,辉中,,0,0,0,,艾莉、蒂娜和小宝宝最后幸福地在一起
+Dialogue: 2,4:57:08.02,4:57:12.61,辉英,,0,0,0,,and that Ellie and Dina and the baby all got back together.
+Dialogue: 1,4:57:12.61,4:57:15.70,辉中,,0,0,0,,隐居在某个小木屋里
+Dialogue: 2,4:57:12.61,4:57:15.70,辉英,,0,0,0,,And they're off living in some cabin in the middle of nowhere.
+Dialogue: 1,4:57:15.70,4:57:18.44,辉中,,0,0,0,,离开杰克逊小镇 继续生活
+Dialogue: 2,4:57:15.70,4:57:18.44,辉英,,0,0,0,,They've left Jackson and they've moved on
+Dialogue: 1,4:57:18.44,4:57:21.32,辉中,,0,0,0,,不再为这一切所困扰 拖累
+Dialogue: 2,4:57:18.44,4:57:21.32,辉英,,0,0,0,,and they're just not going to be burdened by any of this anymore.
+Dialogue: 1,4:57:22.48,4:57:24.40,辉中,,0,0,0,,至少我选择相信这样的解释
+Dialogue: 2,4:57:22.48,4:57:24.40,辉英,,0,0,0,,That's at least what I choose to believe,
+Dialogue: 1,4:57:24.40,4:57:29.65,辉中,,0,0,0,,因为我认为艾莉在经历这些后 值得有这样的生活
+Dialogue: 2,4:57:24.40,4:57:29.65,辉英,,0,0,0,,because I think Ellie deserves that ending after all of this,
+Dialogue: 1,4:57:29.65,4:57:32.92,辉中,,0,0,0,,因此我在了解到这样不同的解释后选择了相信
+Dialogue: 2,4:57:29.65,4:57:32.92,辉英,,0,0,0,,and so that's what I'm going to go with until I learn differently.
+Dialogue: 1,4:57:32.92,4:57:40.62,辉中,,0,0,0,,而且我觉得在最后的农场场景中给艾莉的手链一个镜头
+Dialogue: 2,4:57:32.92,4:57:40.62,辉英,,0,0,0,,And I think the fact that the designers included the bracelet on Ellie's wrist at that ending farm scene
+Dialogue: 1,4:57:40.62,4:57:45.67,辉中,,0,0,0,,也是在明摆着想告诉大家发生了什么
+Dialogue: 2,4:57:40.62,4:57:45.67,辉英,,0,0,0,,is directly indicative of that being what happened.
+Dialogue: 1,4:57:45.67,4:57:50.92,辉中,,0,0,0,,我觉得这可能是一个小小的暗示 想告诉大家其实结局还是美好的
+Dialogue: 2,4:57:45.67,4:57:50.92,辉英,,0,0,0,,I think it's a little nod, maybe a little hint-hint that things actually ended happily,
+Dialogue: 1,4:57:50.92,4:57:53.86,辉中,,0,0,0,,但谁知道呢？我倾向于好结局
+Dialogue: 2,4:57:50.92,4:57:53.86,辉英,,0,0,0,,but who knows? I'd like to think that things ended happily.
+Dialogue: 1,4:57:55.66,4:57:58.03,辉中,,0,0,0,,但总的来说 这个游戏是非常……\NBut all told, the game is very…
+Dialogue: 1,4:57:59.26,4:58:02.31,辉中,,0,0,0,,难以接受的\Ndifficult to come to terms with.
 Dialogue: 1,4:58:02.31,4:58:08.68,辉中,,0,0,0,,Because it wasn't what I was expecting and perhaps even hoping for.
 Dialogue: 1,4:58:08.68,4:58:13.54,辉中,,0,0,0,,But even so, I think it succeeded in what it was trying to do as I said earlier in the video.
 Dialogue: 1,4:58:13.54,4:58:17.62,辉中,,0,0,0,,I think the mission was to get you to sympathise with Abby
