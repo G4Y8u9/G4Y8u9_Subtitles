@@ -15,10 +15,10 @@ Audio File: Q:/给没组/tlou2.mp4
 Video File: Q:/给没组/tlou2.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 1005
-Active Line: 1012
-Video Position: 125477
+Video Zoom Percent: 0.875000
+Scroll Position: 1245
+Active Line: 1250
+Video Position: 146483
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -999,148 +999,290 @@ Dialogue: 1,0:31:59.61,0:32:00.75,辉中,,0,0,0,,我觉得说得过去
 Dialogue: 2,0:31:59.61,0:32:00.75,辉英,,0,0,0,,I think that's fair.
 Dialogue: 1,0:32:00.75,0:32:06.42,辉中,,0,0,0,,只是感觉他们为此强凑了这些巧合 还是显得有些草率
 Dialogue: 2,0:32:00.75,0:32:06.42,辉英,,0,0,0,,I just think it's a little sloppy, considering how many coincidences they rely on to make it happen.
-Dialogue: 1,0:32:06.42,0:32:10.26,辉中,,0,0,0,,在埃比发现雪地上巡逻队的脚印后\NAfter Abby finds the tracks in the snow, leading to one of the patrols,
-Dialogue: 1,0:32:10.26,0:32:13.65,辉中,,0,0,0,,镜头切回了和蒂娜正在巡逻的艾莉\Nwe swap back to Ellie, whose on patrol with Dina.
-Dialogue: 1,0:32:13.65,0:32:19.26,辉中,,0,0,0,,你骑着马 踩着结冰的河面 穿过一片风景迷人的区域\NYou ride your horses through a beautifully realized landscape, walking on ice in a river.
-Dialogue: 1,0:32:19.26,0:32:20.82,辉中,,0,0,0,,真的太美了\NIt's absolutely beautiful.
-Dialogue: 1,0:32:20.82,0:32:26.31,辉中,,0,0,0,,真的 我不知道顽皮狗是怎么做的这么美丽的风景\NI mean again, how Naughty Dog achieves these graphical features, I don't know.
-Dialogue: 1,0:32:26.31,0:32:29.91,辉中,,0,0,0,,但真的比不少其他的工作室高到不知道哪里去了\NIt really makes it look like every other development studio isn't even trying.
-Dialogue: 1,0:32:29.91,0:32:33.75,辉中,,0,0,0,,你一边巡逻 一边对角色有了更深入的了解\NThere's a lot of character building in this sequence as you go on your patrol.
-Dialogue: 1,0:32:33.75,0:32:35.36,辉中,,0,0,0,,俩人打情骂俏\NThere's some light flirting,
-Dialogue: 1,0:32:35.36,0:32:38.82,辉中,,0,0,0,,很明显 蒂娜喜欢艾莉 艾莉也喜欢蒂娜\Nclearly, Dina likes Ellie and Ellie likes Dina.
-Dialogue: 1,0:32:38.82,0:32:41.06,辉中,,0,0,0,,而紧张的气氛此时开始酝酿起来\NAnd the tension starts to rise here.
-Dialogue: 1,0:32:41.06,0:32:45.45,辉中,,0,0,0,,事情进展的太顺利 这不太对劲\NAgain there's a lot of dread, things are going too well,
-Dialogue: 1,0:32:45.45,0:32:51.19,辉中,,0,0,0,,我们都知道TLOU的世界是极其残酷的\Nand the world of TLOU, as we know, is very cutthroat, sometimes literally.
-Dialogue: 1,0:32:51.19,0:32:56.58,辉中,,0,0,0,,游戏里角色开开心心无忧无虑甚至在打情骂俏\NThe fact that everybody's happy that they are so carefree that they're even flirting with each other.
-Dialogue: 1,0:32:56.58,0:33:01.14,辉中,,0,0,0,,事实上玩家心里都知道要有不好的事情发生了\NIt's unsettling, because we know that something bad has to happen soon.
-Dialogue: 1,0:33:01.14,0:33:05.91,辉中,,0,0,0,,而你继续推进 到了一个前哨站 探索一些废弃的房子\NBut you continue exploring, you go to an outpost to explore some abandoned houses.
-Dialogue: 1,0:33:05.91,0:33:06.96,辉中,,0,0,0,,在某个时刻\NAnd at one point,
-Dialogue: 1,0:33:06.96,0:33:13.02,辉中,,0,0,0,,艾莉提到她当晚要邀请乔尔一起看电影\NEllie even says that she's going to be inviting Joel over for a movie later that night.
-Dialogue: 1,0:33:13.02,0:33:17.76,辉中,,0,0,0,,这一信息在故事结尾时极为重要\NThis will be VERY important at the end of the game,
-Dialogue: 1,0:33:17.76,0:33:19.56,辉中,,0,0,0,,所以请各位务必牢记\Nso make sure you remember this.
-Dialogue: 1,0:33:19.56,0:33:26.07,辉中,,0,0,0,,艾莉打算当天晚上和乔尔一起看电影\NEllie on this day was planning on having Joel over for a movie that night.
-Dialogue: 1,0:33:26.07,0:33:27.60,辉中,,0,0,0,,看起来没什么奇怪的\NIt seems like a small point,
-Dialogue: 1,0:33:27.60,0:33:33.09,辉中,,0,0,0,,大家也都知道艾莉和乔尔有着很深的情感上的羁绊\Nespecially considering that Ellie and Joel have this deep connection with each other.
-Dialogue: 1,0:33:33.09,0:33:37.20,辉中,,0,0,0,,她甚至就住乔尔家房子后面的附属房里\NShe lives right behind him, even still in the grandmother's suite,
-Dialogue: 1,0:33:37.20,0:33:40.74,辉中,,0,0,0,,俩人晚上一起打发时间看个电影 听上去很合理\Nand it makes sense that perhaps they would try to fill an empty time,
-Dialogue: 1,0:33:40.74,0:33:42.60,辉中,,0,0,0,,俩人晚上一起打发时间看个电影 听上去很合理\Nwatching movies and spending time together.
-Dialogue: 1,0:33:42.60,0:33:46.29,辉中,,0,0,0,,但是到了游戏结尾 我们就会发现这部分的信息量有多么大\NBut again, at the end of the game, we're going to find out a lot more.
-Dialogue: 1,0:33:46.29,0:33:51.32,辉中,,0,0,0,,而且艾莉提到的这段内容是在你探索一废弃房子时作为可选对话发生的\NAnd this very statement by Ellie something that happens as an optional moment
-Dialogue: 1,0:33:51.32,0:33:53.46,辉中,,0,0,0,,而且艾莉提到的这段内容是在你探索一废弃房子时作为可选对话发生的\Nwhile you're exploring an abandoned house.
-Dialogue: 1,0:33:54.16,0:33:56.10,辉中,,0,0,0,,这将会非常非常重要\NThis is going to be very important.
-Dialogue: 1,0:33:56.10,0:33:59.07,辉中,,0,0,0,,艾莉和蒂娜来到了一个有感染者出没的超市\NEllie and Dina, come up on a supermarket that's infested.
-Dialogue: 1,0:33:59.07,0:34:03.84,辉中,,0,0,0,,两人清空了感染者 并借此学习了潜行或者战斗的技巧\NYou cleared out, gives you the chance to explore some stealth options and combat,
-Dialogue: 1,0:34:03.84,0:34:07.44,辉中,,0,0,0,,这是这款游戏做得真的很棒的一部分\Nand it's a good thing that this is a really well done portion of the game.
-Dialogue: 1,0:34:07.44,0:34:10.76,辉中,,0,0,0,,因为游戏自带的潜行与制作元素\NBecause this stealth and the crafting that goes along with it
-Dialogue: 1,0:34:10.76,0:34:13.71,辉中,,0,0,0,,将会是游戏本身的调味品\Nis going to be the bread and butter of the game,
-Dialogue: 1,0:34:13.71,0:34:16.05,辉中,,0,0,0,,尤其在高难度下\Nespecially if you're playing on higher difficulties,
-Dialogue: 1,0:34:16.05,0:34:20.55,辉中,,0,0,0,,你更需要很快适应这部分的游戏机制\Nyou're going to need to get acclimated to these mechanics as soon as possible.
-Dialogue: 1,0:34:20.55,0:34:23.61,辉中,,0,0,0,,然后游戏还快速介绍了一下循声者\NYou are also given a quick introduction to Clickers as well,
-Dialogue: 1,0:34:23.61,0:34:27.39,辉中,,0,0,0,,这类感染者和一代里的几乎完全一样\Nand these guys work almost identically to how they did in the first game.
-Dialogue: 1,0:34:27.39,0:34:31.86,辉中,,0,0,0,,我觉得不太需要过多解释循声者的机制\NI don't really feel the need to explain a lot as to how these sequences work,
-Dialogue: 1,0:34:31.86,0:34:36.00,辉中,,0,0,0,,因为如果你玩过一代的话 就肯定已经知道了\Nbecause if you've played the first game, you're going to know how this goes.
-Dialogue: 1,0:34:36.00,0:34:39.57,辉中,,0,0,0,,其实我们还要玩很久才会遇到全新的感染者\NIt's going to be a hot minute before we're thrown anything that's markedly different.
-Dialogue: 1,0:34:39.57,0:34:41.25,辉中,,0,0,0,,而在第一代游戏当中\NI will say that in the first game,
-Dialogue: 1,0:34:41.25,0:34:42.20,辉中,,0,0,0,,有一件事让我很困扰\Nit always bugging me that
-Dialogue: 1,0:34:42.20,0:34:45.91,辉中,,0,0,0,,循声者显然是利用自己的咔咔声产生的回声定位来识别环境的\NClickers are obviously able to navigate their environments
-Dialogue: 1,0:34:45.91,0:34:51.27,辉中,,0,0,0,,循声者显然是利用自己的咔咔声产生的回声定位来识别环境的\Nby use of clicking sounds that use echolocation to map out their environment.
-Dialogue: 1,0:34:51.27,0:34:55.40,辉中,,0,0,0,,然而 它们从来不会识别出However, they never were able to hear characters talking to each other
-Dialogue: 1,0:34:55.40,0:34:59.88,辉中,,0,0,0,,or you reloading your weapon or moving your backpack on and off.
-Dialogue: 1,0:34:59.88,0:35:06.36,辉中,,0,0,0,,That is mostly true again in this game, except only on the lower levels.
-Dialogue: 1,0:35:06.36,0:35:11.43,辉中,,0,0,0,,In my testing, I actually found that on new game Plus on survivor difficulty,
-Dialogue: 1,0:35:11.43,0:35:13.98,辉中,,0,0,0,,the Clickers can actually hear this as well.
-Dialogue: 1,0:35:13.98,0:35:18.96,辉中,,0,0,0,,If you open your backpack to swap weapons, they'll notice and they'll come running.
-Dialogue: 1,0:35:18.96,0:35:22.89,辉中,,0,0,0,,This was a game changer in terms of immersion.
-Dialogue: 1,0:35:22.89,0:35:28.53,辉中,,0,0,0,,Seriously, I've never played a game where I was so attentive to everything that I was doing,
-Dialogue: 1,0:35:28.53,0:35:31.74,辉中,,0,0,0,,that I was scared to even open up the inventory,
-Dialogue: 1,0:35:31.74,0:35:37.56,辉中,,0,0,0,,because I knew that it was going to create a small amount of sound that could attract Clickers,
-Dialogue: 1,0:35:37.56,0:35:40.36,辉中,,0,0,0,,which could mean that I die and have to reload.
-Dialogue: 1,0:35:40.36,0:35:43.44,辉中,,0,0,0,,Granted to some people, I'm sure that sounds absolutely terrible,
-Dialogue: 1,0:35:43.44,0:35:46.08,辉中,,0,0,0,,which is why there are difficulty settings to begin with.
-Dialogue: 1,0:35:46.08,0:35:49.47,辉中,,0,0,0,,But if you want to be totally immersed in this game,
-Dialogue: 1,0:35:49.47,0:35:52.92,辉中,,0,0,0,,I recommend you play it on the hardest possible difficulty.
-Dialogue: 1,0:35:52.92,0:35:54.90,辉中,,0,0,0,,It really does change everything.
-Dialogue: 1,0:35:54.90,0:35:57.68,辉中,,0,0,0,,Another thing to note in this supermarket sequences that
-Dialogue: 1,0:35:57.68,0:36:01.32,辉中,,0,0,0,,Ellie is wearing a mask when she encounters spores now.
-Dialogue: 1,0:36:01.32,0:36:02.43,辉中,,0,0,0,,If you played the first game,
-Dialogue: 1,0:36:02.43,0:36:07.41,辉中,,0,0,0,,this is going to be kind of weird because obviously Ellie is immune to the virus,
-Dialogue: 1,0:36:07.41,0:36:10.41,辉中,,0,0,0,,or so we thought, why does she need to wear a mask?
-Dialogue: 1,0:36:10.41,0:36:12.66,辉中,,0,0,0,,In the trailers we saw before the game's launch,
-Dialogue: 1,0:36:12.66,0:36:16.11,辉中,,0,0,0,,a lot of people thought that this would mean that Ellie was no longer immune,
-Dialogue: 1,0:36:16.11,0:36:20.49,辉中,,0,0,0,,or perhaps she was not as immune as she once was,
-Dialogue: 1,0:36:20.49,0:36:24.06,辉中,,0,0,0,,so perhaps if she inhaled spores, that would make her very very sick,
-Dialogue: 1,0:36:24.06,0:36:25.74,辉中,,0,0,0,,but she would eventually pull through it.
-Dialogue: 1,0:36:25.74,0:36:28.02,辉中,,0,0,0,,However, the explanation is far simpler.
-Dialogue: 1,0:36:28.02,0:36:33.69,辉中,,0,0,0,,Joel and Ellie obviously know that Ellie is immune, but nobody else can know that.
-Dialogue: 1,0:36:33.69,0:36:35.82,辉中,,0,0,0,,If people were to find out that Ellie's immune,
-Dialogue: 1,0:36:35.82,0:36:39.72,辉中,,0,0,0,,the same crap with the Fireflies would happen all over again.
-Dialogue: 1,0:36:39.72,0:36:43.71,辉中,,0,0,0,,Now this seems to be much more Joel's wish than it is Ellie's,
-Dialogue: 1,0:36:43.71,0:36:48.37,辉英,,0,0,0,,after all, Ellie was totally prepared and fine with giving her life
-Dialogue: 1,0:36:48.37,0:36:51.09,辉英,,0,0,0,,to save humanity in the form of a vaccine,
-Dialogue: 1,0:36:51.09,0:36:53.84,辉中,,0,0,0,,And this would of course make sense because Joel wanted to make sure
-Dialogue: 1,0:36:53.84,0:36:58.53,辉中,,0,0,0,,nobody else would come to Ellie to try and capitalize on her gift,
-Dialogue: 1,0:36:58.53,0:37:01.29,辉中,,0,0,0,,because if they did, it would mean that he would lose her.
-Dialogue: 1,0:37:01.29,0:37:04.98,辉中,,0,0,0,,But the fact that Ellie is still using the mask, even though she doesn't need to,
-Dialogue: 1,0:37:04.98,0:37:08.79,辉中,,0,0,0,,I think, serves as proof positive that she still cares about what he thinks,
-Dialogue: 1,0:37:08.79,0:37:11.64,辉中,,0,0,0,,and she's yet to fully separate and become her own person.
-Dialogue: 1,0:37:11.64,0:37:16.14,辉中,,0,0,0,,But this isn't something that's explained or really justified at this point in the game,
-Dialogue: 1,0:37:16.14,0:37:22.32,辉中,,0,0,0,,but we will see an actual conversation between Ellie and Joel later on that explains all of this.
-Dialogue: 1,0:37:22.32,0:37:24.70,辉中,,0,0,0,,If I throw a bunch of zombies and Clickers
-Dialogue: 1,0:37:24.70,0:37:27.33,辉中,,0,0,0,,and eventually find your way up to the top of the supermarket,
-Dialogue: 1,0:37:27.33,0:37:29.58,辉中,,0,0,0,,where you jumped down out to the front,
-Dialogue: 1,0:37:29.58,0:37:35.16,辉中,,0,0,0,,Ellie and Dina's entire goal throughout exploring this supermarket was to clear it of infected,
-Dialogue: 1,0:37:35.16,0:37:36.33,辉中,,0,0,0,,and they've done just that.
-Dialogue: 1,0:37:36.33,0:37:40.12,辉中,,0,0,0,,Honestly, it's not a bad way of forcing the player to kill zombies
-Dialogue: 1,0:37:40.12,0:37:44.01,辉中,,0,0,0,,in order to get experience with the combat system and become more comfortable with it.
-Dialogue: 1,0:37:44.01,0:37:48.33,辉中,,0,0,0,,A lot of people are going to simply try to stealth around them in most instances,
-Dialogue: 1,0:37:48.33,0:37:51.45,辉中,,0,0,0,,especially later in the game, when resources become very scarce.
-Dialogue: 1,0:37:51.45,0:37:58.23,辉中,,0,0,0,,but if the characters mission is to wipe out all infected in an area to protect Jackson, the city,
-Dialogue: 1,0:37:58.23,0:38:01.04,辉中,,0,0,0,,you all of a sudden don't have to worry about players doing that
-Dialogue: 1,0:38:01.04,0:38:05.46,辉中,,0,0,0,,because they're going to be justified narratively in killing absolutely everything.
-Dialogue: 1,0:38:05.46,0:38:07.23,辉中,,0,0,0,,After all, they can't leave the area
-Dialogue: 1,0:38:07.23,0:38:11.07,辉中,,0,0,0,,unless they've completely wiped all of the infected within that area.
-Dialogue: 1,0:38:11.07,0:38:15.93,辉中,,0,0,0,,Once you get out of the supermarket, the blizzard starts to come in full force.
-Dialogue: 1,0:38:15.93,0:38:21.66,辉中,,0,0,0,,So Ellie and Dina race through the snow, and end up at a library that Dina knew about.
-Dialogue: 1,0:38:21.66,0:38:24.36,辉中,,0,0,0,,It's the previous abode of somebody named Eugene,
-Dialogue: 1,0:38:24.36,0:38:28.50,辉中,,0,0,0,,who, by my calculations, using the log book in the first outpost,
-Dialogue: 1,0:38:28.50,0:38:34.92,辉中,,0,0,0,,likely died of a stroke laid in the previous year just a few months before this game starts.
-Dialogue: 1,0:38:34.92,0:38:38.31,辉中,,0,0,0,,Well, we know about him is that he was a firefly who served with Tommy,
-Dialogue: 1,0:38:38.31,0:38:42.45,辉中,,0,0,0,,and he was also an electronics geek who was a total hippy.
-Dialogue: 1,0:38:42.45,0:38:44.42,辉中,,0,0,0,,In other words, he loved weed.
-Dialogue: 1,0:38:44.42,0:38:46.32,辉中,,0,0,0,,After being introduced to the workbench,
-Dialogue: 1,0:38:46.32,0:38:52.63,辉中,,0,0,0,,Which has to be the most awesome and kick ass weapon customization system
-Dialogue: 1,0:38:52.63,0:38:54.50,辉中,,0,0,0,,I have ever seen in a game
-Dialogue: 1,0:38:54.50,0:38:58.68,辉中,,0,0,0,,you went down to the basement where you find Eugene's true passion.
-Dialogue: 1,0:38:58.68,0:39:00.15,辉中,,0,0,0,,Now, when I first saw all of this,
-Dialogue: 1,0:39:00.15,0:39:07.17,辉中,,0,0,0,,I had to ask the question: Was he actually like selling this stuff? Was he trading it?
-Dialogue: 1,0:39:07.17,0:39:09.21,辉中,,0,0,0,,I don't know, maybe there's a notes that I missed,
-Dialogue: 1,0:39:09.21,0:39:12.78,辉中,,0,0,0,,that explained what he was doing with all of this pot.
-Dialogue: 1,0:39:12.78,0:39:17.40,辉中,,0,0,0,,I don't know, let me know if there is something there probably is, and I just didn't find it.
-Dialogue: 1,0:39:17.40,0:39:22.56,辉中,,0,0,0,,But it seems as though it's a huge potential opportunity for Jackson in terms of trade,
-Dialogue: 1,0:39:22.56,0:39:27.36,辉中,,0,0,0,,if they had a whole of this marijuana to offer took transients coming in and out,
-Dialogue: 1,0:39:27.36,0:39:29.40,辉中,,0,0,0,,I mean it would be pretty funny if Jackson,
-Dialogue: 1,0:39:29.40,0:39:36.42,辉中,,0,0,0,,this thriving city in the apocalypse if their entire economy was based off of selling weed.
-Dialogue: 1,0:39:36.42,0:39:39.76,辉中,,0,0,0,,I think it would be hilarious and kind of cool
-Dialogue: 1,0:39:39.76,0:39:44.58,辉中,,0,0,0,,that in this world, this one thing this plant has brought everybody together.
-Dialogue: 1,0:39:44.58,0:39:46.35,辉中,,0,0,0,,I mean, yeah, I live in Colorado.
-Dialogue: 1,0:39:46.35,0:39:50.13,辉中,,0,0,0,,Maybe that's why I'm partial to that argument.
-Dialogue: 1,0:39:50.13,0:39:53.67,辉中,,0,0,0,,I mean I don't smoke and I don't… I don't smoke.
-Dialogue: 1,0:39:53.80,0:39:58.77,辉中,,0,0,0,,But, still, like you live in Colorado, everyone talks about pot, and this is what you do.
-Dialogue: 1,0:39:58.77,0:40:00.66,辉中,,0,0,0,,What was I talking about? Oh, yeah!
-Dialogue: 1,0:40:00.66,0:40:02.31,辉中,,0,0,0,,Dana and Ellie smoke a blunt.
-Dialogue: 1,0:40:02.31,0:40:07.71,辉中,,0,0,0,,They shared some high school musical style discussion about their kiss from the night before.
-Dialogue: 1,0:40:07.71,0:40:10.80,辉中,,0,0,0,,And then they share another one and then a few other ones,
-Dialogue: 1,0:40:10.80,0:40:16.62,辉中,,0,0,0,,and eventually their overcome, and they begin making out as we cut to Abby, once again.
-Dialogue: 1,0:40:16.62,0:40:18.51,辉中,,0,0,0,,she's running from all sorts of hordes.
-Dialogue: 1,0:40:18.51,0:40:21.75,辉中,,0,0,0,,She's making a lot of noise, and they are definitely hearing it.
-Dialogue: 1,0:40:21.75,0:40:26.04,辉中,,0,0,0,,This increases the tension a lot after the calm of the previous scene.
-Dialogue: 1,0:40:26.04,0:40:28.29,辉中,,0,0,0,,And this type of pacing is going to happen often.
-Dialogue: 1,0:40:28.29,0:40:29.70,辉中,,0,0,0,,Honestly, I love it.
-Dialogue: 1,0:40:29.70,0:40:31.50,辉中,,0,0,0,,It's a very common Naughty Dog tactic.
-Dialogue: 1,0:40:31.50,0:40:32.44,辉中,,0,0,0,,They work you up,
-Dialogue: 1,0:40:32.44,0:40:36.05,辉中,,0,0,0,,and then they contrast it with something that's very calm that lowers your heart rate
-Dialogue: 1,0:40:36.05,0:40:41.37,辉中,,0,0,0,,only to whack you over the head again and then luring you back into a sense of calm.
-Dialogue: 1,0:40:41.37,0:40:44.52,辉中,,0,0,0,,The best example would be in the opening of the original game.
+Dialogue: 1,0:32:06.42,0:32:10.26,辉中,,0,0,0,,在埃比发现雪地上巡逻队的脚印后
+Dialogue: 2,0:32:06.42,0:32:10.26,辉英,,0,0,0,,After Abby finds the tracks in the snow, leading to one of the patrols,
+Dialogue: 1,0:32:10.26,0:32:13.65,辉中,,0,0,0,,镜头切回了和蒂娜正在巡逻的艾莉
+Dialogue: 2,0:32:10.26,0:32:13.65,辉英,,0,0,0,,we swap back to Ellie, whose on patrol with Dina.
+Dialogue: 1,0:32:13.65,0:32:19.26,辉中,,0,0,0,,你骑着马 踩着结冰的河面 穿过一片风景迷人的区域
+Dialogue: 2,0:32:13.65,0:32:19.26,辉英,,0,0,0,,You ride your horses through a beautifully realized landscape, walking on ice in a river.
+Dialogue: 1,0:32:19.26,0:32:20.82,辉中,,0,0,0,,真的太美了
+Dialogue: 2,0:32:19.26,0:32:20.82,辉英,,0,0,0,,It's absolutely beautiful.
+Dialogue: 1,0:32:20.82,0:32:26.31,辉中,,0,0,0,,真的 我不知道顽皮狗是怎么做的这么美丽的风景
+Dialogue: 2,0:32:20.82,0:32:26.31,辉英,,0,0,0,,I mean again, how Naughty Dog achieves these graphical features, I don't know.
+Dialogue: 1,0:32:26.31,0:32:29.91,辉中,,0,0,0,,但真的比不少其他的工作室高到不知道哪里去了
+Dialogue: 2,0:32:26.31,0:32:29.91,辉英,,0,0,0,,It really makes it look like every other development studio isn't even trying.
+Dialogue: 1,0:32:29.91,0:32:33.75,辉中,,0,0,0,,你一边巡逻 一边对角色有了更深入的了解
+Dialogue: 2,0:32:29.91,0:32:33.75,辉英,,0,0,0,,There's a lot of character building in this sequence as you go on your patrol.
+Dialogue: 1,0:32:33.75,0:32:35.36,辉中,,0,0,0,,俩人打情骂俏
+Dialogue: 2,0:32:33.75,0:32:35.36,辉英,,0,0,0,,There's some light flirting,
+Dialogue: 1,0:32:35.36,0:32:38.82,辉中,,0,0,0,,很明显 蒂娜喜欢艾莉 艾莉也喜欢蒂娜
+Dialogue: 2,0:32:35.36,0:32:38.82,辉英,,0,0,0,,clearly, Dina likes Ellie and Ellie likes Dina.
+Dialogue: 1,0:32:38.82,0:32:41.06,辉中,,0,0,0,,而紧张的气氛此时开始酝酿起来
+Dialogue: 2,0:32:38.82,0:32:41.06,辉英,,0,0,0,,And the tension starts to rise here.
+Dialogue: 1,0:32:41.06,0:32:45.45,辉中,,0,0,0,,事情进展的太顺利 这不太对劲
+Dialogue: 2,0:32:41.06,0:32:45.45,辉英,,0,0,0,,Again there's a lot of dread, things are going too well,
+Dialogue: 1,0:32:45.45,0:32:51.19,辉中,,0,0,0,,我们都知道TLOU的世界是极其残酷的
+Dialogue: 2,0:32:45.45,0:32:51.19,辉英,,0,0,0,,and the world of TLOU, as we know, is very cutthroat, sometimes literally.
+Dialogue: 1,0:32:51.19,0:32:56.58,辉中,,0,0,0,,游戏里角色开开心心无忧无虑甚至在打情骂俏
+Dialogue: 2,0:32:51.19,0:32:56.58,辉英,,0,0,0,,The fact that everybody's happy that they are so carefree that they're even flirting with each other.
+Dialogue: 1,0:32:56.58,0:33:01.14,辉中,,0,0,0,,事实上玩家心里都知道要有不好的事情发生了
+Dialogue: 2,0:32:56.58,0:33:01.14,辉英,,0,0,0,,It's unsettling, because we know that something bad has to happen soon.
+Dialogue: 1,0:33:01.14,0:33:05.91,辉中,,0,0,0,,而你继续推进 到了一个前哨站 探索一些废弃的房子
+Dialogue: 2,0:33:01.14,0:33:05.91,辉英,,0,0,0,,But you continue exploring, you go to an outpost to explore some abandoned houses.
+Dialogue: 1,0:33:05.91,0:33:06.96,辉中,,0,0,0,,在某个时刻
+Dialogue: 2,0:33:05.91,0:33:06.96,辉英,,0,0,0,,And at one point,
+Dialogue: 1,0:33:06.96,0:33:13.02,辉中,,0,0,0,,艾莉提到她当晚要邀请乔尔一起看电影
+Dialogue: 2,0:33:06.96,0:33:13.02,辉英,,0,0,0,,Ellie even says that she's going to be inviting Joel over for a movie later that night.
+Dialogue: 1,0:33:13.02,0:33:17.76,辉中,,0,0,0,,这一信息在故事结尾时极为重要
+Dialogue: 2,0:33:13.02,0:33:17.76,辉英,,0,0,0,,This will be VERY important at the end of the game,
+Dialogue: 1,0:33:17.76,0:33:19.56,辉中,,0,0,0,,所以请各位务必牢记
+Dialogue: 2,0:33:17.76,0:33:19.56,辉英,,0,0,0,,so make sure you remember this.
+Dialogue: 1,0:33:19.56,0:33:26.07,辉中,,0,0,0,,艾莉打算当天晚上和乔尔一起看电影
+Dialogue: 2,0:33:19.56,0:33:26.07,辉英,,0,0,0,,Ellie on this day was planning on having Joel over for a movie that night.
+Dialogue: 1,0:33:26.07,0:33:27.60,辉中,,0,0,0,,看起来没什么奇怪的
+Dialogue: 2,0:33:26.07,0:33:27.60,辉英,,0,0,0,,It seems like a small point,
+Dialogue: 1,0:33:27.60,0:33:33.09,辉中,,0,0,0,,大家也都知道艾莉和乔尔有着很深的情感上的羁绊
+Dialogue: 2,0:33:27.60,0:33:33.09,辉英,,0,0,0,,especially considering that Ellie and Joel have this deep connection with each other.
+Dialogue: 1,0:33:33.09,0:33:37.20,辉中,,0,0,0,,她甚至就住乔尔家房子后面的附属房里
+Dialogue: 2,0:33:33.09,0:33:37.20,辉英,,0,0,0,,She lives right behind him, even still in the grandmother's suite,
+Dialogue: 1,0:33:37.20,0:33:40.74,辉中,,0,0,0,,俩人晚上一起打发时间看个电影 听上去很合理
+Dialogue: 2,0:33:37.20,0:33:40.74,辉英,,0,0,0,,and it makes sense that perhaps they would try to fill an empty time,
+Dialogue: 1,0:33:40.74,0:33:42.60,辉中,,0,0,0,,俩人晚上一起打发时间看个电影 听上去很合理
+Dialogue: 2,0:33:40.74,0:33:42.60,辉英,,0,0,0,,watching movies and spending time together.
+Dialogue: 1,0:33:42.60,0:33:46.29,辉中,,0,0,0,,但是到了游戏结尾 我们就会发现这部分的信息量有多么大
+Dialogue: 2,0:33:42.60,0:33:46.29,辉英,,0,0,0,,But again, at the end of the game, we're going to find out a lot more.
+Dialogue: 1,0:33:46.29,0:33:51.32,辉中,,0,0,0,,而且艾莉提到的这段内容是在你探索一废弃房子时作为可选对话发生的
+Dialogue: 2,0:33:46.29,0:33:51.32,辉英,,0,0,0,,And this very statement by Ellie something that happens as an optional moment
+Dialogue: 1,0:33:51.32,0:33:53.46,辉中,,0,0,0,,而且艾莉提到的这段内容是在你探索一废弃房子时作为可选对话发生的
+Dialogue: 2,0:33:51.32,0:33:53.46,辉英,,0,0,0,,while you're exploring an abandoned house.
+Dialogue: 1,0:33:54.16,0:33:56.10,辉中,,0,0,0,,这将会非常非常重要
+Dialogue: 2,0:33:54.16,0:33:56.10,辉英,,0,0,0,,This is going to be very important.
+Dialogue: 1,0:33:56.10,0:33:59.07,辉中,,0,0,0,,艾莉和蒂娜来到了一个有感染者出没的超市
+Dialogue: 2,0:33:56.10,0:33:59.07,辉英,,0,0,0,,Ellie and Dina, come up on a supermarket that's infested.
+Dialogue: 1,0:33:59.07,0:34:03.84,辉中,,0,0,0,,两人清空了感染者 并借此学习了潜行或者战斗的技巧
+Dialogue: 2,0:33:59.07,0:34:03.84,辉英,,0,0,0,,You cleared out, gives you the chance to explore some stealth options and combat,
+Dialogue: 1,0:34:03.84,0:34:07.44,辉中,,0,0,0,,这是这款游戏做得真的很棒的一部分
+Dialogue: 2,0:34:03.84,0:34:07.44,辉英,,0,0,0,,and it's a good thing that this is a really well done portion of the game.
+Dialogue: 1,0:34:07.44,0:34:10.76,辉中,,0,0,0,,因为游戏自带的潜行与制作元素
+Dialogue: 2,0:34:07.44,0:34:10.76,辉英,,0,0,0,,Because this stealth and the crafting that goes along with it
+Dialogue: 1,0:34:10.76,0:34:13.71,辉中,,0,0,0,,将会是游戏本身的调味品
+Dialogue: 2,0:34:10.76,0:34:13.71,辉英,,0,0,0,,is going to be the bread and butter of the game,
+Dialogue: 1,0:34:13.71,0:34:16.05,辉中,,0,0,0,,尤其在高难度下
+Dialogue: 2,0:34:13.71,0:34:16.05,辉英,,0,0,0,,especially if you're playing on higher difficulties,
+Dialogue: 1,0:34:16.05,0:34:20.55,辉中,,0,0,0,,你更需要很快适应这部分的游戏机制
+Dialogue: 2,0:34:16.05,0:34:20.55,辉英,,0,0,0,,you're going to need to get acclimated to these mechanics as soon as possible.
+Dialogue: 1,0:34:20.55,0:34:23.61,辉中,,0,0,0,,然后游戏还快速介绍了一下循声者
+Dialogue: 2,0:34:20.55,0:34:23.61,辉英,,0,0,0,,You are also given a quick introduction to Clickers as well,
+Dialogue: 1,0:34:23.61,0:34:27.39,辉中,,0,0,0,,这类感染者和一代里的几乎完全一样
+Dialogue: 2,0:34:23.61,0:34:27.39,辉英,,0,0,0,,and these guys work almost identically to how they did in the first game.
+Dialogue: 1,0:34:27.39,0:34:31.86,辉中,,0,0,0,,我觉得不太需要过多解释循声者的机制
+Dialogue: 2,0:34:27.39,0:34:31.86,辉英,,0,0,0,,I don't really feel the need to explain a lot as to how these sequences work,
+Dialogue: 1,0:34:31.86,0:34:36.00,辉中,,0,0,0,,因为如果你玩过一代的话 就肯定已经知道了
+Dialogue: 2,0:34:31.86,0:34:36.00,辉英,,0,0,0,,because if you've played the first game, you're going to know how this goes.
+Dialogue: 1,0:34:36.00,0:34:39.57,辉中,,0,0,0,,其实我们还要玩很久才会遇到全新的感染者
+Dialogue: 2,0:34:36.00,0:34:39.57,辉英,,0,0,0,,It's going to be a hot minute before we're thrown anything that's markedly different.
+Dialogue: 1,0:34:39.57,0:34:41.25,辉中,,0,0,0,,而在第一代游戏当中
+Dialogue: 2,0:34:39.57,0:34:41.25,辉英,,0,0,0,,I will say that in the first game,
+Dialogue: 1,0:34:41.25,0:34:42.20,辉中,,0,0,0,,有一件事让我很困扰
+Dialogue: 2,0:34:41.25,0:34:42.20,辉英,,0,0,0,,it always bugging me that
+Dialogue: 1,0:34:42.20,0:34:45.91,辉中,,0,0,0,,循声者显然是利用自己的咔咔声产生的回声定位来识别环境的
+Dialogue: 2,0:34:42.20,0:34:45.91,辉英,,0,0,0,,Clickers are obviously able to navigate their environments
+Dialogue: 1,0:34:45.91,0:34:51.27,辉中,,0,0,0,,循声者显然是利用自己的咔咔声产生的回声定位来识别环境的
+Dialogue: 2,0:34:45.91,0:34:51.27,辉英,,0,0,0,,by use of clicking sounds that use echolocation to map out their environment.
+Dialogue: 1,0:34:51.27,0:34:55.40,辉中,,0,0,0,,然而 它们从来不会听到出角色们互相交流的声音
+Dialogue: 2,0:34:51.27,0:34:55.40,辉英,,0,0,0,,However, they never were able to hear characters talking to each other
+Dialogue: 1,0:34:55.40,0:34:59.88,辉中,,0,0,0,,也听不见你上子弹、翻背包或者背回去的声音
+Dialogue: 2,0:34:55.40,0:34:59.88,辉英,,0,0,0,,or you reloading your weapon or moving your backpack on and off.
+Dialogue: 1,0:34:59.88,0:35:06.36,辉中,,0,0,0,,但到了这代游戏 就只在低难度下才成立了
+Dialogue: 2,0:34:59.88,0:35:06.36,辉英,,0,0,0,,That is mostly true again in this game, except only on the lower levels.
+Dialogue: 1,0:35:06.36,0:35:11.43,辉中,,0,0,0,,我专门测试过 在我的二周目生还者难度下
+Dialogue: 2,0:35:06.36,0:35:11.43,辉英,,0,0,0,,In my testing, I actually found that on new game Plus on survivor difficulty,
+Dialogue: 1,0:35:11.43,0:35:13.98,辉中,,0,0,0,,循声者的确能听到这两点
+Dialogue: 2,0:35:11.43,0:35:13.98,辉英,,0,0,0,,the Clickers can actually hear this as well.
+Dialogue: 1,0:35:13.98,0:35:18.96,辉中,,0,0,0,,如果你打开背包切换武器 那它们真的会听到并向你走来
+Dialogue: 2,0:35:13.98,0:35:18.96,辉英,,0,0,0,,If you open your backpack to swap weapons, they'll notice and they'll come running.
+Dialogue: 1,0:35:18.96,0:35:22.89,辉中,,0,0,0,,在这方面游戏的沉浸感有所提升
+Dialogue: 2,0:35:18.96,0:35:22.89,辉英,,0,0,0,,This was a game changer in terms of immersion.
+Dialogue: 1,0:35:22.89,0:35:28.53,辉中,,0,0,0,,真的 我从来没有玩过这样一款需要如此蹑手蹑脚行动的游戏
+Dialogue: 2,0:35:22.89,0:35:28.53,辉英,,0,0,0,,Seriously, I've never played a game where I was so attentive to everything that I was doing,
+Dialogue: 1,0:35:28.53,0:35:31.74,辉中,,0,0,0,,就连打开背包这种事都会害怕
+Dialogue: 2,0:35:28.53,0:35:31.74,辉英,,0,0,0,,that I was scared to even open up the inventory,
+Dialogue: 1,0:35:31.74,0:35:37.56,辉中,,0,0,0,,因为我知道这样会制造一点点噪音 会吸引循声者过来
+Dialogue: 2,0:35:31.74,0:35:37.56,辉英,,0,0,0,,because I knew that it was going to create a small amount of sound that could attract Clickers,
+Dialogue: 1,0:35:37.56,0:35:40.36,辉中,,0,0,0,,导致我要么死要么重新读档
+Dialogue: 2,0:35:37.56,0:35:40.36,辉英,,0,0,0,,which could mean that I die and have to reload.
+Dialogue: 1,0:35:40.36,0:35:43.44,辉中,,0,0,0,,我向大家保证 循声者的声音可老吓人了
+Dialogue: 2,0:35:40.36,0:35:43.44,辉英,,0,0,0,,Granted to some people, I'm sure that sounds absolutely terrible,
+Dialogue: 1,0:35:43.44,0:35:46.08,辉中,,0,0,0,,所以游戏开始才会有难度设定
+Dialogue: 2,0:35:43.44,0:35:46.08,辉英,,0,0,0,,which is why there are difficulty settings to begin with.
+Dialogue: 1,0:35:46.08,0:35:49.47,辉中,,0,0,0,,如果你想有个完美的沉浸式体验
+Dialogue: 2,0:35:46.08,0:35:49.47,辉英,,0,0,0,,But if you want to be totally immersed in this game,
+Dialogue: 1,0:35:49.47,0:35:52.92,辉中,,0,0,0,,那我强烈建议玩个最高难度试试
+Dialogue: 2,0:35:49.47,0:35:52.92,辉英,,0,0,0,,I recommend you play it on the hardest possible difficulty.
+Dialogue: 1,0:35:52.92,0:35:54.90,辉中,,0,0,0,,真的感觉一切都不一样了
+Dialogue: 2,0:35:52.92,0:35:54.90,辉英,,0,0,0,,It really does change everything.
+Dialogue: 1,0:35:54.90,0:35:57.68,辉中,,0,0,0,,这段超市场景中另外一个要注意的点是
+Dialogue: 2,0:35:54.90,0:35:57.68,辉英,,0,0,0,,Another thing to note in this supermarket sequences that
+Dialogue: 1,0:35:57.68,0:36:01.32,辉中,,0,0,0,,艾莉现在暴露在孢子中时会戴着面具
+Dialogue: 2,0:35:57.68,0:36:01.32,辉英,,0,0,0,,Ellie is wearing a mask when she encounters spores now.
+Dialogue: 1,0:36:01.32,0:36:02.43,辉中,,0,0,0,,如果你玩过一代游戏
+Dialogue: 2,0:36:01.32,0:36:02.43,辉英,,0,0,0,,If you played the first game,
+Dialogue: 1,0:36:02.43,0:36:07.41,辉中,,0,0,0,,可能会比较奇怪 因为众所周知艾莉是对真菌免疫的
+Dialogue: 2,0:36:02.43,0:36:07.41,辉英,,0,0,0,,this is going to be kind of weird because obviously Ellie is immune to the virus,
+Dialogue: 1,0:36:07.41,0:36:10.41,辉中,,0,0,0,,那她为何还要戴着防毒面具呢？
+Dialogue: 2,0:36:07.41,0:36:10.41,辉英,,0,0,0,,or so we thought, why does she need to wear a mask?
+Dialogue: 1,0:36:10.41,0:36:12.66,辉中,,0,0,0,,在游戏发售前的预告片里
+Dialogue: 2,0:36:10.41,0:36:12.66,辉英,,0,0,0,,In the trailers we saw before the game's launch,
+Dialogue: 1,0:36:12.66,0:36:16.11,辉中,,0,0,0,,很多人认为这可能意味着艾莉不再有免疫能力了
+Dialogue: 2,0:36:12.66,0:36:16.11,辉英,,0,0,0,,a lot of people thought that this would mean that Ellie was no longer immune,
+Dialogue: 1,0:36:16.11,0:36:20.49,辉中,,0,0,0,,可能她不像之前那样可以对孢子免疫了
+Dialogue: 2,0:36:16.11,0:36:20.49,辉英,,0,0,0,,or perhaps she was not as immune as she once was,
+Dialogue: 1,0:36:20.49,0:36:24.06,辉中,,0,0,0,,可能如果她吸入了孢子 就会生重病
+Dialogue: 2,0:36:20.49,0:36:24.06,辉英,,0,0,0,,so perhaps if she inhaled spores, that would make her very very sick,
+Dialogue: 1,0:36:24.06,0:36:25.74,辉中,,0,0,0,,但她仍然能挺过去
+Dialogue: 2,0:36:24.06,0:36:25.74,辉英,,0,0,0,,but she would eventually pull through it.
+Dialogue: 1,0:36:25.74,0:36:28.02,辉中,,0,0,0,,然而真实情况简单得多
+Dialogue: 2,0:36:25.74,0:36:28.02,辉英,,0,0,0,,However, the explanation is far simpler.
+Dialogue: 1,0:36:28.02,0:36:33.69,辉中,,0,0,0,,乔尔和艾莉都知道艾莉是免疫的 但其他人不能知道这件事
+Dialogue: 2,0:36:28.02,0:36:33.69,辉英,,0,0,0,,Joel and Ellie obviously know that Ellie is immune, but nobody else can know that.
+Dialogue: 1,0:36:33.69,0:36:35.82,辉中,,0,0,0,,如果有人发现艾莉是免疫的这一点
+Dialogue: 2,0:36:33.69,0:36:35.82,辉英,,0,0,0,,If people were to find out that Ellie's immune,
+Dialogue: 1,0:36:35.82,0:36:39.72,辉中,,0,0,0,,之前火萤遇到的那些破事就会重蹈覆辙
+Dialogue: 2,0:36:35.82,0:36:39.72,辉英,,0,0,0,,the same crap with the Fireflies would happen all over again.
+Dialogue: 1,0:36:39.72,0:36:43.71,辉中,,0,0,0,,当然现在看来这更像是乔尔的一厢情愿
+Dialogue: 2,0:36:39.72,0:36:43.71,辉英,,0,0,0,,Now this seems to be much more Joel's wish than it is Ellie's,
+Dialogue: 1,0:36:43.71,0:36:48.37,辉中,,0,0,0,,毕竟艾莉自己是有打算想要自我献身为全人类研发疫苗的
+Dialogue: 2,0:36:43.71,0:36:48.37,辉英,,0,0,0,,after all, Ellie was totally prepared and fine with giving her life
+Dialogue: 1,0:36:48.37,0:36:51.09,辉中,,0,0,0,,毕竟艾莉自己是有打算想要自我献身为全人类研发疫苗的
+Dialogue: 2,0:36:48.37,0:36:51.09,辉英,,0,0,0,,to save humanity in the form of a vaccine,
+Dialogue: 1,0:36:51.09,0:36:53.84,辉中,,0,0,0,,而这也完全说得通 因为乔尔要保证
+Dialogue: 2,0:36:51.09,0:36:53.84,辉英,,0,0,0,,And this would of course make sense because Joel wanted to make sure
+Dialogue: 1,0:36:53.84,0:36:58.53,辉中,,0,0,0,,不会有其他人因为艾莉的免疫能力而对她穷追不舍
+Dialogue: 2,0:36:53.84,0:36:58.53,辉英,,0,0,0,,nobody else would come to Ellie to try and capitalize on her gift,
+Dialogue: 1,0:36:58.53,0:37:01.29,辉中,,0,0,0,,如果有其他人知道 那乔尔就很可能会失去艾莉
+Dialogue: 2,0:36:58.53,0:37:01.29,辉英,,0,0,0,,because if they did, it would mean that he would lose her.
+Dialogue: 1,0:37:01.29,0:37:04.98,辉中,,0,0,0,,但实际上 艾莉这边知道自己不需要 却还在戴着防毒面具
+Dialogue: 2,0:37:01.29,0:37:04.98,辉英,,0,0,0,,But the fact that Ellie is still using the mask, even though she doesn't need to,
+Dialogue: 1,0:37:04.98,0:37:08.79,辉中,,0,0,0,,我觉得还能说明艾莉是在乎乔尔的想法的
+Dialogue: 2,0:37:04.98,0:37:08.79,辉英,,0,0,0,,I think, serves as proof positive that she still cares about what he thinks,
+Dialogue: 1,0:37:08.79,0:37:11.64,辉中,,0,0,0,,而且她还没法完全离开乔尔独立生活
+Dialogue: 2,0:37:08.79,0:37:11.64,辉英,,0,0,0,,and she's yet to fully separate and become her own person.
+Dialogue: 1,0:37:11.64,0:37:16.14,辉中,,0,0,0,,但这件事在游戏中的此刻还是没有完全解释通
+Dialogue: 2,0:37:11.64,0:37:16.14,辉英,,0,0,0,,But this isn't something that's explained or really justified at this point in the game,
+Dialogue: 1,0:37:16.14,0:37:22.32,辉中,,0,0,0,,不过未来我们会看到乔尔和艾莉在对话中专门解释此事
+Dialogue: 2,0:37:16.14,0:37:22.32,辉英,,0,0,0,,but we will see an actual conversation between Ellie and Joel later on that explains all of this.
+Dialogue: 1,0:37:22.32,0:37:24.70,辉中,,0,0,0,,两人解决了一堆感染者和循声者
+Dialogue: 2,0:37:22.32,0:37:24.70,辉英,,0,0,0,,If I throw a bunch of zombies and Clickers
+Dialogue: 1,0:37:24.70,0:37:27.33,辉中,,0,0,0,,最终来到超市的楼顶
+Dialogue: 2,0:37:24.70,0:37:27.33,辉英,,0,0,0,,and eventually find your way up to the top of the supermarket,
+Dialogue: 1,0:37:27.33,0:37:29.58,辉中,,0,0,0,,跳下来回到超市前面
+Dialogue: 2,0:37:27.33,0:37:29.58,辉英,,0,0,0,,where you jumped down out to the front,
+Dialogue: 1,0:37:29.58,0:37:35.16,辉中,,0,0,0,,艾莉和蒂娜目的就是清空超市里的感染者
+Dialogue: 2,0:37:29.58,0:37:35.16,辉英,,0,0,0,,Ellie and Dina's entire goal throughout exploring this supermarket was to clear it of infected,
+Dialogue: 1,0:37:35.16,0:37:36.33,辉中,,0,0,0,,而她们也的确完成了
+Dialogue: 2,0:37:35.16,0:37:36.33,辉英,,0,0,0,,and they've done just that.
+Dialogue: 1,0:37:36.33,0:37:40.12,辉中,,0,0,0,,实际上我觉得游戏为了让玩家熟悉适应战斗系统
+Dialogue: 2,0:37:36.33,0:37:40.12,辉英,,0,0,0,,Honestly, it's not a bad way of forcing the player to kill zombies
+Dialogue: 1,0:37:40.12,0:37:44.01,辉中,,0,0,0,,而要求玩家必须杀死所有感染者是可以接受的
+Dialogue: 2,0:37:40.12,0:37:44.01,辉英,,0,0,0,,in order to get experience with the combat system and become more comfortable with it.
+Dialogue: 1,0:37:44.01,0:37:48.33,辉中,,0,0,0,,许多玩家在绝大多数场景下会采取潜行的方式
+Dialogue: 2,0:37:44.01,0:37:48.33,辉英,,0,0,0,,A lot of people are going to simply try to stealth around them in most instances,
+Dialogue: 1,0:37:48.33,0:37:51.45,辉中,,0,0,0,,尤其在游戏后期 资源非常匮乏的时候
+Dialogue: 2,0:37:48.33,0:37:51.45,辉英,,0,0,0,,especially later in the game, when resources become very scarce.
+Dialogue: 1,0:37:51.45,0:37:58.23,辉中,,0,0,0,,但如果角色的任务是清空所有感染者以保护杰克逊小镇的安全
+Dialogue: 2,0:37:51.45,0:37:58.23,辉英,,0,0,0,,but if the characters mission is to wipe out all infected in an area to protect Jackson, the city,
+Dialogue: 1,0:37:58.23,0:38:01.04,辉中,,0,0,0,,那就对无双打法就没什么顾虑了
+Dialogue: 2,0:37:58.23,0:38:01.04,辉英,,0,0,0,,you all of a sudden don't have to worry about players doing that
+Dialogue: 1,0:38:01.04,0:38:05.46,辉中,,0,0,0,,因为玩家这种杀光感染者的操作是完全合理的
+Dialogue: 2,0:38:01.04,0:38:05.46,辉英,,0,0,0,,because they're going to be justified narratively in killing absolutely everything.
+Dialogue: 1,0:38:05.46,0:38:07.23,辉中,,0,0,0,,毕竟如果玩家不清空区域内的感染者就无法离开这里
+Dialogue: 2,0:38:05.46,0:38:07.23,辉英,,0,0,0,,After all, they can't leave the area
+Dialogue: 1,0:38:07.23,0:38:11.07,辉中,,0,0,0,,毕竟如果玩家不清空区域内的感染者就无法离开这里
+Dialogue: 2,0:38:07.23,0:38:11.07,辉英,,0,0,0,,unless they've completely wiped all of the infected within that area.
+Dialogue: 1,0:38:11.07,0:38:15.93,辉中,,0,0,0,,两人离开超市后 暴风雪越来越猛烈
+Dialogue: 2,0:38:11.07,0:38:15.93,辉英,,0,0,0,,Once you get out of the supermarket, the blizzard starts to come in full force.
+Dialogue: 1,0:38:15.93,0:38:21.66,辉中,,0,0,0,,于是她们赶忙穿越风雪 来到了蒂娜知道的一家图书馆
+Dialogue: 2,0:38:15.93,0:38:21.66,辉英,,0,0,0,,So Ellie and Dina race through the snow, and end up at a library that Dina knew about.
+Dialogue: 1,0:38:21.66,0:38:24.36,辉中,,0,0,0,,这里是一个叫尤金的人之前的住所
+Dialogue: 2,0:38:21.66,0:38:24.36,辉英,,0,0,0,,It's the previous abode of somebody named Eugene,
+Dialogue: 1,0:38:24.36,0:38:28.50,辉中,,0,0,0,,我记得他还在之前的前哨站的签到本上有出现过
+Dialogue: 2,0:38:24.36,0:38:28.50,辉英,,0,0,0,,who, by my calculations, using the log book in the first outpost,
+Dialogue: 1,0:38:28.50,0:38:34.92,辉中,,0,0,0,,很可能在前一年死于中风 就在这个游戏开始前几个月
+Dialogue: 2,0:38:28.50,0:38:34.92,辉英,,0,0,0,,likely died of a stroke laid in the previous year just a few months before this game starts.
+Dialogue: 1,0:38:34.92,0:38:38.31,辉中,,0,0,0,,我们了解到他曾和汤米一起在火萤组织服役过
+Dialogue: 2,0:38:34.92,0:38:38.31,辉英,,0,0,0,,Well, we know about him is that he was a firefly who served with Tommy,
+Dialogue: 1,0:38:38.31,0:38:42.45,辉中,,0,0,0,,还是个电子产品的怪胎 还是个哈草战士
+Dialogue: 2,0:38:38.31,0:38:42.45,辉英,,0,0,0,,and he was also an electronics geek who was a total hippy.
+Dialogue: 1,0:38:42.45,0:38:44.42,辉中,,0,0,0,,没错 他喜欢抽大麻
+Dialogue: 2,0:38:42.45,0:38:44.42,辉英,,0,0,0,,In other words, he loved weed.
+Dialogue: 1,0:38:44.42,0:38:46.32,辉中,,0,0,0,,在介绍了我在所有游戏里见过的最逼真的改装武器的工作台后
+Dialogue: 2,0:38:44.42,0:38:46.32,辉英,,0,0,0,,After being introduced to the workbench,
+Dialogue: 1,0:38:46.32,0:38:52.63,辉中,,0,0,0,,在介绍了我在所有游戏里见过的最逼真的改装武器的工作台后
+Dialogue: 2,0:38:46.32,0:38:52.63,辉英,,0,0,0,,Which has to be the most awesome and kick ass weapon customization system
+Dialogue: 1,0:38:52.63,0:38:54.50,辉中,,0,0,0,,在介绍了我在所有游戏里见过的最逼真的改装武器的工作台后
+Dialogue: 2,0:38:52.63,0:38:54.50,辉英,,0,0,0,,I have ever seen in a game,
+Dialogue: 1,0:38:54.50,0:38:58.68,辉中,,0,0,0,,玩家来到地下室 发现了尤金真正充满秘密的小天地
+Dialogue: 2,0:38:54.50,0:38:58.68,辉英,,0,0,0,,you went down to the basement where you find Eugene's true passion.
+Dialogue: 1,0:38:58.68,0:39:00.15,辉中,,0,0,0,,我第一眼见到这些的时候
+Dialogue: 2,0:38:58.68,0:39:00.15,辉英,,0,0,0,,Now, when I first saw all of this,
+Dialogue: 1,0:39:00.15,0:39:07.17,辉中,,0,0,0,,我就想问他在卖这些东西吗？他会拿这些东西进行交易吗？
+Dialogue: 2,0:39:00.15,0:39:07.17,辉英,,0,0,0,,I had to ask the question: Was he actually like selling this stuff? Was he trading it?
+Dialogue: 1,0:39:07.17,0:39:09.21,辉中,,0,0,0,,我不知道 或许我漏了某个上面解释了尤金具体在做什么的纸条
+Dialogue: 2,0:39:07.17,0:39:09.21,辉英,,0,0,0,,I don't know, maybe there's a notes that I missed,
+Dialogue: 1,0:39:09.21,0:39:12.78,辉中,,0,0,0,,我不知道 或许我漏了某个上面解释了尤金具体在做什么的纸条
+Dialogue: 2,0:39:09.21,0:39:12.78,辉英,,0,0,0,,that explained what he was doing with all of this pot.
+Dialogue: 1,0:39:12.78,0:39:17.40,辉中,,0,0,0,,不清楚 如果还有什么我没发现的东西的话请大家告诉我一下
+Dialogue: 2,0:39:12.78,0:39:17.40,辉英,,0,0,0,,I don't know, let me know if there is something there probably is, and I just didn't find it.
+Dialogue: 1,0:39:17.40,0:39:22.56,辉中,,0,0,0,,但如果真用于贸易 那这似乎是杰克逊的一个巨大的潜在机会
+Dialogue: 2,0:39:17.40,0:39:22.56,辉英,,0,0,0,,But it seems as though it's a huge potential opportunity for Jackson in terms of trade,
+Dialogue: 1,0:39:22.56,0:39:27.36,辉中,,0,0,0,,利用完整的大麻供应链提供给进出的流浪者
+Dialogue: 2,0:39:22.56,0:39:27.36,辉英,,0,0,0,,if they had a whole of this marijuana to offer, to transients coming in and out,
+Dialogue: 1,0:39:27.36,0:39:32.00,辉中,,0,0,0,,如果杰克逊这样在末世中的繁荣小镇
+Dialogue: 2,0:39:27.36,0:39:32.00,辉英,,0,0,0,,I mean it would be pretty funny if Jackson, this thriving city in the apocalypse,
+Dialogue: 1,0:39:32.00,0:39:36.42,辉中,,0,0,0,,整个经济是基于大麻贸易 那将是相当有趣的
+Dialogue: 2,0:39:32.00,0:39:36.42,辉英,,0,0,0,,if their entire economy was based off of selling weed.
+Dialogue: 1,0:39:36.42,0:39:39.76,辉中,,0,0,0,,我认为这样的末世下 一种植物让大家团结在一起 是很搞笑也是很酷的事情
+Dialogue: 2,0:39:36.42,0:39:39.76,辉英,,0,0,0,,I think it would be hilarious and kind of cool
+Dialogue: 1,0:39:39.76,0:39:44.58,辉中,,0,0,0,,我认为这样的末世下 一种植物让大家团结在一起 是很搞笑也是很酷的事情
+Dialogue: 2,0:39:39.76,0:39:44.58,辉英,,0,0,0,,that in this world, this one thing this plant has brought everybody together.
+Dialogue: 1,0:39:44.58,0:39:46.35,辉中,,0,0,0,,我的意思是……嗯……我家在科罗拉多
+Dialogue: 1,0:39:44.58,0:39:50.13,辉注,,0,0,0,,科罗拉多州在2014年实行了大麻合法化
+Dialogue: 2,0:39:44.58,0:39:46.35,辉英,,0,0,0,,I mean, yeah, I live in Colorado.
+Dialogue: 1,0:39:46.35,0:39:50.13,辉中,,0,0,0,,或许这就是为什么我会这样想吧
+Dialogue: 2,0:39:46.35,0:39:50.13,辉英,,0,0,0,,Maybe that's why I'm partial to that argument.
+Dialogue: 1,0:39:50.13,0:39:53.67,辉中,,0,0,0,,当然我自己不抽那种东西的……不抽的
+Dialogue: 2,0:39:50.13,0:39:53.67,辉英,,0,0,0,,I mean I don't smoke and I don't… I don't smoke.
+Dialogue: 1,0:39:53.80,0:39:58.77,辉中,,0,0,0,,但当然了 科罗拉多的很多人都会谈论大麻 自己就跟着耳濡目染了
+Dialogue: 2,0:39:53.80,0:39:58.77,辉英,,0,0,0,,But, still, like you live in Colorado, everyone talks about pot, and this is what you do.
+Dialogue: 1,0:39:58.77,0:40:00.66,辉中,,0,0,0,,说到哪了？哦对！
+Dialogue: 2,0:39:58.77,0:40:00.66,辉英,,0,0,0,,What was I talking about? Oh, yeah!
+Dialogue: 1,0:40:00.66,0:40:02.31,辉中,,0,0,0,,蒂娜和艾莉抽了一根
+Dialogue: 2,0:40:00.66,0:40:02.31,辉英,,0,0,0,,Dina and Ellie smoke a blunt.
+Dialogue: 1,0:40:02.31,0:40:07.71,辉中,,0,0,0,,她们像高中音乐舞会一般聊了两人前一天晚上的吻
+Dialogue: 2,0:40:02.31,0:40:07.71,辉英,,0,0,0,,They shared some high school musical style discussion about their kiss from the night before.
+Dialogue: 1,0:40:07.71,0:40:10.80,辉中,,0,0,0,,然后一言不合就又开始打啵了
+Dialogue: 2,0:40:07.71,0:40:10.80,辉英,,0,0,0,,And then they share another one and then a few other ones,
+Dialogue: 1,0:40:10.80,0:40:16.62,辉中,,0,0,0,,最终俩人开始搞起来 然后镜头再次切回埃比
+Dialogue: 2,0:40:10.80,0:40:16.62,辉英,,0,0,0,,and eventually their overcome, and they begin making out as we cut to Abby, once again.
+Dialogue: 1,0:40:16.62,0:40:18.51,辉中,,0,0,0,,她在躲避大量的感染者
+Dialogue: 2,0:40:16.62,0:40:18.51,辉英,,0,0,0,,she's running from all sorts of hordes.
+Dialogue: 1,0:40:18.51,0:40:21.75,辉中,,0,0,0,,她弄的动静太大了 感染者们肯定都听到了
+Dialogue: 2,0:40:18.51,0:40:21.75,辉英,,0,0,0,,She's making a lot of noise, and they are definitely hearing it.
+Dialogue: 1,0:40:21.75,0:40:26.04,辉中,,0,0,0,,这与之前平静祥和的场景产生了鲜明对比
+Dialogue: 2,0:40:21.75,0:40:26.04,辉英,,0,0,0,,This increases the tension a lot after the calm of the previous scene.
+Dialogue: 1,0:40:26.04,0:40:28.29,辉中,,0,0,0,,这样的节奏变换在游戏中会经常出现
+Dialogue: 2,0:40:26.04,0:40:28.29,辉英,,0,0,0,,And this type of pacing is going to happen often.
+Dialogue: 1,0:40:28.29,0:40:29.70,辉中,,0,0,0,,说实话 我很喜欢
+Dialogue: 2,0:40:28.29,0:40:29.70,辉英,,0,0,0,,Honestly, I love it.
+Dialogue: 1,0:40:29.70,0:40:31.50,辉中,,0,0,0,,这是顽皮狗的特色招数
+Dialogue: 2,0:40:29.70,0:40:31.50,辉英,,0,0,0,,It's a very common Naughty Dog tactic.
+Dialogue: 1,0:40:31.50,0:40:32.44,辉中,,0,0,0,,先让你兴奋起来
+Dialogue: 2,0:40:31.50,0:40:32.44,辉英,,0,0,0,,They work you up,
+Dialogue: 1,0:40:32.44,0:40:36.05,辉中,,0,0,0,,然后作为对比 给你看一些平静的内容 降低你的心率
+Dialogue: 2,0:40:32.44,0:40:36.05,辉英,,0,0,0,,and then they contrast it with something that's very calm that lowers your heart rate
+Dialogue: 1,0:40:36.05,0:40:41.37,辉中,,0,0,0,,然后马上给你当头一棒 转而又让一切归于平静
+Dialogue: 2,0:40:36.05,0:40:41.37,辉英,,0,0,0,,only to whack you over the head again and then luring you back into a sense of calm.
+Dialogue: 1,0:40:41.37,0:40:44.52,辉中,,0,0,0,,最好的例子就是一代游戏的开场部分\NThe best example would be in the opening of the original game.
 Dialogue: 1,0:40:44.52,0:40:46.59,辉中,,0,0,0,,Everything's calm and relaxed,
 Dialogue: 1,0:40:46.59,0:40:50.88,辉中,,0,0,0,,And then the world starts to fall apart and everything's terrible and then your daughter dies,
 Dialogue: 1,0:40:50.88,0:40:55.75,辉中,,0,0,0,,and then you cut forward to Joel sleeping on a mattress twenty years later
@@ -1239,6 +1381,37 @@ Dialogue: 1,0:48:58.08,0:49:00.09,辉中,,0,0,0,,When games do this, do this lit
 Dialogue: 1,0:49:00.09,0:49:01.14,辉中,,0,0,0,,So you're prepped for a fight,
 Dialogue: 1,0:49:01.14,0:49:04.23,辉中,,0,0,0,,and then it's taken away from you, but I know that's just me.
 Dialogue: 1,0:49:04.23,0:49:08.85,辉中,,0,0,0,,Of course this is in the case because the second that we enter the basement, this happens.
+Dialogue: 1,0:49:21.59,0:49:22.55,辉中,,0,0,0,,Nora: Pin her down!
+Dialogue: 1,0:49:22.55,0:49:23.43,辉中,,0,0,0,,Ellie: Get off me!
+Dialogue: 1,0:49:23.43,0:49:24.23,辉中,,0,0,0,,Nora: Get her hands!
+Dialogue: 1,0:49:24.23,0:49:25.63,辉中,,0,0,0,,Ellie: Get the fuck off me!
+Dialogue: 1,0:49:26.97,0:49:27.97,辉中,,0,0,0,,Man: Bitch--
+Dialogue: 1,0:49:28.96,0:49:30.11,辉中,,0,0,0,,Man: You got her.
+Dialogue: 1,0:49:30.11,0:49:32.26,辉中,,0,0,0,,Look, you got her! Okay?
+Dialogue: 1,0:49:32.26,0:49:33.40,辉中,,0,0,0,,Man: Let go!
+Dialogue: 1,0:49:36.04,0:49:38.64,辉中,,0,0,0,,Ellie: You're gonna fucking die!
+Dialogue: 1,0:49:39.91,0:49:41.09,辉中,,0,0,0,,Owen: What's going on?
+Dialogue: 1,0:49:41.09,0:49:42.18,辉中,,0,0,0,,Ellie: Let him go!
+Dialogue: 1,0:49:42.61,0:49:43.36,辉中,,0,0,0,,Mel: Who is that?
+Dialogue: 1,0:49:43.36,0:49:44.64,辉中,,0,0,0,,Ellie: Let him go!  Nora: She snuck in…
+Dialogue: 1,0:49:44.64,0:49:45.92,辉中,,0,0,0,,Owen: Why aren't you posted up outside?
+Dialogue: 1,0:49:45.92,0:49:47.32,辉中,,0,0,0,,Nora: We didn't think anyone was going to show up.
+Dialogue: 1,0:49:47.32,0:49:48.91,辉中,,0,0,0,,Owen: The hell did you expect?
+Dialogue: 1,0:49:49.45,0:49:52.46,辉中,,0,0,0,,We gotta get out of here before the whole town's on top of us.
+Dialogue: 1,0:49:54.69,0:49:55.98,辉中,,0,0,0,,You're done.
+Dialogue: 1,0:49:55.98,0:49:57.64,辉中,,0,0,0,,Abby: You want what I want, right?
+Dialogue: 1,0:49:58.39,0:50:00.80,辉中,,0,0,0,,Owen: End it. Now.
+Dialogue: 1,0:50:07.44,0:50:09.80,辉中,,0,0,0,,Ellie: Joel, get up.
+Dialogue: 1,0:50:10.33,0:50:11.94,辉中,,0,0,0,,Joel, fucking get up.
+Dialogue: 1,0:50:14.44,0:50:15.64,辉中,,0,0,0,,Please stop!
+Dialogue: 1,0:50:17.31,0:50:18.68,辉中,,0,0,0,,Please don't do this…
+Dialogue: 1,0:50:20.36,0:50:22.08,辉中,,0,0,0,,Joel, please get up!
+Dialogue: 1,0:50:22.76,0:50:24.08,辉中,,0,0,0,,Ellie: Nooo!
+Dialogue: 1,0:50:29.79,0:50:32.13,辉中,,0,0,0,,Man: Burn in hell, pendejo.
+Dialogue: 1,0:50:34.97,0:50:37.69,辉中,,0,0,0,,Ellie: I'll fucking kill you…
+Dialogue: 1,0:50:40.38,0:50:41.74,辉中,,0,0,0,,No!
+Dialogue: 1,0:50:44.64,0:50:46.35,辉中,,0,0,0,,Ellie: No…
+Dialogue: 1,0:50:50.51,0:50:52.84,辉中,,0,0,0,,I'll fucking kill you.
 Dialogue: 1,0:51:15.15,0:51:19.44,辉中,,0,0,0,,There are some heated discussion between the members of Abby's party as to what to do with Ellie.
 Dialogue: 1,0:51:19.44,0:51:22.14,辉中,,0,0,0,,It's all very muffled, and you can't understand any of it,
 Dialogue: 1,0:51:22.14,0:51:24.90,辉中,,0,0,0,,though we will get to see this from another perspective later.

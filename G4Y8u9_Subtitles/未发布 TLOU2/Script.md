@@ -1,5 +1,29 @@
+这里用于保存视频中涉及到的游戏中剧情的剧本内容
+## 4 YEARS LATER
+- Nora: Pin her down!
+- Ellie: Get off me!
+- Nora: Get her hands!
+- Ellie: Get the fuck off me!
+- Man: Bitch--
+- Man: You got her. Look, you got her! Okay?
+- Man: Let go!
+- Ellie: You're gonna fucking die!
+- Owen: What's going on?
+- Ellie: Let him go!
+- Mel: Who is that?
+- Ellie: Let him go!
+- Nora: She snuck in…
+- Owen: Why aren't you posted up outside?
+- Nora: We didn't think anyone was going to show up.
+- Owen: The hell did you expect? We gotta get out of here before the whole town's on top of us. You're done.
+- Abby: You want what I want, right?
+- Owen: End it. Now.
+- Ellie: Joel, get up. Joel, fucking get up. Please stop! Please don't do this… Joel, please get up!
+- Ellie: Nooo!
+- Man: Burn in hell, pendejo.
+- Ellie: I'll fucking kill you… No!
+- Ellie: No… I'll fucking kill you.
 ## THE FARM
-
 - Joel: Hey.
 - Ellie: What're you drinking?
 - Joel: Coffee.
