@@ -16,9 +16,9 @@ Video File: Q:/给没组/tlou2.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 887
-Active Line: 891
-Video Position: 106528
+Scroll Position: 1005
+Active Line: 1012
+Video Position: 125477
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -937,90 +937,123 @@ Dialogue: 1,0:29:58.23,0:30:02.61,辉中,,0,0,0,,或者至少对彼此有某种�
 Dialogue: 2,0:29:58.23,0:30:02.61,辉英,,0,0,0,,or at least some sort of sympathetic position towards each other,
 Dialogue: 1,0:30:02.61,0:30:05.07,辉中,,0,0,0,,从而让之后的背叛显得更加深刻
 Dialogue: 2,0:30:02.61,0:30:05.07,辉英,,0,0,0,,which would have made the betrayal all the worse.
-Dialogue: 1,0:30:05.07,0:30:08.76,辉中,,0,0,0,,I mean, as of right now, Tommy and Joel are very welcoming to this group.
-Dialogue: 1,0:30:08.76,0:30:12.88,辉中,,0,0,0,,They even invite them back to Jackson to restock on supplies before leaving
-Dialogue: 1,0:30:12.88,0:30:16.98,辉中,,0,0,0,,right before you know the thing happens.
-Dialogue: 1,0:30:16.98,0:30:19.35,辉中,,0,0,0,,So we know that Tommy and Joel are welcoming.
-Dialogue: 1,0:30:19.35,0:30:22.17,辉中,,0,0,0,,They would have brought this group in, at least for a little bit.
-Dialogue: 1,0:30:22.17,0:30:23.70,辉中,,0,0,0,,Perhaps if they came in,
-Dialogue: 1,0:30:23.70,0:30:29.94,辉中,,0,0,0,,they pretended to be wandering survivors simply in need of assistance in a new fresh start.
-Dialogue: 1,0:30:29.94,0:30:33.42,辉中,,0,0,0,,Perhaps then they go when they work at Jackson for a few weeks,
-Dialogue: 1,0:30:33.42,0:30:38.85,辉中,,0,0,0,,Or maybe even just a couple of days before turning and killing Joel and escaping.
-Dialogue: 1,0:30:38.85,0:30:43.02,辉中,,0,0,0,,At the very least, then you don't have to rely on a bunch of coincidences.
-Dialogue: 1,0:30:43.02,0:30:47.35,辉中,,0,0,0,,But I do understand that it might have been bad for pacing
-Dialogue: 1,0:30:47.35,0:30:52.08,辉中,,0,0,0,,and especially considering the leaks that happened towards the game's release.
-Dialogue: 1,0:30:52.08,0:30:54.27,辉中,,0,0,0,,It seems as though is probably for the best.
-Dialogue: 1,0:30:54.27,0:30:56.10,辉中,,0,0,0,,because once the game was spoiled,
-Dialogue: 1,0:30:56.10,0:30:58.91,辉中,,0,0,0,,we all knew that Abby was going to kill Joel
-Dialogue: 1,0:30:58.91,0:31:05.67,辉中,,0,0,0,,so that would have completely negated the opening sequence where Abby and Ellie are starting to bond,
-Dialogue: 1,0:31:05.67,0:31:08.67,辉中,,0,0,0,,or perhaps at least tolerating each other.
-Dialogue: 1,0:31:08.67,0:31:11.79,辉中,,0,0,0,,I've heard from various people on Twitter and through Email
-Dialogue: 1,0:31:11.79,0:31:15.12,辉中,,0,0,0,,that Naughty Dog was actually considering this as an opening,
-Dialogue: 1,0:31:15.12,0:31:18.60,辉中,,0,0,0,,which is funny because I just let it roll off my dome,
-Dialogue: 1,0:31:18.60,0:31:20.34,辉中,,0,0,0,,I wasn't actually thinking that hard.
-Dialogue: 1,0:31:20.34,0:31:24.12,辉中,,0,0,0,,But apparently this was a seriously considered intro sequence
-Dialogue: 1,0:31:24.12,0:31:28.02,辉中,,0,0,0,,instead of what we got in the end product of TLOU2,
-Dialogue: 1,0:31:28.02,0:31:35.25,辉中,,0,0,0,,But they decided to go in this current direction because the other version ran into a lot of pacing issues.
-Dialogue: 1,0:31:35.25,0:31:40.80,辉中,,0,0,0,,In other words, you likely would have needed to spend the first five or six hours of the game in Jackson
-Dialogue: 1,0:31:40.80,0:31:46.35,辉中,,0,0,0,,doing menial chores while getting to know Abby and her crew before being betrayed,
-Dialogue: 1,0:31:46.35,0:31:50.25,辉中,,0,0,0,,it would have completely changed the structure of the rest of the game,
-Dialogue: 1,0:31:50.25,0:31:53.49,辉中,,0,0,0,,so Naughty Dog just decided to expedite the process,
-Dialogue: 1,0:31:53.49,0:31:59.61,辉中,,0,0,0,,have Abby get to Joel within the first two hours of the game and get the revenge plot moving.
-Dialogue: 1,0:31:59.61,0:32:00.75,辉中,,0,0,0,,I think that's fair.
-Dialogue: 1,0:32:00.75,0:32:06.42,辉中,,0,0,0,,I just think it's a little sloppy, considering how many coincidences they rely on to make it happen.
-Dialogue: 1,0:32:06.42,0:32:10.26,辉中,,0,0,0,,After Abby finds the tracks in the snow, leading to one of the patrols,
-Dialogue: 1,0:32:10.26,0:32:13.65,辉中,,0,0,0,,we swap back to Ellie, whose on patrol with Dina.
-Dialogue: 1,0:32:13.65,0:32:19.26,辉中,,0,0,0,,You ride your horses through a beautifully realized landscape, walking on ice in a river.
-Dialogue: 1,0:32:19.26,0:32:20.82,辉中,,0,0,0,,It's absolutely beautiful.
-Dialogue: 1,0:32:20.82,0:32:26.31,辉中,,0,0,0,,I mean again, how Naughty Dog achieves these graphical features, I don't know.
-Dialogue: 1,0:32:26.31,0:32:29.91,辉中,,0,0,0,,It really makes it look like every other development studio isn't even trying.
-Dialogue: 1,0:32:29.91,0:32:33.75,辉中,,0,0,0,,There's a lot of character building in this sequence as you go on your patrol.
-Dialogue: 1,0:32:33.75,0:32:38.82,辉中,,0,0,0,,There's some light flirting, clearly, Dina likes Ellie and Ellie likes Dina.
-Dialogue: 1,0:32:38.82,0:32:41.06,辉中,,0,0,0,,And the tension starts to rise here.
-Dialogue: 1,0:32:41.06,0:32:45.45,辉中,,0,0,0,,Again there's a lot of dread, things are going too well,
-Dialogue: 1,0:32:45.45,0:32:51.19,辉中,,0,0,0,,and the world of TLOU, as we know, is very cutthroat, sometimes literally.
-Dialogue: 1,0:32:51.19,0:32:56.58,辉中,,0,0,0,,The fact that everybody's happy that they are so carefree that they're even flirting with each other.
-Dialogue: 1,0:32:56.58,0:33:01.14,辉中,,0,0,0,,It's unsettling, because we know that something bad has to happen soon.
-Dialogue: 1,0:33:01.14,0:33:05.91,辉中,,0,0,0,,But you continue exploring, you go to an outpost to explore some abandoned houses.
-Dialogue: 1,0:33:05.91,0:33:06.96,辉中,,0,0,0,,And at one point,
-Dialogue: 1,0:33:06.96,0:33:13.02,辉中,,0,0,0,,Ellie even says that she's going to be inviting Joel over for a movie later that night.
-Dialogue: 1,0:33:13.02,0:33:17.76,辉中,,0,0,0,,This will be VERY important at the end of the game,
-Dialogue: 1,0:33:17.76,0:33:19.56,辉中,,0,0,0,,so make sure you remember this.
-Dialogue: 1,0:33:19.56,0:33:26.07,辉中,,0,0,0,,Ellie on this day was planning on having Joel over for a movie that night.
-Dialogue: 1,0:33:26.07,0:33:27.60,辉中,,0,0,0,,It seems like a small point,
-Dialogue: 1,0:33:27.60,0:33:33.09,辉中,,0,0,0,,especially considering that Ellie and Joel have this deep connection with each other.
-Dialogue: 1,0:33:33.09,0:33:37.20,辉中,,0,0,0,,She lives right behind him, even still in the grandmothers sweet,
-Dialogue: 1,0:33:37.20,0:33:40.74,辉中,,0,0,0,,and it makes sense that perhaps they would try to fill an empty time,
-Dialogue: 1,0:33:40.74,0:33:42.60,辉中,,0,0,0,,watching movies and spending time together.
-Dialogue: 1,0:33:42.60,0:33:46.29,辉中,,0,0,0,,But again, at the end of the game, we're going to find out a lot more.
-Dialogue: 1,0:33:46.29,0:33:51.32,辉中,,0,0,0,,And this very statement by Ellie something that happens as an optional moment
-Dialogue: 1,0:33:51.32,0:33:53.46,辉中,,0,0,0,,while you're exploring an abandoned house.
-Dialogue: 1,0:33:54.30,0:33:56.10,辉中,,0,0,0,,This is going to be very important.
-Dialogue: 1,0:33:56.10,0:33:59.07,辉中,,0,0,0,,Ellie and Dina, come up on a supermarket that's infested.
-Dialogue: 1,0:33:59.07,0:34:03.84,辉中,,0,0,0,,You cleared out, gives you the chance to explore some stealth options and combat,
-Dialogue: 1,0:34:03.84,0:34:07.44,辉中,,0,0,0,,and it's a good thing that this is a really well done portion of the game.
-Dialogue: 1,0:34:07.44,0:34:10.76,辉中,,0,0,0,,Because this stealth and the crafting that goes along with it
-Dialogue: 1,0:34:10.76,0:34:13.71,辉中,,0,0,0,,is going to be the bread and butter of the game,
-Dialogue: 1,0:34:13.71,0:34:16.05,辉中,,0,0,0,,especially if you're playing on higher difficulties,
-Dialogue: 1,0:34:16.05,0:34:20.55,辉中,,0,0,0,,you're going to need to get acclimated to these mechanics as soon as possible.
-Dialogue: 1,0:34:20.55,0:34:23.61,辉中,,0,0,0,,You are also given a quick introduction to clickers as well,
-Dialogue: 1,0:34:23.61,0:34:27.39,辉中,,0,0,0,,and these guys work almost identically to how they did in the first game.
-Dialogue: 1,0:34:27.39,0:34:31.86,辉中,,0,0,0,,I don't really feel the need to explain a lot as to how these sequences work,
-Dialogue: 1,0:34:31.86,0:34:36.00,辉中,,0,0,0,,because if you've played the first game, you're going to know how this goes.
-Dialogue: 1,0:34:36.00,0:34:39.57,辉中,,0,0,0,,It's going to be a hot minute before we're thrown anything that's markedly different.
-Dialogue: 1,0:34:39.57,0:34:41.25,辉中,,0,0,0,,I will say that in the first game,
-Dialogue: 1,0:34:41.25,0:34:45.91,辉中,,0,0,0,,it always bugging me that clickers are obviously able to navigate their environments
-Dialogue: 1,0:34:45.91,0:34:51.27,辉中,,0,0,0,,by use of clicking sounds that use echolocation to map out their environment.
-Dialogue: 1,0:34:51.27,0:34:55.40,辉中,,0,0,0,,However, they never were able to hear characters talking to each other
+Dialogue: 1,0:30:05.07,0:30:08.76,辉中,,0,0,0,,而且即使现在 汤米和乔尔也很欢迎这群人
+Dialogue: 2,0:30:05.07,0:30:08.76,辉英,,0,0,0,,I mean, as of right now, Tommy and Joel are very welcoming to this group.
+Dialogue: 1,0:30:08.76,0:30:12.88,辉中,,0,0,0,,二人甚至还邀请他们回杰克逊小镇补给一下再继续上路
+Dialogue: 2,0:30:08.76,0:30:12.88,辉英,,0,0,0,,They even invite them back to Jackson to restock on supplies before leaving
+Dialogue: 1,0:30:12.88,0:30:16.98,辉中,,0,0,0,,之后才发生了“那样”的事
+Dialogue: 2,0:30:12.88,0:30:16.98,辉英,,0,0,0,,right before you know the thing happens.
+Dialogue: 1,0:30:16.98,0:30:19.35,辉中,,0,0,0,,所以我们能看出汤米和乔尔是很开放的
+Dialogue: 2,0:30:16.98,0:30:19.35,辉英,,0,0,0,,So we know that Tommy and Joel are welcoming.
+Dialogue: 1,0:30:19.35,0:30:22.17,辉中,,0,0,0,,他们本打算把这伙人带来小镇 或者只带一两位进来
+Dialogue: 2,0:30:19.35,0:30:22.17,辉英,,0,0,0,,They would have brought this group in, at least for a little bit.
+Dialogue: 1,0:30:22.17,0:30:23.70,辉中,,0,0,0,,或许他们进入小镇后
+Dialogue: 2,0:30:22.17,0:30:23.70,辉英,,0,0,0,,Perhaps if they came in,
+Dialogue: 1,0:30:23.70,0:30:29.94,辉中,,0,0,0,,可以装作是想要从零开始新生活却不知所措、需要帮助的幸存者
+Dialogue: 2,0:30:23.70,0:30:29.94,辉英,,0,0,0,,they pretended to be wandering survivors simply in need of assistance in a new fresh start.
+Dialogue: 1,0:30:29.94,0:30:33.42,辉中,,0,0,0,,或许他们可以开始在杰克逊小镇干几周的活
+Dialogue: 2,0:30:29.94,0:30:33.42,辉英,,0,0,0,,Perhaps then they go when they work at Jackson for a few weeks,
+Dialogue: 1,0:30:33.42,0:30:38.85,辉中,,0,0,0,,或者只干几天就反水杀害乔尔然后逃跑
+Dialogue: 2,0:30:33.42,0:30:38.85,辉英,,0,0,0,,Or maybe even just a couple of days before turning and killing Joel and escaping.
+Dialogue: 1,0:30:38.85,0:30:43.02,辉中,,0,0,0,,至少这样安排 剧情上就不需要强凑那么多的巧合了
+Dialogue: 2,0:30:38.85,0:30:43.02,辉英,,0,0,0,,At the very least, then you don't have to rely on a bunch of coincidences.
+Dialogue: 1,0:30:43.02,0:30:47.35,辉中,,0,0,0,,但我也了解这样或许不利于叙事节奏
+Dialogue: 2,0:30:43.02,0:30:47.35,辉英,,0,0,0,,But I do understand that it might have been bad for pacing
+Dialogue: 1,0:30:47.35,0:30:52.08,辉中,,0,0,0,,尤其在游戏发售之前还发生了剧情泄露事件
+Dialogue: 2,0:30:47.35,0:30:52.08,辉英,,0,0,0,,and especially considering the leaks that happened towards the game's release.
+Dialogue: 1,0:30:52.08,0:30:54.27,辉中,,0,0,0,,我觉得目前或许的确是最好的选择
+Dialogue: 2,0:30:52.08,0:30:54.27,辉英,,0,0,0,,It seems as though is probably for the best.
+Dialogue: 1,0:30:54.27,0:30:56.10,辉中,,0,0,0,,因为一旦游戏被剧透了
+Dialogue: 2,0:30:54.27,0:30:56.10,辉英,,0,0,0,,because once the game was spoiled,
+Dialogue: 1,0:30:56.10,0:30:58.91,辉中,,0,0,0,,我们都早已知道埃比会杀死乔尔
+Dialogue: 2,0:30:56.10,0:30:58.91,辉英,,0,0,0,,we all knew that Abby was going to kill Joel
+Dialogue: 1,0:30:58.91,0:31:08.67,辉中,,0,0,0,,那一开始艾莉和埃比在开篇的友谊或者至少相互容忍的情节就会被完全否定
+Dialogue: 2,0:30:58.91,0:31:02.64,辉英,,0,0,0,,so that would have completely negated the opening sequence
+Dialogue: 2,0:31:02.64,0:31:08.67,辉英,,0,0,0,,where Abby and Ellie are starting to bond, or perhaps at least tolerating each other.
+Dialogue: 1,0:31:08.67,0:31:11.79,辉中,,0,0,0,,我在推特和邮件中听到过很多人说
+Dialogue: 2,0:31:08.67,0:31:11.79,辉英,,0,0,0,,I've heard from various people on Twitter and through Email
+Dialogue: 1,0:31:11.79,0:31:15.12,辉中,,0,0,0,,顽皮狗的确考虑过类似的内容作为开篇
+Dialogue: 2,0:31:11.79,0:31:15.12,辉英,,0,0,0,,that Naughty Dog was actually considering this as an opening,
+Dialogue: 1,0:31:15.12,0:31:18.60,辉中,,0,0,0,,这还是挺有意思的 因为这纯粹是我凭空脑补的
+Dialogue: 2,0:31:15.12,0:31:18.60,辉英,,0,0,0,,which is funny because I just let it roll off my dome,
+Dialogue: 1,0:31:18.60,0:31:20.34,辉中,,0,0,0,,我甚至没太认真去想
+Dialogue: 2,0:31:18.60,0:31:20.34,辉英,,0,0,0,,I wasn't actually thinking that hard.
+Dialogue: 1,0:31:20.34,0:31:24.12,辉中,,0,0,0,,但显然这是一个经过认真考虑过的开篇内容
+Dialogue: 2,0:31:20.34,0:31:24.12,辉英,,0,0,0,,But apparently this was a seriously considered intro sequence
+Dialogue: 1,0:31:24.12,0:31:28.02,辉中,,0,0,0,,不过没有正式出现在TLOU2游戏中
+Dialogue: 2,0:31:24.12,0:31:28.02,辉英,,0,0,0,,instead of what we got in the end product of TLOU2,
+Dialogue: 1,0:31:28.02,0:31:35.25,辉中,,0,0,0,,他们当前的叙事决策应该是因为其他版本会有很多叙事节奏上的问题
+Dialogue: 2,0:31:28.02,0:31:35.25,辉英,,0,0,0,,But they decided to go in this current direction because the other version ran into a lot of pacing issues.
+Dialogue: 1,0:31:35.25,0:31:42.34,辉中,,0,0,0,,换句话说 你很可能需要在游戏的前五六个小时在杰克逊做一些琐碎的杂事
+Dialogue: 2,0:31:35.25,0:31:37.75,辉英,,0,0,0,,In other words, you likely would have needed to spend
+Dialogue: 2,0:31:37.75,0:31:42.34,辉英,,0,0,0,,the first five or six hours of the game in Jackson doing menial chores
+Dialogue: 1,0:31:42.34,0:31:46.35,辉中,,0,0,0,,在被背叛之前了解了埃比和她的小队成员
+Dialogue: 2,0:31:42.34,0:31:46.35,辉英,,0,0,0,,while getting to know Abby and her crew before being betrayed,
+Dialogue: 1,0:31:46.35,0:31:50.25,辉中,,0,0,0,,这将完全改变游戏其余部分的结构
+Dialogue: 2,0:31:46.35,0:31:50.25,辉英,,0,0,0,,it would have completely changed the structure of the rest of the game,
+Dialogue: 1,0:31:50.25,0:31:53.49,辉中,,0,0,0,,所以顽皮狗决定简单粗暴
+Dialogue: 2,0:31:50.25,0:31:53.49,辉英,,0,0,0,,so Naughty Dog just decided to expedite the process,
+Dialogue: 1,0:31:53.49,0:31:59.61,辉中,,0,0,0,,让埃比在游戏开始的前两小时内就遇到乔尔 直接开始复仇剧情
+Dialogue: 2,0:31:53.49,0:31:59.61,辉英,,0,0,0,,have Abby get to Joel within the first two hours of the game and get the revenge plot moving.
+Dialogue: 1,0:31:59.61,0:32:00.75,辉中,,0,0,0,,我觉得说得过去
+Dialogue: 2,0:31:59.61,0:32:00.75,辉英,,0,0,0,,I think that's fair.
+Dialogue: 1,0:32:00.75,0:32:06.42,辉中,,0,0,0,,只是感觉他们为此强凑了这些巧合 还是显得有些草率
+Dialogue: 2,0:32:00.75,0:32:06.42,辉英,,0,0,0,,I just think it's a little sloppy, considering how many coincidences they rely on to make it happen.
+Dialogue: 1,0:32:06.42,0:32:10.26,辉中,,0,0,0,,在埃比发现雪地上巡逻队的脚印后\NAfter Abby finds the tracks in the snow, leading to one of the patrols,
+Dialogue: 1,0:32:10.26,0:32:13.65,辉中,,0,0,0,,镜头切回了和蒂娜正在巡逻的艾莉\Nwe swap back to Ellie, whose on patrol with Dina.
+Dialogue: 1,0:32:13.65,0:32:19.26,辉中,,0,0,0,,你骑着马 踩着结冰的河面 穿过一片风景迷人的区域\NYou ride your horses through a beautifully realized landscape, walking on ice in a river.
+Dialogue: 1,0:32:19.26,0:32:20.82,辉中,,0,0,0,,真的太美了\NIt's absolutely beautiful.
+Dialogue: 1,0:32:20.82,0:32:26.31,辉中,,0,0,0,,真的 我不知道顽皮狗是怎么做的这么美丽的风景\NI mean again, how Naughty Dog achieves these graphical features, I don't know.
+Dialogue: 1,0:32:26.31,0:32:29.91,辉中,,0,0,0,,但真的比不少其他的工作室高到不知道哪里去了\NIt really makes it look like every other development studio isn't even trying.
+Dialogue: 1,0:32:29.91,0:32:33.75,辉中,,0,0,0,,你一边巡逻 一边对角色有了更深入的了解\NThere's a lot of character building in this sequence as you go on your patrol.
+Dialogue: 1,0:32:33.75,0:32:35.36,辉中,,0,0,0,,俩人打情骂俏\NThere's some light flirting,
+Dialogue: 1,0:32:35.36,0:32:38.82,辉中,,0,0,0,,很明显 蒂娜喜欢艾莉 艾莉也喜欢蒂娜\Nclearly, Dina likes Ellie and Ellie likes Dina.
+Dialogue: 1,0:32:38.82,0:32:41.06,辉中,,0,0,0,,而紧张的气氛此时开始酝酿起来\NAnd the tension starts to rise here.
+Dialogue: 1,0:32:41.06,0:32:45.45,辉中,,0,0,0,,事情进展的太顺利 这不太对劲\NAgain there's a lot of dread, things are going too well,
+Dialogue: 1,0:32:45.45,0:32:51.19,辉中,,0,0,0,,我们都知道TLOU的世界是极其残酷的\Nand the world of TLOU, as we know, is very cutthroat, sometimes literally.
+Dialogue: 1,0:32:51.19,0:32:56.58,辉中,,0,0,0,,游戏里角色开开心心无忧无虑甚至在打情骂俏\NThe fact that everybody's happy that they are so carefree that they're even flirting with each other.
+Dialogue: 1,0:32:56.58,0:33:01.14,辉中,,0,0,0,,事实上玩家心里都知道要有不好的事情发生了\NIt's unsettling, because we know that something bad has to happen soon.
+Dialogue: 1,0:33:01.14,0:33:05.91,辉中,,0,0,0,,而你继续推进 到了一个前哨站 探索一些废弃的房子\NBut you continue exploring, you go to an outpost to explore some abandoned houses.
+Dialogue: 1,0:33:05.91,0:33:06.96,辉中,,0,0,0,,在某个时刻\NAnd at one point,
+Dialogue: 1,0:33:06.96,0:33:13.02,辉中,,0,0,0,,艾莉提到她当晚要邀请乔尔一起看电影\NEllie even says that she's going to be inviting Joel over for a movie later that night.
+Dialogue: 1,0:33:13.02,0:33:17.76,辉中,,0,0,0,,这一信息在故事结尾时极为重要\NThis will be VERY important at the end of the game,
+Dialogue: 1,0:33:17.76,0:33:19.56,辉中,,0,0,0,,所以请各位务必牢记\Nso make sure you remember this.
+Dialogue: 1,0:33:19.56,0:33:26.07,辉中,,0,0,0,,艾莉打算当天晚上和乔尔一起看电影\NEllie on this day was planning on having Joel over for a movie that night.
+Dialogue: 1,0:33:26.07,0:33:27.60,辉中,,0,0,0,,看起来没什么奇怪的\NIt seems like a small point,
+Dialogue: 1,0:33:27.60,0:33:33.09,辉中,,0,0,0,,大家也都知道艾莉和乔尔有着很深的情感上的羁绊\Nespecially considering that Ellie and Joel have this deep connection with each other.
+Dialogue: 1,0:33:33.09,0:33:37.20,辉中,,0,0,0,,她甚至就住乔尔家房子后面的附属房里\NShe lives right behind him, even still in the grandmother's suite,
+Dialogue: 1,0:33:37.20,0:33:40.74,辉中,,0,0,0,,俩人晚上一起打发时间看个电影 听上去很合理\Nand it makes sense that perhaps they would try to fill an empty time,
+Dialogue: 1,0:33:40.74,0:33:42.60,辉中,,0,0,0,,俩人晚上一起打发时间看个电影 听上去很合理\Nwatching movies and spending time together.
+Dialogue: 1,0:33:42.60,0:33:46.29,辉中,,0,0,0,,但是到了游戏结尾 我们就会发现这部分的信息量有多么大\NBut again, at the end of the game, we're going to find out a lot more.
+Dialogue: 1,0:33:46.29,0:33:51.32,辉中,,0,0,0,,而且艾莉提到的这段内容是在你探索一废弃房子时作为可选对话发生的\NAnd this very statement by Ellie something that happens as an optional moment
+Dialogue: 1,0:33:51.32,0:33:53.46,辉中,,0,0,0,,而且艾莉提到的这段内容是在你探索一废弃房子时作为可选对话发生的\Nwhile you're exploring an abandoned house.
+Dialogue: 1,0:33:54.16,0:33:56.10,辉中,,0,0,0,,这将会非常非常重要\NThis is going to be very important.
+Dialogue: 1,0:33:56.10,0:33:59.07,辉中,,0,0,0,,艾莉和蒂娜来到了一个有感染者出没的超市\NEllie and Dina, come up on a supermarket that's infested.
+Dialogue: 1,0:33:59.07,0:34:03.84,辉中,,0,0,0,,两人清空了感染者 并借此学习了潜行或者战斗的技巧\NYou cleared out, gives you the chance to explore some stealth options and combat,
+Dialogue: 1,0:34:03.84,0:34:07.44,辉中,,0,0,0,,这是这款游戏做得真的很棒的一部分\Nand it's a good thing that this is a really well done portion of the game.
+Dialogue: 1,0:34:07.44,0:34:10.76,辉中,,0,0,0,,因为游戏自带的潜行与制作元素\NBecause this stealth and the crafting that goes along with it
+Dialogue: 1,0:34:10.76,0:34:13.71,辉中,,0,0,0,,将会是游戏本身的调味品\Nis going to be the bread and butter of the game,
+Dialogue: 1,0:34:13.71,0:34:16.05,辉中,,0,0,0,,尤其在高难度下\Nespecially if you're playing on higher difficulties,
+Dialogue: 1,0:34:16.05,0:34:20.55,辉中,,0,0,0,,你更需要很快适应这部分的游戏机制\Nyou're going to need to get acclimated to these mechanics as soon as possible.
+Dialogue: 1,0:34:20.55,0:34:23.61,辉中,,0,0,0,,然后游戏还快速介绍了一下循声者\NYou are also given a quick introduction to Clickers as well,
+Dialogue: 1,0:34:23.61,0:34:27.39,辉中,,0,0,0,,这类感染者和一代里的几乎完全一样\Nand these guys work almost identically to how they did in the first game.
+Dialogue: 1,0:34:27.39,0:34:31.86,辉中,,0,0,0,,我觉得不太需要过多解释循声者的机制\NI don't really feel the need to explain a lot as to how these sequences work,
+Dialogue: 1,0:34:31.86,0:34:36.00,辉中,,0,0,0,,因为如果你玩过一代的话 就肯定已经知道了\Nbecause if you've played the first game, you're going to know how this goes.
+Dialogue: 1,0:34:36.00,0:34:39.57,辉中,,0,0,0,,其实我们还要玩很久才会遇到全新的感染者\NIt's going to be a hot minute before we're thrown anything that's markedly different.
+Dialogue: 1,0:34:39.57,0:34:41.25,辉中,,0,0,0,,而在第一代游戏当中\NI will say that in the first game,
+Dialogue: 1,0:34:41.25,0:34:42.20,辉中,,0,0,0,,有一件事让我很困扰\Nit always bugging me that
+Dialogue: 1,0:34:42.20,0:34:45.91,辉中,,0,0,0,,循声者显然是利用自己的咔咔声产生的回声定位来识别环境的\NClickers are obviously able to navigate their environments
+Dialogue: 1,0:34:45.91,0:34:51.27,辉中,,0,0,0,,循声者显然是利用自己的咔咔声产生的回声定位来识别环境的\Nby use of clicking sounds that use echolocation to map out their environment.
+Dialogue: 1,0:34:51.27,0:34:55.40,辉中,,0,0,0,,然而 它们从来不会识别出However, they never were able to hear characters talking to each other
 Dialogue: 1,0:34:55.40,0:34:59.88,辉中,,0,0,0,,or you reloading your weapon or moving your backpack on and off.
 Dialogue: 1,0:34:59.88,0:35:06.36,辉中,,0,0,0,,That is mostly true again in this game, except only on the lower levels.
 Dialogue: 1,0:35:06.36,0:35:11.43,辉中,,0,0,0,,In my testing, I actually found that on new game Plus on survivor difficulty,
-Dialogue: 1,0:35:11.43,0:35:13.98,辉中,,0,0,0,,the clickers can actually hear this as well.
+Dialogue: 1,0:35:11.43,0:35:13.98,辉中,,0,0,0,,the Clickers can actually hear this as well.
 Dialogue: 1,0:35:13.98,0:35:18.96,辉中,,0,0,0,,If you open your backpack to swap weapons, they'll notice and they'll come running.
 Dialogue: 1,0:35:18.96,0:35:22.89,辉中,,0,0,0,,This was a game changer in terms of immersion.
 Dialogue: 1,0:35:22.89,0:35:28.53,辉中,,0,0,0,,Seriously, I've never played a game where I was so attentive to everything that I was doing,
 Dialogue: 1,0:35:28.53,0:35:31.74,辉中,,0,0,0,,that I was scared to even open up the inventory,
-Dialogue: 1,0:35:31.74,0:35:37.56,辉中,,0,0,0,,because I knew that it was going to create a small amount of sound that could attract clickers,
+Dialogue: 1,0:35:31.74,0:35:37.56,辉中,,0,0,0,,because I knew that it was going to create a small amount of sound that could attract Clickers,
 Dialogue: 1,0:35:37.56,0:35:40.36,辉中,,0,0,0,,which could mean that I die and have to reload.
 Dialogue: 1,0:35:40.36,0:35:43.44,辉中,,0,0,0,,Granted to some people, I'm sure that sounds absolutely terrible,
 Dialogue: 1,0:35:43.44,0:35:46.08,辉中,,0,0,0,,which is why there are difficulty settings to begin with.
@@ -1390,7 +1423,7 @@ Dialogue: 1,1:01:59.97,1:02:01.74,辉中,,0,0,0,,And maybe I'm just reading too 
 Dialogue: 1,1:02:01.74,1:02:04.55,辉中,,0,0,0,,but I couldn't help but feel as though there was a lot of space
 Dialogue: 1,1:02:04.55,1:02:07.17,辉中,,0,0,0,,where Ellie could have stayed if she had wanted to.
 Dialogue: 1,1:02:07.17,1:02:13.76,辉中,,0,0,0,,Like I said earlier, there was no reason other than the emotional turmoil between the two
-Dialogue: 1,1:02:13.76,1:02:17.01,辉中,,0,0,0,,for Ellie to go and live in the grandmother, sweet out back.
+Dialogue: 1,1:02:13.76,1:02:17.01,辉中,,0,0,0,,for Ellie to go and live in the grandmother's suite out back.
 Dialogue: 1,1:02:17.01,1:02:23.52,辉中,,0,0,0,,But truly everything from the paintings on the walls which we'll come back to later, I promise to,
 Dialogue: 1,1:02:23.52,1:02:30.27,辉中,,0,0,0,,Joel's bed still being a little rough and that there is a space magazine and books by his bed,
 Dialogue: 1,1:02:30.27,1:02:32.38,辉中,,0,0,0,,that he was reading because he's interested in space
@@ -3008,7 +3041,7 @@ Dialogue: 1,2:45:22.07,2:45:26.84,辉中,,0,0,0,,这也让我回想起艾莉和�
 Dialogue: 2,2:45:22.07,2:45:26.84,辉英,,0,0,0,,This also reminded me of a flashback when Ellie and Joel were climbing through a crack in the wall,
 Dialogue: 0,2:45:26.84,2:45:30.38,辉注,,0,0,0,,原文有口误 是巨无霸不是循声者（Clicker）
 Dialogue: 1,2:45:26.84,2:45:30.38,辉中,,0,0,0,,巨无霸把墙里的艾莉一把拽出来
-Dialogue: 2,2:45:26.84,2:45:30.38,辉英,,0,0,0,,and the clicker punched through the wall, pulling Ellie out,
+Dialogue: 2,2:45:26.84,2:45:30.38,辉英,,0,0,0,,and the Clicker punched through the wall, pulling Ellie out,
 Dialogue: 1,2:45:30.38,2:45:32.09,辉中,,0,0,0,,引发接下来的Boss战
 Dialogue: 2,2:45:30.38,2:45:32.09,辉英,,0,0,0,,and it starts in many boss fight.
 Dialogue: 1,2:45:32.09,2:45:36.92,辉中,,0,0,0,,Maybe it's a similarly between Abby and Ellie to make you think of them as relatable and similar.
@@ -3628,7 +3661,7 @@ Dialogue: 1,3:28:24.49,3:28:29.68,辉中,,0,0,0,,So Abby pushes through the tunn
 Dialogue: 1,3:28:29.68,3:28:34.51,辉中,,0,0,0,,But of course, because timing is perfect in every horror situation,
 Dialogue: 1,3:28:34.51,3:28:35.71,辉中,,0,0,0,,this guy comes along.
 Dialogue: 1,3:28:57.28,3:29:03.22,辉中,,0,0,0,,Yeah, this horrific monstrosity comes out and poses the next boss fight to the player.
-Dialogue: 1,3:29:03.22,3:29:07.33,辉中,,0,0,0,,It's a coagulation of multiple infected and clickers,
+Dialogue: 1,3:29:03.22,3:29:07.33,辉中,,0,0,0,,It's a coagulation of multiple infected and Clickers,
 Dialogue: 1,3:29:07.33,3:29:10.57,辉中,,0,0,0,,and it's pretty disgusting looking,
 Dialogue: 1,3:29:10.57,3:29:15.04,辉中,,0,0,0,,and I actually think that it's pretty impressive all things considered.
 Dialogue: 1,3:29:15.04,3:29:17.53,辉中,,0,0,0,,Something I did not see coming to be honest.

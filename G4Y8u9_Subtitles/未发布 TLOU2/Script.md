@@ -1,0 +1,25 @@
+## THE FARM
+
+- Joel: Hey.
+- Ellie: What're you drinking?
+- Joel: Coffee.
+- Ellie: Where'd you get that?
+- Joel: Uh, those people that came through last week.
+- Ellie: Oh.
+- Joel: A little embarrassed as to what I had to trade to get it, but… it's not bad.
+- Ellie: I had Seth under control.
+- Joel: Yeah, I know.
+- Ellie: And you need to stop harassing Jesse about my patrols.
+- Joel: Okay. Dina. Is she your girlfriend?
+- Ellie: No! No. She-- That was just one kiss. It doesn't mean anything. She just… I don't know why she did that.
+- Joel: You do like her.
+- Ellie: I'm so stupid.
+- Joel: Look, I have no idea what that girl's intentions are, but… I do know that she would be lucky to have you.
+- Ellie: You're such an asshole!
+- Joel: I'm not trying to--
+- Ellie: I was supposed to die in that hospital. My life would've fucking mattered. But you took that from me.
+- Joel: If somehow the Lord gave me a second chance at that moment… I would do it all over again.
+- Ellie: Yeah… I just… I don't think I can ever forgive you for that. But I would like to try.
+- Joel: I'd like that.
+- Ellie: Okay. I'll see you around.
+- Joel: Yep.
