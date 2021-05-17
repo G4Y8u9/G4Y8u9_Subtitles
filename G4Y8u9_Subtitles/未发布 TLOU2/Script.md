@@ -1,5 +1,33 @@
 这里用于保存视频中涉及到的游戏中剧情的剧本内容
 ## 4 YEARS LATER
+### 埃比被乔尔和汤米救下
+- Joel: Gimme your hand! We're gonna have to run.
+- Tommy: There's too many of them!
+- Joel: I'll cover you, get going!
+- Tommy: C'mon, this way! Through here! Ah, shit! Hold up!
+- Joel: This way, c'mon!
+### 乔尔和汤米被埃比的人认出
+- Woman: Appreciate it.
+- Mel: I'm Mel, by the way.
+- Tommy: Tommy. This is my brother.
+- Joel: Joel. Y'all act like you've heard of us or something.
+- Abby: That's 'cause they have.
+- Tommy: No!
+- Owen: Get the other one! Nora? All clear?
+- Nora: He's out.
+- Abby: Put him against the wall.
+- Joel: Tommy. Get off me! Get off me! Aahh!
+- Man: ¡Puta madre!
+- Abby: Joel Miller…
+- Joel: Who are you?
+- Abby: Guess.
+- Joel: Why don't you say whatever speech you've got rehearsed and get this over with.
+- Abby: Tourniquet his leg. Do it!
+- Owen: Don't you fuckin' move.
+- Joel: God damn it!
+- Abby: Clear out.
+- Abby: You stupid old man… You don't get to rush this.
+### 艾莉目击乔尔遇害
 - Nora: Pin her down!
 - Ellie: Get off me!
 - Nora: Get her hands!
@@ -24,6 +52,7 @@
 - Ellie: I'll fucking kill you… No!
 - Ellie: No… I'll fucking kill you.
 ## THE FARM
+### 艾莉最后一次和乔尔对话
 - Joel: Hey.
 - Ellie: What're you drinking?
 - Joel: Coffee.
