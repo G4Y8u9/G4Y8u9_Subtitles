@@ -16,9 +16,9 @@ Video File: Q:/给没组/tlou2.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 1730
-Active Line: 1737
-Video Position: 204484
+Scroll Position: 2124
+Active Line: 2128
+Video Position: 247525
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1769,138 +1769,261 @@ Dialogue: 2,0:56:19.38,0:56:25.08,辉英,,0,0,0,,You can always say that life an
 Dialogue: 1,0:56:25.08,0:56:35.70,辉中,,0,0,0,,但我仍然认为乔尔不能算是我们大家应该敬仰 应该向他学习的道德标杆
 Dialogue: 2,0:56:25.08,0:56:31.80,辉英,,0,0,0,,but I think it still stands to say that Joel is not a pillar of morality,
 Dialogue: 2,0:56:31.80,0:56:35.70,辉英,,0,0,0,,to which we should all look and pray for guidance.
-Dialogue: 1,0:56:35.70,0:56:42.55,辉中,,0,0,0,,我觉得相反 他是一个有心理创伤的、悲伤的、有道德的角色\NI think rather, he's a damaged, broken, sad and a moral character
-Dialogue: 1,0:56:42.55,0:56:48.06,辉中,,0,0,0,,他会为了生存 为了保护她所关心的人做他该做的事\Nwho is looking to do what he needs to do, to survive and protect those he cares about.
-Dialogue: 1,0:56:48.06,0:56:51.51,辉中,,0,0,0,,这一点我认为从某种程度上说是值得钦佩的\NThat's something that I think is in a way admirable in and of itself.
-Dialogue: 1,0:56:51.51,0:56:56.30,辉中,,0,0,0,,But I don't think that that makes you a hero quote-unquote in the same way
-Dialogue: 1,0:56:56.30,0:56:59.37,辉中,,0,0,0,,that you could compare a character such as Aloy
-Dialogue: 1,0:56:59.37,0:57:04.50,辉中,,0,0,0,,who is actively trying to do the moral thing in any instance that she comes across.
-Dialogue: 1,0:57:04.50,0:57:08.96,辉中,,0,0,0,,Furthermore, from a game play perspective, we got our game with Joel.
-Dialogue: 1,0:57:08.96,0:57:13.11,辉中,,0,0,0,,We know him, we have experienced him and his perspectives.
-Dialogue: 1,0:57:13.11,0:57:15.00,辉中,,0,0,0,,I think it was time for something new,
-Dialogue: 1,0:57:15.00,0:57:20.10,辉中,,0,0,0,,and if we had played through the entire game as Joel or half and half between Joel and Ellie,
-Dialogue: 1,0:57:20.10,0:57:22.47,辉中,,0,0,0,,I think it would have lost a lot of its punch.
-Dialogue: 1,0:57:22.47,0:57:27.00,辉中,,0,0,0,,Now Joel's death didn't come as a surprise to me. or probably any one,
-Dialogue: 1,0:57:27.00,0:57:29.94,辉中,,0,0,0,,especially once you walk through that door in the cabin.
-Dialogue: 1,0:57:29.94,0:57:36.00,辉中,,0,0,0,,That being said, it's still pretty horrible having to watch him get his head crammed in with a golf club.
-Dialogue: 1,0:57:36.00,0:57:39.12,辉中,,0,0,0,,It's pretty haunting, but that's by design.
-Dialogue: 1,0:57:39.12,0:57:44.04,辉中,,0,0,0,,Naughty Dog needed the player to be just as haunted by this event as Ellie is
-Dialogue: 1,0:57:44.04,0:57:47.31,辉中,,0,0,0,,because then they feel emotionally equivalent,
-Dialogue: 1,0:57:47.31,0:57:50.04,辉中,,0,0,0,,especially in their hatred towards Abby,
-Dialogue: 1,0:57:50.04,0:57:54.81,辉中,,0,0,0,,which is one of the major elements that they need to establish early on.
-Dialogue: 1,0:57:54.81,0:58:00.03,辉中,,0,0,0,,You, the player, need to hate this girl with every fiber of your being.
-Dialogue: 1,0:58:00.03,0:58:03.99,辉中,,0,0,0,,Just like Ellie hates her with every fibre of her being.
-Dialogue: 1,0:58:03.99,0:58:08.88,辉中,,0,0,0,,so that later, when they try to flip perspectives and flip the table on you,
-Dialogue: 1,0:58:08.88,0:58:10.92,辉中,,0,0,0,,they can do that effectively.
-Dialogue: 1,0:58:10.92,0:58:12.68,辉中,,0,0,0,,If you're apathetic towards Abby
-Dialogue: 1,0:58:12.68,0:58:17.01,辉中,,0,0,0,,and then you go through the entirety of the game trying to pursue revenge,
-Dialogue: 1,0:58:17.01,0:58:19.26,辉中,,0,0,0,,you're not going to be motivated at all.
-Dialogue: 1,0:58:19.26,0:58:26.01,辉中,,0,0,0,,It's going to be pretty uninteresting because the entire premise of the game and the story is a moot point.
-Dialogue: 1,0:58:26.01,0:58:32.37,辉中,,0,0,0,,But if you hate Abby, just as much as Ellie hates her and wants to see her die,
-Dialogue: 1,0:58:32.37,0:58:35.85,辉中,,0,0,0,,you'll be motivated to get through the first half of the game.
-Dialogue: 1,0:58:35.85,0:58:39.87,辉中,,0,0,0,,And then Naughty Dog has you set up for the final act.
-Dialogue: 1,0:58:39.87,0:58:42.60,辉中,,0,0,0,,Now, after this, we enter the end of the prologue.
-Dialogue: 1,0:58:42.60,0:58:47.64,辉中,,0,0,0,,Yes, we are an hour into this video, and we are just getting out of the prologue.
-Dialogue: 1,0:58:47.64,0:58:49.74,辉中,,0,0,0,,Ellie and Tommy discuss their next steps.
-Dialogue: 1,0:58:49.74,0:58:53.43,辉中,,0,0,0,,Tommy talk to Maria, and she's not going to let him go or do anything,
-Dialogue: 1,0:58:53.43,0:58:56.55,辉中,,0,0,0,,and he's not allowed to have any sort of spare men.
-Dialogue: 1,0:58:56.55,0:58:58.41,辉中,,0,0,0,,He has to keep them all in Jackson.
-Dialogue: 1,0:58:58.41,0:59:00.18,辉中,,0,0,0,,She thinks that they should just move on,
-Dialogue: 1,0:59:00.18,0:59:03.99,辉中,,0,0,0,,except that what happened was terrible and go on with their lives.
-Dialogue: 1,0:59:03.99,0:59:07.08,辉中,,0,0,0,,As usual, Maria seems to be the one voice of reason.
-Dialogue: 1,0:59:07.08,0:59:10.23,辉中,,0,0,0,,Tommy and Ellie, however, are understandably upset.
-Dialogue: 1,0:59:10.23,0:59:13.26,辉中,,0,0,0,,Tommy lost his brother in a terrible way,
-Dialogue: 1,0:59:13.26,0:59:17.76,辉中,,0,0,0,,and Ellie also lost her "father figure" in a terrible way.
-Dialogue: 1,0:59:17.76,0:59:20.22,辉中,,0,0,0,,They still aren't certain why this happened,
-Dialogue: 1,0:59:20.22,0:59:25.32,辉中,,0,0,0,,or what Joel did that made them seek his death out so fervently.
-Dialogue: 1,0:59:25.32,0:59:30.00,辉中,,0,0,0,,Tommy happened to see some patches on their coats that read "WLF".
-Dialogue: 1,0:59:30.00,0:59:32.79,辉中,,0,0,0,,And because of his previous history with the Fireflies,
-Dialogue: 1,0:59:32.79,0:59:35.91,辉中,,0,0,0,,he knows that that would be the Washington Liberation Front,
-Dialogue: 1,0:59:35.91,0:59:38.40,辉中,,0,0,0,,which is a group that's in Washington.
-Dialogue: 1,0:59:38.40,0:59:39.54,辉中,,0,0,0,,Huh… Go figure.
-Dialogue: 1,0:59:39.54,0:59:43.59,辉中,,0,0,0,,And that's what allows Ellie to know where she needs to go next.
-Dialogue: 1,0:59:43.59,0:59:47.60,辉中,,0,0,0,,It's a long stretch that they would have returned to Seattle
-Dialogue: 1,0:59:47.60,0:59:49.89,辉中,,0,0,0,,and that they would still be there and that they would be findable.
-Dialogue: 1,0:59:49.89,0:59:54.73,辉中,,0,0,0,,But when you're motivated this strongly, you're willing to go and try anything.
-Dialogue: 1,0:59:54.73,0:59:59.93,辉中,,0,0,0,,In the same way that Abby was so desperate to go and get revenge against Joel.
-Dialogue: 1,0:59:59.93,1:00:04.26,辉中,,0,0,0,,Ellie now is motivated to go to her turf and get revenge against her.
-Dialogue: 1,1:00:04.26,1:00:08.82,辉中,,0,0,0,,Now Tommy wants to go to Seattle by himself, and Hunt Abby down and get revenge.
-Dialogue: 1,1:00:08.82,1:00:11.31,辉中,,0,0,0,,Maria, of course, is not going to let him do that.
-Dialogue: 1,1:00:11.31,1:00:15.54,辉中,,0,0,0,,But Tommy's main objective is to prevent Ellie from going,
-Dialogue: 1,1:00:15.54,1:00:19.23,辉中,,0,0,0,,he promised Joel that he would take care of Ellie, no matter what.
-Dialogue: 1,1:00:19.23,1:00:22.29,辉中,,0,0,0,,And in this case, he knows that if Ellie goes to Seattle,
-Dialogue: 1,1:00:22.29,1:00:24.51,辉中,,0,0,0,,her chances of survival aren't very high.
-Dialogue: 1,1:00:24.51,1:00:27.90,辉中,,0,0,0,,So he'd rather go take on those chances himself
-Dialogue: 1,1:00:27.90,1:00:31.77,辉中,,0,0,0,,and spare Ellie while trying to get revenge for the sake of the both of them,
-Dialogue: 1,1:00:31.77,1:00:33.69,辉中,,0,0,0,,Ellie demands that they either go together,
-Dialogue: 1,1:00:33.69,1:00:36.56,辉中,,0,0,0,,or that Tommy allow Ellie to go with Dina
-Dialogue: 1,1:00:36.56,1:00:41.13,辉中,,0,0,0,,and some other people with some troops from the camp to get revenge herself.
-Dialogue: 1,1:00:41.13,1:00:46.36,辉中,,0,0,0,,Tommy, of course, rejects this idea and asks for and more time just a day or so
-Dialogue: 1,1:00:46.36,1:00:48.50,辉中,,0,0,0,,so that he can try and work something out.
-Dialogue: 1,1:00:48.50,1:00:50.55,辉中,,0,0,0,,In this case, he's just buying time.
-Dialogue: 1,1:00:50.55,1:00:52.71,辉中,,0,0,0,,He's made up his mind as to what he's going to do.
-Dialogue: 1,1:00:52.71,1:00:54.75,辉中,,0,0,0,,We then see Ellie in Joel's grave site.
-Dialogue: 1,1:00:54.75,1:00:56.22,辉中,,0,0,0,,It's a really touching moment,
-Dialogue: 1,1:00:56.22,1:00:59.82,辉中,,0,0,0,,and it reaffirms that Joel is actually gone.
-Dialogue: 1,1:00:59.82,1:01:01.35,辉中,,0,0,0,,I don't know about you guys.
-Dialogue: 1,1:01:01.35,1:01:06.02,辉中,,0,0,0,,But I had this sort of surreal feeling when I played through this game the first time.
-Dialogue: 1,1:01:06.02,1:01:09.16,辉中,,0,0,0,,I kept saying to myself: Joel can't actually be dead.
-Dialogue: 1,1:01:09.16,1:01:14.23,辉中,,0,0,0,,For one because we saw that trailer, where Joel was featured later on in the game in Seattle.
-Dialogue: 1,1:01:14.23,1:01:16.74,辉中,,0,0,0,,And for two because Joel is Joel,
-Dialogue: 1,1:01:16.74,1:01:21.42,辉中,,0,0,0,,you can't just kill off Joel that suddenly, there has to be more to it.
-Dialogue: 1,1:01:21.42,1:01:23.52,辉中,,0,0,0,,But there isn't.
-Dialogue: 1,1:01:23.52,1:01:26.04,辉中,,0,0,0,,He's dead. This is his grave and it's sad.
-Dialogue: 1,1:01:26.04,1:01:28.04,辉中,,0,0,0,,Ellie then visits Joles house with Dina,
-Dialogue: 1,1:01:28.04,1:01:32.48,辉中,,0,0,0,,picks up his watch from the first game, it's still broken.
-Dialogue: 1,1:01:32.48,1:01:36.30,辉中,,0,0,0,,And also takes his revolver, which you'll be using throughout the rest of the game.
-Dialogue: 1,1:01:36.30,1:01:39.63,辉中,,0,0,0,,It's actually pretty cool that this is where she gets it.
-Dialogue: 1,1:01:39.63,1:01:43.17,辉中,,0,0,0,,We do this though, only after exploring his house a little bit,
-Dialogue: 1,1:01:43.17,1:01:46.95,辉中,,0,0,0,,and there's a lot of incredible detail here,
-Dialogue: 1,1:01:46.95,1:01:49.77,辉中,,0,0,0,,and it really encapsulates Joel's character.
-Dialogue: 1,1:01:49.77,1:01:54.66,辉中,,0,0,0,,He's very music heavy and organized his neat and tidy,
-Dialogue: 1,1:01:54.66,1:01:58.02,辉中,,0,0,0,,and his house is also painfully empty.
-Dialogue: 1,1:01:58.02,1:01:59.97,辉中,,0,0,0,,There's a lot of big, empty rooms.
-Dialogue: 1,1:01:59.97,1:02:01.74,辉中,,0,0,0,,And maybe I'm just reading too much into it,
-Dialogue: 1,1:02:01.74,1:02:04.55,辉中,,0,0,0,,but I couldn't help but feel as though there was a lot of space
-Dialogue: 1,1:02:04.55,1:02:07.17,辉中,,0,0,0,,where Ellie could have stayed if she had wanted to.
-Dialogue: 1,1:02:07.17,1:02:13.76,辉中,,0,0,0,,Like I said earlier, there was no reason other than the emotional turmoil between the two
-Dialogue: 1,1:02:13.76,1:02:17.01,辉中,,0,0,0,,for Ellie to go and live in the grandmother's suite out back.
-Dialogue: 1,1:02:17.01,1:02:23.52,辉中,,0,0,0,,But truly everything from the paintings on the walls which we'll come back to later, I promise to,
-Dialogue: 1,1:02:23.52,1:02:30.27,辉中,,0,0,0,,Joel's bed still being a little rough and that there is a space magazine and books by his bed,
-Dialogue: 1,1:02:30.27,1:02:32.38,辉中,,0,0,0,,that he was reading because he's interested in space
-Dialogue: 1,1:02:32.38,1:02:35.70,辉中,,0,0,0,,like it's… it's so cute, and it's so touching,
-Dialogue: 1,1:02:35.70,1:02:41.10,辉中,,0,0,0,,and it's so painfully sad to know that he's never going to walk through that house ever again.
-Dialogue: 1,1:02:41.10,1:02:42.66,辉中,,0,0,0,,After you grab these items,
-Dialogue: 1,1:02:42.66,1:02:47.61,辉中,,0,0,0,,you walked downstairs and realized that Maria is there sitting with Dina.
-Dialogue: 1,1:02:47.61,1:02:51.19,辉中,,0,0,0,,She informs you that Tommy left on his own already
-Dialogue: 1,1:02:51.19,1:02:55.83,辉中,,0,0,0,,and is asking that Ellie be locked up to prevent her from following him.
-Dialogue: 1,1:02:55.83,1:02:59.34,辉中,,0,0,0,,Maria is understandably frustrated, angry, Pissed,
-Dialogue: 1,1:02:59.34,1:03:01.89,辉中,,0,0,0,,whatever words you want to associate with it.
-Dialogue: 1,1:03:01.89,1:03:04.41,辉中,,0,0,0,,But more than anything, she's worried.
-Dialogue: 1,1:03:04.41,1:03:09.93,辉中,,0,0,0,,and she knows that if she sends Ellie and Dina off to try and help Tommy
-Dialogue: 1,1:03:09.93,1:03:11.91,辉中,,0,0,0,,at least still stand a better chance.
-Dialogue: 1,1:03:11.91,1:03:17.09,辉中,,0,0,0,,So Maria allows Ellie Indiana to leave Jackson with their horses and some extra supplies
-Dialogue: 1,1:03:17.09,1:03:22.56,辉中,,0,0,0,,so long as they promised to bring back Tommy, when they return, in one piece.
-Dialogue: 1,1:03:22.56,1:03:26.12,辉中,,0,0,0,,This sets up the dual purpose of your journey and theirs.
-Dialogue: 1,1:03:26.12,1:03:30.33,辉中,,0,0,0,,You're going there to kill Abby, but also to save Tommy,
-Dialogue: 1,1:03:30.33,1:03:33.39,辉中,,0,0,0,,although Tommy probably doesn't need much saving.
-Dialogue: 1,1:03:33.39,1:03:36.36,辉中,,0,0,0,,And you'll realize that once we get to Seattle,
-Dialogue: 1,1:03:36.36,1:03:42.87,辉中,,0,0,0,,There's going to be a third purpose in their journey and motivation to everything that they're doing,
-Dialogue: 1,1:03:42.87,1:03:44.31,辉中,,0,0,0,,that's added on top of it.
-Dialogue: 1,1:03:44.31,1:03:47.24,辉中,,0,0,0,,I find it really interesting that they set up these multiple goals
-Dialogue: 1,1:03:47.24,1:03:51.56,辉中,,0,0,0,,because it seems as though it just complicates things which I actually like.
-Dialogue: 1,1:03:51.56,1:03:57.57,辉中,,0,0,0,,Having a single quest, we are just going to try and kill one person, is a little bland.
-Dialogue: 1,1:03:57.57,1:03:59.01,辉中,,0,0,0,,It's a little uninteresting.
-Dialogue: 1,1:03:59.01,1:04:04.08,辉中,,0,0,0,,So to see that we have multiple things we're trying to do all at once is a little refreshing.
+Dialogue: 1,0:56:35.70,0:56:42.55,辉中,,0,0,0,,我觉得相反 他是一个有心理创伤的、悲伤的、有道德的角色
+Dialogue: 2,0:56:35.70,0:56:42.55,辉英,,0,0,0,,I think rather, he's a damaged, broken, sad and a moral character
+Dialogue: 1,0:56:42.55,0:56:48.06,辉中,,0,0,0,,他会为了生存 为了保护她所关心的人做他该做的事
+Dialogue: 2,0:56:42.55,0:56:48.06,辉英,,0,0,0,,who is looking to do what he needs to do, to survive and protect those he cares about.
+Dialogue: 1,0:56:48.06,0:56:51.51,辉中,,0,0,0,,这一点我认为从某种程度上说是值得钦佩的
+Dialogue: 2,0:56:48.06,0:56:51.51,辉英,,0,0,0,,That's something that I think is in a way admirable in and of itself.
+Dialogue: 1,0:56:51.51,0:56:56.30,辉中,,0,0,0,,但不能因为这就能说你是“英雄”了
+Dialogue: 2,0:56:51.51,0:56:56.30,辉英,,0,0,0,,But I don't think that that makes you a hero quote-unquote in the same way
+Dialogue: 1,0:56:56.30,0:56:59.37,辉中,,0,0,0,,作为对比 可以想想埃洛伊这样的角色
+Dialogue: 2,0:56:56.30,0:56:59.37,辉英,,0,0,0,,that you could compare a character such as Aloy
+Dialogue: 1,0:56:59.37,0:57:04.50,辉中,,0,0,0,,她无论遇到什么事情都会做出相对道德的决策
+Dialogue: 2,0:56:59.37,0:57:04.50,辉英,,0,0,0,,who is actively trying to do the moral thing in any instance that she comes across.
+Dialogue: 1,0:57:04.50,0:57:08.96,辉中,,0,0,0,,再往远了说 在游玩时我们一直在操控乔尔
+Dialogue: 2,0:57:04.50,0:57:08.96,辉英,,0,0,0,,Furthermore, from a game play perspective, we got our game with Joel.
+Dialogue: 1,0:57:08.96,0:57:13.11,辉中,,0,0,0,,我们了解他 站在他的视角经历了很多事情
+Dialogue: 2,0:57:08.96,0:57:13.11,辉英,,0,0,0,,We know him, we have experienced him and his perspectives.
+Dialogue: 1,0:57:13.11,0:57:15.00,辉中,,0,0,0,,我觉得应该换换角度看看新内容了
+Dialogue: 2,0:57:13.11,0:57:15.00,辉英,,0,0,0,,I think it was time for something new,
+Dialogue: 1,0:57:15.00,0:57:20.10,辉中,,0,0,0,,如果我们之前游玩乔尔和艾莉的比重各占一半
+Dialogue: 2,0:57:15.00,0:57:20.10,辉英,,0,0,0,,and if we had played through the entire game as Joel or half and half between Joel and Ellie,
+Dialogue: 1,0:57:20.10,0:57:22.47,辉中,,0,0,0,,那我想这样带来的震撼就会轻得多
+Dialogue: 2,0:57:20.10,0:57:22.47,辉英,,0,0,0,,I think it would have lost a lot of its punch.
+Dialogue: 1,0:57:22.47,0:57:27.00,辉中,,0,0,0,,乔尔的死对我来讲感觉丝毫没什么意外的
+Dialogue: 2,0:57:22.47,0:57:27.00,辉英,,0,0,0,,Now Joel's death didn't come as a surprise to me, or probably any one,
+Dialogue: 1,0:57:27.00,0:57:29.94,辉中,,0,0,0,,尤其当你走进别墅屋地下室那道门之后
+Dialogue: 2,0:57:27.00,0:57:29.94,辉英,,0,0,0,,especially once you walk through that door in the cabin.
+Dialogue: 1,0:57:29.94,0:57:36.00,辉中,,0,0,0,,当然 看到乔尔被高尔夫球杆打爆脑袋内心感受还是很糟糕的
+Dialogue: 2,0:57:29.94,0:57:36.00,辉英,,0,0,0,,That being said, it's still pretty horrible having to watch him get his head crammed in with a golf club.
+Dialogue: 1,0:57:36.00,0:57:39.12,辉中,,0,0,0,,这段剧情让你心里发堵 但它就是这样设计的
+Dialogue: 2,0:57:36.00,0:57:39.12,辉英,,0,0,0,,It's pretty haunting, but that's by design.
+Dialogue: 1,0:57:39.12,0:57:44.04,辉中,,0,0,0,,顽皮狗需要让玩家有和艾莉同样极度悲伤的感受
+Dialogue: 2,0:57:39.12,0:57:44.04,辉英,,0,0,0,,Naughty Dog needed the player to be just as haunted by this event as Ellie is
+Dialogue: 1,0:57:44.04,0:57:47.31,辉中,,0,0,0,,因为他们需要玩家能和艾莉有同样的内心情感
+Dialogue: 2,0:57:44.04,0:57:47.31,辉英,,0,0,0,,because then they feel emotionally equivalent,
+Dialogue: 1,0:57:47.31,0:57:50.04,辉中,,0,0,0,,尤其是对埃比的恨
+Dialogue: 2,0:57:47.31,0:57:50.04,辉英,,0,0,0,,especially in their hatred towards Abby,
+Dialogue: 1,0:57:50.04,0:57:54.81,辉中,,0,0,0,,这是他们想让玩家在游戏前期建立起的主要感情基调
+Dialogue: 2,0:57:50.04,0:57:54.81,辉英,,0,0,0,,which is one of the major elements that they need to establish early on.
+Dialogue: 1,0:57:54.81,0:58:00.03,辉中,,0,0,0,,而你作为玩家 需要对埃比从头发丝恨到脚后跟
+Dialogue: 2,0:57:54.81,0:58:00.03,辉英,,0,0,0,,You, the player, need to hate this girl with every fiber of your being.
+Dialogue: 1,0:58:00.03,0:58:03.99,辉中,,0,0,0,,就像艾莉也对埃比恨之入骨一样
+Dialogue: 2,0:58:00.03,0:58:03.99,辉英,,0,0,0,,Just like Ellie hates her with every fibre of her being.
+Dialogue: 1,0:58:03.99,0:58:08.88,辉中,,0,0,0,,这样一来等之后游戏完全调转视角
+Dialogue: 2,0:58:03.99,0:58:08.88,辉英,,0,0,0,,so that later, when they try to flip perspectives and flip the table on you,
+Dialogue: 1,0:58:08.88,0:58:10.92,辉中,,0,0,0,,就有很强的效果了
+Dialogue: 2,0:58:08.88,0:58:10.92,辉英,,0,0,0,,they can do that effectively.
+Dialogue: 1,0:58:10.92,0:58:12.68,辉中,,0,0,0,,如果你对埃比毫无感觉
+Dialogue: 2,0:58:10.92,0:58:12.68,辉英,,0,0,0,,If you're apathetic towards Abby
+Dialogue: 1,0:58:12.68,0:58:17.01,辉中,,0,0,0,,那你游玩整个游戏尝试复仇的时候
+Dialogue: 2,0:58:12.68,0:58:17.01,辉英,,0,0,0,,and then you go through the entirety of the game trying to pursue revenge,
+Dialogue: 1,0:58:17.01,0:58:19.26,辉中,,0,0,0,,就会感觉毫无动力
+Dialogue: 2,0:58:17.01,0:58:19.26,辉英,,0,0,0,,you're not going to be motivated at all.
+Dialogue: 1,0:58:19.26,0:58:26.01,辉中,,0,0,0,,整个游戏剧情的前提和故事都是空中楼阁 游戏会变得无聊
+Dialogue: 2,0:58:19.26,0:58:26.01,辉英,,0,0,0,,It's going to be pretty uninteresting because the entire premise of the game and the story is a moot point.
+Dialogue: 1,0:58:26.01,0:58:32.37,辉中,,0,0,0,,但如果你像艾莉想把埃比千刀万剐一样恨埃比
+Dialogue: 2,0:58:26.01,0:58:32.37,辉英,,0,0,0,,But if you hate Abby, just as much as Ellie hates her and wants to see her die,
+Dialogue: 1,0:58:32.37,0:58:35.85,辉中,,0,0,0,,你在游玩游戏前半部分的时候就会充满动力
+Dialogue: 2,0:58:32.37,0:58:35.85,辉英,,0,0,0,,you'll be motivated to get through the first half of the game.
+Dialogue: 1,0:58:35.85,0:58:39.87,辉中,,0,0,0,,然后顽皮狗再为最后一幕做准备
+Dialogue: 2,0:58:35.85,0:58:39.87,辉英,,0,0,0,,And then Naughty Dog has you set up for the final act.
+Dialogue: 1,0:58:39.87,0:58:42.60,辉中,,0,0,0,,至此 我们来到了游戏序章部分的结尾
+Dialogue: 2,0:58:39.87,0:58:42.60,辉英,,0,0,0,,Now, after this, we enter the end of the prologue.
+Dialogue: 1,0:58:42.60,0:58:47.64,辉中,,0,0,0,,没错 你已经看了一个小时的视频了 我们才要讲完序章部分
+Dialogue: 2,0:58:42.60,0:58:47.64,辉英,,0,0,0,,Yes, we are an hour into this video, and we are just getting out of the prologue.
+Dialogue: 1,0:58:47.64,0:58:49.74,辉中,,0,0,0,,艾莉和汤米讨论他们接下来的决策
+Dialogue: 2,0:58:47.64,0:58:49.74,辉英,,0,0,0,,Ellie and Tommy discuss their next steps.
+Dialogue: 1,0:58:49.74,0:58:53.43,辉中,,0,0,0,,汤米跟玛丽娅提了下 而她不让汤米采取任何行动
+Dialogue: 2,0:58:49.74,0:58:53.43,辉英,,0,0,0,,Tommy talk to Maria, and she's not going to let him go or do anything,
+Dialogue: 1,0:58:53.43,0:58:56.55,辉中,,0,0,0,,也不给他分配任何帮手
+Dialogue: 2,0:58:53.43,0:58:56.55,辉英,,0,0,0,,and he's not allowed to have any sort of spare men.
+Dialogue: 1,0:58:56.55,0:58:58.41,辉中,,0,0,0,,所以汤米必须把他们留在杰克逊小镇
+Dialogue: 2,0:58:56.55,0:58:58.41,辉英,,0,0,0,,He has to keep them all in Jackson.
+Dialogue: 1,0:58:58.41,0:59:00.18,辉中,,0,0,0,,玛丽娅认为他们应该放下这些
+Dialogue: 2,0:58:58.41,0:59:00.18,辉英,,0,0,0,,She thinks that they should just move on,
+Dialogue: 1,0:59:00.18,0:59:03.99,辉中,,0,0,0,,发生的事情很可怕 但生活还要继续
+Dialogue: 2,0:59:00.18,0:59:03.99,辉英,,0,0,0,,except that what happened was terrible and go on with their lives.
+Dialogue: 1,0:59:03.99,0:59:07.08,辉中,,0,0,0,,像往常一样 玛丽娅一直是那个看似最理智的人
+Dialogue: 2,0:59:03.99,0:59:07.08,辉英,,0,0,0,,As usual, Maria seems to be the one voice of reason.
+Dialogue: 1,0:59:07.08,0:59:10.23,辉中,,0,0,0,,而汤米和艾莉的不满也是可以理解的
+Dialogue: 2,0:59:07.08,0:59:10.23,辉英,,0,0,0,,Tommy and Ellie, however, are understandably upset.
+Dialogue: 1,0:59:10.23,0:59:13.26,辉中,,0,0,0,,汤米的弟弟惨死
+Dialogue: 2,0:59:10.23,0:59:13.26,辉英,,0,0,0,,Tommy lost his brother in a terrible way,
+Dialogue: 1,0:59:13.26,0:59:17.76,辉中,,0,0,0,,艾莉也痛失她的“父亲”一样的角色
+Dialogue: 2,0:59:13.26,0:59:17.76,辉英,,0,0,0,,and Ellie also lost her "father figure" in a terrible way.
+Dialogue: 1,0:59:17.76,0:59:20.22,辉中,,0,0,0,,他们还不知道这一切的缘由
+Dialogue: 2,0:59:17.76,0:59:20.22,辉英,,0,0,0,,They still aren't certain why this happened,
+Dialogue: 1,0:59:20.22,0:59:25.32,辉中,,0,0,0,,也不知道乔尔到底做了什么 让那帮人如此急切地想让乔尔死
+Dialogue: 2,0:59:20.22,0:59:25.32,辉英,,0,0,0,,or what Joel did that made them seek his death out so fervently.
+Dialogue: 1,0:59:25.32,0:59:30.00,辉中,,0,0,0,,汤米不小心看到他们身上衣服写着“WLF”
+Dialogue: 2,0:59:25.32,0:59:30.00,辉英,,0,0,0,,Tommy happened to see some patches on their coats that read "WLF".
+Dialogue: 1,0:59:30.00,0:59:32.79,辉中,,0,0,0,,因为他以前在火萤组织工作过
+Dialogue: 2,0:59:30.00,0:59:32.79,辉英,,0,0,0,,And because of his previous history with the Fireflies,
+Dialogue: 1,0:59:32.79,0:59:35.91,辉中,,0,0,0,,他知道这个缩写的含义是华盛顿解放战线
+Dialogue: 2,0:59:32.79,0:59:35.91,辉英,,0,0,0,,he knows that that would be the Washington Liberation Front,
+Dialogue: 1,0:59:35.91,0:59:38.40,辉中,,0,0,0,,说明这是一个在华盛顿州的组织
+Dialogue: 2,0:59:35.91,0:59:38.40,辉英,,0,0,0,,which is a group that's in Washington.
+Dialogue: 1,0:59:38.40,0:59:39.54,辉中,,0,0,0,,这不废话吗
+Dialogue: 2,0:59:38.40,0:59:39.54,辉英,,0,0,0,,Huh… Go figure.
+Dialogue: 1,0:59:39.54,0:59:43.59,辉中,,0,0,0,,这也给了艾莉下一步的目标
+Dialogue: 2,0:59:39.54,0:59:43.59,辉英,,0,0,0,,And that's what allows Ellie to know where she needs to go next.
+Dialogue: 1,0:59:43.59,0:59:47.60,辉中,,0,0,0,,埃比那帮人可能已经回去了 路途可不短
+Dialogue: 2,0:59:43.59,0:59:47.60,辉英,,0,0,0,,It's a long stretch that they would have returned to Seattle
+Dialogue: 1,0:59:47.60,0:59:49.89,辉中,,0,0,0,,而且还要保证他们还在那 还能找到他们
+Dialogue: 2,0:59:47.60,0:59:49.89,辉英,,0,0,0,,and that they would still be there and that they would be findable.
+Dialogue: 1,0:59:49.89,0:59:54.73,辉中,,0,0,0,,但如果你有如此强烈的动机在 那你无论如何都会想试试
+Dialogue: 2,0:59:49.89,0:59:54.73,辉英,,0,0,0,,But when you're motivated this strongly, you're willing to go and try anything.
+Dialogue: 1,0:59:54.73,0:59:59.93,辉中,,0,0,0,,就像埃比也火急火燎地想杀死乔尔复仇一样
+Dialogue: 2,0:59:54.73,0:59:59.93,辉英,,0,0,0,,In the same way that Abby was so desperate to go and get revenge against Joel.
+Dialogue: 1,0:59:59.93,1:00:04.26,辉中,,0,0,0,,艾莉现在也想去埃比的地盘找她复仇
+Dialogue: 2,0:59:59.93,1:00:04.26,辉英,,0,0,0,,Ellie now is motivated to go to her turf and get revenge against her.
+Dialogue: 1,1:00:04.26,1:00:08.82,辉中,,0,0,0,,现在汤米想只身前往西雅图找埃比报仇
+Dialogue: 2,1:00:04.26,1:00:08.82,辉英,,0,0,0,,Now Tommy wants to go to Seattle by himself, and Hunt Abby down and get revenge.
+Dialogue: 1,1:00:08.82,1:00:11.31,辉中,,0,0,0,,玛丽娅显然不会同意他去
+Dialogue: 2,1:00:08.82,1:00:11.31,辉英,,0,0,0,,Maria, of course, is not going to let him do that.
+Dialogue: 1,1:00:11.31,1:00:15.54,辉中,,0,0,0,,但汤米更深一层的目的是想阻止艾莉去西雅图复仇
+Dialogue: 2,1:00:11.31,1:00:15.54,辉英,,0,0,0,,But Tommy's main objective is to prevent Ellie from going,
+Dialogue: 1,1:00:15.54,1:00:19.23,辉中,,0,0,0,,他答应过乔尔无论如何都会照顾艾莉
+Dialogue: 2,1:00:15.54,1:00:19.23,辉英,,0,0,0,,he promised Joel that he would take care of Ellie, no matter what.
+Dialogue: 1,1:00:19.23,1:00:22.29,辉中,,0,0,0,,而此时 他也知道如果艾莉前往西雅图
+Dialogue: 2,1:00:19.23,1:00:22.29,辉英,,0,0,0,,And in this case, he knows that if Ellie goes to Seattle,
+Dialogue: 1,1:00:22.29,1:00:24.51,辉中,,0,0,0,,那大概率是有去无回
+Dialogue: 2,1:00:22.29,1:00:24.51,辉英,,0,0,0,,her chances of survival aren't very high.
+Dialogue: 1,1:00:24.51,1:00:27.90,辉中,,0,0,0,,所以汤米宁愿自己搏一把
+Dialogue: 2,1:00:24.51,1:00:27.90,辉英,,0,0,0,,So he'd rather go take on those chances himself
+Dialogue: 1,1:00:27.90,1:00:31.77,辉中,,0,0,0,,留下艾莉 只身前往西雅图为乔尔报仇
+Dialogue: 2,1:00:27.90,1:00:31.77,辉英,,0,0,0,,and spare Ellie while trying to get revenge for the sake of the both of them.
+Dialogue: 1,1:00:31.77,1:00:33.69,辉中,,0,0,0,,艾莉则说要么一起去
+Dialogue: 2,1:00:31.77,1:00:33.69,辉英,,0,0,0,,Ellie demands that they either go together,
+Dialogue: 1,1:00:33.69,1:00:36.56,辉中,,0,0,0,,要么让汤米同意自己带着蒂娜
+Dialogue: 2,1:00:33.69,1:00:36.56,辉英,,0,0,0,,or that Tommy allow Ellie to go with Dina
+Dialogue: 1,1:00:36.56,1:00:41.13,辉中,,0,0,0,,再带小镇里其他一些人一起去复仇
+Dialogue: 2,1:00:36.56,1:00:41.13,辉英,,0,0,0,,and some other people with some troops from the camp to get revenge herself.
+Dialogue: 1,1:00:41.13,1:00:46.36,辉中,,0,0,0,,汤米肯定不同意 跟艾莉说让她再给自己一天的时间
+Dialogue: 2,1:00:41.13,1:00:46.36,辉英,,0,0,0,,Tommy, of course, rejects this idea and asks for and more time just a day or so
+Dialogue: 1,1:00:46.36,1:00:48.50,辉中,,0,0,0,,让汤米考虑、安排一下
+Dialogue: 2,1:00:46.36,1:00:48.50,辉英,,0,0,0,,so that he can try and work something out.
+Dialogue: 1,1:00:48.50,1:00:50.55,辉中,,0,0,0,,此时 汤米只是在争取时间
+Dialogue: 2,1:00:48.50,1:00:50.55,辉英,,0,0,0,,In this case, he's just buying time.
+Dialogue: 1,1:00:50.55,1:00:52.71,辉中,,0,0,0,,他已经下定主意要怎样做了
+Dialogue: 2,1:00:50.55,1:00:52.71,辉英,,0,0,0,,He's made up his mind as to what he's going to do.
+Dialogue: 1,1:00:52.71,1:00:54.75,辉中,,0,0,0,,然后我们看到艾莉在乔尔的墓前
+Dialogue: 2,1:00:52.71,1:00:54.75,辉英,,0,0,0,,We then see Ellie in Joel's grave site.
+Dialogue: 1,1:00:54.75,1:00:56.22,辉中,,0,0,0,,这段真的很感人
+Dialogue: 2,1:00:54.75,1:00:56.22,辉英,,0,0,0,,It's a really touching moment,
+Dialogue: 1,1:00:56.22,1:00:59.82,辉中,,0,0,0,,游戏也再次提醒我们 乔尔已经走了
+Dialogue: 2,1:00:56.22,1:00:59.82,辉英,,0,0,0,,and it reaffirms that Joel is actually gone.
+Dialogue: 1,1:00:59.82,1:01:01.35,辉中,,0,0,0,,其他人的情况我不了解
+Dialogue: 2,1:00:59.82,1:01:01.35,辉英,,0,0,0,,I don't know about you guys.
+Dialogue: 1,1:01:01.35,1:01:06.02,辉中,,0,0,0,,但我自己第一次玩游戏的时候 有一种超现实的感觉
+Dialogue: 2,1:01:01.35,1:01:06.02,辉英,,0,0,0,,But I had this sort of surreal feeling when I played through this game the first time.
+Dialogue: 1,1:01:06.02,1:01:09.16,辉中,,0,0,0,,我不停对自己说：乔尔肯定还没死
+Dialogue: 2,1:01:06.02,1:01:09.16,辉英,,0,0,0,,I kept saying to myself: Joel can't actually be dead.
+Dialogue: 1,1:01:09.16,1:01:14.23,辉中,,0,0,0,,一方面我们看过预告片里乔尔在西雅图中出现过
+Dialogue: 2,1:01:09.16,1:01:14.23,辉英,,0,0,0,,For one because we saw that trailer, where Joel was featured later on in the game in Seattle.
+Dialogue: 1,1:01:14.23,1:01:16.74,辉中,,0,0,0,,另一方面 他可是乔尔啊！
+Dialogue: 2,1:01:14.23,1:01:16.74,辉英,,0,0,0,,And for two because Joel is Joel,
+Dialogue: 1,1:01:16.74,1:01:21.42,辉中,,0,0,0,,怎么突然间说没就没了啊 应该还有点别的戏份啊
+Dialogue: 2,1:01:16.74,1:01:21.42,辉英,,0,0,0,,you can't just kill off Joel that suddenly, there has to be more to it.
+Dialogue: 1,1:01:21.42,1:01:22.56,辉中,,0,0,0,,但真的没了
+Dialogue: 2,1:01:21.42,1:01:22.56,辉英,,0,0,0,,But there isn't.
+Dialogue: 1,1:01:22.56,1:01:26.04,辉中,,0,0,0,,乔尔死了 他的墓就在这 很遗憾
+Dialogue: 2,1:01:22.56,1:01:26.04,辉英,,0,0,0,,He's dead. This is his grave and it's sad.
+Dialogue: 1,1:01:26.04,1:01:28.73,辉中,,0,0,0,,艾莉之后和蒂娜一起去了乔尔的家
+Dialogue: 2,1:01:26.04,1:01:28.73,辉英,,0,0,0,,Ellie then visits Joel's house with Dina,
+Dialogue: 1,1:01:28.73,1:01:32.48,辉中,,0,0,0,,拿起了他在第一作里就已经坏掉了的手表
+Dialogue: 2,1:01:28.73,1:01:32.48,辉英,,0,0,0,,picks up his watch from the first game, it's still broken.
+Dialogue: 1,1:01:32.48,1:01:36.30,辉中,,0,0,0,,还拿走了他的左轮手枪 游戏剩余部分里你可以一直用
+Dialogue: 2,1:01:32.48,1:01:36.30,辉英,,0,0,0,,And also takes his revolver, which you'll be using throughout the rest of the game.
+Dialogue: 1,1:01:36.30,1:01:39.63,辉中,,0,0,0,,艾莉能拿到这件武器还是很酷的
+Dialogue: 2,1:01:36.30,1:01:39.63,辉英,,0,0,0,,It's actually pretty cool that this is where she gets it.
+Dialogue: 1,1:01:39.63,1:01:43.17,辉中,,0,0,0,,我们还能稍微探索一下乔尔的家
+Dialogue: 2,1:01:39.63,1:01:43.17,辉英,,0,0,0,,We do this though, only after exploring his house a little bit,
+Dialogue: 1,1:01:43.17,1:01:46.95,辉中,,0,0,0,,细节真的非常丰富
+Dialogue: 2,1:01:43.17,1:01:46.95,辉英,,0,0,0,,and there's a lot of incredible detail here,
+Dialogue: 1,1:01:46.95,1:01:49.77,辉中,,0,0,0,,也更加丰满了乔尔这个角色
+Dialogue: 2,1:01:46.95,1:01:49.77,辉英,,0,0,0,,and it really encapsulates Joel's character.
+Dialogue: 1,1:01:49.77,1:01:54.66,辉中,,0,0,0,,他热爱音乐 房间也打理得整整齐齐
+Dialogue: 2,1:01:49.77,1:01:54.66,辉英,,0,0,0,,He's very music heavy and organized his neat and tidy,
+Dialogue: 1,1:01:54.66,1:01:58.02,辉中,,0,0,0,,但房间也空旷得令人心酸
+Dialogue: 2,1:01:54.66,1:01:58.02,辉英,,0,0,0,,and his house is also painfully empty.
+Dialogue: 1,1:01:58.02,1:01:59.97,辉中,,0,0,0,,有很多空旷的大房间
+Dialogue: 2,1:01:58.02,1:01:59.97,辉英,,0,0,0,,There's a lot of big, empty rooms.
+Dialogue: 1,1:01:59.97,1:02:01.74,辉中,,0,0,0,,或许是我过度解读了
+Dialogue: 2,1:01:59.97,1:02:01.74,辉英,,0,0,0,,And maybe I'm just reading too much into it,
+Dialogue: 1,1:02:01.74,1:02:04.55,辉中,,0,0,0,,但我总感觉房子里空余空间这么大
+Dialogue: 2,1:02:01.74,1:02:04.55,辉英,,0,0,0,,but I couldn't help but feel as though there was a lot of space
+Dialogue: 1,1:02:04.55,1:02:07.17,辉中,,0,0,0,,如果艾莉想住进来是完全没问题的
+Dialogue: 2,1:02:04.55,1:02:07.17,辉英,,0,0,0,,where Ellie could have stayed if she had wanted to.
+Dialogue: 1,1:02:07.17,1:02:13.76,辉中,,0,0,0,,就像我之前说的 若不是因为两人的情感上的隔阂
+Dialogue: 2,1:02:07.17,1:02:13.76,辉英,,0,0,0,,Like I said earlier, there was no reason other than the emotional turmoil between the two
+Dialogue: 1,1:02:13.76,1:02:17.01,辉中,,0,0,0,,艾莉完全没理由住在房子后面的附属房里
+Dialogue: 2,1:02:13.76,1:02:17.01,辉英,,0,0,0,,for Ellie to go and live in the grandmother's suite out back.
+Dialogue: 1,1:02:17.01,1:02:23.52,辉中,,0,0,0,,另外相信我 我们之后还会看到房子里的挂画
+Dialogue: 2,1:02:17.01,1:02:23.52,辉英,,0,0,0,,But truly everything from the paintings on the walls which we'll come back to later, I promise to,
+Dialogue: 1,1:02:23.52,1:02:30.27,辉中,,0,0,0,,乔尔的床还是略显凌乱 床边有一本太空类的杂志和一些书
+Dialogue: 2,1:02:23.52,1:02:30.27,辉英,,0,0,0,,Joel's bed still being a little rough and that there is a space magazine and books by his bed,
+Dialogue: 1,1:02:30.27,1:02:32.38,辉中,,0,0,0,,他对太空感兴趣 所以在看这方面的书
+Dialogue: 2,1:02:30.27,1:02:32.38,辉英,,0,0,0,,that he was reading because he's interested in space
+Dialogue: 1,1:02:32.38,1:02:35.70,辉中,,0,0,0,,真的很……温馨 很感人
+Dialogue: 2,1:02:32.38,1:02:35.70,辉英,,0,0,0,,like it's… it's so cute, and it's so touching,
+Dialogue: 1,1:02:35.70,1:02:41.10,辉中,,0,0,0,,每每想到乔尔再也不会出现在这间房子里 都感觉心痛不已
+Dialogue: 2,1:02:35.70,1:02:41.10,辉英,,0,0,0,,and it's so painfully sad to know that he's never going to walk through that house ever again.
+Dialogue: 1,1:02:41.10,1:02:42.66,辉中,,0,0,0,,拿上这些东西后
+Dialogue: 2,1:02:41.10,1:02:42.66,辉英,,0,0,0,,After you grab these items,
+Dialogue: 1,1:02:42.66,1:02:47.61,辉中,,0,0,0,,你走下楼梯 发现玛丽娅和蒂娜在桌前等你
+Dialogue: 2,1:02:42.66,1:02:47.61,辉英,,0,0,0,,you walked downstairs and realized that Maria is there sitting with Dina.
+Dialogue: 1,1:02:47.61,1:02:51.19,辉中,,0,0,0,,她告诉你汤米已经自己去复仇了
+Dialogue: 2,1:02:47.61,1:02:51.19,辉英,,0,0,0,,She informs you that Tommy left on his own already
+Dialogue: 1,1:02:51.19,1:02:55.83,辉中,,0,0,0,,还说要把艾莉关起来 不让她跟上来
+Dialogue: 2,1:02:51.19,1:02:55.83,辉英,,0,0,0,,and is asking that Ellie be locked up to prevent her from following him.
+Dialogue: 1,1:02:55.83,1:02:59.34,辉中,,0,0,0,,玛丽娅为此肯定很苦恼 生气 闹心……
+Dialogue: 2,1:02:55.83,1:02:59.34,辉英,,0,0,0,,Maria is understandably frustrated, angry, pissed,
+Dialogue: 1,1:02:59.34,1:03:01.89,辉中,,0,0,0,,你能想到的啥词都行
+Dialogue: 2,1:02:59.34,1:03:01.89,辉英,,0,0,0,,whatever words you want to associate with it.
+Dialogue: 1,1:03:01.89,1:03:04.41,辉中,,0,0,0,,但最主要的是 她担忧汤米的安全
+Dialogue: 2,1:03:01.89,1:03:04.41,辉英,,0,0,0,,But more than anything, she's worried.
+Dialogue: 1,1:03:04.41,1:03:09.93,辉中,,0,0,0,,而且她深知如果能送艾莉和蒂娜过去帮助汤米
+Dialogue: 2,1:03:04.41,1:03:09.93,辉英,,0,0,0,,and she knows that if she sends Ellie and Dina off to try and help Tommy
+Dialogue: 1,1:03:09.93,1:03:11.91,辉中,,0,0,0,,那至少能提高成功的概率
+Dialogue: 2,1:03:09.93,1:03:11.91,辉英,,0,0,0,,at least still stand a better chance.
+Dialogue: 1,1:03:11.91,1:03:17.09,辉中,,0,0,0,,所以玛丽娅允许艾莉和蒂娜带着马和一些物资离开杰克逊小镇
+Dialogue: 2,1:03:11.91,1:03:17.09,辉英,,0,0,0,,So Maria allows Ellie and Dina to leave Jackson with their horses and some extra supplies
+Dialogue: 1,1:03:17.09,1:03:22.56,辉中,,0,0,0,,条件是要能把汤米完整地、活着带回来
+Dialogue: 2,1:03:17.09,1:03:22.56,辉英,,0,0,0,,so long as they promised to bring back Tommy, when they return, in one piece.
+Dialogue: 1,1:03:22.56,1:03:26.12,辉中,,0,0,0,,这为你和你操控的角色未来的旅程设定了两个目标
+Dialogue: 2,1:03:22.56,1:03:26.12,辉英,,0,0,0,,This sets up the dual purpose of your journey and theirs.
+Dialogue: 1,1:03:26.12,1:03:30.33,辉中,,0,0,0,,你要去杀死埃比复仇 还要去救汤米
+Dialogue: 2,1:03:26.12,1:03:30.33,辉英,,0,0,0,,You're going there to kill Abby, but also to save Tommy,
+Dialogue: 1,1:03:30.33,1:03:33.39,辉中,,0,0,0,,虽然汤米可能用不着你来救
+Dialogue: 2,1:03:30.33,1:03:33.39,辉英,,0,0,0,,although Tommy probably doesn't need much saving.
+Dialogue: 1,1:03:33.39,1:03:36.36,辉中,,0,0,0,,而且等你到了西雅图还会发现
+Dialogue: 2,1:03:33.39,1:03:36.36,辉英,,0,0,0,,And you'll realize that once we get to Seattle,
+Dialogue: 1,1:03:36.36,1:03:42.87,辉中,,0,0,0,,这趟旅途全程还会额外增加第三个目标
+Dialogue: 2,1:03:36.36,1:03:42.87,辉英,,0,0,0,,there's going to be a third purpose in their journey and motivation to everything that they're doing,
+Dialogue: 1,1:03:42.87,1:03:44.31,辉中,,0,0,0,,这趟旅途全程还会额外增加第三个目标
+Dialogue: 2,1:03:42.87,1:03:44.31,辉英,,0,0,0,,that's added on top of it.
+Dialogue: 1,1:03:44.31,1:03:47.24,辉中,,0,0,0,,我发现他们这样设定多个目标还是很有意思的
+Dialogue: 2,1:03:44.31,1:03:47.24,辉英,,0,0,0,,I find it really interesting that they set up these multiple goals
+Dialogue: 1,1:03:47.24,1:03:51.56,辉中,,0,0,0,,因为这样会让事情看起来很复杂 我很喜欢这样的设定
+Dialogue: 2,1:03:47.24,1:03:51.56,辉英,,0,0,0,,because it seems as though it just complicates things which I actually like.
+Dialogue: 1,1:03:51.56,1:03:57.57,辉中,,0,0,0,,如果目标单一 只要去杀了某个人就行了 就会显得单调
+Dialogue: 2,1:03:51.56,1:03:57.57,辉英,,0,0,0,,Having a single quest, we are just going to try and kill one person, is a little bland.
+Dialogue: 1,1:03:57.57,1:03:59.01,辉中,,0,0,0,,让游戏不那么有趣
+Dialogue: 2,1:03:57.57,1:03:59.01,辉英,,0,0,0,,It's a little uninteresting.
+Dialogue: 1,1:03:59.01,1:04:04.08,辉中,,0,0,0,,因此知道自己需要一次完成很多个目标还是挺有意思的
+Dialogue: 2,1:03:59.01,1:04:04.08,辉英,,0,0,0,,So to see that we have multiple things we're trying to do all at once is a little refreshing.
 Dialogue: 1,1:04:04.26,1:04:10.98,辉中,,0,0,0,,至此 我们来到了游戏的核心内容——西雅图 第一天
 Dialogue: 2,1:04:04.26,1:04:10.98,辉英,,0,0,0,,After this we jumped to the start of the core game itself, Seattle day 1.
 Dialogue: 1,1:04:10.98,1:04:15.93,辉中,,0,0,0,,序章结束了 该开始游玩游戏的最核心部分了
 Dialogue: 2,1:04:10.98,1:04:15.93,辉英,,0,0,0,,And after this, we're done with the prologue and ready to move into the core of the game.
 Dialogue: 1,1:04:15.93,1:04:20.31,辉中,,0,0,0,,但在这之前 我想先和大家聊聊此时我的感受
 Dialogue: 2,1:04:15.93,1:04:20.31,辉英,,0,0,0,,But before we do that, I want to discuss our feelings at this point.
-Dialogue: 1,1:04:20.31,1:04:23.43,辉中,,0,0,0,,我一周目玩到这里 我感觉我是充满继续游玩的动力的
+Dialogue: 1,1:04:20.31,1:04:23.43,辉中,,0,0,0,,我一周目玩到这里 我感觉我充满动力
 Dialogue: 2,1:04:20.31,1:04:23.43,辉英,,0,0,0,,At this moment in my first run, I felt motivated.
-Dialogue: 1,1:04:23.43,1:04:30.45,辉中,,0,0,0,,同时内心又觉得充满顾虑
+Dialogue: 1,1:04:23.43,1:04:30.45,辉中,,0,0,0,,同时内心又觉得充满顾虑 字面意思上的不好的感觉
 Dialogue: 2,1:04:23.43,1:04:30.45,辉英,,0,0,0,,Yet still pretty dreadful, in again, the pure sense of the word dread overwhelmed me.
 Dialogue: 1,1:04:30.45,1:04:34.62,辉中,,0,0,0,,因为这类复仇对任何人来说都不会有好下场
 Dialogue: 2,1:04:30.45,1:04:34.62,辉英,,0,0,0,,These revenge quests never end well for anybody,
@@ -1947,60 +2070,114 @@ Dialogue: 1,1:05:47.37,1:05:50.82,辉中,,0,0,0,,如果这游戏没有任何一�
 Dialogue: 2,1:05:47.37,1:05:50.82,辉英,,0,0,0,,If you don't find the story of this game, at least somewhat interesting,
 Dialogue: 1,1:05:50.82,1:05:56.49,辉中,,0,0,0,,你还看了一个多小时序章的测评内容 还没关视频 那你真是纯爷们
 Dialogue: 2,1:05:50.82,1:05:56.49,辉英,,0,0,0,,I mean, after all, we just got through the prologue and we are well over an hour into this video.
-Dialogue: 1,1:05:56.49,1:06:02.55,辉中,,0,0,0,,So it's with that newfound motivation to find Abby that we enter the core of the game.
-Dialogue: 1,1:06:02.55,1:06:05.66,辉中,,0,0,0,,And it's good that we have this emotional drive behind us
-Dialogue: 1,1:06:05.66,1:06:09.77,辉中,,0,0,0,,because we're about to enter a very slow sequence of the game.
-Dialogue: 1,1:06:09.77,1:06:16.98,辉中,,0,0,0,,Seriously there's moments in here where I became actively bored because it was all puzzle solving in platform.
-Dialogue: 1,1:06:16.98,1:06:19.14,辉中,,0,0,0,,It's just kind of blaaaah
-Dialogue: 1,1:06:19.14,1:06:20.67,辉中,,0,0,0,,but don't worry, we're going to get into it.
-Dialogue: 1,1:06:20.67,1:06:24.46,辉中,,0,0,0,,And with that we move to Seattle Day 1.
-Dialogue: 1,1:06:24.46,1:06:28.24,辉中,,0,0,0,,Our first day in Seattle starts with the gate,
-Dialogue: 1,1:06:28.24,1:06:31.05,辉中,,0,0,0,,basically riding through the forest, talking with Dina.
-Dialogue: 1,1:06:31.05,1:06:33.75,辉中,,0,0,0,,And you have to try and get into the body of the city.
-Dialogue: 1,1:06:33.75,1:06:36.81,辉中,,0,0,0,,Of course, there's a lot of military installations that were put up
-Dialogue: 1,1:06:36.81,1:06:41.97,辉中,,0,0,0,,towards the end of quarantine that have since fallen to pieces.
-Dialogue: 1,1:06:41.97,1:06:43.89,辉中,,0,0,0,,But nonetheless you have to get through them.
-Dialogue: 1,1:06:43.89,1:06:46.17,辉中,,0,0,0,,There's a few supplies here and there that you can gather.
-Dialogue: 1,1:06:46.17,1:06:49.12,辉中,,0,0,0,,But for the most part, this is a puzzle solving sequence.
-Dialogue: 1,1:06:49.12,1:06:54.34,辉中,,0,0,0,,We climbed some buildings go up some ladders enter some codes that we find on some papers
-Dialogue: 1,1:06:54.34,1:06:56.49,辉中,,0,0,0,,and we push into Seattle.
-Dialogue: 1,1:06:56.49,1:06:59.22,辉中,,0,0,0,,This was probably my least favorite part of the game.
-Dialogue: 1,1:06:59.22,1:07:00.67,辉中,,0,0,0,,We're emotionally motivated.
-Dialogue: 1,1:07:00.67,1:07:03.13,辉中,,0,0,0,,We want to go, kick some ass and take some names
-Dialogue: 1,1:07:03.13,1:07:06.21,辉中,,0,0,0,,and then give those names to other people whose asses we've kicked,
-Dialogue: 1,1:07:06.21,1:07:11.07,辉中,,0,0,0,,but instead we're forced to just slowly solved some basic puzzles.
-Dialogue: 1,1:07:11.07,1:07:14.13,辉中,,0,0,0,,Write down some codes, walked to another place,
-Dialogue: 1,1:07:14.13,1:07:19.29,辉中,,0,0,0,,pull open our note book to look back at what the codes were and then enter those in manually.
-Dialogue: 1,1:07:19.29,1:07:20.70,辉中,,0,0,0,,It's not that interesting,
-Dialogue: 1,1:07:20.70,1:07:25.59,辉中,,0,0,0,,and it is in direct conflict with what the player wants to be doing at this point.
-Dialogue: 1,1:07:25.59,1:07:28.62,辉中,,0,0,0,,I understand may be Naughty Dog wanted to slow the pace down
-Dialogue: 1,1:07:28.62,1:07:33.18,辉中,,0,0,0,,after how emotionally distraught you might be after the prologue.
-Dialogue: 1,1:07:33.18,1:07:37.14,辉中,,0,0,0,,But still, I can't help but feel as though there would have been a better way to do this
-Dialogue: 1,1:07:37.14,1:07:41.61,辉中,,0,0,0,,may be some more combat sequences, may be introducing you to a new type of infected.
-Dialogue: 1,1:07:41.61,1:07:45.34,辉中,,0,0,0,,I'm not sure, anything I think would have been better than this.
-Dialogue: 1,1:07:45.34,1:07:51.00,辉中,,0,0,0,,We get to downtown and by my estimation, this is the largest single area of the game.
-Dialogue: 1,1:07:51.00,1:07:54.30,辉中,,0,0,0,,It's very open, and there's about eleven main locations,
-Dialogue: 1,1:07:54.30,1:07:58.68,辉中,,0,0,0,,at least that I found to explore in this little area.
-Dialogue: 1,1:07:58.68,1:08:03.57,辉中,,0,0,0,,This includes a bank, a synagogue, a court house all very well realized.
-Dialogue: 1,1:08:03.57,1:08:08.16,辉中,,0,0,0,,The bank is cool because it's frozen in time, right after a group of people tried to rob,
-Dialogue: 1,1:08:08.16,1:08:11.79,辉中,,0,0,0,,I loved seeing all of the money strewn throughout the bank
-Dialogue: 1,1:08:11.79,1:08:15.68,辉中,,0,0,0,,and watching Allie and Dina ponder what they would do with that money
-Dialogue: 1,1:08:15.68,1:08:19.38,辉中,,0,0,0,,if it actually was worth anything in their world.
-Dialogue: 1,1:08:19.38,1:08:23.22,辉中,,0,0,0,,And I gotta say Naughty Dog is really good at this sort of indirect world building,
-Dialogue: 1,1:08:23.22,1:08:27.69,辉中,,0,0,0,,it makes you question your actual priorities in your current life.
-Dialogue: 1,1:08:27.69,1:08:30.64,辉中,,0,0,0,,If you're motivated purely by money and you have fat stack
-Dialogue: 1,1:08:30.64,1:08:33.39,辉中,,0,0,0,,sitting next to you as you watch this video,
-Dialogue: 1,1:08:33.39,1:08:36.45,辉中,,0,0,0,,you can't help but feel a little bit strange
-Dialogue: 1,1:08:36.45,1:08:41.34,辉中,,0,0,0,,when you walk into this post apocalyptic world and the money is absolutely useless.
-Dialogue: 1,1:08:41.34,1:08:45.41,辉中,,0,0,0,,It's those types of little things that get the wheels turning in your mind
-Dialogue: 1,1:08:45.41,1:08:49.17,辉中,,0,0,0,,to start putting yourself in the shoes of the characters in that world.
-Dialogue: 1,1:08:49.17,1:08:55.50,辉中,,0,0,0,,That makes Naughty Dog so good at motivating players to continue engaging with the story.
-Dialogue: 1,1:08:55.50,1:08:57.75,辉中,,0,0,0,,My favorite part of this chapter, however,
-Dialogue: 1,1:08:57.75,1:09:01.92,辉中,,0,0,0,,is an optional item interaction in the music store of this section.
-Dialogue: 1,1:09:01.92,1:09:07.71,辉中,,0,0,0,,and basically if you interact with the guitar here, Ellie will start playing and singing Take On Me to Dina.
-Dialogue: 1,1:09:07.71,1:09:13.36,辉中,,0,0,0,,It's really beautiful and is another calm moment in this already relaxing section.
-Dialogue: 1,1:09:13.36,1:09:19.11,辉中,,0,0,0,,And I really enjoyed it, and I recommend that you also enjoy it because it's not going to last.
-Dialogue: 1,1:09:19.11,1:09:23.82,辉中,,0,0,0,,But while the story elements of this section of the game are pretty impressive,
+Dialogue: 1,1:05:56.49,1:06:02.55,辉中,,0,0,0,,就这样 我们带着寻找埃比的新动力 进入了游戏核心部分的内容
+Dialogue: 2,1:05:56.49,1:06:02.55,辉英,,0,0,0,,So it's with that newfound motivation to find Abby that we enter the core of the game.
+Dialogue: 1,1:06:02.55,1:06:05.66,辉中,,0,0,0,,有着这样的动机驱使我们继续游戏是很有用的
+Dialogue: 2,1:06:02.55,1:06:05.66,辉英,,0,0,0,,And it's good that we have this emotional drive behind us
+Dialogue: 1,1:06:05.66,1:06:09.77,辉中,,0,0,0,,因为我们即将进入一段节奏非常慢的部分
+Dialogue: 2,1:06:05.66,1:06:09.77,辉英,,0,0,0,,because we're about to enter a very slow sequence of the game.
+Dialogue: 1,1:06:09.77,1:06:16.98,辉中,,0,0,0,,说真的 这段里面有些解密内容玩的我都感觉有点腻了
+Dialogue: 2,1:06:09.77,1:06:16.98,辉英,,0,0,0,,Seriously there's moments in here where I became actively bored because it was all puzzle solving in platform.
+Dialogue: 1,1:06:16.98,1:06:19.14,辉中,,0,0,0,,感觉有点……YUE
+Dialogue: 2,1:06:16.98,1:06:19.14,辉英,,0,0,0,,It's just kind of… blaaaah.
+Dialogue: 1,1:06:19.14,1:06:20.67,辉中,,0,0,0,,不过不急 我们稍后会提到
+Dialogue: 2,1:06:19.14,1:06:20.67,辉英,,0,0,0,,But don't worry, we're going to get into it.
+Dialogue: 1,1:06:20.67,1:06:24.46,辉中,,0,0,0,,就这样 我们来到了西雅图 第1天
+Dialogue: 2,1:06:20.67,1:06:24.46,辉英,,0,0,0,,And with that we move to Seattle Day 1.
+Dialogue: 1,1:06:24.46,1:06:28.24,辉中,,0,0,0,,来西雅图的第一天 主要元素是“大门”
+Dialogue: 2,1:06:24.46,1:06:28.24,辉英,,0,0,0,,Our first day in Seattle starts with the gate,
+Dialogue: 1,1:06:28.24,1:06:31.05,辉中,,0,0,0,,一开始和蒂娜一边唠嗑一边穿过树林
+Dialogue: 2,1:06:28.24,1:06:31.05,辉英,,0,0,0,,basically riding through the forest, talking with Dina.
+Dialogue: 1,1:06:31.05,1:06:33.75,辉中,,0,0,0,,然后你要想办法进入城市的主体部分
+Dialogue: 2,1:06:31.05,1:06:33.75,辉英,,0,0,0,,And you have to try and get into the body of the city.
+Dialogue: 1,1:06:33.75,1:06:36.81,辉中,,0,0,0,,当然 有很多在隔离期结束前建立的军事设施后来都成了废墟
+Dialogue: 2,1:06:33.75,1:06:36.81,辉英,,0,0,0,,Of course, there's a lot of military installations that were put up
+Dialogue: 1,1:06:36.81,1:06:41.97,辉中,,0,0,0,,当然 有很多在隔离期结束前建立的军事设施后来都成了废墟
+Dialogue: 2,1:06:36.81,1:06:41.97,辉英,,0,0,0,,towards the end of quarantine that have since fallen to pieces.
+Dialogue: 1,1:06:41.97,1:06:43.89,辉中,,0,0,0,,总之 你得想办法进去
+Dialogue: 2,1:06:41.97,1:06:43.89,辉英,,0,0,0,,But nonetheless you have to get through them.
+Dialogue: 1,1:06:43.89,1:06:46.17,辉中,,0,0,0,,这里有一些可以搜集的补给品
+Dialogue: 2,1:06:43.89,1:06:46.17,辉英,,0,0,0,,There's a few supplies here and there that you can gather.
+Dialogue: 1,1:06:46.17,1:06:49.12,辉中,,0,0,0,,但这个区域的主要内容就是解谜
+Dialogue: 2,1:06:46.17,1:06:49.12,辉英,,0,0,0,,But for the most part, this is a puzzle solving sequence.
+Dialogue: 1,1:06:49.12,1:06:54.34,辉中,,0,0,0,,玩家爬上爬下各种建筑和梯子 从找到的纸条上发现一些数字 输进去
+Dialogue: 2,1:06:49.12,1:06:54.34,辉英,,0,0,0,,We climbed some buildings go up some ladders enter some codes that we find on some papers
+Dialogue: 1,1:06:54.34,1:06:56.49,辉中,,0,0,0,,然后进入了西雅图市区
+Dialogue: 2,1:06:54.34,1:06:56.49,辉英,,0,0,0,,and we push into Seattle.
+Dialogue: 1,1:06:56.49,1:06:59.22,辉中,,0,0,0,,这可能是游戏中我最讨厌的部分了
+Dialogue: 2,1:06:56.49,1:06:59.22,辉英,,0,0,0,,This was probably my least favorite part of the game.
+Dialogue: 1,1:06:59.22,1:07:00.67,辉中,,0,0,0,,我们充满干劲地来到这里
+Dialogue: 2,1:06:59.22,1:07:00.67,辉英,,0,0,0,,We're emotionally motivated.
+Dialogue: 1,1:07:00.67,1:07:03.13,辉中,,0,0,0,,我们想搞定几个人 从他们口中问出一些名字
+Dialogue: 2,1:07:00.67,1:07:03.13,辉英,,0,0,0,,We want to go, kick some ass and take some names
+Dialogue: 1,1:07:03.13,1:07:06.21,辉中,,0,0,0,,然后再去搞定那些问到的名字
+Dialogue: 2,1:07:03.13,1:07:06.21,辉英,,0,0,0,,and then give those names to other people whose asses we've kicked,
+Dialogue: 1,1:07:06.21,1:07:11.07,辉中,,0,0,0,,结果却卡在这绞尽脑汁去玩什么解谜
+Dialogue: 2,1:07:06.21,1:07:11.07,辉英,,0,0,0,,but instead we're forced to just slowly solved some basic puzzles.
+Dialogue: 1,1:07:11.07,1:07:14.13,辉中,,0,0,0,,找到写有数字密码的纸条 然后去其他地方
+Dialogue: 2,1:07:11.07,1:07:14.13,辉英,,0,0,0,,Write down some codes, walked to another place,
+Dialogue: 1,1:07:14.13,1:07:19.29,辉中,,0,0,0,,打开笔记本 翻开纸条 然后手动输入进去
+Dialogue: 2,1:07:14.13,1:07:19.29,辉英,,0,0,0,,pull open our note book to look back at what the codes were and then enter those in manually.
+Dialogue: 1,1:07:19.29,1:07:20.70,辉中,,0,0,0,,这可一点意思都没有
+Dialogue: 2,1:07:19.29,1:07:20.70,辉英,,0,0,0,,It's not that interesting,
+Dialogue: 1,1:07:20.70,1:07:25.59,辉中,,0,0,0,,这和玩家此时想要做的事情是完全冲突的
+Dialogue: 2,1:07:20.70,1:07:25.59,辉英,,0,0,0,,and it is in direct conflict with what the player wants to be doing at this point.
+Dialogue: 1,1:07:25.59,1:07:28.62,辉中,,0,0,0,,我理解顽皮狗可能想要在此把节奏放缓
+Dialogue: 2,1:07:25.59,1:07:28.62,辉英,,0,0,0,,I understand may be Naughty Dog wanted to slow the pace down
+Dialogue: 1,1:07:28.62,1:07:33.18,辉中,,0,0,0,,因为在游戏序章结束后你可能会有巨大的失落感
+Dialogue: 2,1:07:28.62,1:07:33.18,辉英,,0,0,0,,after how emotionally distraught you might be after the prologue.
+Dialogue: 1,1:07:33.18,1:07:37.14,辉中,,0,0,0,,但我还是感觉这里或许有更好的处理办法
+Dialogue: 2,1:07:33.18,1:07:37.14,辉英,,0,0,0,,But still, I can't help but feel as though there would have been a better way to do this
+Dialogue: 1,1:07:37.14,1:07:41.61,辉中,,0,0,0,,比如多来点战斗环节 比如向你介绍新的感染者
+Dialogue: 2,1:07:37.14,1:07:41.61,辉英,,0,0,0,,may be some more combat sequences, may be introducing you to a new type of infected.
+Dialogue: 1,1:07:41.61,1:07:45.34,辉中,,0,0,0,,管他呢 反正啥内容都比这样解谜要好
+Dialogue: 2,1:07:41.61,1:07:45.34,辉英,,0,0,0,,I'm not sure, anything I think would have been better than this.
+Dialogue: 1,1:07:45.34,1:07:51.00,辉中,,0,0,0,,接着我们到了市中心 据我的估计 这应该是游戏中最大的单体区域了
+Dialogue: 2,1:07:45.34,1:07:51.00,辉英,,0,0,0,,We get to downtown and by my estimation, this is the largest single area of the game.
+Dialogue: 1,1:07:51.00,1:07:54.30,辉中,,0,0,0,,场景非常开放 有大约11个主要地点
+Dialogue: 2,1:07:51.00,1:07:54.30,辉英,,0,0,0,,It's very open, and there's about eleven main locations,
+Dialogue: 1,1:07:54.30,1:07:58.68,辉中,,0,0,0,,至少我自己在这片区域内找到了这么多
+Dialogue: 2,1:07:54.30,1:07:58.68,辉英,,0,0,0,,at least that I found to explore in this little area.
+Dialogue: 1,1:07:58.68,1:08:03.57,辉中,,0,0,0,,包括一个银行 一个犹太教堂 一个法庭 都有很多细节在里面
+Dialogue: 2,1:07:58.68,1:08:03.57,辉英,,0,0,0,,This includes a bank, a synagogue, a court house all very well realized.
+Dialogue: 1,1:08:03.57,1:08:08.16,辉中,,0,0,0,,银行里面很有趣的是一切刚好定格在一群人准备抢劫的时候
+Dialogue: 2,1:08:03.57,1:08:08.16,辉英,,0,0,0,,The bank is cool because it's frozen in time, right after a group of people tried to rob,
+Dialogue: 1,1:08:08.16,1:08:11.79,辉中,,0,0,0,,我喜欢一边看着银行里散落的无数钞票
+Dialogue: 2,1:08:08.16,1:08:11.79,辉英,,0,0,0,,I loved seeing all of the money strewn throughout the bank
+Dialogue: 1,1:08:11.79,1:08:15.68,辉中,,0,0,0,,一边看艾莉和蒂娜聊着这个时代如果钱还能用她们会怎么花
+Dialogue: 2,1:08:11.79,1:08:15.68,辉英,,0,0,0,,and watching Ellie and Dina ponder what they would do with that money
+Dialogue: 1,1:08:15.68,1:08:19.38,辉中,,0,0,0,,一边看艾莉和蒂娜聊着这个时代如果钱还能用她们会怎么花
+Dialogue: 2,1:08:15.68,1:08:19.38,辉英,,0,0,0,,if it actually was worth anything in their world.
+Dialogue: 1,1:08:19.38,1:08:23.22,辉中,,0,0,0,,我必须得说 顽皮狗真的很擅长这种架空世界观的构建
+Dialogue: 2,1:08:19.38,1:08:23.22,辉英,,0,0,0,,And I gotta say Naughty Dog is really good at this sort of indirect world building,
+Dialogue: 1,1:08:23.22,1:08:27.69,辉中,,0,0,0,,它会让你思考你目前生活中哪些才是真正重要的
+Dialogue: 2,1:08:23.22,1:08:27.69,辉英,,0,0,0,,it makes you question your actual priorities in your current life.
+Dialogue: 1,1:08:27.69,1:08:30.64,辉中,,0,0,0,,如果看视频的你是个瘫在椅子上一心只想着钱的死肥宅
+Dialogue: 2,1:08:27.69,1:08:30.64,辉英,,0,0,0,,If you're motivated purely by money and you have fat stack
+Dialogue: 1,1:08:30.64,1:08:33.39,辉中,,0,0,0,,如果看视频的你是个瘫在椅子上一心只想着钱的死肥宅
+Dialogue: 2,1:08:30.64,1:08:33.39,辉英,,0,0,0,,sitting next to you as you watch this video,
+Dialogue: 1,1:08:33.39,1:08:36.45,辉中,,0,0,0,,那当你走进这个钞票如同废纸的末世 肯定会不禁感慨万千
+Dialogue: 2,1:08:33.39,1:08:36.45,辉英,,0,0,0,,you can't help but feel a little bit strange
+Dialogue: 1,1:08:36.45,1:08:41.34,辉中,,0,0,0,,那当你走进这个钞票如同废纸的末世 肯定会不禁感慨万千
+Dialogue: 2,1:08:36.45,1:08:41.34,辉英,,0,0,0,,when you walk into this post apocalyptic world and the money is absolutely useless.
+Dialogue: 1,1:08:41.34,1:08:45.41,辉中,,0,0,0,,正是这些琐碎之事才让玩家脑中迸发了思想的火花
+Dialogue: 2,1:08:41.34,1:08:45.41,辉英,,0,0,0,,It's those types of little things that get the wheels turning in your mind
+Dialogue: 1,1:08:45.41,1:08:49.17,辉中,,0,0,0,,让玩家身临其境般 进入游戏中这样的世界里去
+Dialogue: 2,1:08:45.41,1:08:49.17,辉英,,0,0,0,,to start putting yourself in the shoes of the characters in that world.
+Dialogue: 1,1:08:49.17,1:08:55.50,辉中,,0,0,0,,这也让顽皮狗非常擅长引导玩家能继续融入故事中去
+Dialogue: 2,1:08:49.17,1:08:55.50,辉英,,0,0,0,,That makes Naughty Dog so good at motivating players to continue engaging with the story.
+Dialogue: 1,1:08:55.50,1:08:57.75,辉中,,0,0,0,,然而在这个章节中我最喜欢的部分
+Dialogue: 2,1:08:55.50,1:08:57.75,辉英,,0,0,0,,My favorite part of this chapter, however,
+Dialogue: 1,1:08:57.75,1:09:01.92,辉中,,0,0,0,,是音乐商店中的一个可选的互动内容
+Dialogue: 2,1:08:57.75,1:09:01.92,辉英,,0,0,0,,is an optional item interaction in the music store of this section.
+Dialogue: 1,1:09:01.92,1:09:07.71,辉中,,0,0,0,,基本上如果你在这里与吉他互动 Ellie就会开始弹唱《Take On Me》给Dina听
+Dialogue: 2,1:09:01.92,1:09:07.71,辉英,,0,0,0,,And basically if you interact with the guitar here, Ellie will start playing and singing Take On Me to Dina.
+Dialogue: 1,1:09:07.71,1:09:13.36,辉中,,0,0,0,,它真的很动听 是这个已经很放松的部分中的另一份平静时刻
+Dialogue: 2,1:09:07.71,1:09:13.36,辉英,,0,0,0,,It's really beautiful and is another calm moment in this already relaxing section.
+Dialogue: 1,1:09:13.36,1:09:19.11,辉中,,0,0,0,,我真的很喜欢 也希望大家能享受这份平静 因为这份平静并不会持续太久
+Dialogue: 2,1:09:13.36,1:09:19.11,辉英,,0,0,0,,And I really enjoyed it, and I recommend that you also enjoy it because it's not going to last.
+Dialogue: 1,1:09:19.11,1:09:23.82,辉中,,0,0,0,,但是尽管这部分游戏的故事元素令人印象相当深刻
+Dialogue: 2,1:09:19.11,1:09:23.82,辉英,,0,0,0,,But while the story elements of this section of the game are pretty impressive,
 Dialogue: 1,1:09:23.82,1:09:29.38,辉中,,0,0,0,,我觉得你要探索的广阔区域并不像我认为顽皮狗希望的那样令人印象深刻
 Dialogue: 2,1:09:23.82,1:09:29.38,辉英,,0,0,0,,I don't feel as though the expansive areas that you're meant to explore are quite as impressive
 Dialogue: 1,1:09:29.38,1:09:32.25,辉中,,0,0,0,,我觉得你要探索的广阔区域并不像我认为顽皮狗希望的那样令人印象深刻
