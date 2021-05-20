@@ -1,5 +1,5 @@
 这里用于保存视频中涉及到的游戏中剧情的剧本内容
-## 4 YEARS LATER
+## 四年后
 ### 埃比被乔尔和汤米救下
 - Joel: Gimme your hand! We're gonna have to run.
 - Tommy: There's too many of them!
@@ -27,7 +27,7 @@
 - Joel: God damn it!
 - Abby: Clear out.
 - Abby: You stupid old man… You don't get to rush this.
-### 艾莉目击乔尔遇害
+### 艾莉目睹乔尔遇害
 - Nora: Pin her down!
 - Ellie: Get off me!
 - Nora: Get her hands!
@@ -51,7 +51,11 @@
 - Man: Burn in hell, pendejo.
 - Ellie: I'll fucking kill you… No!
 - Ellie: No… I'll fucking kill you.
-## THE FARM
+## 西雅图第1天
+### 艾莉和蒂娜被偷袭
+- Man: Get the other! Don't lose her! Go!
+- Ellie: Dina.
+## 农场
 ### 艾莉最后一次和乔尔对话
 - Joel: Hey.
 - Ellie: What're you drinking?
