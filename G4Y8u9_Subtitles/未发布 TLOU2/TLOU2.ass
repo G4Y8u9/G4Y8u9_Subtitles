@@ -16,9 +16,9 @@ Video File: Q:/给没组/tlou2.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 2610
-Active Line: 2612
-Video Position: 307518
+Scroll Position: 2738
+Active Line: 2745
+Video Position: 323507
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -2646,75 +2646,147 @@ Dialogue: 1,1:25:21.27,1:25:22.62,辉中,,0,0,0,,于是俩人直接回去了
 Dialogue: 2,1:25:21.27,1:25:22.62,辉英,,0,0,0,,So they just leave.
 Dialogue: 1,1:25:22.62,1:25:25.29,辉中,,0,0,0,,然后 我们来到了西雅图第2天
 Dialogue: 2,1:25:22.62,1:25:25.29,辉英,,0,0,0,,And after that we jumped to Seattle Day 2.
-Dialogue: 1,1:25:25.29,1:25:27.39,辉中,,0,0,0,,Starting out our second day in Seattle,
-Dialogue: 1,1:25:27.39,1:25:31.91,辉中,,0,0,0,,Ellie wakes up in the theater and finds Dina in the radio room vomiting.
-Dialogue: 1,1:25:31.91,1:25:36.72,辉中,,0,0,0,,A not so subtle reminder of the revelation that we saw before the flashback.
-Dialogue: 1,1:25:36.72,1:25:40.58,辉中,,0,0,0,,She's been listening to the radio, deciphering the WLF's communications
-Dialogue: 1,1:25:40.58,1:25:44.47,辉中,,0,0,0,,to figure out where members of Joel's assassination party might be.
-Dialogue: 1,1:25:44.47,1:25:51.66,辉中,,0,0,0,,Dina and Ellie overhear a WLF broadcast together that there's a lone gunman in Zone 14.
-Dialogue: 1,1:25:51.66,1:25:57.03,辉中,,0,0,0,,They guess that this is a neighborhood called Hillcrest and Ellie heads out to investigate.
-Dialogue: 1,1:25:57.03,1:26:00.48,辉中,,0,0,0,,They think that this could be Tommy because, well, who else could it be?
-Dialogue: 1,1:26:00.48,1:26:05.67,辉中,,0,0,0,,Sorry for the bell, I have a kitten on my lap and she's making noise.
-Dialogue: 1,1:26:05.67,1:26:08.49,辉中,,0,0,0,,But yeah, Shakur have, Of course it's not Tommy,
-Dialogue: 1,1:26:08.49,1:26:11.30,辉中,,0,0,0,,Playing as Ellie, you push through a few different areas,
-Dialogue: 1,1:26:11.30,1:26:14.96,辉中,,0,0,0,,fighting all sorts of wolfs and looting lots of buildings.
-Dialogue: 1,1:26:15.12,1:26:17.78,辉中,,0,0,0,,Not much happens for around thirty minutes of exploring
-Dialogue: 1,1:26:17.78,1:26:21.84,辉中,,0,0,0,,until all of the WLF seems to descend at the same spot,
-Dialogue: 1,1:26:21.84,1:26:24.52,辉中,,0,0,0,,a smoke signal that Ellie also follows.
-Dialogue: 1,1:26:24.52,1:26:27.15,辉中,,0,0,0,,The level design here is really fantastic.
-Dialogue: 1,1:26:27.15,1:26:32.73,辉中,,0,0,0,,This use of a visual objective in the distance that you can follow as you go through the level.
-Dialogue: 1,1:26:32.73,1:26:37.66,辉中,,0,0,0,,It's really well done, and it's something Naughty Dog has been doing for a long time
-Dialogue: 1,1:26:37.66,1:26:39.69,辉中,,0,0,0,,and that they really have perfected.
-Dialogue: 1,1:26:39.69,1:26:42.54,辉中,,0,0,0,,Now these level really crescendos in difficulty,
-Dialogue: 1,1:26:42.54,1:26:47.67,辉中,,0,0,0,,especially in harder difficulty settings where difficulty spikes are far more severe.
-Dialogue: 1,1:26:47.67,1:26:51.54,辉中,,0,0,0,,Now the thing about this is that you'll get caught with no ammo in this level
-Dialogue: 1,1:26:51.54,1:26:54.24,辉中,,0,0,0,,If you're not careful and use it all too early.
-Dialogue: 1,1:26:54.24,1:26:57.09,辉中,,0,0,0,,So you have to be very careful to preserve it.
-Dialogue: 1,1:26:57.09,1:27:00.13,辉中,,0,0,0,,But the problem is on your first run through you're not going to know
-Dialogue: 1,1:27:00.13,1:27:02.64,辉中,,0,0,0,,that you're going to run out of ammo so quickly.
-Dialogue: 1,1:27:02.64,1:27:03.96,辉中,,0,0,0,,You couldn't have known.
-Dialogue: 1,1:27:03.96,1:27:09.48,辉中,,0,0,0,,So in turn you are always careful and never want to use any of your ammo whatsoever.
-Dialogue: 1,1:27:09.48,1:27:12.57,辉中,,0,0,0,,But when that's the case, you are always careful,
-Dialogue: 1,1:27:12.57,1:27:17.10,辉中,,0,0,0,,which also means that you never are because your behavior isn't changing in any way.
-Dialogue: 1,1:27:17.10,1:27:18.78,辉中,,0,0,0,,You are just refusing to use ammo,
-Dialogue: 1,1:27:18.78,1:27:21.30,辉中,,0,0,0,,so you're effectively playing through the game as a melee game.
-Dialogue: 1,1:27:21.30,1:27:26.46,辉中,,0,0,0,,It's this game play hesitance that I have noticed in a lot of horror video games,
-Dialogue: 1,1:27:26.46,1:27:29.82,辉中,,0,0,0,,especially where ammo is very limited.
-Dialogue: 1,1:27:29.82,1:27:36.29,辉中,,0,0,0,,It's strange to me because I don't think it actually reflects a better game play experience
-Dialogue: 1,1:27:36.29,1:27:40.22,辉中,,0,0,0,,because it just ends up with the player refusing to use multiple mechanics
-Dialogue: 1,1:27:40.22,1:27:42.36,辉中,,0,0,0,,because they are scared that if they do use them,
-Dialogue: 1,1:27:42.36,1:27:45.99,辉中,,0,0,0,,they're going to run out of ammo and be unable to use them later on.
-Dialogue: 1,1:27:45.99,1:27:51.69,辉中,,0,0,0,,But I understand that getting rid of this system could also be like throwing the baby out with the bathwater.
-Dialogue: 1,1:27:51.69,1:27:54.57,辉中,,0,0,0,,Though regardless, Ellie pushes to the smokestack,
-Dialogue: 1,1:27:54.57,1:27:58.26,辉中,,0,0,0,,killing and evading all sorts of WLF members while she goes.
-Dialogue: 1,1:27:58.26,1:28:00.45,辉中,,0,0,0,,You eventually unlock the bow and arrow here,
-Dialogue: 1,1:28:00.45,1:28:04.44,辉中,,0,0,0,,which is actually probably my favorite weapon of the whole game.
-Dialogue: 1,1:28:04.44,1:28:08.53,辉中,,0,0,0,,It's silent, you can recollect a lot of the ammo depending on where you hit the enemy
-Dialogue: 1,1:28:08.53,1:28:10.86,辉中,,0,0,0,,and on what difficulty you're playing.
-Dialogue: 1,1:28:10.86,1:28:14.61,辉中,,0,0,0,,And all around I just like it, I find it really satisfying.
-Dialogue: 1,1:28:14.61,1:28:19.56,辉中,,0,0,0,,She reaches the location of the smoke stack, and then this happens.
-Dialogue: 1,1:28:48.00,1:28:53.02,辉中,,0,0,0,,This is really weird to me… because…
-Dialogue: 1,1:28:53.02,1:28:56.97,辉中,,0,0,0,,as far as I knew, this was going to be Joel when Ellie turned around,
-Dialogue: 1,1:28:56.97,1:29:01.64,辉中,,0,0,0,,and I was really confused when I saw that we were getting to that point where the trailer happened.
-Dialogue: 1,1:29:01.64,1:29:03.69,辉中,,0,0,0,,And I knew that Joel was dead.
-Dialogue: 1,1:29:03.69,1:29:05.79,辉中,,0,0,0,,How could he possibly show up and save the day?
-Dialogue: 1,1:29:05.79,1:29:08.88,辉中,,0,0,0,,But sure enough, it ends up being Jesse.
-Dialogue: 1,1:29:08.88,1:29:13.02,辉中,,0,0,0,,It's just strange to me that they chose to do this fake out,
-Dialogue: 1,1:29:13.02,1:29:17.07,辉中,,0,0,0,,where we thought that it was going to be Joel here,
-Dialogue: 1,1:29:17.07,1:29:18.87,辉中,,0,0,0,,because that's what the trailer showed,
-Dialogue: 1,1:29:18.87,1:29:23.07,辉中,,0,0,0,,and then it ends up being just… It's just it's weird… It's weird to me.
-Dialogue: 1,1:29:23.07,1:29:24.30,辉中,,0,0,0,,I don't know what else to say.
-Dialogue: 1,1:29:24.30,1:29:27.06,辉中,,0,0,0,,If you have more information on this, let me know in the comments section below,
-Dialogue: 1,1:29:27.06,1:29:29.64,辉中,,0,0,0,,I just…  it's weird. I don't know what to make of it.
-Dialogue: 1,1:29:29.64,1:29:33.12,辉中,,0,0,0,,Nonetheless, Ellie and Jessie managed to escape by way of a stolen car
-Dialogue: 1,1:29:33.12,1:29:39.48,辉中,,0,0,0,,that they drive into a river in a pretty impressive sequence that also leaked pre launch.
-Dialogue: 1,1:29:39.48,1:29:43.47,辉中,,0,0,0,,It's a superfluid sequence, and no, I'm not just saying that because they end up in a river,
-Dialogue: 1,1:29:43.47,1:29:47.76,辉中,,0,0,0,,I think it's very well polished and it looks incredible to boot.
-Dialogue: 1,1:29:47.76,1:29:51.78,辉中,,0,0,0,,But then again, I mean, this is a Naughty Dog game wouldn't expect anything else.
-Dialogue: 1,1:29:51.78,1:29:55.77,辉中,,0,0,0,,You bring Jesse back to Dina and there's a ton of tension here.
-Dialogue: 1,1:29:55.77,1:29:59.07,辉中,,0,0,0,,Ellie, of course, leaves because she feels very awkward.
-Dialogue: 1,1:29:59.07,1:30:03.54,辉中,,0,0,0,,After all Ellie's girlfriend's baby daddy just showed up.
-Dialogue: 1,1:30:03.54,1:30:05.44,辉中,,0,0,0,,I don't blame her for wanting to leave.
+Dialogue: 1,1:25:25.29,1:25:27.39,辉中,,0,0,0,,西雅图第2天开始
+Dialogue: 2,1:25:25.29,1:25:27.39,辉英,,0,0,0,,Starting out our second day in Seattle,
+Dialogue: 1,1:25:27.39,1:25:31.91,辉中,,0,0,0,,艾莉在剧院醒来后看到蒂娜在放收音机的房间里吐
+Dialogue: 2,1:25:27.39,1:25:31.91,辉英,,0,0,0,,Ellie wakes up in the theater and finds Dina in the radio room vomiting,
+Dialogue: 1,1:25:31.91,1:25:36.72,辉中,,0,0,0,,算是对闪回之前剧情内容的一次挺直接的提醒
+Dialogue: 2,1:25:31.91,1:25:36.72,辉英,,0,0,0,,a not so subtle reminder of the revelation that we saw before the flashback.
+Dialogue: 1,1:25:36.72,1:25:40.58,辉中,,0,0,0,,蒂娜一直在监听电台 破译WLF的通讯内容
+Dialogue: 2,1:25:36.72,1:25:40.58,辉英,,0,0,0,,She's been listening to the radio, deciphering the WLF's communications
+Dialogue: 1,1:25:40.58,1:25:44.47,辉中,,0,0,0,,想要找出追杀乔尔那帮人的可能位置
+Dialogue: 2,1:25:40.58,1:25:44.47,辉英,,0,0,0,,to figure out where members of Joel's assassination party might be.
+Dialogue: 1,1:25:44.47,1:25:51.66,辉中,,0,0,0,,蒂娜和艾莉在WLF广播中听到在14区有一个枪手
+Dialogue: 2,1:25:44.47,1:25:51.66,辉英,,0,0,0,,Dina and Ellie overhear a WLF broadcast together that there's a lone gunman in Zone 14.
+Dialogue: 1,1:25:51.66,1:25:57.03,辉中,,0,0,0,,她们猜测这个14区就是不远的希尔科列斯特 艾莉决定亲自去调查一番
+Dialogue: 2,1:25:51.66,1:25:57.03,辉英,,0,0,0,,They guess that this is a neighborhood called Hillcrest and Ellie heads out to investigate.
+Dialogue: 1,1:25:57.03,1:26:00.48,辉中,,0,0,0,,她们认为这个枪手就是汤米 毕竟……还能是谁啊？
+Dialogue: 2,1:25:57.03,1:26:00.48,辉英,,0,0,0,,They think that this could be Tommy because, well, who else could it be?
+Dialogue: 1,1:26:00.48,1:26:05.67,辉中,,0,0,0,,抱歉 是我家猫在我键盘上乱打的 不关我的事
+Dialogue: 2,1:26:00.48,1:26:05.67,辉英,,0,0,0,,Sorry for the bell, I have a kitten on my lap and she's making noise.
+Dialogue: 1,1:26:05.67,1:26:08.49,辉中,,0,0,0,,但……反正肯定真不是汤米啦
+Dialogue: 2,1:26:05.67,1:26:08.49,辉英,,0,0,0,,But yeah, shocker have… of course it's not Tommy.
+Dialogue: 1,1:26:08.49,1:26:11.30,辉中,,0,0,0,,你操控艾莉继续穿过几个不同的区域
+Dialogue: 2,1:26:08.49,1:26:11.30,辉英,,0,0,0,,Playing as Ellie, you push through a few different areas,
+Dialogue: 1,1:26:11.30,1:26:14.96,辉中,,0,0,0,,和各种WLF的人作战 搜刮各种建筑
+Dialogue: 2,1:26:11.30,1:26:14.96,辉英,,0,0,0,,fighting all sorts of wolfs and looting lots of buildings.
+Dialogue: 1,1:26:15.12,1:26:17.78,辉中,,0,0,0,,大约三十分钟无事发生的探索后
+Dialogue: 2,1:26:15.12,1:26:17.78,辉英,,0,0,0,,Not much happens for around thirty minutes of exploring
+Dialogue: 1,1:26:17.78,1:26:24.52,辉中,,0,0,0,,所有WLF似乎瞬间和艾莉一起涌向了一个远处冒烟的地方
+Dialogue: 2,1:26:17.78,1:26:21.84,辉英,,0,0,0,,until all of the WLF seems to descend at the same spot,
+Dialogue: 2,1:26:21.84,1:26:24.52,辉英,,0,0,0,,a smoke signal that Ellie also follows.
+Dialogue: 1,1:26:24.52,1:26:27.15,辉中,,0,0,0,,这里的关卡设计真的很棒
+Dialogue: 2,1:26:24.52,1:26:27.15,辉英,,0,0,0,,The level design here is really fantastic.
+Dialogue: 1,1:26:27.15,1:26:32.73,辉中,,0,0,0,,这里使用了远处某个可见物体来引导玩家继续进行关卡
+Dialogue: 2,1:26:27.15,1:26:32.73,辉英,,0,0,0,,This use of a visual objective in the distance that you can follow as you go through the level.
+Dialogue: 1,1:26:32.73,1:26:37.66,辉中,,0,0,0,,这样设计很棒 而且顽皮狗使用类似的设计已经很久了
+Dialogue: 2,1:26:32.73,1:26:37.66,辉英,,0,0,0,,It's really well done, and it's something Naughty Dog has been doing for a long time
+Dialogue: 1,1:26:37.66,1:26:39.69,辉中,,0,0,0,,他们非常擅长于此
+Dialogue: 2,1:26:37.66,1:26:39.69,辉英,,0,0,0,,and that they really have perfected.
+Dialogue: 1,1:26:39.69,1:26:42.54,辉中,,0,0,0,,这里的一些关卡也非常难
+Dialogue: 2,1:26:39.69,1:26:42.54,辉英,,0,0,0,,Now these level really crescendos in difficulty,
+Dialogue: 1,1:26:42.54,1:26:47.67,辉中,,0,0,0,,尤其在高难度设定下 难度的峰值会急剧增加
+Dialogue: 2,1:26:42.54,1:26:47.67,辉英,,0,0,0,,especially in harder difficulty settings where difficulty spikes are far more severe.
+Dialogue: 1,1:26:47.67,1:26:54.24,辉中,,0,0,0,,这里我想说的是如果你之前没有节约 就很容易陷入没有弹药进退两难的地步
+Dialogue: 2,1:26:47.67,1:26:51.54,辉英,,0,0,0,,Now the thing about this is that you'll get caught with no ammo in this level
+Dialogue: 2,1:26:51.54,1:26:54.24,辉英,,0,0,0,,if you're not careful and use it all too early.
+Dialogue: 1,1:26:54.24,1:26:57.09,辉中,,0,0,0,,因此你必须处处节省
+Dialogue: 2,1:26:54.24,1:26:57.09,辉英,,0,0,0,,So you have to be very careful to preserve it.
+Dialogue: 1,1:26:57.09,1:27:00.13,辉中,,0,0,0,,但问题在于一周目下你并不知道
+Dialogue: 2,1:26:57.09,1:27:00.13,辉英,,0,0,0,,But the problem is on your first run through you're not going to know
+Dialogue: 1,1:27:00.13,1:27:02.64,辉中,,0,0,0,,弹药会消耗如此之快
+Dialogue: 2,1:27:00.13,1:27:02.64,辉英,,0,0,0,,that you're going to run out of ammo so quickly.
+Dialogue: 1,1:27:02.64,1:27:03.96,辉中,,0,0,0,,你不可能预知此事
+Dialogue: 2,1:27:02.64,1:27:03.96,辉英,,0,0,0,,You couldn't have known.
+Dialogue: 1,1:27:03.96,1:27:09.48,辉中,,0,0,0,,所以你会一直省着弹药 一枪都不想开
+Dialogue: 2,1:27:03.96,1:27:09.48,辉英,,0,0,0,,So in turn you are always careful and never want to use any of your ammo whatsoever.
+Dialogue: 1,1:27:09.48,1:27:12.57,辉中,,0,0,0,,但如果你一直这样小心翼翼处处节约的话
+Dialogue: 2,1:27:09.48,1:27:12.57,辉英,,0,0,0,,But when that's the case, you are always careful,
+Dialogue: 1,1:27:12.57,1:27:17.10,辉中,,0,0,0,,就意味着你的游戏行为不会有任何改变
+Dialogue: 2,1:27:12.57,1:27:17.10,辉英,,0,0,0,,which also means that you never are because your behavior isn't changing in any way.
+Dialogue: 1,1:27:17.10,1:27:18.78,辉中,,0,0,0,,你会一直不使用自己的弹药
+Dialogue: 2,1:27:17.10,1:27:18.78,辉英,,0,0,0,,You are just refusing to use ammo,
+Dialogue: 1,1:27:18.78,1:27:21.30,辉中,,0,0,0,,然后这个游戏就慢慢变成了一个近战肉搏游戏
+Dialogue: 2,1:27:18.78,1:27:21.30,辉英,,0,0,0,,so you're effectively playing through the game as a melee game.
+Dialogue: 1,1:27:21.30,1:27:26.46,辉中,,0,0,0,,这种不想用弹药的游戏行为我在很多恐怖游戏里见过
+Dialogue: 2,1:27:21.30,1:27:26.46,辉英,,0,0,0,,It's this game play hesitance that I have noticed in a lot of horror video games,
+Dialogue: 1,1:27:26.46,1:27:29.82,辉中,,0,0,0,,尤其是那些弹药稀缺的游戏
+Dialogue: 2,1:27:26.46,1:27:29.82,辉英,,0,0,0,,especially where ammo is very limited.
+Dialogue: 1,1:27:29.82,1:27:36.29,辉中,,0,0,0,,我觉得这样挺怪的 因为我认为这并不算是好的游戏体验
+Dialogue: 2,1:27:29.82,1:27:36.29,辉英,,0,0,0,,It's strange to me because I don't think it actually reflects a better game play experience
+Dialogue: 1,1:27:36.29,1:27:40.22,辉中,,0,0,0,,因为这会让玩家无法参与到多样的游戏机制中去
+Dialogue: 2,1:27:36.29,1:27:40.22,辉英,,0,0,0,,because it just ends up with the player refusing to use multiple mechanics
+Dialogue: 1,1:27:40.22,1:27:42.36,辉中,,0,0,0,,因为他们害怕如果随随便便使用了弹药
+Dialogue: 2,1:27:40.22,1:27:42.36,辉英,,0,0,0,,because they are scared that if they do use them,
+Dialogue: 1,1:27:42.36,1:27:45.99,辉中,,0,0,0,,就会很快耗光弹药 之后就很尴尬了
+Dialogue: 2,1:27:42.36,1:27:45.99,辉英,,0,0,0,,they're going to run out of ammo and be unable to use them later on.
+Dialogue: 1,1:27:45.99,1:27:51.69,辉中,,0,0,0,,但我也能理解如果彻底抛弃这样的游戏系统又会有一种因噎废食的感觉
+Dialogue: 2,1:27:45.99,1:27:51.69,辉英,,0,0,0,,But I understand that getting rid of this system could also be like throwing the baby out with the bathwater.
+Dialogue: 1,1:27:51.69,1:27:54.57,辉中,,0,0,0,,总之 艾莉来到了冒烟的地方
+Dialogue: 2,1:27:51.69,1:27:54.57,辉英,,0,0,0,,Though regardless, Ellie pushes to the smokestack,
+Dialogue: 1,1:27:54.57,1:27:58.26,辉中,,0,0,0,,在WLF的地盘上或杀穿 或潜行
+Dialogue: 2,1:27:54.57,1:27:58.26,辉英,,0,0,0,,killing and evading all sorts of WLF members while she goes.
+Dialogue: 1,1:27:58.26,1:28:00.45,辉中,,0,0,0,,最终解锁了弓箭
+Dialogue: 2,1:27:58.26,1:28:00.45,辉英,,0,0,0,,You eventually unlock the bow and arrow here,
+Dialogue: 1,1:28:00.45,1:28:04.44,辉中,,0,0,0,,这可能是游戏中我最喜欢的武器了
+Dialogue: 2,1:28:00.45,1:28:04.44,辉英,,0,0,0,,which is actually probably my favorite weapon of the whole game.
+Dialogue: 1,1:28:04.44,1:28:10.86,辉中,,0,0,0,,它不会发出声响 根据射中的位置和游戏难度的不同还有可能回收弓箭
+Dialogue: 2,1:28:04.44,1:28:08.53,辉英,,0,0,0,,It's silent, you can recollect a lot of the ammo depending on where you hit the enemy
+Dialogue: 2,1:28:08.53,1:28:10.86,辉英,,0,0,0,,and on what difficulty you're playing.
+Dialogue: 1,1:28:10.86,1:28:14.61,辉中,,0,0,0,,总之我喜欢这款武器 它真的很好用
+Dialogue: 2,1:28:10.86,1:28:14.61,辉英,,0,0,0,,And all around I just like it, I find it really satisfying.
+Dialogue: 1,1:28:14.61,1:28:19.56,辉中,,0,0,0,,艾莉来到了冒烟的地方下 然后……
+Dialogue: 2,1:28:14.61,1:28:19.56,辉英,,0,0,0,,She reaches the location of the smoke stack, and then this happens.
+Dialogue: 1,1:28:26.96,1:28:28.86,辉中 Script,,0,0,0,,男子：嘘嘘！
+Dialogue: 2,1:28:26.96,1:28:28.86,辉英 Script,,0,0,0,,Man: Shh, shh!
+Dialogue: 1,1:28:41.89,1:28:43.85,辉中 Script,,0,0,0,,艾莉：你到底在这里干嘛？
+Dialogue: 2,1:28:41.89,1:28:43.85,辉英 Script,,0,0,0,,Ellie: What the hell are you doing here?
+Dialogue: 1,1:28:45.84,1:28:47.90,辉中 Script,,0,0,0,,杰西：你觉得我会坐视不顾吗？
+Dialogue: 2,1:28:45.84,1:28:47.90,辉英 Script,,0,0,0,,Jesse: Think I'd let you do this on your own?
+Dialogue: 1,1:28:48.00,1:28:53.02,辉中,,0,0,0,,我觉得这实在是太怪了……因为……
+Dialogue: 2,1:28:48.00,1:28:53.02,辉英,,0,0,0,,This is really weird to me… because…
+Dialogue: 1,1:28:53.02,1:28:56.97,辉中,,0,0,0,,据我所知艾莉回头看见的应该是乔尔才对
+Dialogue: 2,1:28:53.02,1:28:56.97,辉英,,0,0,0,,as far as I knew, this was going to be Joel when Ellie turned around,
+Dialogue: 1,1:28:56.97,1:29:01.64,辉中,,0,0,0,,所以当我看到预告片里的画面即将发生的时候 真的满脑子都是问号
+Dialogue: 2,1:28:56.97,1:29:01.64,辉英,,0,0,0,,and I was really confused when I saw that we were getting to that point where the trailer happened.
+Dialogue: 1,1:29:01.64,1:29:03.69,辉中,,0,0,0,,我也知道乔尔已经死了
+Dialogue: 2,1:29:01.64,1:29:03.69,辉英,,0,0,0,,And I knew that Joel was dead.
+Dialogue: 1,1:29:03.69,1:29:05.79,辉中,,0,0,0,,那他怎么可能会回来拯救艾莉呢？
+Dialogue: 2,1:29:03.69,1:29:05.79,辉英,,0,0,0,,How could he possibly show up and save the day?
+Dialogue: 1,1:29:05.79,1:29:08.88,辉中,,0,0,0,,但最后明白了 原来是杰西
+Dialogue: 2,1:29:05.79,1:29:08.88,辉英,,0,0,0,,But sure enough, it ends up being Jesse.
+Dialogue: 1,1:29:08.88,1:29:13.02,辉中,,0,0,0,,我感觉他们选择用这种方法迷惑大家实在是太怪了
+Dialogue: 2,1:29:08.88,1:29:13.02,辉英,,0,0,0,,It's just strange to me that they chose to do this fake out,
+Dialogue: 1,1:29:13.02,1:29:17.07,辉中,,0,0,0,,因为我们都以为这里出现的会是乔尔
+Dialogue: 2,1:29:13.02,1:29:17.07,辉英,,0,0,0,,where we thought that it was going to be Joel here,
+Dialogue: 1,1:29:17.07,1:29:18.87,辉中,,0,0,0,,因为预告片里都放了
+Dialogue: 2,1:29:17.07,1:29:18.87,辉英,,0,0,0,,because that's what the trailer showed,
+Dialogue: 1,1:29:18.87,1:29:23.07,辉中,,0,0,0,,结果出现的是……感觉真的……太怪了……我感觉太怪了
+Dialogue: 2,1:29:18.87,1:29:23.07,辉英,,0,0,0,,and then it ends up being just… It's just it's weird… It's weird to me.
+Dialogue: 1,1:29:23.07,1:29:24.30,辉中,,0,0,0,,我感觉我都无语了
+Dialogue: 2,1:29:23.07,1:29:24.30,辉英,,0,0,0,,I don't know what else to say.
+Dialogue: 1,1:29:24.30,1:29:27.06,辉中,,0,0,0,,如果你有更多相关的信息 请务必在评论区告诉我
+Dialogue: 2,1:29:24.30,1:29:27.06,辉英,,0,0,0,,If you have more information on this, let me know in the comments section below,
+Dialogue: 1,1:29:27.06,1:29:29.64,辉中,,0,0,0,,我就是……觉得怪 已经不知道说什么了
+Dialogue: 2,1:29:27.06,1:29:29.64,辉英,,0,0,0,,I just…  it's weird. I don't know what to make of it.
+Dialogue: 1,1:29:29.64,1:29:33.12,辉中,,0,0,0,,总之 艾莉和杰西想方设法偷了辆车逃跑了
+Dialogue: 2,1:29:29.64,1:29:33.12,辉英,,0,0,0,,Nonetheless, Ellie and Jessie managed to escape by way of a stolen car
+Dialogue: 1,1:29:33.12,1:29:39.48,辉中,,0,0,0,,然后一段流畅的战斗后车子开进河里了 这段发售前也泄露过
+Dialogue: 2,1:29:33.12,1:29:39.48,辉英,,0,0,0,,that they drive into a river in a pretty impressive sequence that also leaked pre launch.
+Dialogue: 1,1:29:39.48,1:29:43.47,辉中,,0,0,0,,这段战斗简直是如丝般顺滑 不只是因为他们把车开水里去了
+Dialogue: 2,1:29:39.48,1:29:43.47,辉英,,0,0,0,,It's a superfluid sequence, and no, I'm not just saying that because they end up in a river,
+Dialogue: 1,1:29:43.47,1:29:47.76,辉中,,0,0,0,,我觉得打磨得非常棒 观感非常震撼
+Dialogue: 2,1:29:43.47,1:29:47.76,辉英,,0,0,0,,I think it's very well polished and it looks incredible to boot.
+Dialogue: 1,1:29:47.76,1:29:51.78,辉中,,0,0,0,,但当然了 毕竟这是顽皮狗的游戏嘛
+Dialogue: 2,1:29:47.76,1:29:51.78,辉英,,0,0,0,,But then again, I mean, this is a Naughty Dog game wouldn't expect anything else.
+Dialogue: 1,1:29:51.78,1:29:55.77,辉中,,0,0,0,,你把杰西带了回去 也带回了成吨的尴尬
+Dialogue: 2,1:29:51.78,1:29:55.77,辉英,,0,0,0,,You bring Jesse back to Dina and there's a ton of tension here.
+Dialogue: 1,1:29:55.77,1:29:59.07,辉中,,0,0,0,,艾莉自己先回去了 因为她被尬得实在绷不住了
+Dialogue: 2,1:29:55.77,1:29:59.07,辉英,,0,0,0,,Ellie, of course, leaves because she feels very awkward.
+Dialogue: 1,1:29:59.07,1:30:03.54,辉中,,0,0,0,,毕竟艾莉的女朋友的孩子的爸爸出现在面前
+Dialogue: 2,1:29:59.07,1:30:03.54,辉英,,0,0,0,,After all Ellie's girlfriend's baby daddy just showed up.
+Dialogue: 1,1:30:03.54,1:30:05.44,辉中,,0,0,0,,我觉得她很难能绷住
+Dialogue: 2,1:30:03.54,1:30:05.44,辉英,,0,0,0,,I don't blame her for wanting to leave.
 Dialogue: 1,1:30:05.44,1:30:10.56,辉中,,0,0,0,,As Ellie walks away, we jump into another flashback, and this one's actually pretty simple.
 Dialogue: 1,1:30:10.56,1:30:14.10,辉中,,0,0,0,,Ellie and Joel are exploring a hotel while on their way to a music store
 Dialogue: 1,1:30:14.10,1:30:17.73,辉中,,0,0,0,,after Ellie receives a lesson on sniping from Tommy.

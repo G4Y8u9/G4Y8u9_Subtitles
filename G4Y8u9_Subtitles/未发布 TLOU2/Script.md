@@ -55,6 +55,13 @@
 ### 艾莉和蒂娜被偷袭
 - Man: Get the other! Don't lose her! Go!
 - Ellie: Dina.
+## 西雅图第2天
+### 艾莉遇到杰西
+- Man: Shh, shh!
+- Ellie: What the hell are you doing here?
+- Jesse: Think I'd let you do this on your own?
+## 圣塔芭芭拉
+- Ellie: Go. Just take him.
 ## 农场
 ### 艾莉最后一次和乔尔对话
 - Joel: Hey.
