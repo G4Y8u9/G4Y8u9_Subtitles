@@ -51,15 +51,43 @@
 - Man: Burn in hell, pendejo.
 - Ellie: I'll fucking kill you… No!
 - Ellie: No… I'll fucking kill you.
-## 西雅图第1天
+## 艾莉 西雅图第1天
 ### 艾莉和蒂娜被偷袭
 - Man: Get the other! Don't lose her! Go!
 - Ellie: Dina.
-## 西雅图第2天
+## 艾莉 西雅图第2天
 ### 艾莉遇到杰西
 - Man: Shh, shh!
 - Ellie: What the hell are you doing here?
 - Jesse: Think I'd let you do this on your own?
+## 埃比 西雅图第3天
+### 埃比追杀到剧院
+- Tommy: Fuckin' Jesse… Think I don't know what real gold looks like… Wait'll you see this, you sumbitch. She gonna love it.
+- Abby: Hands up. Back away from your shit. I said back up!
+- Tommy: You're making a big mistake--
+- Abby: Don't fuckin' turn around. Lev, keep your bow on him. Get on the ground.
+- Tommy: You gonna kill me like a coward?
+- Abby: You fucking people.
+- Abby: Stand up! Hands in the air or shoot this one, too!
+- Tommy: Don't you do it, Ellie! Get out of here!
+- Abby: Stand up now!
+- Tommy: Don't you fucking dare--
+- Abby: Shut the fuck up! All right--
+- Ellie: Stop, stop!
+- Abby: Toss your weapon. Toss your weapon!
+- Ellie: Fuck!
+- Tommy: No… no…
+- Ellie: I know why you killed Joel. He did what he did to save me. There's no cure because of me. I'm the one that you want. Just let him go.
+- Abby: You killed my friends… We let you both live… and you wasted it!
+- Ellie: Wait!
+- Lev: Get off of her!
+- Ellie: Tommy!
+- Abby: Come on! 
+### 埃比和艾莉剧院决战后
+- Ellie: Stop. She had nothing to do with this! She's pregnant.
+- Abby: Good.
+- Lev: Abby! (nearly cries)
+- Abby: Don't ever let me see you again. (to Lev) Come on.
 ## 圣塔芭芭拉
 - Ellie: Go. Just take him.
 ## 农场
