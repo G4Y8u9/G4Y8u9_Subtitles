@@ -16,9 +16,9 @@ Video File: Q:/给没组/tlou2.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 5500
-Active Line: 5505
-Video Position: 972889
+Scroll Position: 5538
+Active Line: 5543
+Video Position: 976379
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -5540,44 +5540,44 @@ Dialogue: 0,4:29:54.91,4:29:57.43,辉中 Script,,0,0,0,,男子：朝那边一直
 Dialogue: 0,4:29:57.66,4:30:00.00,辉中 Script,,0,0,0,,沿着铁轨可以走到一个度假村。
 Dialogue: 0,4:30:00.00,4:30:02.70,辉中 Script,,0,0,0,,我们把他们关在又高又圆的建筑里
 Dialogue: 0,4:30:12.80,4:30:14.81,辉中 Script,,0,0,0,,我发誓。
-Dialogue: 1,4:28:59.56,4:29:02.17,辉中,,0,0,0,,Now these guys are obviously super dome.
-Dialogue: 1,4:29:02.17,4:29:07.16,辉中,,0,0,0,,But you have to ask yourself as the player, what's keeping you going?
-Dialogue: 1,4:29:07.16,4:29:12.22,辉中,,0,0,0,,Other than just going through the motions of continuing to do what the game asks you to do.
-Dialogue: 1,4:29:12.22,4:29:17.04,辉中,,0,0,0,,One of the best things about the early hours of TLOU2 is that the player is completely on board
-Dialogue: 1,4:29:17.04,4:29:21.34,辉中,,0,0,0,,with Ellie's drive and mission to take out Abby.
-Dialogue: 1,4:29:21.34,4:29:22.54,辉中,,0,0,0,,And as the game goes on,
-Dialogue: 1,4:29:22.54,4:29:28.06,辉中,,0,0,0,,you also start to lose that motivation once you start to sympathise with Abby and her crew.
-Dialogue: 1,4:29:28.06,4:29:31.15,辉中,,0,0,0,,So you end up very conflicted in that final boss fight
-Dialogue: 1,4:29:31.15,4:29:34.66,辉中,,0,0,0,,where you don't want to do anything or hurt either one of these characters.
-Dialogue: 1,4:29:34.66,4:29:37.48,辉中,,0,0,0,,But now the players still feels like that.
-Dialogue: 1,4:29:37.48,4:29:41.44,辉中,,0,0,0,,And yet the game designers are asking Ellie to chase down Abby,
-Dialogue: 1,4:29:41.44,4:29:44.68,辉中,,0,0,0,,even though it's caused her to lose everything at this point
-Dialogue: 1,4:29:44.68,4:29:48.46,辉中,,0,0,0,,and will likely not result in the conclusion
-Dialogue: 1,4:29:48.46,4:29:51.64,辉中,,0,0,0,,that either the player or Ellie he would be satisfied with.
-Dialogue: 1,4:29:51.64,4:29:53.83,辉中,,0,0,0,,Some people have said that this is a pacing issue,
-Dialogue: 1,4:29:53.83,4:29:56.44,辉中,,0,0,0,,but I don't think that that's the right way to phrase it.
-Dialogue: 1,4:29:56.44,4:29:59.17,辉中,,0,0,0,,If anything, I think that this is a motivational issue.
-Dialogue: 1,4:29:59.17,4:30:03.24,辉中,,0,0,0,,I think the player doesn't feel motivated to continue on this mission
-Dialogue: 1,4:30:03.24,4:30:05.59,辉中,,0,0,0,,that they're being asked to embark on.
-Dialogue: 1,4:30:05.59,4:30:07.07,辉中,,0,0,0,,Now of course, you could have a game
-Dialogue: 1,4:30:07.07,4:30:11.14,辉中,,0,0,0,,that motivates the player to continue playing purely by way of its game play,
-Dialogue: 1,4:30:11.14,4:30:14.32,辉中,,0,0,0,,and there is no narrative reason to continue at all.
-Dialogue: 1,4:30:14.32,4:30:17.29,辉中,,0,0,0,,However, that's not how Naughty Dog games work.
-Dialogue: 1,4:30:17.29,4:30:23.77,辉中,,0,0,0,,Naughty Dog games are entirely about motivating the player by way of this narrative drive.
-Dialogue: 1,4:30:23.77,4:30:27.32,辉中,,0,0,0,,And I'll be honest, it's really too bad that this falls so flat
-Dialogue: 1,4:30:27.32,4:30:29.62,辉中,,0,0,0,,because this should be the climax of the game.
-Dialogue: 1,4:30:29.62,4:30:32.95,辉中,,0,0,0,,But instead it feels as though it's a total chore,
-Dialogue: 1,4:30:32.95,4:30:37.09,辉中,,0,0,0,,because the player doesn't feel as though Ellie is justified in what she's doing.
-Dialogue: 1,4:30:37.09,4:30:40.81,辉中,,0,0,0,,And certainly Ellie is even frustrated with her own decision.
-Dialogue: 1,4:30:40.81,4:30:45.49,辉中,,0,0,0,,The only reason Ellie is continuing on it is because she feels an obligation to Joel,
-Dialogue: 1,4:30:45.49,4:30:48.73,辉中,,0,0,0,,an obligation that's going to be resolved very shortly.
-Dialogue: 1,4:30:48.73,4:30:54.46,辉中,,0,0,0,,But even so, the player pushes on into the slave trader camped known as "the Resort".
-Dialogue: 1,4:30:54.46,4:30:56.44,辉中,,0,0,0,,It's not a sassy or funny name,
-Dialogue: 1,4:30:56.44,4:31:00.67,辉中,,0,0,0,,it's just that it's an old resort, so they call it "the Resort".
-Dialogue: 1,4:31:00.67,4:31:05.44,辉中,,0,0,0,,It's pretty simple now this section does feature my favorite gun of the entire game,
-Dialogue: 1,4:31:05.44,4:31:10.99,辉中,,0,0,0,,but it's so damn powerful that it removes any need for any finesse whatsoever.
-Dialogue: 1,4:31:10.99,4:31:12.97,辉中,,0,0,0,,So with this new found super weapon,
-Dialogue: 1,4:31:12.97,4:31:17.62,辉中,,0,0,0,,you fight your way through the Resorts main building where all of the slaves are housed.
+Dialogue: 1,4:28:59.56,4:29:02.17,辉中,,0,0,0,,俩人唠着唠着就白给了\NNow these guys are obviously super dome.
+Dialogue: 1,4:29:02.17,4:29:07.16,辉中,,0,0,0,,作为玩家 你应该经常问你自己 你玩游戏的动力何在？\NBut you have to ask yourself as the player, what's keeping you going?
+Dialogue: 1,4:29:07.16,4:29:12.22,辉中,,0,0,0,,不是说游戏让你干啥你就干啥 就叫有游戏动力了\NOther than just going through the motions of continuing to do what the game asks you to do.
+Dialogue: 1,4:29:12.22,4:29:15.02,辉中,,0,0,0,,TLOU2前几个小时很不错的一点就是\NOne of the best things about the early hours of TLOU2
+Dialogue: 1,4:29:17.04,4:29:21.34,辉中,,0,0,0,,玩家会完全体会到艾莉的想法 和她一样想找埃比复仇\Nis that the player is completely on board with Ellie's drive and mission to take out Abby.
+Dialogue: 1,4:29:21.34,4:29:22.54,辉中,,0,0,0,,而随着游戏的进行\NAnd as the game goes on,
+Dialogue: 1,4:29:22.54,4:29:28.06,辉中,,0,0,0,,你也会随着自己开始同情埃比和她的伙伴而开始慢慢损失这样的动力\Nyou also start to lose that motivation once you start to sympathize with Abby and her crew.
+Dialogue: 1,4:29:28.06,4:29:31.15,辉中,,0,0,0,,所以在那场boss战中你会感觉内心非常矛盾\NSo you end up very conflicted in that final boss fight
+Dialogue: 1,4:29:31.15,4:29:34.66,辉中,,0,0,0,,你什么都不想做 哪个角色也不想伤害\Nwhere you don't want to do anything or hurt either one of these characters.
+Dialogue: 1,4:29:34.66,4:29:37.48,辉中,,0,0,0,,而现在玩家的感觉还是那样\NBut now the players still feels like that.
+Dialogue: 1,4:29:37.48,4:29:41.44,辉中,,0,0,0,,游戏设计者让你操控艾莉继续追杀埃比\NAnd yet the game designers are asking Ellie to chase down Abby,
+Dialogue: 1,4:29:41.44,4:29:44.68,辉中,,0,0,0,,尽管此时她已经为此失去了一切\Neven though it's caused her to lose everything at this point
+Dialogue: 1,4:29:44.68,4:29:48.46,辉中,,0,0,0,,而且很可能不会得到玩家或者艾莉都满意的结果\Nand will likely not result in the conclusion
+Dialogue: 1,4:29:48.46,4:29:51.64,辉中,,0,0,0,,而且很可能不会得到玩家或者艾莉都满意的结果\Nthat either the player or Ellie he would be satisfied with.
+Dialogue: 1,4:29:51.64,4:29:53.83,辉中,,0,0,0,,一些玩家认为这属于游戏节奏把控问题\NSome people have said that this is a pacing issue,
+Dialogue: 1,4:29:53.83,4:29:56.44,辉中,,0,0,0,,我觉得这样讲不太恰当\Nbut I don't think that that's the right way to phrase it.
+Dialogue: 1,4:29:56.44,4:29:59.17,辉中,,0,0,0,,真要说的话 我觉得这是游戏动力上的问题\NIf anything, I think that this is a motivational issue.
+Dialogue: 1,4:29:59.17,4:30:03.24,辉中,,0,0,0,,我觉得玩家在玩这关的时候会感觉没有继续做游戏要求的事情的动力\NI think the player doesn't feel motivated to continue on this mission
+Dialogue: 1,4:30:03.24,4:30:05.59,辉中,,0,0,0,,我觉得玩家在玩这关的时候会感觉没有继续做游戏要求的事情的动力that they're being asked to embark on.
+Dialogue: 1,4:30:05.59,4:30:07.07,辉中,,0,0,0,,当然 有很多游戏就是让玩家单纯跟着游玩内容去走的\NNow of course, you could have a game
+Dialogue: 1,4:30:07.07,4:30:11.14,辉中,,0,0,0,,当然 有很多游戏就是让玩家单纯跟着游玩内容去走的\Nthat motivates the player to continue playing purely by way of its game play,
+Dialogue: 1,4:30:11.14,4:30:14.32,辉中,,0,0,0,,不用去管任何叙事的内容\Nand there is no narrative reason to continue at all.
+Dialogue: 1,4:30:14.32,4:30:17.29,辉中,,0,0,0,,但顽皮狗的游戏不是这样的\NHowever, that's not how Naughty Dog games work.
+Dialogue: 1,4:30:17.29,4:30:23.77,辉中,,0,0,0,,顽皮狗的游戏完全都是靠叙事来推动玩家继续游玩下去的\NNaughty Dog games are entirely about motivating the player by way of this narrative drive.
+Dialogue: 1,4:30:23.77,4:30:27.32,辉中,,0,0,0,,而且我说实话 我看这里做得如此平平无奇感觉实在糟糕\NAnd I'll be honest, it's really too bad that this falls so flat
+Dialogue: 1,4:30:27.32,4:30:29.62,辉中,,0,0,0,,因为这里本应是游戏高潮所在\Nbecause this should be the climax of the game.
+Dialogue: 1,4:30:29.62,4:30:32.95,辉中,,0,0,0,,结果却是这种单调乏味的任务\NBut instead it feels as though it's a total chore,
+Dialogue: 1,4:30:32.95,4:30:37.09,辉中,,0,0,0,,因为玩家认为艾莉的行为是完全不合理的\Nbecause the player doesn't feel as though Ellie is justified in what she's doing.
+Dialogue: 1,4:30:37.09,4:30:40.81,辉中,,0,0,0,,甚至艾莉也因自己的决定而感到纠结\NAnd certainly Ellie is even frustrated with her own decision.
+Dialogue: 1,4:30:40.81,4:30:45.49,辉中,,0,0,0,,艾莉还继续想着复仇 因为她觉得自己对乔尔有一份责任\NThe only reason Ellie is continuing on it is because she feels an obligation to Joel,
+Dialogue: 1,4:30:45.49,4:30:48.73,辉中,,0,0,0,,这份责任稍后就会解释\Nan obligation that's going to be resolved very shortly.
+Dialogue: 1,4:30:48.73,4:30:54.46,辉中,,0,0,0,,说是这样说 玩家还是继续推进到一个叫“度假村”的奴隶贩子营地\NBut even so, the player pushes on into the slave trader camped known as "the Resort".
+Dialogue: 1,4:30:54.46,4:30:56.44,辉中,,0,0,0,,这不是什么故意搞笑的名字\NIt's not a sassy or funny name,
+Dialogue: 1,4:30:56.44,4:31:01.85,辉中,,0,0,0,,只是这地方以前是个度假区 所以就这样叫了 就这么简单\Nit's just that it's an old resort, so they call it "the Resort", it's pretty simple.
+Dialogue: 1,4:31:01.85,4:31:05.44,辉中,,0,0,0,,这里可以解锁整个游戏里我最喜欢的枪\NNow this section does feature my favorite gun of the entire game,
+Dialogue: 1,4:31:05.44,4:31:10.99,辉中,,0,0,0,,但它实在是太强了 完全不需要有手就能玩\Nbut it's so damn powerful that it removes any need for any finesse whatsoever.
+Dialogue: 1,4:31:10.99,4:31:12.97,辉中,,0,0,0,,有了这把逆天武器\NSo with this new found super weapon,
+Dialogue: 1,4:31:12.97,4:31:17.62,辉中,,0,0,0,,你一路杀到了度假区里关着奴隶的主体建筑里\Nyou fight your way through the Resorts main building where all of the slaves are housed.
 Dialogue: 1,4:31:17.62,4:31:20.23,辉中,,0,0,0,,And to be honest, the section is actually pretty bad,
 Dialogue: 1,4:31:20.23,4:31:24.55,辉中,,0,0,0,,especially when considering that it is the final section of the game.
 Dialogue: 1,4:31:24.55,4:31:30.76,辉中,,0,0,0,,This is the final game play section of the game other than the final boss quote-unquote, "fight",
