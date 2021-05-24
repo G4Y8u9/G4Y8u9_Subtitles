@@ -16,9 +16,9 @@ Video File: Q:/给没组/tlou2.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 5166
-Active Line: 5172
-Video Position: 899508
+Scroll Position: 5318
+Active Line: 5351
+Video Position: 914694
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -307,7 +307,7 @@ Dialogue: 1,0:08:46.62,0:08:49.32,辉中,,0,0,0,,带她横穿了整个美国
 Dialogue: 2,0:08:46.62,0:08:49.32,辉英,,0,0,0,,and he took her halfway across the country,
 Dialogue: 1,0:08:49.32,0:08:51.57,辉中,,0,0,0,,把她从食人族里救出来
 Dialogue: 2,0:08:49.32,0:08:51.57,辉英,,0,0,0,,rescued her from a bunch of cannibals,
-Dialogue: 1,0:08:51.57,0:08:56.67,辉中,,0,0,0,,现在两人回到了乔尔哥哥和嫂子运营的小镇里
+Dialogue: 1,0:08:51.57,0:08:56.67,辉中,,0,0,0,,现在两人回到了乔尔弟弟和嫂子运营的小镇里
 Dialogue: 2,0:08:51.57,0:08:56.67,辉英,,0,0,0,,and now has her in a town that his brother runs with his wife.
 Dialogue: 1,0:08:56.67,0:09:01.71,辉中,,0,0,0,,可以认为艾莉住在乔尔家是还算合适的
 Dialogue: 2,0:08:56.67,0:09:01.71,辉英,,0,0,0,,It could be presumed that her staying in his house could be considered an appropriate.
@@ -820,7 +820,7 @@ Dialogue: 1,0:25:59.40,0:26:02.73,辉中,,0,0,0,,尤其他还在小镇中扮演�
 Dialogue: 2,0:25:59.40,0:26:02.73,辉英,,0,0,0,,especially because he has a leadership position within the city.
 Dialogue: 1,0:26:02.73,0:26:06.96,辉中,,0,0,0,,这点从他家超级大的房子就能看出
 Dialogue: 2,0:26:02.73,0:26:06.96,辉英,,0,0,0,,His super fancy house, I think, serves as proof positive of that,
-Dialogue: 1,0:26:06.96,0:26:11.61,辉中,,0,0,0,,更不用提他的哥哥汤米也要和他一起巡逻这件事
+Dialogue: 1,0:26:06.96,0:26:11.61,辉中,,0,0,0,,更不用提他的弟弟汤米也要和他一起巡逻这件事
 Dialogue: 2,0:26:06.96,0:26:11.61,辉英,,0,0,0,,Not to mention that Tommy, his brother, who was also going out on patrols with him,
 Dialogue: 1,0:26:11.61,0:26:14.85,辉中,,0,0,0,,而汤米也算是杰克逊小镇的领导者
 Dialogue: 2,0:26:11.61,0:26:14.85,辉英,,0,0,0,,has a leadership position within the city.
@@ -1441,7 +1441,7 @@ Dialogue: 1,0:45:17.54,0:45:18.99,辉中 Script,,0,0,0,,梅尔：对了，我是
 Dialogue: 2,0:45:17.54,0:45:18.99,辉英 Script,,0,0,0,,Mel: I'm Mel, by the way.
 Dialogue: 1,0:45:18.99,0:45:20.13,辉中 Script,,0,0,0,,汤米：汤米。
 Dialogue: 2,0:45:18.99,0:45:20.13,辉英 Script,,0,0,0,,Tommy: Tommy.
-Dialogue: 1,0:45:20.13,0:45:21.29,辉中 Script,,0,0,0,,他是我哥哥。
+Dialogue: 1,0:45:20.13,0:45:21.29,辉中 Script,,0,0,0,,他是我弟弟。
 Dialogue: 2,0:45:20.13,0:45:21.29,辉英 Script,,0,0,0,,This is my brother.
 Dialogue: 1,0:45:22.68,0:45:23.95,辉中 Script,,0,0,0,,乔尔：乔尔。
 Dialogue: 2,0:45:22.68,0:45:23.95,辉英 Script,,0,0,0,,Joel: Joel.
@@ -1848,7 +1848,7 @@ Dialogue: 1,0:59:03.99,0:59:07.08,辉中,,0,0,0,,像往常一样 玛丽娅一直
 Dialogue: 2,0:59:03.99,0:59:07.08,辉英,,0,0,0,,As usual, Maria seems to be the one voice of reason.
 Dialogue: 1,0:59:07.08,0:59:10.23,辉中,,0,0,0,,而汤米和艾莉的不满也是可以理解的
 Dialogue: 2,0:59:07.08,0:59:10.23,辉英,,0,0,0,,Tommy and Ellie, however, are understandably upset.
-Dialogue: 1,0:59:10.23,0:59:13.26,辉中,,0,0,0,,汤米的弟弟惨死
+Dialogue: 1,0:59:10.23,0:59:13.26,辉中,,0,0,0,,汤米的哥哥惨死
 Dialogue: 2,0:59:10.23,0:59:13.26,辉英,,0,0,0,,Tommy lost his brother in a terrible way,
 Dialogue: 1,0:59:13.26,0:59:17.76,辉中,,0,0,0,,艾莉也痛失她的“父亲”一样的角色
 Dialogue: 2,0:59:13.26,0:59:17.76,辉英,,0,0,0,,and Ellie also lost her "father figure" in a terrible way.
@@ -4032,18 +4032,32 @@ Dialogue: 1,2:53:09.86,2:53:14.81,辉中,,0,0,0,,至少我不清楚埃比在开�
 Dialogue: 2,2:53:09.86,2:53:14.81,辉英,,0,0,0,,if Abby still thought they were looking only for Tommy in the opening sequence,
 Dialogue: 1,2:53:14.81,2:53:18.02,辉中,,0,0,0,,或者到那时她是否认为乔尔也可能在那里
 Dialogue: 2,2:53:14.81,2:53:18.02,辉英,,0,0,0,,or if by that time she thinks that Joel could be there too.
-Dialogue: 1,2:53:18.02,2:53:22.79,辉中,,0,0,0,,But I mean some of the dialogue seems to imply that she's looking for Joel primarily,
-Dialogue: 1,2:53:22.79,2:53:25.25,辉中,,0,0,0,,but that they only expected to find Tommy.
-Dialogue: 1,2:53:25.25,2:53:28.01,辉中,,0,0,0,,But again, I just don't think it matters too much.
-Dialogue: 1,2:53:28.01,2:53:32.78,辉中,,0,0,0,,The point is they're going to Jackson for Joel by way of Tommy,
-Dialogue: 1,2:53:32.78,2:53:35.03,辉中,,0,0,0,,and if Joel happens to be there, great.
-Dialogue: 1,2:53:35.03,2:53:41.42,辉中,,0,0,0,,But they mostly expect to find Tommy and hope to convince him to share Joel's location or whereabouts.
-Dialogue: 1,2:53:41.42,2:53:45.78,辉中,,0,0,0,,Regardless after breaking to Owen that she has a lead on Joel's brother
-Dialogue: 1,2:53:45.78,2:53:49.82,辉中,,0,0,0,,Abby also throws out the fact that Isaac approved the whole squad,
-Dialogue: 1,2:53:49.82,2:53:52.88,辉中,,0,0,0,,leaving for weeks on end to chase Joel down.
-Dialogue: 1,2:53:52.88,2:53:56.69,辉中,,0,0,0,,She exclaims that Isaac is more about justice than any one,
-Dialogue: 1,2:53:56.69,2:54:01.97,辉中,,0,0,0,,which is why he apparently approves of the plan for them to leave for weeks and weeks on end,
-Dialogue: 1,2:54:01.97,2:54:07.79,辉中,,0,0,0,,potentially months trying to hunt down a guy that did something terrible years and years ago.
+Dialogue: 1,2:53:18.02,2:53:22.79,辉中,,0,0,0,,但我认为一些对话显示出她肯定想要去找乔尔
+Dialogue: 2,2:53:18.02,2:53:22.79,辉英,,0,0,0,,But I mean some of the dialogue seems to imply that she's looking for Joel primarily,
+Dialogue: 1,2:53:22.79,2:53:25.25,辉中,,0,0,0,,但他们以为自己只能先找到汤米
+Dialogue: 2,2:53:22.79,2:53:25.25,辉英,,0,0,0,,but that they only expected to find Tommy.
+Dialogue: 1,2:53:25.25,2:53:28.01,辉中,,0,0,0,,当然了 我说过我认为这没那么重要
+Dialogue: 2,2:53:25.25,2:53:28.01,辉英,,0,0,0,,But again, I just don't think it matters too much.
+Dialogue: 1,2:53:28.01,2:53:32.78,辉中,,0,0,0,,重点是 他们要去杰克逊小镇 通过汤米这条线索找乔尔
+Dialogue: 2,2:53:28.01,2:53:32.78,辉英,,0,0,0,,The point is they're going to Jackson for Joel by way of Tommy,
+Dialogue: 1,2:53:32.78,2:53:35.03,辉中,,0,0,0,,如果乔尔也在那 那妥了
+Dialogue: 2,2:53:32.78,2:53:35.03,辉英,,0,0,0,,and if Joel happens to be there, great.
+Dialogue: 1,2:53:35.03,2:53:41.42,辉中,,0,0,0,,但他们预想是先找到汤米 然后希望能从他口中套出乔尔在哪之类的消息
+Dialogue: 2,2:53:35.03,2:53:41.42,辉英,,0,0,0,,But they mostly expect to find Tommy and hope to convince him to share Joel's location or whereabouts.
+Dialogue: 1,2:53:41.42,2:53:45.78,辉中,,0,0,0,,总之 在埃比告诉欧文自己有一条乔尔弟弟的线索后
+Dialogue: 2,2:53:41.42,2:53:45.78,辉英,,0,0,0,,Regardless after breaking to Owen that she has a lead on Joel's brother
+Dialogue: 1,2:53:45.78,2:53:49.82,辉中,,0,0,0,,她还告诉欧文艾萨克批准了执行这次行动的小队
+Dialogue: 2,2:53:45.78,2:53:49.82,辉英,,0,0,0,,Abby also throws out the fact that Isaac approved the whole squad,
+Dialogue: 1,2:53:49.82,2:53:52.88,辉中,,0,0,0,,允许他们离开几周去追杀乔尔
+Dialogue: 2,2:53:49.82,2:53:52.88,辉英,,0,0,0,,leaving for weeks on end to chase Joel down.
+Dialogue: 1,2:53:52.88,2:53:56.69,辉中,,0,0,0,,她说艾萨克比谁都坚持正义
+Dialogue: 2,2:53:52.88,2:53:56.69,辉英,,0,0,0,,She exclaims that Isaac is more about justice than any one,
+Dialogue: 1,2:53:56.69,2:53:59.16,辉中,,0,0,0,,所以他才会允许这些人离开西雅图几周 甚至几个月的时间
+Dialogue: 2,2:53:56.69,2:53:59.16,辉英,,0,0,0,,which is why he apparently approves of the plan
+Dialogue: 1,2:53:59.16,2:54:03.21,辉中,,0,0,0,,所以他才会允许这些人离开西雅图几周 甚至几个月的时间
+Dialogue: 2,2:53:59.16,2:54:03.21,辉英,,0,0,0,,for them to leave for weeks and weeks on end, potentially months
+Dialogue: 1,2:54:03.21,2:54:07.79,辉中,,0,0,0,,去追杀一个好几年前做了一些坏事的人
+Dialogue: 2,2:54:03.21,2:54:07.79,辉英,,0,0,0,,trying to hunt down a guy that did something terrible years and years ago.
 Dialogue: 1,2:54:07.79,2:54:11.90,辉中,,0,0,0,,To me, it seems like a stretch that he would be willing to let this many people go,
 Dialogue: 1,2:54:11.90,2:54:16.12,辉中,,0,0,0,,especially young whippersnappers, who were involved in the active patrolling
 Dialogue: 1,2:54:16.12,2:54:19.22,辉中,,0,0,0,,and maintenance of the WLF's defenses.
@@ -5179,311 +5193,638 @@ Dialogue: 1,4:08:16.36,4:08:21.49,辉中,,0,0,0,,相遇不再是靠恶意与复�
 Dialogue: 2,4:08:16.36,4:08:21.49,辉英,,0,0,0,,United not in hate and vengeance, but in love and unity.
 Dialogue: 1,4:08:21.49,4:08:22.90,辉中,,0,0,0,,所以她放她们走了
 Dialogue: 2,4:08:21.49,4:08:22.90,辉英,,0,0,0,,So she lets them go.
-Dialogue: 1,4:08:22.90,4:08:28.33,辉中,,0,0,0,,埃比和勒弗离开了 留下艾莉和蒂娜在地板上 血流得到处都是\NAbby and Lev leave, and Ellie and Dina are left, bleeding out on the floor.
-Dialogue: 1,4:08:28.33,4:08:32.59,辉中,,0,0,0,,画面一黑 来到了游戏最后一个章节\NWe cut to black and the game moves into the final chapter.
-Dialogue: 1,4:08:32.59,4:08:37.99,辉中,,0,0,0,,我觉得根本无法形容玩家玩到这里的时候内心感受有多奇怪\NNow I don't think I can stress enough just how weird the player likely feels at this point.
+Dialogue: 1,4:08:22.90,4:08:28.33,辉中,,0,0,0,,埃比和勒弗离开了 留下艾莉和蒂娜在地板上 血流得到处都是
+Dialogue: 2,4:08:22.90,4:08:28.33,辉英,,0,0,0,,Abby and Lev leave, and Ellie and Dina are left, bleeding out on the floor.
+Dialogue: 1,4:08:28.33,4:08:32.59,辉中,,0,0,0,,画面一黑 来到了游戏最后一个章节
+Dialogue: 2,4:08:28.33,4:08:32.59,辉英,,0,0,0,,We cut to black and the game moves into the final chapter.
+Dialogue: 1,4:08:32.59,4:08:37.99,辉中,,0,0,0,,我觉得根本无法形容玩家玩到这里的时候内心感受有多奇怪
+Dialogue: 2,4:08:32.59,4:08:37.99,辉英,,0,0,0,,Now I don't think I can stress enough just how weird the player likely feels at this point.
 Dialogue: 1,4:08:37.99,4:08:43.72,辉注,,0,0,0,,原文有点隐♂晦 这里采用意译
-Dialogue: 1,4:08:37.99,4:08:43.72,辉中,,0,0,0,,这感觉就像女神躺在你身边结果自己是个太监一样\NIt's a mixture of a let-down with being blue balled all at the same time,
-Dialogue: 1,4:08:43.72,4:08:46.63,辉中,,0,0,0,,真的 说实话我完全不知道该如何评价\Nand if I'm being honest, I really didn't know what to make of it.
-Dialogue: 1,4:08:46.63,4:08:48.52,辉中,,0,0,0,,还有不少玩家指出\NThere are a lot of other people also pointed out
-Dialogue: 1,4:08:48.52,4:08:52.57,辉中,,0,0,0,,这与《荒野大镖客：救赎2》收束结尾的方式很像\Nthat this was somewhat similar to how Red Dead Redemption 2 started to wrap up its story,
-Dialogue: 1,4:08:52.57,4:08:56.65,辉中,,0,0,0,,当中亚瑟的死显然是主要故事内容的结尾\Nwith Arthur's death coming seemingly wrapping up the main story.
-Dialogue: 1,4:08:56.65,4:09:02.32,辉中,,0,0,0,,然后玩家进入了一个似乎很重要 但并不关键的尾声\NAnd then the player entering into an epilogue that seemed important, but not crucial.
-Dialogue: 1,4:09:02.32,4:09:04.63,辉中,,0,0,0,,事实上我问过我的几个朋友\NIn fact, I asked several friends of mine,
-Dialogue: 1,4:09:04.63,4:09:07.24,辉中,,0,0,0,,在他们看完《荒野大镖客：救赎2》的主线故事后他们是否玩了尾声部分\Nwhether or not they actually played the epilogue or not,
-Dialogue: 1,4:09:07.24,4:09:09.85,辉中,,0,0,0,,在他们看完《荒野大镖客：救赎2》的主线故事后他们是否玩了尾声部分\Nafter they got through the main story of Red Dead redemption 2,
-Dialogue: 1,4:09:09.85,4:09:14.83,辉中,,0,0,0,,你会惊讶地发现他们中有多少人说在亚瑟死后就不玩了\Nand you'd be surprised how many of them said that they stopped playing after Arthur died.
-Dialogue: 1,4:09:14.83,4:09:15.94,辉中,,0,0,0,,一方面我能理解他们\NOn the one hand, I get it.
-Dialogue: 1,4:09:15.94,4:09:18.82,辉中,,0,0,0,,你在游戏的整个过程中一直跟随着那个角色\NYou've been following one character for the entire length of the game,
-Dialogue: 1,4:09:18.82,4:09:22.12,辉中,,0,0,0,,而这个角色的故事似乎已经结束了\Nand that character's story has seemingly come to an end.
-Dialogue: 1,4:09:22.12,4:09:24.41,辉中,,0,0,0,,如果你觉得没有必要\NSo why do you need to continue playing through
-Dialogue: 1,4:09:24.41,4:09:30.28,辉中,,0,0,0,,那为何还要继续游玩客观上相对无趣的几个小时的游戏内容呢？\Nwhat is objectively a much more boring sequence for multiple hours at a time
-Dialogue: 1,4:09:30.28,4:09:32.35,辉中,,0,0,0,,那为何还要继续游玩客观上相对无趣的几个小时的游戏内容呢？\Nif you don't feel as though it's necessary?
-Dialogue: 1,4:09:32.35,4:09:33.52,辉中,,0,0,0,,当游戏发布的时候\NAnd when that game came out,
-Dialogue: 1,4:09:33.52,4:09:38.77,辉中,,0,0,0,,我不禁认为这种把尾声与主线明显分开的决策要么是R星再三考虑下的决策\NI couldn't help but feel as though it was either a very conscious decision on the part of Rockstar
-Dialogue: 1,4:09:38.77,4:09:42.70,辉中,,0,0,0,,我不禁认为这种把尾声与主线明显分开的决策要么是R星再三考虑下的决策\Nto have this epilogue so clearly separate from the main story,
-Dialogue: 1,4:09:42.70,4:09:45.76,辉中,,0,0,0,,要么就是彻底的失误\Nor it was a complete and total oversight.
-Dialogue: 1,4:09:45.76,4:09:47.35,辉中,,0,0,0,,对于TLOU2来说\NIn the case of TLOU2,
-Dialogue: 1,4:09:47.35,4:09:50.92,辉中,,0,0,0,,我觉得没法直接比较 但也的确有相似之处\NI don't think it's direct comparison, but I do think there are similarities.
-Dialogue: 1,4:09:50.92,4:09:51.79,辉中,,0,0,0,,据我的估计\NIn my estimation,
-Dialogue: 1,4:09:51.79,4:09:54.16,辉中,,0,0,0,,绝大多数玩家都希望TLOU2\Nmost players have been going through TLOU2
-Dialogue: 1,4:09:54.16,4:09:59.32,辉中,,0,0,0,,with the hope that it will end in a climactic scene between Ellie and Abby,
-Dialogue: 1,4:09:59.32,4:10:03.28,辉中,,0,0,0,,where everything gets resolved, preferably where one kills the other,
-Dialogue: 1,4:10:03.28,4:10:05.56,辉中,,0,0,0,,or at the very least, there are some sort of reckoning.
-Dialogue: 1,4:10:05.56,4:10:10.51,辉中,,0,0,0,,But I wouldn't say that this scratches that itch or satisfies that demand.
-Dialogue: 1,4:10:10.51,4:10:15.61,辉中,,0,0,0,,I don't think it's controversial to say that Abby, pretty clearly won this exchange.
-Dialogue: 1,4:10:15.61,4:10:20.50,辉中,,0,0,0,,And if she wanted to, could have killed Ellie and Dina easily.
-Dialogue: 1,4:10:20.50,4:10:26.86,辉中,,0,0,0,,But out of some sense of dignity or grace and forgiveness, pride,
-Dialogue: 1,4:10:26.86,4:10:29.95,辉中,,0,0,0,,whatever it may be, she decided to spare them.
-Dialogue: 1,4:10:29.95,4:10:33.97,辉中,,0,0,0,,So while this may be a resolution of the conflict from Abby's perspective,
-Dialogue: 1,4:10:33.97,4:10:36.85,辉中,,0,0,0,,she's moving on and wants to forget about all of this.
-Dialogue: 1,4:10:36.85,4:10:41.02,辉中,,0,0,0,,It's not a resolution for Ellie, for Tommy, or for Dina,
-Dialogue: 1,4:10:41.02,4:10:42.97,辉中,,0,0,0,,as we'll see in the following scenes.
-Dialogue: 1,4:10:42.97,4:10:47.32,辉中,,0,0,0,,And I think the really frustrating thing for the player is that the entire story has been building
-Dialogue: 1,4:10:47.32,4:10:53.50,辉中,,0,0,0,,to this moment, this exchange, this fight, throughout the entirety of the game play time.
-Dialogue: 1,4:10:53.50,4:10:57.04,辉中,,0,0,0,,And now that we've reached it, it doesn't resolve itself at all.
-Dialogue: 1,4:10:57.04,4:11:01.51,辉中,,0,0,0,,And instead, Ellie, Dina and Tommy are left bleeding out on the floor,
-Dialogue: 1,4:11:01.51,4:11:04.18,辉中,,0,0,0,,and in the case of Jesse, he's dead.
-Dialogue: 1,4:11:04.18,4:11:08.62,辉中,,0,0,0,,And especially considering how emotionally exhausting the scheme is to play,
-Dialogue: 1,4:11:08.62,4:11:12.73,辉中,,0,0,0,,it's really difficult to ask the player to buckle down for another
-Dialogue: 1,4:11:12.73,4:11:17.32,辉中,,0,0,0,,however many hours it's going to take to get through what is effectively the epilogue.
-Dialogue: 1,4:11:17.32,4:11:22.09,辉中,,0,0,0,,And I know it's not technically an epilogue because the story hasn't resolved itself.
-Dialogue: 1,4:11:22.09,4:11:26.11,辉中,,0,0,0,,It's still part of the main story as we move into this next chapter.
-Dialogue: 1,4:11:26.11,4:11:29.80,辉中,,0,0,0,,But still it feels as though it separate from the main game.
-Dialogue: 1,4:11:29.80,4:11:34.63,辉中,,0,0,0,,And after a lot of contemplation, I am not sure if Naughty Dog wanted this to be the case,
-Dialogue: 1,4:11:34.63,4:11:40.57,辉中,,0,0,0,,or if they even meant for this to feel so different from the core body of the game in Seattle.
-Dialogue: 1,4:11:40.57,4:11:46.09,辉中,,0,0,0,,It seems to be pretty clear that shifting pace very sharply after all of the events of the core game,
-Dialogue: 1,4:11:46.09,4:11:51.52,辉中,,0,0,0,,is going to hit the player in a fairly significant way such that they're going to feel very differently.
-Dialogue: 1,4:11:51.52,4:11:53.89,辉中,,0,0,0,,It's something a good number of developers have spoken of
-Dialogue: 1,4:11:53.89,4:11:57.76,辉中,,0,0,0,,in GDC conference, speeches, and things like that,
-Dialogue: 1,4:11:57.76,4:12:02.66,辉中,,0,0,0,,where they express this frustration with working on a project for years and years and years
-Dialogue: 1,4:12:02.66,4:12:04.36,辉中,,0,0,0,,and losing perspective on it,
-Dialogue: 1,4:12:04.36,4:12:08.74,辉中,,0,0,0,,such that they forget how it would actually feel to play it for the first time.
-Dialogue: 1,4:12:08.74,4:12:11.32,辉中,,0,0,0,,In other words, when you're working really hard on something,
-Dialogue: 1,4:12:11.32,4:12:16.96,辉中,,0,0,0,,you develop a sort of tunnel vision and you lose perspective on what it looks like from the outside.
-Dialogue: 1,4:12:16.96,4:12:18.61,辉中,,0,0,0,,It may seem great to you,
-Dialogue: 1,4:12:18.61,4:12:21.55,辉中,,0,0,0,,but just because you're so focused on the little details,
-Dialogue: 1,4:12:21.55,4:12:23.92,辉中,,0,0,0,,you might have lost sight of the overall picture.
-Dialogue: 1,4:12:23.92,4:12:29.09,辉中,,0,0,0,,Or vice versa, you are focused on the broader picture, so you lose sight of the minutiae.
-Dialogue: 1,4:12:29.09,4:12:33.09,辉中,,0,0,0,,Regardless, this final fight leaves the player feeling kind of strange,
-Dialogue: 1,4:12:33.09,4:12:34.48,辉中,,0,0,0,,at least it did for me;
-Dialogue: 1,4:12:34.48,4:12:37.12,辉中,,0,0,0,,and based on a lot of your responses to the survey,
-Dialogue: 1,4:12:37.12,4:12:40.15,辉中,,0,0,0,,it left a lot of you feeling very strange as well.
-Dialogue: 1,4:12:40.15,4:12:41.41,辉中,,0,0,0,,And I don't know about you,
-Dialogue: 1,4:12:41.41,4:12:45.97,辉中,,0,0,0,,but often strangers into feeling I would associate with quality.
-Dialogue: 1,4:12:45.97,4:12:50.21,辉中,,0,0,0,,But with all that said after this initial chunk of the game is over,
-Dialogue: 1,4:12:50.21,4:12:53.02,辉中,,0,0,0,,the player's left with a lot of questions unresolved.
-Dialogue: 1,4:12:53.02,4:12:55.45,辉中,,0,0,0,,For instance, is Dina okay?
-Dialogue: 1,4:12:55.45,4:13:00.32,辉中,,0,0,0,,Is she going to survive having her face bashed into cement multiple times?
-Dialogue: 1,4:13:00.32,4:13:03.99,辉中,,0,0,0,,While it's technically it wasn't cement, they put down a particle board
-Dialogue: 1,4:13:03.99,4:13:07.54,辉中,,0,0,0,,so that they could have an excuse as to why she survived, its good detail.
-Dialogue: 1,4:13:07.54,4:13:08.87,辉中,,0,0,0,,I'm glad that they put this in there
-Dialogue: 1,4:13:08.87,4:13:12.91,辉中,,0,0,0,,so that it's not totally unbelievable that she survived a cracked skull.
-Dialogue: 1,4:13:12.91,4:13:18.49,辉中,,0,0,0,,But still this is a pretty rough thing to go through, especially when you're pregnant.
-Dialogue: 1,4:13:18.49,4:13:21.52,辉中,,0,0,0,,So the player's left wondering whether or not she's going to be okay.
-Dialogue: 1,4:13:21.52,4:13:24.64,辉中,,0,0,0,,You also have to ask yourself what's going to happen to this couple
-Dialogue: 1,4:13:24.64,4:13:27.79,辉中,,0,0,0,,when the incoming baby comes along now that Jesse's gone.
-Dialogue: 1,4:13:27.79,4:13:29.80,辉中,,0,0,0,,How is Jackson going to handle
-Dialogue: 1,4:13:29.80,4:13:34.69,辉中,,0,0,0,,having so many of their best and brightest, decimated by an out of state group?
-Dialogue: 1,4:13:34.69,4:13:38.35,辉中,,0,0,0,,Can, or will they ever be able to adjust?
-Dialogue: 1,4:13:38.35,4:13:40.28,辉中,,0,0,0,,I mean, we don't ever really get to know.
-Dialogue: 1,4:13:40.28,4:13:43.72,辉中,,0,0,0,,Because in the following sequences, we never return back to Jackson.
-Dialogue: 1,4:13:43.72,4:13:47.68,辉中,,0,0,0,,And perhaps the most important question is what does Ellie do now?
-Dialogue: 1,4:13:47.68,4:13:49.54,辉中,,0,0,0,,Is she capable of moving on?
-Dialogue: 1,4:13:49.54,4:13:51.58,辉中,,0,0,0,,Is that something that Ellie would even want?
-Dialogue: 1,4:13:51.58,4:13:54.46,辉中,,0,0,0,,Is that something that would even satisfy the player?
-Dialogue: 1,4:13:54.46,4:13:59.77,辉中,,0,0,0,,Or are we setting ourselves up for one last hurrah to try and resolve everything
-Dialogue: 1,4:13:59.77,4:14:04.90,辉中,,0,0,0,,in a desperate attempt to justify the events of the core game itself,
-Dialogue: 1,4:14:04.90,4:14:07.18,辉中,,0,0,0,,just like Red Dead Redemption 2.
-Dialogue: 1,4:14:07.18,4:14:09.46,辉中,,0,0,0,,It's gonna end up being the latter.
-Dialogue: 1,4:14:09.46,4:14:14.60,辉中,,0,0,0,,Answers to these questions will mostly come, but for now we're left in the dark.
-Dialogue: 1,4:14:14.60,4:14:18.76,辉中,,0,0,0,,After cut to black, after this fight, we open up on a farm.
-Dialogue: 1,4:14:18.76,4:14:24.19,辉中,,0,0,0,,There's an expansive wheat field with a farm house off in the distance and a barn behind it.
-Dialogue: 1,4:14:24.19,4:14:25.96,辉中,,0,0,0,,It's very calm and picturesque.
-Dialogue: 1,4:14:25.96,4:14:27.79,辉中,,0,0,0,,Inside we see Ellie,
-Dialogue: 1,4:14:27.79,4:14:31.36,辉中,,0,0,0,,she seems, healed up and relatively healthy,
-Dialogue: 1,4:14:31.36,4:14:36.07,辉中,,0,0,0,,and she's holding Joel's old broken watch that he got from Sarah in the first game.
-Dialogue: 1,4:14:36.07,4:14:41.74,辉中,,0,0,0,,This is a not so subtle way of reminding the player that Ellie is still thinking about Joel,
-Dialogue: 1,4:14:41.74,4:14:43.42,辉中,,0,0,0,,and that she hasn't moved on.
-Dialogue: 1,4:14:43.42,4:14:45.91,辉中,,0,0,0,,Also, there's a baby now.
-Dialogue: 1,4:14:45.91,4:14:52.03,辉中,,0,0,0,,This reaffirms that it's been a good long while since the events of the previous scene.
-Dialogue: 1,4:14:52.03,4:14:54.04,辉中,,0,0,0,,Furthermore, we see Dina in the kitchen,
-Dialogue: 1,4:14:54.04,4:14:56.74,辉中,,0,0,0,,and it seems as though she's recovered just fine,
-Dialogue: 1,4:14:56.74,4:14:59.98,辉中,,0,0,0,,and she also has her mom jeans coming in clutch.
-Dialogue: 1,4:14:59.98,4:15:03.01,辉中,,0,0,0,,I mean maybe, it's stupid, I'm honestly not sure what it is.
-Dialogue: 1,4:15:03.01,4:15:07.48,辉中,,0,0,0,,But when I saw Dina in this scene, I thought that she just she looked like a mom.
-Dialogue: 1,4:15:07.48,4:15:11.20,辉中,,0,0,0,,I don't know what it is, maybe they bushed up her eyebrows, and that did it.
-Dialogue: 1,4:15:11.20,4:15:15.10,辉中,,0,0,0,,Maybe it's the strange outfit she has on or the fact that she's doing dishes.
-Dialogue: 1,4:15:15.10,4:15:16.93,辉中,,0,0,0,,I don't know what it is.
-Dialogue: 1,4:15:16.93,4:15:21.40,辉中,,0,0,0,,But they seemingly did a good job of making her appear as a mother,
-Dialogue: 1,4:15:21.40,4:15:23.05,辉中,,0,0,0,,I guess props to Naughty Dog.
-Dialogue: 1,4:15:23.05,4:15:26.80,辉中,,0,0,0,,And to be honest, everything seems calm and relatively happy,
-Dialogue: 1,4:15:26.80,4:15:30.34,辉中,,0,0,0,,but nothing ever ends happily in this world.
-Dialogue: 1,4:15:30.34,4:15:32.83,辉中,,0,0,0,,So of course this won't last for long.
-Dialogue: 1,4:15:32.83,4:15:37.48,辉中,,0,0,0,,Ellie does some routine chores, you dance with Dina a little bit, and you explore the house.
-Dialogue: 1,4:15:37.48,4:15:41.77,辉中,,0,0,0,,Fun little note here is that Ellie actually has a good amount of art in the house
-Dialogue: 1,4:15:41.77,4:15:43.81,辉中,,0,0,0,,that was taken from Joel's house.
-Dialogue: 1,4:15:43.81,4:15:44.74,辉中,,0,0,0,,It's a nice touch,
-Dialogue: 1,4:15:44.74,4:15:47.89,辉中,,0,0,0,,and it makes sense since she would likely want to hold on to parts of him,
-Dialogue: 1,4:15:47.89,4:15:50.32,辉中,,0,0,0,,as we just saw earlier when she had his watch.
-Dialogue: 1,4:15:50.32,4:15:52.27,辉中,,0,0,0,,It's just a really sweet little detail,
-Dialogue: 1,4:15:52.27,4:15:56.38,辉中,,0,0,0,,especially considering the fact that the player will likely not notice this,
-Dialogue: 1,4:15:56.38,4:15:58.36,辉中,,0,0,0,,at least on their first run through the game.
-Dialogue: 1,4:15:58.36,4:16:03.22,辉中,,0,0,0,,I only noticed it once I spent a lot of time recording footage for this video
-Dialogue: 1,4:16:03.22,4:16:05.80,辉中,,0,0,0,,going back through environments very carefully.
-Dialogue: 1,4:16:05.80,4:16:10.48,辉中,,0,0,0,,I noticed that in Joel's house there are a lot of really nice looking paintings that I liked.
-Dialogue: 1,4:16:10.48,4:16:13.99,辉中,,0,0,0,,In fact, I even reference those earlier in this very video.
-Dialogue: 1,4:16:13.99,4:16:18.59,辉中,,0,0,0,,But then when I went back through this section, I noticed that those paintings looked similar.
-Dialogue: 1,4:16:18.59,4:16:23.11,辉中,,0,0,0,,And I initially thought that they were just reusing assets which is pretty common in game development.
-Dialogue: 1,4:16:23.11,4:16:26.14,辉中,,0,0,0,,But upon further inspection and deliberation,
-Dialogue: 1,4:16:26.14,4:16:28.87,辉中,,0,0,0,,I realized that this was actually an artistic choice,
-Dialogue: 1,4:16:28.87,4:16:34.00,辉中,,0,0,0,,because Ellie is trying to keep and bring parts of Joel into her life even still.
-Dialogue: 1,4:16:34.00,4:16:36.97,辉中,,0,0,0,,Now, after exploring the house and chilling with Dina for a little bit,
-Dialogue: 1,4:16:36.97,4:16:41.08,辉中,,0,0,0,,Dina asks Ellie to bring in the sheep from outside and put them into the barn.
-Dialogue: 1,4:16:41.08,4:16:43.66,辉中,,0,0,0,,So Ellie goes, and does this with the baby.
-Dialogue: 1,4:16:43.66,4:16:46.60,辉中,,0,0,0,,And after doing it, Ellie spots one little straggler.
-Dialogue: 1,4:16:46.60,4:16:50.65,辉中,,0,0,0,,And there's probably leads to the fastest mood shift of the whole game.
-Dialogue: 1,4:17:46.48,4:17:50.41,辉中,,0,0,0,,I really think that this moment is meant to hit the player just as hard as it hits Ellie.
-Dialogue: 1,4:17:50.41,4:17:52.54,辉中,,0,0,0,,Everything seems fine, calm and relaxed.
-Dialogue: 1,4:17:52.54,4:17:56.73,辉中,,0,0,0,,It seems as though they've moved on from a lot of the struggles of the core game
-Dialogue: 1,4:17:56.73,4:17:59.86,辉中,,0,0,0,,and that their living a happy, satisfied life together.
-Dialogue: 1,4:17:59.86,4:18:02.68,辉中,,0,0,0,,But now everything is falling apart.
-Dialogue: 1,4:18:02.68,4:18:05.98,辉中,,0,0,0,,Ellie's mind won't let her forget what happened to Joel,
-Dialogue: 1,4:18:05.98,4:18:09.10,辉中,,0,0,0,,and she's clearly been unable to move on.
-Dialogue: 1,4:18:09.10,4:18:14.17,辉中,,0,0,0,,Dina knows this and is understanding because she knows that Ellie can't help this.
-Dialogue: 1,4:18:14.17,4:18:16.18,辉中,,0,0,0,,It's something beyond her control,
-Dialogue: 1,4:18:16.18,4:18:20.32,辉中,,0,0,0,,just like anybody else who suffers from panic attacks can't really control it.
-Dialogue: 1,4:18:20.32,4:18:22.36,辉中,,0,0,0,,It just happens when it happens.
-Dialogue: 1,4:18:22.36,4:18:24.94,辉中,,0,0,0,,But the game keeps carrying along, relatively quickly.
-Dialogue: 1,4:18:24.94,4:18:28.42,辉中,,0,0,0,,We jump to the next day and there is a guest in the house.
-Dialogue: 1,4:18:28.42,4:18:29.26,辉中,,0,0,0,,It's Tommy.
-Dialogue: 1,4:18:29.26,4:18:32.41,辉中,,0,0,0,,Yeah, he's survived the shot to the head.
-Dialogue: 1,4:18:32.41,4:18:37.15,辉中,,0,0,0,,He's currently got a lot of damage that he's dealing with and he even struggles walking.
-Dialogue: 1,4:18:37.15,4:18:41.41,辉中,,0,0,0,,I mean, he took a bullet to the head, so… it's understandable.
-Dialogue: 1,4:18:41.41,4:18:42.94,辉中,,0,0,0,,Clearly he's not in good shape,
-Dialogue: 1,4:18:42.94,4:18:46.75,辉中,,0,0,0,,but he does not want to let Abby get away with what she's done.
-Dialogue: 1,4:18:46.75,4:18:49.93,辉中,,0,0,0,,He says that he's tractor to a location in Santa Barbara.
-Dialogue: 1,4:18:49.93,4:18:51.85,辉中,,0,0,0,,Now, even though he doesn't state it outright,
-Dialogue: 1,4:18:51.85,4:18:54.97,辉中,,0,0,0,,it's pretty clear that he's unable to go and chase her himself.
-Dialogue: 1,4:18:54.97,4:18:58.09,辉中,,0,0,0,,He can barely walk after all, and he's missing an eye now,
-Dialogue: 1,4:18:58.09,4:19:01.51,辉中,,0,0,0,,so he wouldn't exactly be much help if he were to go.
-Dialogue: 1,4:19:01.51,4:19:06.16,辉中,,0,0,0,,And so he's come to Ellie to proposition her for this revenge plot.
-Dialogue: 1,4:19:06.16,4:19:08.69,辉中,,0,0,0,,Now initially, this might seem relatively far fetched
-Dialogue: 1,4:19:08.69,4:19:14.65,辉中,,0,0,0,,that Tommy was able to track her down to a city that is very far away from where they are at.
-Dialogue: 1,4:19:14.65,4:19:18.67,辉中,,0,0,0,,Apparently they're just outside of Jackson in the surrounding area,
-Dialogue: 1,4:19:18.67,4:19:22.99,辉中,,0,0,0,,so they're local, but they have moved out away from the core group.
-Dialogue: 1,4:19:22.99,4:19:26.56,辉中,,0,0,0,,However, I don't think this is as far as stretch as it might initially seem.
-Dialogue: 1,4:19:26.56,4:19:29.29,辉中,,0,0,0,,Tommy has a ton of connections to the Fireflies.
-Dialogue: 1,4:19:29.29,4:19:30.58,辉中,,0,0,0,,If you remember from earlier,
-Dialogue: 1,4:19:30.58,4:19:36.85,辉中,,0,0,0,,Owen said that he wanted to go to Santa Barbara on the boat with Mel, Abby, Yara and Lev,
-Dialogue: 1,4:19:36.85,4:19:40.36,辉中,,0,0,0,,because he thought that there were going to be a lot of Fireflies there
-Dialogue: 1,4:19:40.36,4:19:42.57,辉中,,0,0,0,,that they could connect and join up with.
-Dialogue: 1,4:19:42.57,4:19:46.28,辉中,,0,0,0,,Using the same contacts, it seems Tommy was able to track
-Dialogue: 1,4:19:46.28,4:19:54.67,辉中,,0,0,0,,a very buff woman with a small young Asian individual by her side to this area.
-Dialogue: 1,4:19:54.67,4:19:59.14,辉中,,0,0,0,,So it seems relatively plausible that they would be able to track her to this point,
-Dialogue: 1,4:19:59.14,4:20:05.05,辉中,,0,0,0,,especially if Tommy were to put out an APB on this individual trying to find her,
-Dialogue: 1,4:20:05.05,4:20:06.25,辉中,,0,0,0,,which he's clearly done.
-Dialogue: 1,4:20:06.25,4:20:11.95,辉中,,0,0,0,,However, after hearing his proposition, Ellie and Dina strongly reject the idea.
-Dialogue: 1,4:20:11.95,4:20:13.03,辉中,,0,0,0,,They are done with that.
-Dialogue: 1,4:20:13.03,4:20:16.36,辉中,,0,0,0,,Or at the very least, Dina is, and Ellie going along with it.
-Dialogue: 1,4:20:16.36,4:20:18.73,辉中,,0,0,0,,Now they have too much to lose.
-Dialogue: 1,4:20:18.73,4:20:22.49,辉中,,0,0,0,,They have a house of family and of course each other.
-Dialogue: 1,4:20:22.49,4:20:24.03,辉中,,0,0,0,,They've been there, done that.
-Dialogue: 1,4:20:24.03,4:20:27.67,辉中,,0,0,0,,In the last time they tried to chase Abby down, it didn't end well.
-Dialogue: 1,4:20:27.67,4:20:30.91,辉中,,0,0,0,,Tommy leaves furious that they're not going to do anything.
-Dialogue: 1,4:20:30.91,4:20:33.75,辉中,,0,0,0,,He feels betrayed, and even calls Ellie out,
-Dialogue: 1,4:20:33.75,4:20:37.99,辉中,,0,0,0,,since she told him that she was going to do whatever it took to get revenge.
-Dialogue: 1,4:20:37.99,4:20:43.03,辉中,,0,0,0,,It's an understandable reaction, considering that Tommy is still furious about his brother's death,
-Dialogue: 1,4:20:43.03,4:20:46.48,辉中,,0,0,0,,and that she has now permanently scarred him.
-Dialogue: 1,4:20:46.48,4:20:52.15,辉中,,0,0,0,,But it is a little startling to see Tommy react in such a sharp way towards Ellie.
-Dialogue: 1,4:20:52.15,4:20:55.55,辉中,,0,0,0,,In fact, I can't think of a time when we've ever seen Tommy
-Dialogue: 1,4:20:55.55,4:21:01.12,辉中,,0,0,0,,react or talk to somebody in this way throughout the entirety of this franchise.
-Dialogue: 1,4:21:01.12,4:21:06.76,辉中,,0,0,0,,The closest example would be in the first game when Joel and Tommy got frustrated with each other
-Dialogue: 1,4:21:06.76,4:21:08.80,辉中,,0,0,0,,when they initially visited the power plant.
-Dialogue: 1,4:21:08.80,4:21:12.16,辉中,,0,0,0,,But even that wasn't this sharp or direct.
-Dialogue: 1,4:21:12.16,4:21:17.11,辉中,,0,0,0,,Dina asks that Tommy leaves and then yells at him for a brief moment outside
-Dialogue: 1,4:21:17.11,4:21:19.81,辉中,,0,0,0,,where it can still be overheard by Ellie.
-Dialogue: 1,4:21:19.81,4:21:22.72,辉中,,0,0,0,,But Ellie is still caught up in all of this.
-Dialogue: 1,4:21:22.72,4:21:27.61,辉中,,0,0,0,,She knows that Dina is not OK with her going and trying to end this once and for all,
-Dialogue: 1,4:21:27.61,4:21:30.31,辉中,,0,0,0,,but she's still pondering everything.
-Dialogue: 1,4:21:30.31,4:21:31.75,辉中,,0,0,0,,In fact, in the next scene,
-Dialogue: 1,4:21:31.75,4:21:34.93,辉中,,0,0,0,,we see her walking aimlessly through the house in the middle of the night,
-Dialogue: 1,4:21:34.93,4:21:37.72,辉中,,0,0,0,,unable to sleep and unsure of what to do.
-Dialogue: 1,4:21:37.72,4:21:41.53,辉中,,0,0,0,,She wants revenge but knows that it may cost her everything.
+Dialogue: 1,4:08:37.99,4:08:43.72,辉中,,0,0,0,,这感觉就像女神躺在你身边结果自己是个太监一样
+Dialogue: 2,4:08:37.99,4:08:43.72,辉英,,0,0,0,,It's a mixture of a let-down with being blue balled all at the same time,
+Dialogue: 1,4:08:43.72,4:08:46.63,辉中,,0,0,0,,真的 说实话我完全不知道该如何评价
+Dialogue: 2,4:08:43.72,4:08:46.63,辉英,,0,0,0,,and if I'm being honest, I really didn't know what to make of it.
+Dialogue: 1,4:08:46.63,4:08:48.52,辉中,,0,0,0,,还有不少玩家指出
+Dialogue: 2,4:08:46.63,4:08:48.52,辉英,,0,0,0,,There are a lot of other people also pointed out
+Dialogue: 1,4:08:48.52,4:08:52.57,辉中,,0,0,0,,这与《荒野大镖客：救赎2》收束结尾的方式很像
+Dialogue: 2,4:08:48.52,4:08:52.57,辉英,,0,0,0,,that this was somewhat similar to how Red Dead Redemption 2 started to wrap up its story,
+Dialogue: 1,4:08:52.57,4:08:56.65,辉中,,0,0,0,,当中亚瑟的死显然是主要故事内容的结尾
+Dialogue: 2,4:08:52.57,4:08:56.65,辉英,,0,0,0,,with Arthur's death coming seemingly wrapping up the main story.
+Dialogue: 1,4:08:56.65,4:09:02.32,辉中,,0,0,0,,然后玩家进入了一个似乎很重要 但并不关键的尾声
+Dialogue: 2,4:08:56.65,4:09:02.32,辉英,,0,0,0,,And then the player entering into an epilogue that seemed important, but not crucial.
+Dialogue: 1,4:09:02.32,4:09:04.63,辉中,,0,0,0,,事实上我问过我的几个朋友
+Dialogue: 2,4:09:02.32,4:09:04.63,辉英,,0,0,0,,In fact, I asked several friends of mine,
+Dialogue: 1,4:09:04.63,4:09:07.24,辉中,,0,0,0,,在他们看完《荒野大镖客：救赎2》的主线故事后他们是否玩了尾声部分
+Dialogue: 2,4:09:04.63,4:09:07.24,辉英,,0,0,0,,whether or not they actually played the epilogue or not,
+Dialogue: 1,4:09:07.24,4:09:09.85,辉中,,0,0,0,,在他们看完《荒野大镖客：救赎2》的主线故事后他们是否玩了尾声部分
+Dialogue: 2,4:09:07.24,4:09:09.85,辉英,,0,0,0,,after they got through the main story of Red Dead redemption 2,
+Dialogue: 1,4:09:09.85,4:09:14.83,辉中,,0,0,0,,你会惊讶地发现他们中有多少人说在亚瑟死后就不玩了
+Dialogue: 2,4:09:09.85,4:09:14.83,辉英,,0,0,0,,and you'd be surprised how many of them said that they stopped playing after Arthur died.
+Dialogue: 1,4:09:14.83,4:09:15.94,辉中,,0,0,0,,一方面我能理解他们
+Dialogue: 2,4:09:14.83,4:09:15.94,辉英,,0,0,0,,On the one hand, I get it.
+Dialogue: 1,4:09:15.94,4:09:18.82,辉中,,0,0,0,,你在游戏的整个过程中一直跟随着那个角色
+Dialogue: 2,4:09:15.94,4:09:18.82,辉英,,0,0,0,,You've been following one character for the entire length of the game,
+Dialogue: 1,4:09:18.82,4:09:22.12,辉中,,0,0,0,,而这个角色的故事似乎已经结束了
+Dialogue: 2,4:09:18.82,4:09:22.12,辉英,,0,0,0,,and that character's story has seemingly come to an end.
+Dialogue: 1,4:09:22.12,4:09:24.41,辉中,,0,0,0,,如果你觉得没有必要
+Dialogue: 2,4:09:22.12,4:09:24.41,辉英,,0,0,0,,So why do you need to continue playing through
+Dialogue: 1,4:09:24.41,4:09:30.28,辉中,,0,0,0,,那为何还要继续游玩客观上相对无趣的几个小时的游戏内容呢？
+Dialogue: 2,4:09:24.41,4:09:30.28,辉英,,0,0,0,,what is objectively a much more boring sequence for multiple hours at a time
+Dialogue: 1,4:09:30.28,4:09:32.35,辉中,,0,0,0,,那为何还要继续游玩客观上相对无趣的几个小时的游戏内容呢？
+Dialogue: 2,4:09:30.28,4:09:32.35,辉英,,0,0,0,,if you don't feel as though it's necessary?
+Dialogue: 1,4:09:32.35,4:09:33.52,辉中,,0,0,0,,当游戏发布的时候
+Dialogue: 2,4:09:32.35,4:09:33.52,辉英,,0,0,0,,And when that game came out,
+Dialogue: 1,4:09:33.52,4:09:38.77,辉中,,0,0,0,,我不禁认为这种把尾声与主线明显分开的决策要么是R星再三考虑下的决策
+Dialogue: 2,4:09:33.52,4:09:38.77,辉英,,0,0,0,,I couldn't help but feel as though it was either a very conscious decision on the part of Rockstar
+Dialogue: 1,4:09:38.77,4:09:42.70,辉中,,0,0,0,,我不禁认为这种把尾声与主线明显分开的决策要么是R星再三考虑下的决策
+Dialogue: 2,4:09:38.77,4:09:42.70,辉英,,0,0,0,,to have this epilogue so clearly separate from the main story,
+Dialogue: 1,4:09:42.70,4:09:45.76,辉中,,0,0,0,,要么就是彻底的失误
+Dialogue: 2,4:09:42.70,4:09:45.76,辉英,,0,0,0,,or it was a complete and total oversight.
+Dialogue: 1,4:09:45.76,4:09:47.35,辉中,,0,0,0,,对于TLOU2来说
+Dialogue: 2,4:09:45.76,4:09:47.35,辉英,,0,0,0,,In the case of TLOU2,
+Dialogue: 1,4:09:47.35,4:09:50.92,辉中,,0,0,0,,我觉得没法直接比较 但也的确有相似之处
+Dialogue: 2,4:09:47.35,4:09:50.92,辉英,,0,0,0,,I don't think it's direct comparison, but I do think there are similarities.
+Dialogue: 1,4:09:50.92,4:09:51.79,辉中,,0,0,0,,据我的估计
+Dialogue: 2,4:09:50.92,4:09:51.79,辉英,,0,0,0,,In my estimation,
+Dialogue: 1,4:09:51.79,4:09:54.16,辉中,,0,0,0,,绝大多数玩家都希望TLOU2
+Dialogue: 2,4:09:51.79,4:09:54.16,辉英,,0,0,0,,most players have been going through TLOU2
+Dialogue: 1,4:09:54.16,4:09:59.32,辉中,,0,0,0,,结尾能是艾莉和埃比的一段高潮场景
+Dialogue: 2,4:09:54.16,4:09:59.32,辉英,,0,0,0,,with the hope that it will end in a climactic scene between Ellie and Abby,
+Dialogue: 1,4:09:59.32,4:10:03.28,辉中,,0,0,0,,当中把所有问题都解决掉 最好是一个杀了另一个
+Dialogue: 2,4:09:59.32,4:10:03.28,辉英,,0,0,0,,where everything gets resolved, preferably where one kills the other,
+Dialogue: 1,4:10:03.28,4:10:05.56,辉中,,0,0,0,,或者至少有所清算
+Dialogue: 2,4:10:03.28,4:10:05.56,辉英,,0,0,0,,or at the very least, there are some sort of reckoning.
+Dialogue: 1,4:10:05.56,4:10:10.51,辉中,,0,0,0,,但我觉得游戏这段并没有解决这个问题 满足两人的诉求
+Dialogue: 2,4:10:05.56,4:10:10.51,辉英,,0,0,0,,But I wouldn't say that this scratches that itch or satisfies that demand.
+Dialogue: 1,4:10:10.51,4:10:15.61,辉中,,0,0,0,,诚然 说埃比明显赢得了这场战斗是没什么争议的
+Dialogue: 2,4:10:10.51,4:10:15.61,辉英,,0,0,0,,I don't think it's controversial to say that Abby, pretty clearly won this exchange.
+Dialogue: 1,4:10:15.61,4:10:20.50,辉中,,0,0,0,,如果她想 她轻松就能杀掉艾莉和蒂娜
+Dialogue: 2,4:10:15.61,4:10:20.50,辉英,,0,0,0,,And if she wanted to, could have killed Ellie and Dina easily.
+Dialogue: 1,4:10:20.50,4:10:26.86,辉中,,0,0,0,,但出于内心某种尊严或风度 还有宽恕、自尊等等
+Dialogue: 2,4:10:20.50,4:10:26.86,辉英,,0,0,0,,But out of some sense of dignity or grace and forgiveness, pride,
+Dialogue: 1,4:10:26.86,4:10:29.95,辉中,,0,0,0,,无论是哪种 她决定放她们一马
+Dialogue: 2,4:10:26.86,4:10:29.95,辉英,,0,0,0,,whatever it may be, she decided to spare them.
+Dialogue: 1,4:10:29.95,4:10:33.97,辉中,,0,0,0,,因此虽然从埃比的角度看 这场冲突可能已经解决了
+Dialogue: 2,4:10:29.95,4:10:33.97,辉英,,0,0,0,,So while this may be a resolution of the conflict from Abby's perspective,
+Dialogue: 1,4:10:33.97,4:10:36.85,辉中,,0,0,0,,她决定继续向前看 想要忘掉这一切
+Dialogue: 2,4:10:33.97,4:10:36.85,辉英,,0,0,0,,she's moving on and wants to forget about all of this.
+Dialogue: 1,4:10:36.85,4:10:41.02,辉中,,0,0,0,,但对艾莉、汤米还是蒂娜来说都没有解决
+Dialogue: 2,4:10:36.85,4:10:41.02,辉英,,0,0,0,,It's not a resolution for Ellie, for Tommy, or for Dina,
+Dialogue: 1,4:10:41.02,4:10:42.97,辉中,,0,0,0,,就像我们即将看到的场景中那样
+Dialogue: 2,4:10:41.02,4:10:42.97,辉英,,0,0,0,,as we'll see in the following scenes.
+Dialogue: 1,4:10:42.97,4:10:45.24,辉中,,0,0,0,,我觉得真正令玩家感到沮丧的
+Dialogue: 2,4:10:42.97,4:10:45.24,辉英,,0,0,0,,And I think the really frustrating thing for the player
+Dialogue: 1,4:10:45.24,4:10:50.43,辉中,,0,0,0,,在整个游戏时间内 整个故事一直在为这个时刻、这样的一场战斗做准备
+Dialogue: 2,4:10:45.24,4:10:50.43,辉英,,0,0,0,,is that the entire story has been building to this moment, this exchange, this fight,
+Dialogue: 1,4:10:50.43,4:10:53.50,辉中,,0,0,0,,在整个游戏时间内 整个故事一直在为这个时刻、这样的一场战斗做准备
+Dialogue: 2,4:10:50.43,4:10:53.50,辉英,,0,0,0,,throughout the entirety of the game play time.
+Dialogue: 1,4:10:53.50,4:10:57.04,辉中,,0,0,0,,现在我们玩到这里 结果却什么都没解决
+Dialogue: 2,4:10:53.50,4:10:57.04,辉英,,0,0,0,,And now that we've reached it, it doesn't resolve itself at all.
+Dialogue: 1,4:10:57.04,4:11:01.51,辉中,,0,0,0,,不但没解决 我们还看到艾莉、蒂娜、汤米躺地上浑身是血
+Dialogue: 2,4:10:57.04,4:11:01.51,辉英,,0,0,0,,And instead, Ellie, Dina and Tommy are left bleeding out on the floor,
+Dialogue: 1,4:11:01.51,4:11:04.18,辉中,,0,0,0,,杰西还领盒饭了
+Dialogue: 2,4:11:01.51,4:11:04.18,辉英,,0,0,0,,and in the case of Jesse, he's dead.
+Dialogue: 1,4:11:04.18,4:11:08.62,辉中,,0,0,0,,特别是考虑到玩家游玩这段时情感上已经心力交瘁了
+Dialogue: 2,4:11:04.18,4:11:08.62,辉英,,0,0,0,,And especially considering how emotionally exhausting the scheme is to play,
+Dialogue: 1,4:11:08.62,4:11:12.73,辉中,,0,0,0,,真的很难强求玩家再花多少个小时来继续游玩游戏的尾声部分
+Dialogue: 2,4:11:08.62,4:11:12.73,辉英,,0,0,0,,it's really difficult to ask the player to buckle down for another
+Dialogue: 1,4:11:12.73,4:11:17.32,辉中,,0,0,0,,真的很难强求玩家再花多少个小时来继续游玩游戏的尾声部分
+Dialogue: 2,4:11:12.73,4:11:17.32,辉英,,0,0,0,,however many hours it's going to take to get through what is effectively the epilogue.
+Dialogue: 1,4:11:17.32,4:11:22.09,辉中,,0,0,0,,而且我知道理论上这算是尾声 因为故事矛盾根本还没解决
+Dialogue: 2,4:11:17.32,4:11:22.09,辉英,,0,0,0,,And I know it's not technically an epilogue because the story hasn't resolved itself.
+Dialogue: 1,4:11:22.09,4:11:26.11,辉中,,0,0,0,,下一章节仍然属于主线故事的内容
+Dialogue: 2,4:11:22.09,4:11:26.11,辉英,,0,0,0,,It's still part of the main story as we move into this next chapter.
+Dialogue: 1,4:11:26.11,4:11:29.80,辉中,,0,0,0,,但只是看起来和主线故事很割裂
+Dialogue: 2,4:11:26.11,4:11:29.80,辉英,,0,0,0,,But still it feels as though it separate from the main game.
+Dialogue: 1,4:11:29.80,4:11:34.63,辉中,,0,0,0,,我思考了很久都不确定顽皮狗是希望如此
+Dialogue: 2,4:11:29.80,4:11:34.63,辉英,,0,0,0,,And after a lot of contemplation, I am not sure if Naughty Dog wanted this to be the case,
+Dialogue: 1,4:11:34.63,4:11:40.57,辉中,,0,0,0,,或者甚至说他们就刻意让之后的故事和西雅图的主线内容如此不同
+Dialogue: 2,4:11:34.63,4:11:40.57,辉英,,0,0,0,,or if they even meant for this to feel so different from the core body of the game in Seattle.
+Dialogue: 1,4:11:40.57,4:11:46.09,辉中,,0,0,0,,而有一点是很清楚的 就是在核心游戏内容结束后节奏上的这种急剧转变
+Dialogue: 2,4:11:40.57,4:11:46.09,辉英,,0,0,0,,It seems to be pretty clear that shifting pace very sharply after all of the events of the core game,
+Dialogue: 1,4:11:46.09,4:11:51.52,辉中,,0,0,0,,会在很大程度上打击玩家的游戏感受 让他们感受到明显的差异感
+Dialogue: 2,4:11:46.09,4:11:51.52,辉英,,0,0,0,,is going to hit the player in a fairly significant way such that they're going to feel very differently.
+Dialogue: 1,4:11:51.52,4:11:53.89,辉中,,0,0,0,,很多游戏开发者曾在开发者大会、演讲之类的场合提到过
+Dialogue: 2,4:11:51.52,4:11:53.89,辉英,,0,0,0,,It's something a good number of developers have spoken of
+Dialogue: 1,4:11:53.89,4:11:57.76,辉中,,0,0,0,,很多游戏开发者曾在开发者大会、演讲之类的场合提到过
+Dialogue: 2,4:11:53.89,4:11:57.76,辉英,,0,0,0,,in GDC conference, speeches, and things like that,
+Dialogue: 1,4:11:57.76,4:12:02.66,辉中,,0,0,0,,在一个项目上连续干很多年后慢慢失去对游戏焦点的这种困扰
+Dialogue: 2,4:11:57.76,4:12:02.66,辉英,,0,0,0,,where they express this frustration with working on a project for years and years and years
+Dialogue: 1,4:12:02.66,4:12:04.36,辉中,,0,0,0,,在一个项目上连续干很多年后慢慢失去对游戏焦点的这种困扰
+Dialogue: 2,4:12:02.66,4:12:04.36,辉英,,0,0,0,,and losing perspective on it,
+Dialogue: 1,4:12:04.36,4:12:08.74,辉中,,0,0,0,,他们会因此忘记第一次玩这个游戏应该是什么样的体验
+Dialogue: 2,4:12:04.36,4:12:08.74,辉英,,0,0,0,,such that they forget how it would actually feel to play it for the first time.
+Dialogue: 1,4:12:08.74,4:12:11.32,辉中,,0,0,0,,换句话说 当你在某个项目上忘我地拼命时
+Dialogue: 2,4:12:08.74,4:12:11.32,辉英,,0,0,0,,In other words, when you're working really hard on something,
+Dialogue: 1,4:12:11.32,4:12:16.96,辉中,,0,0,0,,你的视角就会慢慢缩窄 你会慢慢进入当局者迷的境地
+Dialogue: 2,4:12:11.32,4:12:16.96,辉英,,0,0,0,,you develop a sort of tunnel vision and you lose perspective on what it looks like from the outside.
+Dialogue: 1,4:12:16.96,4:12:18.61,辉中,,0,0,0,,对你来说可能看起来很棒
+Dialogue: 2,4:12:16.96,4:12:18.61,辉英,,0,0,0,,It may seem great to you,
+Dialogue: 1,4:12:18.61,4:12:21.55,辉中,,0,0,0,,但由于你过于专注于小细节
+Dialogue: 2,4:12:18.61,4:12:21.55,辉英,,0,0,0,,but just because you're so focused on the little details,
+Dialogue: 1,4:12:21.55,4:12:23.92,辉中,,0,0,0,,导致丧失了整体上的视野
+Dialogue: 2,4:12:21.55,4:12:23.92,辉英,,0,0,0,,you might have lost sight of the overall picture.
+Dialogue: 1,4:12:23.92,4:12:29.09,辉中,,0,0,0,,或者反过来 你可能过于专注于全局 结果忽略了细节
+Dialogue: 2,4:12:23.92,4:12:29.09,辉英,,0,0,0,,Or vice versa, you are focused on the broader picture, so you lose sight of the minutiae.
+Dialogue: 1,4:12:29.09,4:12:33.09,辉中,,0,0,0,,无论怎么说 最后这段战斗都让玩家感觉到了奇怪
+Dialogue: 2,4:12:29.09,4:12:33.09,辉英,,0,0,0,,Regardless, this final fight leaves the player feeling kind of strange,
+Dialogue: 1,4:12:33.09,4:12:34.48,辉中,,0,0,0,,至少我是这样认为的
+Dialogue: 2,4:12:33.09,4:12:34.48,辉英,,0,0,0,,at least it did for me;
+Dialogue: 1,4:12:34.48,4:12:37.12,辉中,,0,0,0,,而基于大家很多人在调查中的回复
+Dialogue: 2,4:12:34.48,4:12:37.12,辉英,,0,0,0,,and based on a lot of your responses to the survey,
+Dialogue: 1,4:12:37.12,4:12:40.15,辉中,,0,0,0,,很多人也感觉到了奇怪
+Dialogue: 2,4:12:37.12,4:12:40.15,辉英,,0,0,0,,it left a lot of you feeling very strange as well.
+Dialogue: 1,4:12:40.15,4:12:41.41,辉中,,0,0,0,,我不知道你怎样想
+Dialogue: 2,4:12:40.15,4:12:41.41,辉英,,0,0,0,,And I don't know about you,
+Dialogue: 1,4:12:41.41,4:12:45.97,辉中,,0,0,0,,我是感觉太多人有同样想法的话我就会联想到游戏品质问题
+Dialogue: 2,4:12:41.41,4:12:45.97,辉英,,0,0,0,,but often strangers into feeling I would associate with quality.
+Dialogue: 1,4:12:45.97,4:12:50.21,辉中,,0,0,0,,说了这么多 游戏核心内容结束后
+Dialogue: 2,4:12:45.97,4:12:50.21,辉英,,0,0,0,,But with all that said after this initial chunk of the game is over,
+Dialogue: 1,4:12:50.21,4:12:53.02,辉中,,0,0,0,,玩家留下了很多悬而未决的问题
+Dialogue: 2,4:12:50.21,4:12:53.02,辉英,,0,0,0,,the player's left with a lot of questions unresolved.
+Dialogue: 1,4:12:53.02,4:12:55.45,辉中,,0,0,0,,比如 蒂娜还好吗？
+Dialogue: 2,4:12:53.02,4:12:55.45,辉英,,0,0,0,,For instance, is Dina okay?
+Dialogue: 1,4:12:55.45,4:13:00.32,辉中,,0,0,0,,脑袋咣咣咣砸了那么多下水泥地没事吗？
+Dialogue: 2,4:12:55.45,4:13:00.32,辉英,,0,0,0,,Is she going to survive having her face bashed into cement multiple times?
+Dialogue: 1,4:13:00.32,4:13:03.99,辉中,,0,0,0,,不过实际上应该不是水泥地 好像有块木板垫着
+Dialogue: 2,4:13:00.32,4:13:03.99,辉英,,0,0,0,,While it's technically it wasn't cement, they put down a particle board
+Dialogue: 1,4:13:03.99,4:13:07.54,辉中,,0,0,0,,这样活下来也好解释 细节很棒
+Dialogue: 2,4:13:03.99,4:13:07.54,辉英,,0,0,0,,so that they could have an excuse as to why she survived, its good detail.
+Dialogue: 1,4:13:07.54,4:13:08.87,辉中,,0,0,0,,他们能放几块木板我很欣慰
+Dialogue: 2,4:13:07.54,4:13:08.87,辉英,,0,0,0,,I'm glad that they put this in there
+Dialogue: 1,4:13:08.87,4:13:12.91,辉中,,0,0,0,,这样颅骨骨折还没死也能解释得通
+Dialogue: 2,4:13:08.87,4:13:12.91,辉英,,0,0,0,,so that it's not totally unbelievable that she survived a cracked skull.
+Dialogue: 1,4:13:12.91,4:13:18.49,辉中,,0,0,0,,但挺着大肚子能活下来也真是命硬
+Dialogue: 2,4:13:12.91,4:13:18.49,辉英,,0,0,0,,But still this is a pretty rough thing to go through, especially when you're pregnant.
+Dialogue: 1,4:13:18.49,4:13:21.52,辉中,,0,0,0,,所以玩家此时并不知道她会不会有事
+Dialogue: 2,4:13:18.49,4:13:21.52,辉英,,0,0,0,,So the player's left wondering whether or not she's going to be okay.
+Dialogue: 1,4:13:21.52,4:13:24.64,辉中,,0,0,0,,你还想知道 尚未出生的孩子父亲杰西已经死了 那这两人的未来会怎样
+Dialogue: 2,4:13:21.52,4:13:24.64,辉英,,0,0,0,,You also have to ask yourself what's going to happen to this couple
+Dialogue: 1,4:13:24.64,4:13:27.79,辉中,,0,0,0,,你还想知道 尚未出生的孩子父亲杰西已经死了 那这两人的未来会怎样
+Dialogue: 2,4:13:24.64,4:13:27.79,辉英,,0,0,0,,when the incoming baby comes along now that Jesse's gone.
+Dialogue: 1,4:13:27.79,4:13:29.80,辉中,,0,0,0,,杰克逊小镇要怎样处理
+Dialogue: 2,4:13:27.79,4:13:29.80,辉英,,0,0,0,,How is Jackson going to handle
+Dialogue: 1,4:13:29.80,4:13:34.69,辉中,,0,0,0,,他们的精英小队几乎被州外的一个小团体灭了这件事？
+Dialogue: 2,4:13:29.80,4:13:34.69,辉英,,0,0,0,,having so many of their best and brightest, decimated by an out of state group?
+Dialogue: 1,4:13:34.69,4:13:38.35,辉中,,0,0,0,,他们能、或者会接受此事吗？
+Dialogue: 2,4:13:34.69,4:13:38.35,辉英,,0,0,0,,Can, or will they ever be able to adjust?
+Dialogue: 1,4:13:38.35,4:13:40.28,辉中,,0,0,0,,我们甚至永远不会知道答案
+Dialogue: 2,4:13:38.35,4:13:40.28,辉英,,0,0,0,,I mean, we don't ever really get to know.
+Dialogue: 1,4:13:40.28,4:13:43.72,辉中,,0,0,0,,因为之后的游戏我们再也没有回到杰克逊小镇
+Dialogue: 2,4:13:40.28,4:13:43.72,辉英,,0,0,0,,Because in the following sequences, we never return back to Jackson.
+Dialogue: 1,4:13:43.72,4:13:47.68,辉中,,0,0,0,,另外 可能现在最重要的问题是 艾莉怎么样了？
+Dialogue: 2,4:13:43.72,4:13:47.68,辉英,,0,0,0,,And perhaps the most important question is what does Ellie do now?
+Dialogue: 1,4:13:47.68,4:13:49.54,辉中,,0,0,0,,她能放下一切吗？
+Dialogue: 2,4:13:47.68,4:13:49.54,辉英,,0,0,0,,Is she capable of moving on?
+Dialogue: 1,4:13:49.54,4:13:51.58,辉中,,0,0,0,,这是艾莉想要的结果吗？
+Dialogue: 2,4:13:49.54,4:13:51.58,辉英,,0,0,0,,Is that something that Ellie would even want?
+Dialogue: 1,4:13:51.58,4:13:54.46,辉中,,0,0,0,,这是玩家想要的结果吗？
+Dialogue: 2,4:13:51.58,4:13:54.46,辉英,,0,0,0,,Is that something that would even satisfy the player?
+Dialogue: 1,4:13:54.46,4:13:59.77,辉中,,0,0,0,,还是说我们最后还要准备再大干一票 一举了解此事
+Dialogue: 2,4:13:54.46,4:13:59.77,辉英,,0,0,0,,Or are we setting ourselves up for one last hurrah to try and resolve everything
+Dialogue: 1,4:13:59.77,4:14:04.90,辉中,,0,0,0,,拼命为游戏核心内容本身的合理性而辩护？
+Dialogue: 2,4:13:59.77,4:14:04.90,辉英,,0,0,0,,in a desperate attempt to justify the events of the core game itself?
+Dialogue: 1,4:14:04.90,4:14:09.46,辉中,,0,0,0,,就像《荒野大镖客：救赎2》那样 答案是后者
+Dialogue: 2,4:14:04.90,4:14:09.46,辉英,,0,0,0,,Just like Red Dead Redemption 2, it's gonna end up being the latter.
+Dialogue: 1,4:14:09.46,4:14:14.60,辉中,,0,0,0,,这些问题的答案大多会出现 但现在我们还被蒙在鼓里
+Dialogue: 2,4:14:09.46,4:14:14.60,辉英,,0,0,0,,Answers to these questions will mostly come, but for now we're left in the dark.
+Dialogue: 1,4:14:14.60,4:14:18.76,辉中,,0,0,0,,战斗过后的黑场结束后 我们来到一片农场
+Dialogue: 2,4:14:14.60,4:14:18.76,辉英,,0,0,0,,After cut to black, after this fight, we open up on a farm.
+Dialogue: 1,4:14:18.76,4:14:24.19,辉中,,0,0,0,,有一片广阔的麦田 远处有一座农舍 后面有一个谷仓
+Dialogue: 2,4:14:18.76,4:14:24.19,辉英,,0,0,0,,There's an expansive wheat field with a farm house off in the distance and a barn behind it.
+Dialogue: 1,4:14:24.19,4:14:25.96,辉中,,0,0,0,,一切宁静如画
+Dialogue: 2,4:14:24.19,4:14:25.96,辉英,,0,0,0,,It's very calm and picturesque.
+Dialogue: 1,4:14:25.96,4:14:27.79,辉中,,0,0,0,,房子里面我们看到了艾莉
+Dialogue: 2,4:14:25.96,4:14:27.79,辉英,,0,0,0,,Inside we see Ellie,
+Dialogue: 1,4:14:27.79,4:14:31.36,辉中,,0,0,0,,她看起来已经痊愈 状况好了不少
+Dialogue: 2,4:14:27.79,4:14:31.36,辉英,,0,0,0,,she seems, healed up and relatively healthy,
+Dialogue: 1,4:14:31.36,4:14:36.07,辉中,,0,0,0,,拿着乔尔在第一部作品开头莎拉送给他的手表
+Dialogue: 2,4:14:31.36,4:14:36.07,辉英,,0,0,0,,and she's holding Joel's old broken watch that he got from Sarah in the first game.
+Dialogue: 1,4:14:36.07,4:14:41.74,辉中,,0,0,0,,游戏在以一种不那么微妙的方式提醒玩家 艾莉还在惦记着乔尔
+Dialogue: 2,4:14:36.07,4:14:41.74,辉英,,0,0,0,,This is a not so subtle way of reminding the player that Ellie is still thinking about Joel,
+Dialogue: 1,4:14:41.74,4:14:43.42,辉中,,0,0,0,,她还没有放下此事
+Dialogue: 2,4:14:41.74,4:14:43.42,辉英,,0,0,0,,and that she hasn't moved on.
+Dialogue: 1,4:14:43.42,4:14:45.91,辉中,,0,0,0,,另外 现在还有个小宝宝了
+Dialogue: 2,4:14:43.42,4:14:45.91,辉英,,0,0,0,,Also, there's a baby now.
+Dialogue: 1,4:14:45.91,4:14:52.03,辉中,,0,0,0,,这再次证实了自上一场景的事件发生以来已经过去了好长一段时间
+Dialogue: 2,4:14:45.91,4:14:52.03,辉英,,0,0,0,,This reaffirms that it's been a good long while since the events of the previous scene.
+Dialogue: 1,4:14:52.03,4:14:54.04,辉中,,0,0,0,,接着我们在厨房见到了蒂娜
+Dialogue: 2,4:14:52.03,4:14:54.04,辉英,,0,0,0,,Furthermore, we see Dina in the kitchen,
+Dialogue: 1,4:14:54.04,4:14:56.74,辉中,,0,0,0,,看起来她也恢复得不错
+Dialogue: 2,4:14:54.04,4:14:56.74,辉英,,0,0,0,,and it seems as though she's recovered just fine,
+Dialogue: 1,4:14:56.74,4:14:59.98,辉中,,0,0,0,,还穿着家庭主妇一样的裤子
+Dialogue: 2,4:14:56.74,4:14:59.98,辉英,,0,0,0,,and she also has her mom jeans coming in clutch.
+Dialogue: 1,4:14:59.98,4:15:03.01,辉中,,0,0,0,,好吧其实我真不知道那应该叫啥
+Dialogue: 2,4:14:59.98,4:15:03.01,辉英,,0,0,0,,I mean maybe, it's stupid, I'm honestly not sure what it is.
+Dialogue: 1,4:15:03.01,4:15:07.48,辉中,,0,0,0,,但这个场景我第一眼见到蒂娜就感觉她太有当妈的感觉了
+Dialogue: 2,4:15:03.01,4:15:07.48,辉英,,0,0,0,,But when I saw Dina in this scene, I thought that she just she looked like a mom.
+Dialogue: 1,4:15:07.48,4:15:11.20,辉中,,0,0,0,,我也不知道为什么 可能是画了眉毛
+Dialogue: 2,4:15:07.48,4:15:11.20,辉英,,0,0,0,,I don't know what it is, maybe they bushed up her eyebrows, and that did it.
+Dialogue: 1,4:15:11.20,4:15:15.10,辉中,,0,0,0,,也可能是她奇怪的装束 也可能是因为她在洗碗
+Dialogue: 2,4:15:11.20,4:15:15.10,辉英,,0,0,0,,Maybe it's the strange outfit she has on or the fact that she's doing dishes.
+Dialogue: 1,4:15:15.10,4:15:16.93,辉中,,0,0,0,,我不知道怎么回事
+Dialogue: 2,4:15:15.10,4:15:16.93,辉英,,0,0,0,,I don't know what it is.
+Dialogue: 1,4:15:16.93,4:15:21.40,辉中,,0,0,0,,但他们的确成功让蒂娜看上去很像一位妈妈
+Dialogue: 2,4:15:16.93,4:15:21.40,辉英,,0,0,0,,But they seemingly did a good job of making her appear as a mother,
+Dialogue: 1,4:15:21.40,4:15:23.05,辉中,,0,0,0,,这点应该为顽皮狗点赞
+Dialogue: 2,4:15:21.40,4:15:23.05,辉英,,0,0,0,,I guess props to Naughty Dog.
+Dialogue: 1,4:15:23.05,4:15:26.80,辉中,,0,0,0,,而且说实话 一切都显得宁静愉快
+Dialogue: 2,4:15:23.05,4:15:26.80,辉英,,0,0,0,,And to be honest, everything seems calm and relatively happy,
+Dialogue: 1,4:15:26.80,4:15:30.34,辉中,,0,0,0,,但这个世界里不会有什么幸福的结局
+Dialogue: 2,4:15:26.80,4:15:30.34,辉英,,0,0,0,,but nothing ever ends happily in this world.
+Dialogue: 1,4:15:30.34,4:15:32.83,辉中,,0,0,0,,所以这当然也不会持续很久
+Dialogue: 2,4:15:30.34,4:15:32.83,辉英,,0,0,0,,So of course this won't last for long.
+Dialogue: 1,4:15:32.83,4:15:37.48,辉中,,0,0,0,,艾莉干了点日常杂活 和蒂娜跳了个舞 玩家参观了一下房间
+Dialogue: 2,4:15:32.83,4:15:37.48,辉英,,0,0,0,,Ellie does some routine chores, you dance with Dina a little bit, and you explore the house.
+Dialogue: 1,4:15:37.48,4:15:41.77,辉中,,0,0,0,,这里有趣的一点是艾莉家里有很多从乔尔家里拿过来的艺术画
+Dialogue: 2,4:15:37.48,4:15:41.77,辉英,,0,0,0,,Fun little note here is that Ellie actually has a good amount of art in the house
+Dialogue: 1,4:15:41.77,4:15:43.81,辉中,,0,0,0,,这里有趣的一点是艾莉家里有很多从乔尔家里拿过来的艺术画
+Dialogue: 2,4:15:41.77,4:15:43.81,辉英,,0,0,0,,that was taken from Joel's house.
+Dialogue: 1,4:15:43.81,4:15:44.74,辉中,,0,0,0,,这是个很好的提示
+Dialogue: 2,4:15:43.81,4:15:44.74,辉英,,0,0,0,,It's a nice touch,
+Dialogue: 1,4:15:44.74,4:15:47.89,辉中,,0,0,0,,这同样能说明艾莉仍想抓住乔尔的一些影子
+Dialogue: 2,4:15:44.74,4:15:47.89,辉英,,0,0,0,,and it makes sense since she would likely want to hold on to parts of him,
+Dialogue: 1,4:15:47.89,4:15:50.32,辉中,,0,0,0,,就像刚刚我们看她在把玩乔尔的手表一样
+Dialogue: 2,4:15:47.89,4:15:50.32,辉英,,0,0,0,,as we just saw earlier when she had his watch.
+Dialogue: 1,4:15:50.32,4:15:52.27,辉中,,0,0,0,,而这方面的细节真的很甜
+Dialogue: 2,4:15:50.32,4:15:52.27,辉英,,0,0,0,,It's just a really sweet little detail,
+Dialogue: 1,4:15:52.27,4:15:56.38,辉中,,0,0,0,,尤其是考虑到玩家很可能根本不会注意到这点
+Dialogue: 2,4:15:52.27,4:15:56.38,辉英,,0,0,0,,especially considering the fact that the player will likely not notice this,
+Dialogue: 1,4:15:56.38,4:15:58.36,辉中,,0,0,0,,至少一周目游戏的时候肯定不会
+Dialogue: 2,4:15:56.38,4:15:58.36,辉英,,0,0,0,,at least on their first run through the game.
+Dialogue: 1,4:15:58.36,4:16:03.22,辉中,,0,0,0,,我发现此事还是因为我为了做这个视频剪辑了很多游戏片段
+Dialogue: 2,4:15:58.36,4:16:03.22,辉英,,0,0,0,,I only noticed it once I spent a lot of time recording footage for this video
+Dialogue: 1,4:16:03.22,4:16:05.80,辉中,,0,0,0,,反复认真切换场景才发现的
+Dialogue: 2,4:16:03.22,4:16:05.80,辉英,,0,0,0,,going back through environments very carefully.
+Dialogue: 1,4:16:05.80,4:16:10.48,辉中,,0,0,0,,我先是发现乔尔的房间里有很多好看的挂图 我很喜欢
+Dialogue: 2,4:16:05.80,4:16:10.48,辉英,,0,0,0,,I noticed that in Joel's house there are a lot of really nice looking paintings that I liked.
+Dialogue: 1,4:16:10.48,4:16:13.99,辉中,,0,0,0,,实际上这事我在视频前半部分就提到过
+Dialogue: 2,4:16:10.48,4:16:13.99,辉英,,0,0,0,,In fact, I even reference those earlier in this very video.
+Dialogue: 1,4:16:13.99,4:16:18.59,辉中,,0,0,0,,但之后我来到这段场景时 我发现这些画看着很眼熟
+Dialogue: 2,4:16:13.99,4:16:18.59,辉英,,0,0,0,,But then when I went back through this section, I noticed that those paintings looked similar.
+Dialogue: 1,4:16:18.59,4:16:23.11,辉中,,0,0,0,,我一开始以为制作者只是在重复使用一些贴图罢了 这种操作很常见
+Dialogue: 2,4:16:18.59,4:16:23.11,辉英,,0,0,0,,And I initially thought that they were just reusing assets which is pretty common in game development.
+Dialogue: 1,4:16:23.11,4:16:26.14,辉中,,0,0,0,,但更进一步的观察后
+Dialogue: 2,4:16:23.11,4:16:26.14,辉英,,0,0,0,,But upon further inspection and deliberation,
+Dialogue: 1,4:16:26.14,4:16:28.87,辉中,,0,0,0,,我发现这其实是美术设计上的安排
+Dialogue: 2,4:16:26.14,4:16:28.87,辉英,,0,0,0,,I realized that this was actually an artistic choice,
+Dialogue: 1,4:16:28.87,4:16:34.00,辉中,,0,0,0,,因为艾莉一直在想着把乔尔生活中的一些事物带到她的生活中去
+Dialogue: 2,4:16:28.87,4:16:34.00,辉英,,0,0,0,,because Ellie is trying to keep and bring parts of Joel into her life even still.
+Dialogue: 1,4:16:34.00,4:16:36.97,辉中,,0,0,0,,现在 在探索了房子并与蒂娜寒暄了一会儿后
+Dialogue: 2,4:16:34.00,4:16:36.97,辉英,,0,0,0,,Now, after exploring the house and chilling with Dina for a little bit,
+Dialogue: 1,4:16:36.97,4:16:41.08,辉中,,0,0,0,,蒂娜要艾莉把外面的羊招回谷仓
+Dialogue: 2,4:16:36.97,4:16:41.08,辉英,,0,0,0,,Dina asks Ellie to bring in the sheep from outside and put them into the barn.
+Dialogue: 1,4:16:41.08,4:16:43.66,辉中,,0,0,0,,所以艾莉抱着孩子一起去干活
+Dialogue: 2,4:16:41.08,4:16:43.66,辉英,,0,0,0,,So Ellie goes, and does this with the baby.
+Dialogue: 1,4:16:43.66,4:16:46.60,辉中,,0,0,0,,然后艾莉发现了一只落单的小羊
+Dialogue: 2,4:16:43.66,4:16:46.60,辉英,,0,0,0,,And after doing it, Ellie spots one little straggler.
+Dialogue: 1,4:16:46.60,4:16:50.65,辉中,,0,0,0,,接下来可能是整个游戏里最快速的情绪转变——
+Dialogue: 2,4:16:46.60,4:16:50.65,辉英,,0,0,0,,And there's probably leads to the fastest mood shift of the whole game.
+Dialogue: 0,4:16:56.01,4:16:57.38,辉中 Script,,0,0,0,,来吧，小家伙。
+Dialogue: 0,4:16:57.38,4:16:59.88,辉中 Script,,0,0,0,,啊！
+Dialogue: 0,4:17:05.75,4:17:07.75,辉中 Script,,0,0,0,,好。
+Dialogue: 0,4:17:10.46,4:17:11.73,辉中 Script,,0,0,0,,快点，小家伙……
+Dialogue: 0,4:17:12.33,4:17:13.13,辉中 Script,,0,0,0,,你不想吃东西吗……？
+Dialogue: 0,4:17:29.55,4:17:30.45,辉中 Script,,0,0,0,,乔尔：艾莉！
+Dialogue: 0,4:17:30.54,4:17:33.41,辉中 Script,,0,0,0,,艾莉：不，不，不……
+Dialogue: 0,4:17:32.11,4:17:33.41,辉中 Script,,0,0,0,,乔尔：救我！！
+Dialogue: 0,4:17:39.31,4:17:41.81,辉中 Script,,0,0,0,,艾莉：乔尔！
+Dialogue: 0,4:17:42.51,4:17:44.53,辉中 Script,,0,0,0,,乔尔：啊！！
+Dialogue: 0,4:17:42.85,4:17:44.86,辉中 Script,,0,0,0,,艾莉：求你了，不要！！
+Dialogue: 0,4:17:45.66,4:17:46.70,辉中 Script,,0,0,0,,蒂娜：艾莉？
+Dialogue: 1,4:17:46.48,4:17:50.41,辉中,,0,0,0,,我真的感觉这一刻吓了玩家一跳 就像艾莉一样
+Dialogue: 2,4:17:46.48,4:17:50.41,辉英,,0,0,0,,I really think that this moment is meant to hit the player just as hard as it hits Ellie.
+Dialogue: 0,4:17:46.70,4:17:48.63,辉中 Script,,0,0,0,,诶，艾莉。
+Dialogue: 0,4:17:48.63,4:17:49.33,辉中 Script,,0,0,0,,看着我。
+Dialogue: 0,4:17:49.33,4:17:51.76,辉中 Script,,0,0,0,,没事了，你到家了，你在家里。
+Dialogue: 1,4:17:50.41,4:17:52.54,辉中,,0,0,0,,本来一切是那么轻松愉悦
+Dialogue: 2,4:17:50.41,4:17:52.54,辉英,,0,0,0,,Everything seems fine, calm and relaxed.
+Dialogue: 0,4:17:52.16,4:17:53.36,辉中 Script,,0,0,0,,调整呼吸，好好呼吸。
+Dialogue: 1,4:17:52.54,4:17:56.73,辉中,,0,0,0,,看起来她们已经从游戏核心部分的很多烂事中走出来
+Dialogue: 2,4:17:52.54,4:17:56.73,辉英,,0,0,0,,It seems as though they've moved on from a lot of the struggles of the core game
+Dialogue: 0,4:17:53.36,4:17:54.43,辉中 Script,,0,0,0,,艾莉：我做不到，我做不到！
+Dialogue: 0,4:17:53.80,4:17:56.30,辉中 Script,,0,0,0,,蒂娜：没事。我来抱他，好么？
+Dialogue: 1,4:17:56.73,4:17:59.86,辉中,,0,0,0,,过上幸福美满的生活了
+Dialogue: 2,4:17:56.73,4:17:59.86,辉英,,0,0,0,,and that their living a happy, satisfied life together.
+Dialogue: 0,4:17:57.56,4:17:59.50,辉中 Script,,0,0,0,,来这里，小家伙。
+Dialogue: 0,4:17:59.50,4:18:02.01,辉中 Script,,0,0,0,,嘘嘘嘘……
+Dialogue: 1,4:17:59.86,4:18:02.68,辉中,,0,0,0,,但现在一切都崩塌了
+Dialogue: 2,4:17:59.86,4:18:02.68,辉英,,0,0,0,,But now everything is falling apart.
+Dialogue: 1,4:18:02.68,4:18:05.98,辉中,,0,0,0,,艾莉还是无法忘记乔尔身上发生的一切
+Dialogue: 2,4:18:02.68,4:18:05.98,辉英,,0,0,0,,Ellie's mind won't let her forget what happened to Joel,
+Dialogue: 0,4:18:02.95,4:18:05.45,辉中 Script,,0,0,0,,嘘……嘘……没事了……
+Dialogue: 1,4:18:05.98,4:18:09.10,辉中,,0,0,0,,她明显没法放下此事
+Dialogue: 2,4:18:05.98,4:18:09.10,辉英,,0,0,0,,and she's clearly been unable to move on.
+Dialogue: 0,4:18:08.71,4:18:10.91,辉中 Script,,0,0,0,,艾莉：对不起。
+Dialogue: 1,4:18:09.10,4:18:14.17,辉中,,0,0,0,,蒂娜也明白此事 并表示理解 因为她知道艾莉自己也无能为力
+Dialogue: 2,4:18:09.10,4:18:14.17,辉英,,0,0,0,,Dina knows this and is understanding because she knows that Ellie can't help this.
+Dialogue: 0,4:18:10.91,4:18:13.41,辉中 Script,,0,0,0,,我不知道怎么了……
+Dialogue: 0,4:18:13.91,4:18:16.38,辉中 Script,,0,0,0,,我刚刚才在赶……
+Dialogue: 1,4:18:14.17,4:18:16.18,辉中,,0,0,0,,这不是她能控制的
+Dialogue: 2,4:18:14.17,4:18:16.18,辉英,,0,0,0,,It's something beyond her control,
+Dialogue: 1,4:18:16.18,4:18:20.32,辉中,,0,0,0,,就像其他患有类似问题的人无法控制自己的惊恐发作一样
+Dialogue: 2,4:18:16.18,4:18:20.32,辉英,,0,0,0,,just like anybody else who suffers from panic attacks can't really control it.
+Dialogue: 0,4:18:17.36,4:18:20.23,辉中 Script,,0,0,0,,蒂娜：没事。我们办到了。
+Dialogue: 1,4:18:20.32,4:18:22.36,辉中,,0,0,0,,它就是这样会突然到来
+Dialogue: 2,4:18:20.32,4:18:22.36,辉英,,0,0,0,,It just happens when it happens.
+Dialogue: 1,4:18:22.36,4:18:24.94,辉中,,0,0,0,,而游戏还在匆匆继续它的故事
+Dialogue: 2,4:18:22.36,4:18:24.94,辉英,,0,0,0,,But the game keeps carrying along, relatively quickly.
+Dialogue: 1,4:18:24.94,4:18:28.42,辉中,,0,0,0,,我们来到第二天 家里来客人了
+Dialogue: 2,4:18:24.94,4:18:28.42,辉英,,0,0,0,,We jump to the next day and there is a guest in the house.
+Dialogue: 1,4:18:28.42,4:18:29.26,辉中,,0,0,0,,是汤米
+Dialogue: 2,4:18:28.42,4:18:29.26,辉英,,0,0,0,,It's Tommy.
+Dialogue: 1,4:18:29.26,4:18:32.41,辉中,,0,0,0,,没错 他头部中枪却活下来了
+Dialogue: 2,4:18:29.26,4:18:32.41,辉英,,0,0,0,,Yeah, he's survived the shot to the head.
+Dialogue: 1,4:18:32.41,4:18:37.15,辉中,,0,0,0,,而他现在伤还没好利索 甚至连走路都困难
+Dialogue: 2,4:18:32.41,4:18:37.15,辉英,,0,0,0,,He's currently got a lot of damage that he's dealing with and he even struggles walking.
+Dialogue: 1,4:18:37.15,4:18:41.41,辉中,,0,0,0,,毕竟脑袋中了一枪……可以理解
+Dialogue: 2,4:18:37.15,4:18:41.41,辉英,,0,0,0,,I mean, he took a bullet to the head, so… it's understandable.
+Dialogue: 1,4:18:41.41,4:18:42.94,辉中,,0,0,0,,显然他身体条件不太好
+Dialogue: 2,4:18:41.41,4:18:42.94,辉英,,0,0,0,,Clearly he's not in good shape,
+Dialogue: 1,4:18:42.94,4:18:46.75,辉中,,0,0,0,,但他对埃比所做的事情还是耿耿于怀
+Dialogue: 2,4:18:42.94,4:18:46.75,辉英,,0,0,0,,but he does not want to let Abby get away with what she's done.
+Dialogue: 1,4:18:46.75,4:18:49.93,辉中,,0,0,0,,他说他追踪到埃比在圣塔芭芭拉
+Dialogue: 2,4:18:46.75,4:18:49.93,辉英,,0,0,0,,He says that he's tracked her to a location in Santa Barbara.
+Dialogue: 1,4:18:49.93,4:18:51.85,辉中,,0,0,0,,现在 他虽然没有明说
+Dialogue: 2,4:18:49.93,4:18:51.85,辉英,,0,0,0,,Now, even though he doesn't state it outright,
+Dialogue: 1,4:18:51.85,4:18:54.97,辉中,,0,0,0,,但他自己肯定是去不了了
+Dialogue: 2,4:18:51.85,4:18:54.97,辉英,,0,0,0,,it's pretty clear that he's unable to go and chase her himself.
+Dialogue: 1,4:18:54.97,4:18:58.09,辉中,,0,0,0,,毕竟汤米现在走路都不方便 还瞎了一只眼睛
+Dialogue: 2,4:18:54.97,4:18:58.09,辉英,,0,0,0,,He can barely walk after all, and he's missing an eye now,
+Dialogue: 1,4:18:58.09,4:19:01.51,辉中,,0,0,0,,所以他就算去也帮不上什么忙
+Dialogue: 2,4:18:58.09,4:19:01.51,辉英,,0,0,0,,so he wouldn't exactly be much help if he were to go.
+Dialogue: 1,4:19:01.51,4:19:06.16,辉中,,0,0,0,,于是他来找到了艾莉完成他的复仇计划
+Dialogue: 2,4:19:01.51,4:19:06.16,辉英,,0,0,0,,And so he's come to Ellie to proposition her for this revenge plot.
+Dialogue: 1,4:19:06.16,4:19:08.69,辉中,,0,0,0,,最开始看感觉这地方有点牵强
+Dialogue: 2,4:19:06.16,4:19:08.69,辉英,,0,0,0,,Now initially, this might seem relatively far fetched
+Dialogue: 1,4:19:08.69,4:19:14.65,辉中,,0,0,0,,汤米竟然能追踪到离他的城市那么远的地方的一个人
+Dialogue: 2,4:19:08.69,4:19:14.65,辉英,,0,0,0,,that Tommy was able to track her down to a city that is very far away from where they are at.
+Dialogue: 1,4:19:14.65,4:19:18.67,辉中,,0,0,0,,艾莉和蒂娜显然在杰克逊以外附近某处
+Dialogue: 2,4:19:14.65,4:19:18.67,辉英,,0,0,0,,Apparently they're just outside of Jackson in the surrounding area,
+Dialogue: 1,4:19:18.67,4:19:22.99,辉中,,0,0,0,,所以她们俩还在这 只是搬离了小镇的核心区
+Dialogue: 2,4:19:18.67,4:19:22.99,辉英,,0,0,0,,so they're local, but they have moved out away from the core group.
+Dialogue: 1,4:19:22.99,4:19:26.56,辉中,,0,0,0,,然后我认为这里倒没有最初看来那样牵强
+Dialogue: 2,4:19:22.99,4:19:26.56,辉英,,0,0,0,,However, I don't think this is as far as stretch as it might initially seem.
+Dialogue: 1,4:19:26.56,4:19:29.29,辉中,,0,0,0,,汤米和火萤组织有着千丝万缕的联系
+Dialogue: 2,4:19:26.56,4:19:29.29,辉英,,0,0,0,,Tommy has a ton of connections to the Fireflies.
+Dialogue: 1,4:19:29.29,4:19:30.58,辉中,,0,0,0,,如果你还有印象的话
+Dialogue: 2,4:19:29.29,4:19:30.58,辉英,,0,0,0,,If you remember from earlier,
+Dialogue: 1,4:19:30.58,4:19:36.85,辉中,,0,0,0,,欧文说过他想坐船一起和梅尔、埃比、雅拉和勒弗去圣塔芭芭拉
+Dialogue: 2,4:19:30.58,4:19:36.85,辉英,,0,0,0,,Owen said that he wanted to go to Santa Barbara on the boat with Mel, Abby, Yara and Lev,
+Dialogue: 1,4:19:36.85,4:19:40.36,辉中,,0,0,0,,因为他认为那边还有大量火萤组织残党
+Dialogue: 2,4:19:36.85,4:19:40.36,辉英,,0,0,0,,because he thought that there were going to be a lot of Fireflies there
+Dialogue: 1,4:19:40.36,4:19:42.57,辉中,,0,0,0,,可以过去投靠他们
+Dialogue: 2,4:19:40.36,4:19:42.57,辉英,,0,0,0,,that they could connect and join up with.
+Dialogue: 1,4:19:42.57,4:19:46.28,辉中,,0,0,0,,同样的方法 汤米应该也能够追踪到那片区域里带着一个亚裔的某个女性
+Dialogue: 2,4:19:42.57,4:19:46.28,辉英,,0,0,0,,Using the same contacts, it seems Tommy was able to track
+Dialogue: 1,4:19:46.28,4:19:54.67,辉中,,0,0,0,,同样的方法 汤米应该也能够追踪到那片区域里带着一个亚裔的某个女性
+Dialogue: 2,4:19:46.28,4:19:54.67,辉英,,0,0,0,,a very buff woman with a small young Asian individual by her side to this area.
+Dialogue: 1,4:19:54.67,4:19:59.14,辉中,,0,0,0,,因此 他们能够追踪她到这一点似乎是相对合理的
+Dialogue: 2,4:19:54.67,4:19:59.14,辉英,,0,0,0,,So it seems relatively plausible that they would be able to track her to this point,
+Dialogue: 1,4:19:59.14,4:20:05.05,辉中,,0,0,0,,特别是如果让汤米直接对外公告说全境通缉埃比的情况下
+Dialogue: 2,4:19:59.14,4:20:05.05,辉英,,0,0,0,,especially if Tommy were to put out an APB on this individual trying to find her,
+Dialogue: 1,4:20:05.05,4:20:06.25,辉中,,0,0,0,,而他显然已经这样做了
+Dialogue: 2,4:20:05.05,4:20:06.25,辉英,,0,0,0,,which he's clearly done.
+Dialogue: 1,4:20:06.25,4:20:11.95,辉中,,0,0,0,,然而听到他的提议后 艾莉和蒂娜表示强烈反对
+Dialogue: 2,4:20:06.25,4:20:11.95,辉英,,0,0,0,,However, after hearing his proposition, Ellie and Dina strongly reject the idea.
+Dialogue: 1,4:20:11.95,4:20:13.03,辉中,,0,0,0,,她们已经放弃这事了
+Dialogue: 2,4:20:11.95,4:20:13.03,辉英,,0,0,0,,They are done with that.
+Dialogue: 1,4:20:13.03,4:20:16.36,辉中,,0,0,0,,或者说至少蒂娜已经放弃了 艾莉还有所挂念
+Dialogue: 2,4:20:13.03,4:20:16.36,辉英,,0,0,0,,Or at the very least, Dina is, and Ellie going along with it.
+Dialogue: 1,4:20:16.36,4:20:18.73,辉中,,0,0,0,,她们现在已经失去了太多东西
+Dialogue: 2,4:20:16.36,4:20:18.73,辉英,,0,0,0,,Now they have too much to lose.
+Dialogue: 1,4:20:18.73,4:20:22.49,辉中,,0,0,0,,她们有了一个家庭 有了彼此
+Dialogue: 2,4:20:18.73,4:20:22.49,辉英,,0,0,0,,They have a house of family and of course each other.
+Dialogue: 1,4:20:22.49,4:20:24.03,辉中,,0,0,0,,她们曾经尝试过
+Dialogue: 2,4:20:22.49,4:20:24.03,辉英,,0,0,0,,They've been there, done that.
+Dialogue: 1,4:20:24.03,4:20:27.67,辉中,,0,0,0,,上次她们追杀埃比的结果并不好
+Dialogue: 2,4:20:24.03,4:20:27.67,辉英,,0,0,0,,In the last time they tried to chase Abby down, it didn't end well.
+Dialogue: 1,4:20:27.67,4:20:30.91,辉中,,0,0,0,,汤米在对她们的无动于衷表示愤怒后离开了
+Dialogue: 2,4:20:27.67,4:20:30.91,辉英,,0,0,0,,Tommy leaves furious that they're not going to do anything.
+Dialogue: 1,4:20:30.91,4:20:33.75,辉中,,0,0,0,,他觉得自己遭到了背叛 甚至还提起艾莉曾对他说会不惜一起代价复仇
+Dialogue: 2,4:20:30.91,4:20:33.75,辉英,,0,0,0,,He feels betrayed, and even calls Ellie out,
+Dialogue: 1,4:20:33.75,4:20:37.99,辉中,,0,0,0,,他觉得自己遭到了背叛 甚至还提起艾莉曾对他说会不惜一起代价复仇
+Dialogue: 2,4:20:33.75,4:20:37.99,辉英,,0,0,0,,since she told him that she was going to do whatever it took to get revenge.
+Dialogue: 1,4:20:37.99,4:20:43.03,辉中,,0,0,0,,这种反应倒是能理解 毕竟汤米仍在为他哥哥的死而伤心
+Dialogue: 2,4:20:37.99,4:20:43.03,辉英,,0,0,0,,It's an understandable reaction, considering that Tommy is still furious about his brother's death,
+Dialogue: 1,4:20:43.03,4:20:46.48,辉中,,0,0,0,,而且埃比还给他留下了永久的创伤
+Dialogue: 2,4:20:43.03,4:20:46.48,辉英,,0,0,0,,and that she has now permanently scarred him.
+Dialogue: 1,4:20:46.48,4:20:52.15,辉中,,0,0,0,,但看到汤米对艾莉如此激烈的反应还是有点令人吃惊
+Dialogue: 2,4:20:46.48,4:20:52.15,辉英,,0,0,0,,But it is a little startling to see Tommy react in such a sharp way towards Ellie.
+Dialogue: 1,4:20:52.15,4:20:55.55,辉中,,0,0,0,,事实上我甚至想不出汤米在整个TLOU系列里有哪次是以这种态度与人交流的
+Dialogue: 2,4:20:52.15,4:20:55.55,辉英,,0,0,0,,In fact, I can't think of a time when we've ever seen Tommy
+Dialogue: 1,4:20:55.55,4:21:01.12,辉中,,0,0,0,,事实上我甚至想不出汤米在整个TLOU系列里有哪次是以这种态度与人交流的
+Dialogue: 2,4:20:55.55,4:21:01.12,辉英,,0,0,0,,react or talk to somebody in this way throughout the entirety of this franchise.
+Dialogue: 1,4:21:01.12,4:21:06.76,辉中,,0,0,0,,最接近的例子应该是乔尔第一次去汤米的水电站时双方发生点小矛盾的时候
+Dialogue: 2,4:21:01.12,4:21:06.76,辉英,,0,0,0,,The closest example would be in the first game when Joel and Tommy got frustrated with each other
+Dialogue: 1,4:21:06.76,4:21:08.80,辉中,,0,0,0,,最接近的例子应该是乔尔第一次去汤米的水电站时双方发生点小矛盾的时候
+Dialogue: 2,4:21:06.76,4:21:08.80,辉英,,0,0,0,,when they initially visited the power plant.
+Dialogue: 1,4:21:08.80,4:21:12.16,辉中,,0,0,0,,但那也没这次这样激烈、直接
+Dialogue: 2,4:21:08.80,4:21:12.16,辉英,,0,0,0,,But even that wasn't this sharp or direct.
+Dialogue: 1,4:21:12.16,4:21:17.11,辉中,,0,0,0,,蒂娜拉汤米出去说 俩人在外面吵了一会
+Dialogue: 2,4:21:12.16,4:21:17.11,辉英,,0,0,0,,Dina asks that Tommy leaves and then yells at him for a brief moment outside
+Dialogue: 1,4:21:17.11,4:21:19.81,辉中,,0,0,0,,声音大到屋里的艾莉都能听见
+Dialogue: 2,4:21:17.11,4:21:19.81,辉英,,0,0,0,,where it can still be overheard by Ellie.
+Dialogue: 1,4:21:19.81,4:21:22.72,辉中,,0,0,0,,但艾莉还是被卷入了进来
+Dialogue: 2,4:21:19.81,4:21:22.72,辉英,,0,0,0,,But Ellie is still caught up in all of this.
+Dialogue: 1,4:21:22.72,4:21:27.61,辉中,,0,0,0,,她明白蒂娜不同意她去找埃比了结此事
+Dialogue: 2,4:21:22.72,4:21:27.61,辉英,,0,0,0,,She knows that Dina is not OK with her going and trying to end this once and for all,
+Dialogue: 1,4:21:27.61,4:21:30.31,辉中,,0,0,0,,但她还是惦记这件事
+Dialogue: 2,4:21:27.61,4:21:30.31,辉英,,0,0,0,,but she's still pondering everything.
+Dialogue: 1,4:21:30.31,4:21:31.75,辉中,,0,0,0,,实际上 接下来的场景
+Dialogue: 2,4:21:30.31,4:21:31.75,辉英,,0,0,0,,In fact, in the next scene,
+Dialogue: 1,4:21:31.75,4:21:34.93,辉中,,0,0,0,,我们就看到艾莉深夜在家中踱步
+Dialogue: 2,4:21:31.75,4:21:34.93,辉英,,0,0,0,,we see her walking aimlessly through the house in the middle of the night,
+Dialogue: 1,4:21:34.93,4:21:37.72,辉中,,0,0,0,,她夜不能寐 辗转反侧
+Dialogue: 2,4:21:34.93,4:21:37.72,辉英,,0,0,0,,unable to sleep and unsure of what to do.
+Dialogue: 1,4:21:37.72,4:21:41.53,辉中,,0,0,0,,她想复仇 但又知道这可能让她失去一切
+Dialogue: 2,4:21:37.72,4:21:41.53,辉英,,0,0,0,,She wants revenge but knows that it may cost her everything.
 Dialogue: 1,4:21:41.53,4:21:45.70,辉中,,0,0,0,,她用乔尔的旧吉他弹着小调 想让自己忘掉一切
 Dialogue: 2,4:21:41.53,4:21:45.70,辉英,,0,0,0,,She plays a little ditty and Joel's old guitar to take her mind off of everything.
-Dialogue: 1,4:21:45.70,4:21:47.74,辉中,,0,0,0,,But it doesn't seem to do anything.
-Dialogue: 1,4:21:47.74,4:21:50.32,辉中,,0,0,0,,In fact, it seems to make everything worse.
-Dialogue: 1,4:21:50.32,4:21:53.16,辉中,,0,0,0,,We then jumped to the scene of the Jackson Winter Ball
-Dialogue: 1,4:21:53.16,4:21:56.32,辉中,,0,0,0,,that we have only heard discussed up to this point.
-Dialogue: 1,4:21:56.32,4:21:59.62,辉中,,0,0,0,,It plays out just like we saw in the trailer before launch,
-Dialogue: 1,4:21:59.62,4:22:04.33,辉中,,0,0,0,,except that now we see the events described in the first hours of the game.
-Dialogue: 1,4:22:04.33,4:22:09.16,辉中,,0,0,0,,After the happenings of the trailer, culminating in the kiss between Ellie and Dina,
-Dialogue: 1,4:22:09.16,4:22:13.08,辉中,,0,0,0,,an old man makes a disparaging comments about Dina and Ellie kissing.
-Dialogue: 1,4:22:13.08,4:22:17.62,辉中,,0,0,0,,Joel steps in and pushes them which upsets Ellie for some reason.
-Dialogue: 1,4:22:17.62,4:22:23.23,辉中,,0,0,0,,Likely because she feels as though Joel is once again keeping her from fighting her own fights.
-Dialogue: 1,4:22:23.23,4:22:25.66,辉中,,0,0,0,,But don't worry, we'll talk about this more in just a little bit.
-Dialogue: 1,4:22:25.66,4:22:30.44,辉中,,0,0,0,,So, back in the present, Ellie has decided that she has to take Abby on,
-Dialogue: 1,4:22:30.44,4:22:32.62,辉中,,0,0,0,,to finish this once, and for all,
-Dialogue: 1,4:22:32.62,4:22:36.34,辉中,,0,0,0,,Perhaps reminded of this confrontation with the old, bigoted man,
-Dialogue: 1,4:22:36.34,4:22:40.27,辉中,,0,0,0,,she realizes that she needs to fight her own fights and finish this,
-Dialogue: 1,4:22:40.27,4:22:42.34,辉中,,0,0,0,,otherwise she won't be able to live with herself.
-Dialogue: 1,4:22:42.34,4:22:45.82,辉中,,0,0,0,,However, this time she's not just leaving Jackson behind,
-Dialogue: 1,4:22:45.82,4:22:50.14,辉中,,0,0,0,,she's abandoning her entire family, this whole thing that she's built up.
-Dialogue: 1,4:22:50.14,4:22:53.62,辉中,,0,0,0,,Once again it's hard to feel sorry for Ellie here,
-Dialogue: 1,4:22:53.62,4:22:55.98,辉中,,0,0,0,,especially since most people I think
-Dialogue: 1,4:22:55.98,4:23:00.07,辉中,,0,0,0,,would say that she should have left well enough alone and not chased Abby again.
-Dialogue: 1,4:23:00.07,4:23:04.42,辉中,,0,0,0,,Literally every single person I've talked to about this final decision by Ellie
-Dialogue: 1,4:23:04.42,4:23:07.56,辉中,,0,0,0,,to leave everything, and Chase Abby down again
-Dialogue: 1,4:23:07.56,4:23:12.31,辉中,,0,0,0,,has said that this was the wrong decision, and that they didn't want her to do it.
-Dialogue: 1,4:23:12.31,4:23:15.55,辉中,,0,0,0,,They wanted her to forgive Abby to move on.
-Dialogue: 1,4:23:15.55,4:23:20.26,辉中,,0,0,0,,It's yet another example of how emotionally exhausting the scheme can be to play,
-Dialogue: 1,4:23:20.26,4:23:23.80,辉中,,0,0,0,,because when you don't agree with what the characters are doing,
-Dialogue: 1,4:23:23.80,4:23:25.90,辉中,,0,0,0,,you start to lose sympathy with them.
-Dialogue: 1,4:23:25.90,4:23:29.98,辉中,,0,0,0,,And that makes it harder to empathise with everything that they're going through.
-Dialogue: 1,4:23:29.98,4:23:32.89,辉中,,0,0,0,,Ellie starts packing up her things when Dina finds her.
-Dialogue: 1,4:23:32.89,4:23:35.61,辉中,,0,0,0,,Dina clearly knows that Ellie's been considering this
-Dialogue: 1,4:23:35.61,4:23:38.89,辉中,,0,0,0,,but is terrified to see her actually going through with it.
-Dialogue: 1,4:23:38.89,4:23:40.51,辉中,,0,0,0,,Dina begs her to come back to bed,
-Dialogue: 1,4:23:40.51,4:23:45.52,辉中,,0,0,0,,to move on, to forget about everything, to stay with the family and not do this.
-Dialogue: 1,4:23:45.52,4:23:48.61,辉中,,0,0,0,,But Ellie says she has no choice and has to.
-Dialogue: 1,4:23:48.61,4:23:52.81,辉中,,0,0,0,,Dina makes it very clear that she's not going to do this whole thing again.
-Dialogue: 1,4:23:52.81,4:23:54.49,辉中,,0,0,0,,She's not going to go and help her.
-Dialogue: 1,4:23:54.49,4:23:58.06,辉中,,0,0,0,,And if Ellie decides that this is what's most important to her,
-Dialogue: 1,4:23:58.06,4:24:04.63,辉中,,0,0,0,,she shouldn't expect to find her and the baby there when or if she gets back alive.
-Dialogue: 1,4:24:04.63,4:24:07.39,辉中,,0,0,0,,She is effectively giving Ellie an ultimatum.
-Dialogue: 1,4:24:07.39,4:24:09.94,辉中,,0,0,0,,Choose Abby, or choose Dina,
-Dialogue: 1,4:24:09.94,4:24:13.78,辉中,,0,0,0,,and the family, and everything that she's built up with her.
-Dialogue: 1,4:24:13.78,4:24:15.38,辉中,,0,0,0,,Ellie chooses Abby.
-Dialogue: 1,4:24:15.38,4:24:20.84,辉中,,0,0,0,,Again, giving the player very little reason to feel bad or sorry for her,
-Dialogue: 1,4:24:20.84,4:24:25.18,辉中,,0,0,0,,Losing Dina, and for all of the pain that she's likely to encounter
-Dialogue: 1,4:24:25.18,4:24:27.49,辉中,,0,0,0,,in the next few hours as the game wraps up.
-Dialogue: 1,4:24:27.49,4:24:30.60,辉中,,0,0,0,,So Ellie leaves, Dina's left devastated.
-Dialogue: 1,4:24:30.97,4:24:33.18,辉中,,0,0,0,,And Naughty Dog pulls a fake out.
-Dialogue: 1,4:24:33.18,4:24:34.54,辉中,,0,0,0,,We jumped to California.
-Dialogue: 1,4:24:34.54,4:24:38.50,辉中,,0,0,0,,It's a market set difference, everything's very dry and dead.
-Dialogue: 1,4:24:38.50,4:24:42.10,辉中,,0,0,0,,The chapter opens up with the camera focused on a pair of Converse.
-Dialogue: 1,4:24:42.10,4:24:45.97,辉中,,0,0,0,,Anyone who's played the first game knows that this is Ellie signature shoe.
-Dialogue: 1,4:24:45.97,4:24:47.62,辉中,,0,0,0,,But the camera pans up,
-Dialogue: 1,4:24:47.62,4:24:52.27,辉中,,0,0,0,,and we see that it's Lev wearing the shoes and Abby's walking alongside him.
-Dialogue: 1,4:24:52.27,4:24:54.13,辉中,,0,0,0,,Now this is a bit obvious for me,
-Dialogue: 1,4:24:54.13,4:24:59.74,辉中,,0,0,0,,but it's clearly setting up the parallel between Abby and Joel and Ellie and Lev.
-Dialogue: 1,4:24:59.74,4:25:04.24,辉中,,0,0,0,,Whether you think those are fair to draw as comparisons or similes is up to you,
-Dialogue: 1,4:25:04.24,4:25:06.43,辉中,,0,0,0,,but that's clearly what the writers are doing.
-Dialogue: 1,4:25:06.43,4:25:08.20,辉中,,0,0,0,,Ellie is known for her Converse,
-Dialogue: 1,4:25:08.20,4:25:12.31,辉中,,0,0,0,,and in fact it's one of the staples of her outfit in the first game,
-Dialogue: 1,4:25:12.31,4:25:14.35,辉中,,0,0,0,,and even throughout most of the second game.
-Dialogue: 1,4:25:14.35,4:25:20.92,辉中,,0,0,0,,To so clearly show these shoes to me is hitting the player over the head with this simile.
-Dialogue: 1,4:25:20.92,4:25:23.16,辉中,,0,0,0,,Now Abby and Lev are looking for the Fireflies
-Dialogue: 1,4:25:23.16,4:25:25.56,辉中,,0,0,0,,hoping to find a new home to which they can belong.
-Dialogue: 1,4:25:25.56,4:25:29.80,辉中,,0,0,0,,Again, remembering that Owen suggested Santa Barbara way back when.
-Dialogue: 1,4:25:29.80,4:25:33.93,辉中,,0,0,0,,Now they had a tip that 2425 Constance in Santa Barbara
-Dialogue: 1,4:25:33.93,4:25:36.97,辉中,,0,0,0,,was a hideout for the underground Firefly network.
-Dialogue: 1,4:25:36.97,4:25:40.87,辉中,,0,0,0,,And so after Abby and Lev fight through a few infected,
-Dialogue: 1,4:25:40.87,4:25:42.88,辉中,,0,0,0,,they worked their way to the basement of the house,
-Dialogue: 1,4:25:42.88,4:25:44.92,辉中,,0,0,0,,and the pair discovers a radio.
-Dialogue: 1,4:25:44.92,4:25:47.59,辉中,,0,0,0,,And after a few attempts they connect with somebody.
-Dialogue: 1,4:25:47.59,4:25:52.69,辉中,,0,0,0,,And it seems as though Abby and Lev have found their new home and will be safe after all.
-Dialogue: 1,4:25:52.69,4:25:55.78,辉中,,0,0,0,,But again, no, everything is sad and terrible.
-Dialogue: 1,4:25:55.78,4:26:01.45,辉中,,0,0,0,,Nothing's gonna end happily, so just get ready, everything is going to go terribly wrong.
-Dialogue: 1,4:26:01.45,4:26:05.47,辉中,,0,0,0,,So the two set up a meet up point where they're gonna head to meet up with the Fireflies.
-Dialogue: 1,4:26:05.47,4:26:06.70,辉中,,0,0,0,,As the pair leaves the house,
-Dialogue: 1,4:26:06.70,4:26:10.78,辉中,,0,0,0,,they are intercepted by a small gang as they exit out the front of the house.
-Dialogue: 1,4:26:10.78,4:26:13.57,辉中,,0,0,0,,It seems that these people are involved in the slave trade,
-Dialogue: 1,4:26:13.57,4:26:17.50,辉中,,0,0,0,,which, to be honest, I'm stunned took this long to be featured in the game.
-Dialogue: 1,4:26:17.50,4:26:20.17,辉中,,0,0,0,,They're beaten, tied up and taken away,
-Dialogue: 1,4:26:20.17,4:26:25.39,辉中,,0,0,0,,presumably to be entered into the slave trade and used for manual labor.
-Dialogue: 1,4:26:25.39,4:26:27.88,辉中,,0,0,0,,We then cut to Ellie, who was closing in quickly.
-Dialogue: 1,4:26:27.88,4:26:30.72,辉中,,0,0,0,,She's found their boat and begins pushing into their location
-Dialogue: 1,4:26:30.72,4:26:34.15,辉中,,0,0,0,,after finding a map that has 2425 Constance marked on it.
-Dialogue: 1,4:26:34.15,4:26:36.94,辉中,,0,0,0,,As you push through multiple houses and streets,
-Dialogue: 1,4:26:36.94,4:26:40.24,辉中,,0,0,0,,this is the last zombie hurrah combat in the entire game.
-Dialogue: 1,4:26:40.24,4:26:41.36,辉中,,0,0,0,,So be sure to enjoy it.
-Dialogue: 1,4:26:41.36,4:26:45.46,辉中,,0,0,0,,Because after this Naughty Dog is going to be sticking with human enemies exclusively.
-Dialogue: 1,4:26:45.46,4:26:49.09,辉中,,0,0,0,,Except for one small exception, which I'll point out in a moment.
-Dialogue: 1,4:26:49.09,4:26:52.03,辉中,,0,0,0,,But still, it's going to be pretty much all humans after this.
-Dialogue: 1,4:26:52.03,4:26:55.84,辉中,,0,0,0,,Ellie pushes her way through an initial neighborhood and starts climbing down a hill.
-Dialogue: 1,4:26:55.84,4:26:56.95,辉中,,0,0,0,,When this happens.
+Dialogue: 1,4:21:45.70,4:21:47.74,辉中,,0,0,0,,但这看上去没有一点用处
+Dialogue: 2,4:21:45.70,4:21:47.74,辉英,,0,0,0,,But it doesn't seem to do anything.
+Dialogue: 1,4:21:47.74,4:21:50.32,辉中,,0,0,0,,实际上 这反而让一切变得更糟
+Dialogue: 2,4:21:47.74,4:21:50.32,辉英,,0,0,0,,In fact, it seems to make everything worse.
+Dialogue: 1,4:21:50.32,4:21:53.16,辉中,,0,0,0,,镜头接着来到了杰克逊小镇的冬季舞会
+Dialogue: 2,4:21:50.32,4:21:53.16,辉英,,0,0,0,,We then jumped to the scene of the Jackson Winter Ball
+Dialogue: 1,4:21:53.16,4:21:56.32,辉中,,0,0,0,,这段我们之前只在言语中讨论过的场景
+Dialogue: 2,4:21:53.16,4:21:56.32,辉英,,0,0,0,,that we have only heard discussed up to this point.
+Dialogue: 1,4:21:56.32,4:21:59.62,辉中,,0,0,0,,内容和发售前的预告片一样
+Dialogue: 2,4:21:56.32,4:21:59.62,辉英,,0,0,0,,It plays out just like we saw in the trailer before launch,
+Dialogue: 1,4:21:59.62,4:22:04.33,辉中,,0,0,0,,而这次我们知道了游戏开头艾莉说的那件事
+Dialogue: 2,4:21:59.62,4:22:04.33,辉英,,0,0,0,,except that now we see the events described in the first hours of the game.
+Dialogue: 1,4:22:04.33,4:22:09.16,辉中,,0,0,0,,在预告片的内容——艾莉和蒂娜亲吻了彼此之后
+Dialogue: 2,4:22:04.33,4:22:09.16,辉英,,0,0,0,,After the happenings of the trailer, culminating in the kiss between Ellie and Dina,
+Dialogue: 1,4:22:09.16,4:22:13.08,辉中,,0,0,0,,一位长者对二人的亲吻行为说了一些不好听的话
+Dialogue: 2,4:22:09.16,4:22:13.08,辉英,,0,0,0,,an old man makes a disparaging comments about Dina and Ellie kissing.
+Dialogue: 1,4:22:13.08,4:22:17.62,辉中,,0,0,0,,乔尔上来推了他一把 让艾莉不知为何很不高兴
+Dialogue: 2,4:22:13.08,4:22:17.62,辉英,,0,0,0,,Joel steps in and pushes them which upsets Ellie for some reason.
+Dialogue: 1,4:22:17.62,4:22:23.23,辉中,,0,0,0,,可能因为她觉得乔尔又一次插手了本来属于她自己的事情
+Dialogue: 2,4:22:17.62,4:22:23.23,辉英,,0,0,0,,Likely because she feels as though Joel is once again keeping her from fighting her own fights.
+Dialogue: 1,4:22:23.23,4:22:25.66,辉中,,0,0,0,,不要急 我们稍后会说到此事
+Dialogue: 2,4:22:23.23,4:22:25.66,辉英,,0,0,0,,But don't worry, we'll talk about this more in just a little bit.
+Dialogue: 1,4:22:25.66,4:22:30.44,辉中,,0,0,0,,于是回到现在 艾莉下定决心去追杀埃比
+Dialogue: 2,4:22:25.66,4:22:30.44,辉英,,0,0,0,,So, back in the present, Ellie has decided that she has to take Abby on,
+Dialogue: 1,4:22:30.44,4:22:32.62,辉中,,0,0,0,,这次要让一切做个了结
+Dialogue: 2,4:22:30.44,4:22:32.62,辉英,,0,0,0,,to finish this once, and for all,
+Dialogue: 1,4:22:32.62,4:22:36.34,辉中,,0,0,0,,也许是她想起了与那个偏执的老人对峙的事情
+Dialogue: 2,4:22:32.62,4:22:36.34,辉英,,0,0,0,,Perhaps reminded of this confrontation with the old, bigoted man,
+Dialogue: 1,4:22:36.34,4:22:40.27,辉中,,0,0,0,,她明白她应该为属于她自己的事情去战斗
+Dialogue: 2,4:22:36.34,4:22:40.27,辉英,,0,0,0,,she realizes that she needs to fight her own fights and finish this,
+Dialogue: 1,4:22:40.27,4:22:42.34,辉中,,0,0,0,,否则她将永远无法为自己而活
+Dialogue: 2,4:22:40.27,4:22:42.34,辉英,,0,0,0,,otherwise she won't be able to live with herself.
+Dialogue: 1,4:22:42.34,4:22:45.82,辉中,,0,0,0,,但这次 她的离开不是抛下杰克逊小镇那么简单了
+Dialogue: 2,4:22:42.34,4:22:45.82,辉英,,0,0,0,,However, this time she's not just leaving Jackson behind,
+Dialogue: 1,4:22:45.82,4:22:50.14,辉中,,0,0,0,,她在抛弃她辛苦建立的整个家庭
+Dialogue: 2,4:22:45.82,4:22:50.14,辉英,,0,0,0,,she's abandoning her entire family, this whole thing that she's built up.
+Dialogue: 1,4:22:50.14,4:22:53.62,辉中,,0,0,0,,这里我再一次感到很难去同情艾莉
+Dialogue: 2,4:22:50.14,4:22:53.62,辉英,,0,0,0,,Once again it's hard to feel sorry for Ellie here,
+Dialogue: 1,4:22:53.62,4:22:55.98,辉中,,0,0,0,,尤其我觉得很多人会希望
+Dialogue: 2,4:22:53.62,4:22:55.98,辉英,,0,0,0,,especially since most people I think
+Dialogue: 1,4:22:55.98,4:23:00.07,辉中,,0,0,0,,她应该放下这一切 不要再去找埃比了
+Dialogue: 2,4:22:55.98,4:23:00.07,辉英,,0,0,0,,would say that she should have left well enough alone and not chased Abby again.
+Dialogue: 1,4:23:00.07,4:23:04.42,辉中,,0,0,0,,和我聊过艾莉最后这个抛弃一切、要去再次追杀埃比的决定的每一个人
+Dialogue: 2,4:23:00.07,4:23:04.42,辉英,,0,0,0,,Literally every single person I've talked to about this final decision by Ellie
+Dialogue: 1,4:23:04.42,4:23:07.56,辉中,,0,0,0,,和我聊过艾莉最后这个抛弃一切、要去再次追杀埃比的决定的每一个人
+Dialogue: 2,4:23:04.42,4:23:07.56,辉英,,0,0,0,,to leave everything, and Chase Abby down again
+Dialogue: 1,4:23:07.56,4:23:12.31,辉中,,0,0,0,,都说这是一个错误的决定 都不想艾莉这样做
+Dialogue: 2,4:23:07.56,4:23:12.31,辉英,,0,0,0,,has said that this was the wrong decision, and that they didn't want her to do it.
+Dialogue: 1,4:23:12.31,4:23:15.55,辉中,,0,0,0,,他们希望她能原谅埃比 继续生活下去
+Dialogue: 2,4:23:12.31,4:23:15.55,辉英,,0,0,0,,They wanted her to forgive Abby to move on.
+Dialogue: 1,4:23:15.55,4:23:20.26,辉中,,0,0,0,,这又是一个在情感上令人感到心力交瘁的安排
+Dialogue: 2,4:23:15.55,4:23:20.26,辉英,,0,0,0,,It's yet another example of how emotionally exhausting the scheme can be to play,
+Dialogue: 1,4:23:20.26,4:23:23.80,辉中,,0,0,0,,因为当你不同意角色所做事情的时候
+Dialogue: 2,4:23:20.26,4:23:23.80,辉英,,0,0,0,,because when you don't agree with what the characters are doing,
+Dialogue: 1,4:23:23.80,4:23:25.90,辉中,,0,0,0,,你就会对角色失去同情心
+Dialogue: 2,4:23:23.80,4:23:25.90,辉英,,0,0,0,,you start to lose sympathy with them.
+Dialogue: 1,4:23:25.90,4:23:29.98,辉中,,0,0,0,,使得你更难同情其所经历的一切
+Dialogue: 2,4:23:25.90,4:23:29.98,辉英,,0,0,0,,And that makes it harder to empathize with everything that they're going through.
+Dialogue: 1,4:23:29.98,4:23:32.89,辉中,,0,0,0,,艾莉收拾东西的时候 蒂娜发现了她
+Dialogue: 2,4:23:29.98,4:23:32.89,辉英,,0,0,0,,Ellie starts packing up her things when Dina finds her.
+Dialogue: 1,4:23:32.89,4:23:35.61,辉中,,0,0,0,,蒂娜很清楚艾莉一直在想这件事
+Dialogue: 2,4:23:32.89,4:23:35.61,辉英,,0,0,0,,Dina clearly knows that Ellie's been considering this
+Dialogue: 1,4:23:35.61,4:23:38.89,辉中,,0,0,0,,但看到她真的付诸实践还是很害怕
+Dialogue: 2,4:23:35.61,4:23:38.89,辉英,,0,0,0,,but is terrified to see her actually going through with it.
+Dialogue: 1,4:23:38.89,4:23:40.51,辉中,,0,0,0,,蒂娜恳求她回来继续睡觉
+Dialogue: 2,4:23:38.89,4:23:40.51,辉英,,0,0,0,,Dina begs her to come back to bed,
+Dialogue: 1,4:23:40.51,4:23:45.52,辉中,,0,0,0,,恳求她放下这件事 忘掉这一切 不要抛弃她的家庭 不要去复仇
+Dialogue: 2,4:23:40.51,4:23:45.52,辉英,,0,0,0,,to move on, to forget about everything, to stay with the family and not do this.
+Dialogue: 1,4:23:45.52,4:23:48.61,辉中,,0,0,0,,但艾莉说她别无选择 只能这样做
+Dialogue: 2,4:23:45.52,4:23:48.61,辉英,,0,0,0,,But Ellie says she has no choice and has to.
+Dialogue: 1,4:23:48.61,4:23:52.81,辉中,,0,0,0,,蒂娜明确表示自己不会再去干这样的事了
+Dialogue: 2,4:23:48.61,4:23:52.81,辉英,,0,0,0,,Dina makes it very clear that she's not going to do this whole thing again.
+Dialogue: 1,4:23:52.81,4:23:54.49,辉中,,0,0,0,,她不会和艾莉一起去
+Dialogue: 2,4:23:52.81,4:23:54.49,辉英,,0,0,0,,She's not going to go and help her.
+Dialogue: 1,4:23:54.49,4:23:58.06,辉中,,0,0,0,,如果艾莉决定这对她来说是最重要的
+Dialogue: 2,4:23:54.49,4:23:58.06,辉英,,0,0,0,,And if Ellie decides that this is what's most important to her,
+Dialogue: 1,4:23:58.06,4:24:04.63,辉中,,0,0,0,,那等她活着回家就甭想再去找蒂娜和孩子了
+Dialogue: 2,4:23:58.06,4:24:04.63,辉英,,0,0,0,,she shouldn't expect to find her and the baby there when or if she gets back alive.
+Dialogue: 1,4:24:04.63,4:24:07.39,辉中,,0,0,0,,她实际上是在给艾莉下最后通牒
+Dialogue: 2,4:24:04.63,4:24:07.39,辉英,,0,0,0,,She is effectively giving Ellie an ultimatum.
+Dialogue: 1,4:24:07.39,4:24:09.94,辉中,,0,0,0,,去找埃比 或者和蒂娜留下来
+Dialogue: 2,4:24:07.39,4:24:09.94,辉英,,0,0,0,,Choose Abby, or choose Dina,
+Dialogue: 1,4:24:09.94,4:24:13.78,辉中,,0,0,0,,留在这个她亲手建立起的整个家庭里
+Dialogue: 2,4:24:09.94,4:24:13.78,辉英,,0,0,0,,and the family, and everything that she's built up with her.
+Dialogue: 1,4:24:13.78,4:24:15.38,辉中,,0,0,0,,艾莉选择了前者
+Dialogue: 2,4:24:13.78,4:24:15.38,辉英,,0,0,0,,Ellie chooses Abby.
+Dialogue: 1,4:24:15.38,4:24:20.84,辉中,,0,0,0,,她再一次让玩家感觉她一点都不可怜
+Dialogue: 2,4:24:15.38,4:24:20.84,辉英,,0,0,0,,Again, giving the player very little reason to feel bad or sorry for her,
+Dialogue: 1,4:24:20.84,4:24:25.18,辉中,,0,0,0,,——她会失去蒂娜 以及接下来几小时游戏中她将遇到的所有痛苦
+Dialogue: 2,4:24:20.84,4:24:25.18,辉英,,0,0,0,,Losing Dina, and for all of the pain that she's likely to encounter
+Dialogue: 1,4:24:25.18,4:24:27.49,辉中,,0,0,0,,——她会失去蒂娜 以及接下来几小时游戏中她将遇到的所有痛苦
+Dialogue: 2,4:24:25.18,4:24:27.49,辉英,,0,0,0,,in the next few hours as the game wraps up.
+Dialogue: 1,4:24:27.49,4:24:30.60,辉中,,0,0,0,,于是艾莉离开了 留下了悲痛的蒂娜
+Dialogue: 2,4:24:27.49,4:24:30.60,辉英,,0,0,0,,So Ellie leaves, Dina's left devastated.
+Dialogue: 1,4:24:30.97,4:24:33.18,辉中,,0,0,0,,顽皮狗在这玩了个假动作
+Dialogue: 2,4:24:30.97,4:24:33.18,辉英,,0,0,0,,And Naughty Dog pulls a fake out.
+Dialogue: 1,4:24:33.18,4:24:34.54,辉中,,0,0,0,,画面给到加利福尼亚
+Dialogue: 2,4:24:33.18,4:24:34.54,辉英,,0,0,0,,We jumped to California.
+Dialogue: 1,4:24:34.54,4:24:38.50,辉中,,0,0,0,,景色和之前完全不同 一切都很干燥、死寂
+Dialogue: 2,4:24:34.54,4:24:38.50,辉英,,0,0,0,,It's a market set difference, everything's very dry and dead.
+Dialogue: 1,4:24:38.50,4:24:42.10,辉中,,0,0,0,,本章开篇镜头给到一双帆布鞋
+Dialogue: 2,4:24:38.50,4:24:42.10,辉英,,0,0,0,,The chapter opens up with the camera focused on a pair of Converse.
+Dialogue: 1,4:24:42.10,4:24:45.97,辉中,,0,0,0,,玩过一代游戏的都知道这肯定是艾莉标志性的打扮
+Dialogue: 2,4:24:42.10,4:24:45.97,辉英,,0,0,0,,Anyone who's played the first game knows that this is Ellie signature shoe.
+Dialogue: 1,4:24:45.97,4:24:47.62,辉中,,0,0,0,,结果镜头一拉远
+Dialogue: 2,4:24:45.97,4:24:47.62,辉英,,0,0,0,,But the camera pans up,
+Dialogue: 1,4:24:47.62,4:24:52.27,辉中,,0,0,0,,结果发现竟然是勒弗 旁边和他一起走的是埃比
+Dialogue: 2,4:24:47.62,4:24:52.27,辉英,,0,0,0,,and we see that it's Lev wearing the shoes and Abby's walking alongside him.
+Dialogue: 1,4:24:52.27,4:24:54.13,辉中,,0,0,0,,现在这对我来说有点明显
+Dialogue: 2,4:24:52.27,4:24:54.13,辉英,,0,0,0,,Now this is a bit obvious for me,
+Dialogue: 1,4:24:54.13,4:24:59.74,辉中,,0,0,0,,但这显然是在为埃比和乔尔以及艾莉和勒弗之间的平行关系做铺垫
+Dialogue: 2,4:24:54.13,4:24:59.74,辉英,,0,0,0,,but it's clearly setting up the parallel between Abby and Joel and Ellie and Lev.
+Dialogue: 1,4:24:59.74,4:25:04.24,辉中,,0,0,0,,这种平行关系的类比是否合理取决于你
+Dialogue: 2,4:24:59.74,4:25:04.24,辉英,,0,0,0,,Whether you think those are fair to draw as comparisons or similes is up to you,
+Dialogue: 1,4:25:04.24,4:25:06.43,辉中,,0,0,0,,但这显示就是编剧想表达的内容
+Dialogue: 2,4:25:04.24,4:25:06.43,辉英,,0,0,0,,but that's clearly what the writers are doing.
+Dialogue: 1,4:25:06.43,4:25:08.20,辉中,,0,0,0,,艾莉的帆布鞋是她的标志
+Dialogue: 2,4:25:06.43,4:25:08.20,辉英,,0,0,0,,Ellie is known for her Converse,
+Dialogue: 1,4:25:08.20,4:25:12.31,辉中,,0,0,0,,这就是她在第一部作品中的标准打扮之一
+Dialogue: 2,4:25:08.20,4:25:12.31,辉英,,0,0,0,,and in fact it's one of the staples of her outfit in the first game,
+Dialogue: 1,4:25:12.31,4:25:14.35,辉中,,0,0,0,,甚至在本作大部分时间里也是如此
+Dialogue: 2,4:25:12.31,4:25:14.35,辉英,,0,0,0,,and even throughout most of the second game.
+Dialogue: 1,4:25:14.35,4:25:20.92,辉中,,0,0,0,,如此明确地向玩家展示这双鞋 就是在向玩家明示两组人的平行关系
+Dialogue: 2,4:25:14.35,4:25:20.92,辉英,,0,0,0,,To so clearly show these shoes to me is hitting the player over the head with this simile.
+Dialogue: 1,4:25:20.92,4:25:23.16,辉中,,0,0,0,,现在埃比和勒弗在寻找火萤组织
+Dialogue: 2,4:25:20.92,4:25:23.16,辉英,,0,0,0,,Now Abby and Lev are looking for the Fireflies
+Dialogue: 1,4:25:23.16,4:25:25.56,辉中,,0,0,0,,希望能找到一个他们可以归属的新的大家庭
+Dialogue: 2,4:25:23.16,4:25:25.56,辉英,,0,0,0,,hoping to find a new home to which they can belong.
+Dialogue: 1,4:25:25.56,4:25:29.80,辉中,,0,0,0,,还记得欧文之前提到的圣塔芭芭拉吧
+Dialogue: 2,4:25:25.56,4:25:29.80,辉英,,0,0,0,,Again, remembering that Owen suggested Santa Barbara way back when.
+Dialogue: 1,4:25:29.80,4:25:33.93,辉中,,0,0,0,,他们得到线索说在圣塔芭芭拉的康斯坦斯街2425号
+Dialogue: 2,4:25:29.80,4:25:33.93,辉英,,0,0,0,,Now they had a tip that 2425 Constance in Santa Barbara
+Dialogue: 1,4:25:33.93,4:25:36.97,辉中,,0,0,0,,有一个火萤组织网络的地下据点
+Dialogue: 2,4:25:33.93,4:25:36.97,辉英,,0,0,0,,was a hideout for the underground Firefly network.
+Dialogue: 1,4:25:36.97,4:25:40.87,辉中,,0,0,0,,因此在埃比和勒弗解决几个感染者之后
+Dialogue: 2,4:25:36.97,4:25:40.87,辉英,,0,0,0,,And so after Abby and Lev fight through a few infected,
+Dialogue: 1,4:25:40.87,4:25:42.88,辉中,,0,0,0,,他们终于来到了这座房子的地下室
+Dialogue: 2,4:25:40.87,4:25:42.88,辉英,,0,0,0,,they worked their way to the basement of the house,
+Dialogue: 1,4:25:42.88,4:25:44.92,辉中,,0,0,0,,并发现了无线电装置
+Dialogue: 2,4:25:42.88,4:25:44.92,辉英,,0,0,0,,and the pair discovers a radio.
+Dialogue: 1,4:25:44.92,4:25:47.59,辉中,,0,0,0,,一番尝试后 他们终于联系上了某人
+Dialogue: 2,4:25:44.92,4:25:47.59,辉英,,0,0,0,,And after a few attempts they connect with somebody.
+Dialogue: 1,4:25:47.59,4:25:52.69,辉中,,0,0,0,,看起来埃比和勒弗终于找到了新家 终于安全了
+Dialogue: 2,4:25:47.59,4:25:52.69,辉英,,0,0,0,,And it seems as though Abby and Lev have found their new home and will be safe after all.
+Dialogue: 1,4:25:52.69,4:25:55.78,辉中,,0,0,0,,拉倒吧 悲剧很快就到你家门口
+Dialogue: 2,4:25:52.69,4:25:55.78,辉英,,0,0,0,,But again, no, everything is sad and terrible.
+Dialogue: 1,4:25:55.78,4:26:01.45,辉中,,0,0,0,,哪有什么美满结局 准备好吧 坏事要来了
+Dialogue: 2,4:25:55.78,4:26:01.45,辉英,,0,0,0,,Nothing's gonna end happily, so just get ready, everything is going to go terribly wrong.
+Dialogue: 1,4:26:01.45,4:26:05.47,辉中,,0,0,0,,于是两人确定了一个会合点 他们将前往那里与火萤组织会合
+Dialogue: 2,4:26:01.45,4:26:05.47,辉英,,0,0,0,,So the two set up a meet up point where they're gonna head to meet up with the Fireflies.
+Dialogue: 1,4:26:05.47,4:26:06.70,辉中,,0,0,0,,当两人离开房子的时候
+Dialogue: 2,4:26:05.47,4:26:06.70,辉英,,0,0,0,,As the pair leaves the house,
+Dialogue: 1,4:26:06.70,4:26:10.78,辉中,,0,0,0,,一个小团伙在门口把他们截住了
+Dialogue: 2,4:26:06.70,4:26:10.78,辉英,,0,0,0,,they are intercepted by a small gang as they exit out the front of the house.
+Dialogue: 1,4:26:10.78,4:26:13.57,辉中,,0,0,0,,这些人似乎正在进行某种奴隶贸易
+Dialogue: 2,4:26:10.78,4:26:13.57,辉英,,0,0,0,,It seems that these people are involved in the slave trade,
+Dialogue: 1,4:26:13.57,4:26:17.50,辉中,,0,0,0,,说实话 游戏玩了这么久才出现这种组织挺令我惊讶的
+Dialogue: 2,4:26:13.57,4:26:17.50,辉英,,0,0,0,,which, to be honest, I'm stunned took this long to be featured in the game.
+Dialogue: 1,4:26:17.50,4:26:20.17,辉中,,0,0,0,,两人被揍了一顿 捆上 然后被带走了
+Dialogue: 2,4:26:17.50,4:26:20.17,辉英,,0,0,0,,They're beaten, tied up and taken away,
+Dialogue: 1,4:26:20.17,4:26:25.39,辉中,,0,0,0,,可能会卖身为奴 当劳工去了
+Dialogue: 2,4:26:20.17,4:26:25.39,辉英,,0,0,0,,presumably to be entered into the slave trade and used for manual labor.
+Dialogue: 1,4:26:25.39,4:26:27.88,辉中,,0,0,0,,画面来到艾莉 她很快就跟上来了
+Dialogue: 2,4:26:25.39,4:26:27.88,辉英,,0,0,0,,We then cut to Ellie, who was closing in quickly.
+Dialogue: 1,4:26:27.88,4:26:30.72,辉中,,0,0,0,,她发现了他们的船就扎在那
+Dialogue: 2,4:26:27.88,4:26:30.72,辉英,,0,0,0,,She's found their boat and begins pushing into their location
+Dialogue: 1,4:26:30.72,4:26:34.15,辉中,,0,0,0,,船上还找到一张地图 上面圈起了康斯坦斯街2425号这个地方
+Dialogue: 2,4:26:30.72,4:26:34.15,辉英,,0,0,0,,after finding a map that has 2425 Constance marked on it.
+Dialogue: 1,4:26:34.15,4:26:36.94,辉中,,0,0,0,,你一路推进穿越各种街道和房屋
+Dialogue: 2,4:26:34.15,4:26:36.94,辉英,,0,0,0,,As you push through multiple houses and streets,
+Dialogue: 1,4:26:36.94,4:26:40.24,辉中,,0,0,0,,这里是整部游戏里最后一次和感染者的战斗了
+Dialogue: 2,4:26:36.94,4:26:40.24,辉英,,0,0,0,,this is the last zombie hurrah combat in the entire game.
+Dialogue: 1,4:26:40.24,4:26:41.36,辉中,,0,0,0,,好好享受吧
+Dialogue: 2,4:26:40.24,4:26:41.36,辉英,,0,0,0,,So be sure to enjoy it.
+Dialogue: 1,4:26:41.36,4:26:45.46,辉中,,0,0,0,,因为之后顽皮狗安排的战斗将是完全和人类敌人作战
+Dialogue: 2,4:26:41.36,4:26:45.46,辉英,,0,0,0,,Because after this Naughty Dog is going to be sticking with human enemies exclusively.
+Dialogue: 1,4:26:45.46,4:26:49.09,辉中,,0,0,0,,只不过有个小例外 这点之后会提到
+Dialogue: 2,4:26:45.46,4:26:49.09,辉英,,0,0,0,,Except for one small exception, which I'll point out in a moment.
+Dialogue: 1,4:26:49.09,4:26:52.03,辉中,,0,0,0,,总之 这之后会有很多很多人类敌人就是了
+Dialogue: 2,4:26:49.09,4:26:52.03,辉英,,0,0,0,,But still, it's going to be pretty much all humans after this.
+Dialogue: 1,4:26:52.03,4:26:55.84,辉中,,0,0,0,,艾莉继续在街坊里推进 爬下一座小丘
+Dialogue: 2,4:26:52.03,4:26:55.84,辉英,,0,0,0,,Ellie pushes her way through an initial neighborhood and starts climbing down a hill.
+Dialogue: 1,4:26:55.84,4:26:56.95,辉中,,0,0,0,,然后……
+Dialogue: 2,4:26:55.84,4:26:56.95,辉英,,0,0,0,,When this happens.
 Dialogue: 0,4:27:03.71,4:27:06.55,辉中 Script,,0,0,0,,艾莉：啊！可恶！
 Dialogue: 0,4:27:10.92,4:27:12.33,辉中 Script,,0,0,0,,拜托。
 Dialogue: 0,4:27:12.33,4:27:14.83,辉中 Script,,0,0,0,,不！坏了，坏了，坏了！
