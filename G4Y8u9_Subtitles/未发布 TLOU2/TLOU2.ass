@@ -15,10 +15,10 @@ Audio File: Q:/给没组/tlou2.mp4
 Video File: Q:/给没组/tlou2.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 5318
-Active Line: 5351
-Video Position: 914694
+Video Zoom Percent: 0.750000
+Scroll Position: 5954
+Active Line: 5957
+Video Position: 980043
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -5298,7 +5298,7 @@ Dialogue: 1,4:11:26.11,4:11:29.80,辉中,,0,0,0,,但只是看起来和主线故�
 Dialogue: 2,4:11:26.11,4:11:29.80,辉英,,0,0,0,,But still it feels as though it separate from the main game.
 Dialogue: 1,4:11:29.80,4:11:34.63,辉中,,0,0,0,,我思考了很久都不确定顽皮狗是希望如此
 Dialogue: 2,4:11:29.80,4:11:34.63,辉英,,0,0,0,,And after a lot of contemplation, I am not sure if Naughty Dog wanted this to be the case,
-Dialogue: 1,4:11:34.63,4:11:40.57,辉中,,0,0,0,,或者甚至说他们就刻意让之后的故事和西雅图的主线内容如此不同
+Dialogue: 1,4:11:34.63,4:11:40.57,辉中,,0,0,0,,或者甚至说他们刻意让之后的故事和西雅图的主线内容如此不同
 Dialogue: 2,4:11:34.63,4:11:40.57,辉英,,0,0,0,,or if they even meant for this to feel so different from the core body of the game in Seattle.
 Dialogue: 1,4:11:40.57,4:11:46.09,辉中,,0,0,0,,而有一点是很清楚的 就是在核心游戏内容结束后节奏上的这种急剧转变
 Dialogue: 2,4:11:40.57,4:11:46.09,辉英,,0,0,0,,It seems to be pretty clear that shifting pace very sharply after all of the events of the core game,
@@ -5308,9 +5308,9 @@ Dialogue: 1,4:11:51.52,4:11:53.89,辉中,,0,0,0,,很多游戏开发者曾在开�
 Dialogue: 2,4:11:51.52,4:11:53.89,辉英,,0,0,0,,It's something a good number of developers have spoken of
 Dialogue: 1,4:11:53.89,4:11:57.76,辉中,,0,0,0,,很多游戏开发者曾在开发者大会、演讲之类的场合提到过
 Dialogue: 2,4:11:53.89,4:11:57.76,辉英,,0,0,0,,in GDC conference, speeches, and things like that,
-Dialogue: 1,4:11:57.76,4:12:02.66,辉中,,0,0,0,,在一个项目上连续干很多年后慢慢失去对游戏焦点的这种困扰
+Dialogue: 1,4:11:57.76,4:12:02.66,辉中,,0,0,0,,在一个项目上连续干很多年后慢慢失去焦点的这种困扰
 Dialogue: 2,4:11:57.76,4:12:02.66,辉英,,0,0,0,,where they express this frustration with working on a project for years and years and years
-Dialogue: 1,4:12:02.66,4:12:04.36,辉中,,0,0,0,,在一个项目上连续干很多年后慢慢失去对游戏焦点的这种困扰
+Dialogue: 1,4:12:02.66,4:12:04.36,辉中,,0,0,0,,在一个项目上连续干很多年后慢慢失去焦点的这种困扰
 Dialogue: 2,4:12:02.66,4:12:04.36,辉英,,0,0,0,,and losing perspective on it,
 Dialogue: 1,4:12:04.36,4:12:08.74,辉中,,0,0,0,,他们会因此忘记第一次玩这个游戏应该是什么样的体验
 Dialogue: 2,4:12:04.36,4:12:08.74,辉英,,0,0,0,,such that they forget how it would actually feel to play it for the first time.
@@ -5462,7 +5462,7 @@ Dialogue: 1,4:16:10.48,4:16:13.99,辉中,,0,0,0,,实际上这事我在视频前�
 Dialogue: 2,4:16:10.48,4:16:13.99,辉英,,0,0,0,,In fact, I even reference those earlier in this very video.
 Dialogue: 1,4:16:13.99,4:16:18.59,辉中,,0,0,0,,但之后我来到这段场景时 我发现这些画看着很眼熟
 Dialogue: 2,4:16:13.99,4:16:18.59,辉英,,0,0,0,,But then when I went back through this section, I noticed that those paintings looked similar.
-Dialogue: 1,4:16:18.59,4:16:23.11,辉中,,0,0,0,,我一开始以为制作者只是在重复使用一些贴图罢了 这种操作很常见
+Dialogue: 1,4:16:18.59,4:16:23.11,辉中,,0,0,0,,我一开始以为制作者只是在重复使用贴图罢了 这种操作在游戏开发中很常见
 Dialogue: 2,4:16:18.59,4:16:23.11,辉英,,0,0,0,,And I initially thought that they were just reusing assets which is pretty common in game development.
 Dialogue: 1,4:16:23.11,4:16:26.14,辉中,,0,0,0,,但更进一步的观察后
 Dialogue: 2,4:16:23.11,4:16:26.14,辉英,,0,0,0,,But upon further inspection and deliberation,
@@ -5478,6 +5478,8 @@ Dialogue: 1,4:16:41.08,4:16:43.66,辉中,,0,0,0,,所以艾莉抱着孩子一起�
 Dialogue: 2,4:16:41.08,4:16:43.66,辉英,,0,0,0,,So Ellie goes, and does this with the baby.
 Dialogue: 1,4:16:43.66,4:16:46.60,辉中,,0,0,0,,然后艾莉发现了一只落单的小羊
 Dialogue: 2,4:16:43.66,4:16:46.60,辉英,,0,0,0,,And after doing it, Ellie spots one little straggler.
+Dialogue: 0,4:16:45.83,4:16:47.43,辉中 Script,,0,0,0,,诶！
+Dialogue: 0,4:16:47.42,4:16:49.42,辉中 Script,,0,0,0,,你怎么出来的？
 Dialogue: 1,4:16:46.60,4:16:50.65,辉中,,0,0,0,,接下来可能是整个游戏里最快速的情绪转变——
 Dialogue: 2,4:16:46.60,4:16:50.65,辉英,,0,0,0,,And there's probably leads to the fastest mood shift of the whole game.
 Dialogue: 0,4:16:56.01,4:16:57.38,辉中 Script,,0,0,0,,来吧，小家伙。
@@ -5553,7 +5555,7 @@ Dialogue: 1,4:18:54.97,4:18:58.09,辉中,,0,0,0,,毕竟汤米现在走路都不�
 Dialogue: 2,4:18:54.97,4:18:58.09,辉英,,0,0,0,,He can barely walk after all, and he's missing an eye now,
 Dialogue: 1,4:18:58.09,4:19:01.51,辉中,,0,0,0,,所以他就算去也帮不上什么忙
 Dialogue: 2,4:18:58.09,4:19:01.51,辉英,,0,0,0,,so he wouldn't exactly be much help if he were to go.
-Dialogue: 1,4:19:01.51,4:19:06.16,辉中,,0,0,0,,于是他来找到了艾莉完成他的复仇计划
+Dialogue: 1,4:19:01.51,4:19:06.16,辉中,,0,0,0,,于是他找到艾莉帮忙完成他的复仇计划
 Dialogue: 2,4:19:01.51,4:19:06.16,辉英,,0,0,0,,And so he's come to Ellie to proposition her for this revenge plot.
 Dialogue: 1,4:19:06.16,4:19:08.69,辉中,,0,0,0,,最开始看感觉这地方有点牵强
 Dialogue: 2,4:19:06.16,4:19:08.69,辉英,,0,0,0,,Now initially, this might seem relatively far fetched
@@ -5605,7 +5607,7 @@ Dialogue: 1,4:20:30.91,4:20:33.75,辉中,,0,0,0,,他觉得自己遭到了背叛 
 Dialogue: 2,4:20:30.91,4:20:33.75,辉英,,0,0,0,,He feels betrayed, and even calls Ellie out,
 Dialogue: 1,4:20:33.75,4:20:37.99,辉中,,0,0,0,,他觉得自己遭到了背叛 甚至还提起艾莉曾对他说会不惜一起代价复仇
 Dialogue: 2,4:20:33.75,4:20:37.99,辉英,,0,0,0,,since she told him that she was going to do whatever it took to get revenge.
-Dialogue: 1,4:20:37.99,4:20:43.03,辉中,,0,0,0,,这种反应倒是能理解 毕竟汤米仍在为他哥哥的死而伤心
+Dialogue: 1,4:20:37.99,4:20:43.03,辉中,,0,0,0,,这种反应倒是能理解 毕竟汤米仍在为他哥哥的死而愤怒
 Dialogue: 2,4:20:37.99,4:20:43.03,辉英,,0,0,0,,It's an understandable reaction, considering that Tommy is still furious about his brother's death,
 Dialogue: 1,4:20:43.03,4:20:46.48,辉中,,0,0,0,,而且埃比还给他留下了永久的创伤
 Dialogue: 2,4:20:43.03,4:20:46.48,辉英,,0,0,0,,and that she has now permanently scarred him.
@@ -5866,7 +5868,7 @@ Dialogue: 0,4:28:57.23,4:28:59.73,辉中 Script,,0,0,0,,啊！
 Dialogue: 1,4:28:59.56,4:29:02.17,辉中,,0,0,0,,俩人唠着唠着就白给了
 Dialogue: 2,4:28:59.56,4:29:02.17,辉英,,0,0,0,,Now these guys are obviously super dome.
 Dialogue: 0,4:29:00.76,4:29:03.26,辉中 Script,,0,0,0,,该死！
-Dialogue: 1,4:29:02.17,4:29:07.16,辉中,,0,0,0,,作为玩家 你应该经常问你自己 你玩游戏的动力何在？
+Dialogue: 1,4:29:02.17,4:29:07.16,辉中,,0,0,0,,而作为玩家 你应该经常问自己 你玩游戏的动力何在？
 Dialogue: 2,4:29:02.17,4:29:07.16,辉英,,0,0,0,,But you have to ask yourself as the player, what's keeping you going?
 Dialogue: 0,4:29:03.93,4:29:06.43,辉中 Script,,0,0,0,,妈的！
 Dialogue: 1,4:29:07.16,4:29:12.22,辉中,,0,0,0,,不是说游戏让你干啥你就干啥 就叫有游戏动力了
@@ -5989,7 +5991,7 @@ Dialogue: 1,4:32:09.28,4:32:10.82,辉中,,0,0,0,,看到这样的内容我还是�
 Dialogue: 2,4:32:09.28,4:32:10.82,辉英,,0,0,0,,I was really surprised to see this
 Dialogue: 1,4:32:10.82,4:32:14.05,辉中,,0,0,0,,因为通常顽皮狗是很擅长抓住游戏重点的
 Dialogue: 2,4:32:10.82,4:32:14.05,辉英,,0,0,0,,because usually Naughty Dog is pretty good about sticking the landing.
-Dialogue: 1,4:32:14.05,4:32:18.31,辉中,,0,0,0,,他们会在游戏结尾部分各种放飞自我
+Dialogue: 1,4:32:14.05,4:32:18.31,辉中,,0,0,0,,他们会在游戏结尾部分有各种天马行空的关卡
 Dialogue: 2,4:32:14.05,4:32:18.31,辉英,,0,0,0,,They go crazy, big and elaborate in the final sections of the game,
 Dialogue: 1,4:32:18.31,4:32:21.88,辉中,,0,0,0,,不管是《神海》系列还是上一代的TLOU
 Dialogue: 2,4:32:18.31,4:32:21.88,辉英,,0,0,0,,whether you're looking at Uncharted or even the original TLOU game
