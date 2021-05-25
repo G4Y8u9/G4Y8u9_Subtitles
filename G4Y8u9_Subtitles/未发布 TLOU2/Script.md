@@ -89,6 +89,36 @@
 - Lev: Abby! (nearly cries)
 - Abby: Don't ever let me see you again. (to Lev) Come on.
 ## 圣塔芭芭拉
+### 艾莉遭遇陷阱
+- Ellie: Ahh! Shit! Come on. No! No no no! Fuck! Fuck.
+- Ellie: Abby? Abby! I found you! I found…
+- Fat Man: See? We got a live one.
+- Man: This bitch is fucked up.
+- Ellie: Ahh! Fuck!
+- Man: We'll be lucky if she lasts a month. Can we please just say we're done for the day?
+- Fat Man: Yeah. Get that thing down, let's reset the traps.
+- Man: Really, man? I mean, is she even worth the trip back? It's not like-- Ahh! Fuck!
+- Fat Man: Man: It get you?
+- Man: No. No… I'm good. I'm good. Fuck. Something funny?
+- Ellie: Looks like you shit your pants.
+- Man: The fuck you say?
+- Ellie: What a little bitch.
+- Man: Oh, you like funny, huh? Get up.
+- Fat Man: Come on. We don't need this.
+- Man: No, man, she's fucked up anyway, come on!
+- Ellie: Please don't--!
+- Man: Yeah, it's funny, right?
+- Fat Man: Are you serious--?
+- Man: Come on! Laugh!
+- Man: Ahh!
+- Fat Man: Oh shit! Ahh! God damn it! Fuck! Wait! Wait! You said Abby? You're looking for an Abby, right? We picked one up a couple of months ago.
+- Ellie: Yeah, sure.
+- Man: Big girl! Blonde! Arms like mine. She had a scrawny kid with cuts by his mouth. Yeah, that's her. You let me go, I'll tell you where she is. You can get to her before that infection takes over.
+- Ellie: Talk.
+- Man: She's in a holding cell in our camp.
+- Ellie: Where is that?
+- Man: Head that way 'til you hit the railroad track. That'll lead you to a resort. We keep 'em in the tall, round building. I swear.
+### 艾莉和埃比的决战
 - Ellie: Go. Just take him.
 ## 农场
 ### 艾莉最后一次和乔尔对话
