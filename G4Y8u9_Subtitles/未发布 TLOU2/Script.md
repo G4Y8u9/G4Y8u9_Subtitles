@@ -60,6 +60,11 @@
 - Man: Shh, shh!
 - Ellie: What the hell are you doing here?
 - Jesse: Think I'd let you do this on your own?
+### 艾莉和乔尔在音像店前的旅馆
+- Ellie: Why did you pull me out of there while I still unconscious?
+- Joel: Because I let them run their tests, and when I saw that they were useless, I got us out of there--
+- Ellie: How do you know they were useless? Maybe if you just woulda given them more time, they could have figured something out--
+- Joel: Ellie! There was no cure. There's nothing that could've helped these people or anybody else. I know you wish things were different -- I wish things were different. But they ain't.
 ## 埃比 西雅图第3天
 ### 埃比追杀到剧院
 - Tommy: Fuckin' Jesse… Think I don't know what real gold looks like… Wait'll you see this, you sumbitch. She gonna love it.
