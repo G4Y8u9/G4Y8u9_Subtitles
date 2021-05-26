@@ -51,11 +51,11 @@
 - Man: Burn in hell, pendejo.
 - Ellie: I'll fucking kill you… No!
 - Ellie: No… I'll fucking kill you.
-## 艾莉 西雅图第1天
+## 艾莉 西雅图 第1天
 ### 艾莉和蒂娜被偷袭
 - Man: Get the other! Don't lose her! Go!
 - Ellie: Dina.
-## 艾莉 西雅图第2天
+## 艾莉 西雅图 第2天
 ### 艾莉遇到杰西
 - Man: Shh, shh!
 - Ellie: What the hell are you doing here?
@@ -65,6 +65,40 @@
 - Joel: Because I let them run their tests, and when I saw that they were useless, I got us out of there--
 - Ellie: How do you know they were useless? Maybe if you just woulda given them more time, they could have figured something out--
 - Joel: Ellie! There was no cure. There's nothing that could've helped these people or anybody else. I know you wish things were different -- I wish things were different. But they ain't.
+## 艾莉 西雅图 第3天
+### 艾莉在水族馆 被狗袭击
+- Ellie: Oh no! Ahh! Jesus. Fuck! Shit. Stupid dog.
+### 艾莉杀死欧文和梅尔
+- Owen: That engine's fast enough, we can beat her there.
+- Mel: People don't come back from that island!
+- Owen: How many times has Abby risked her life for you?
+- Mel: She chose this. I'm not fucking going there,
+- Owen: Then don't! Go back.
+- Mel: Fuck you, Owen…
+- Ellie: Hands up. Where's Abby?
+- Owen: You're that girl from Jackson.
+- Ellie: Tell me where she went.
+- Mel: How do we know you won't kill us?
+- Owen: You give her what she wants and we're dead.
+- Ellie: You guys can survive this. I just need her.
+- Owen: Bullshit.
+- Ellie: You. Come here. Fucking get over here! Point to where she is on this map. And then you. It better fucking match up.
+- Mel: Okay--
+- Owen: What are you doing?
+- Mel: She's probably dead anyway!
+- Owen: It is not worth it.
+- Ellie: Stop!
+- Owen: We can talk about--
+- Ellie: Back the fuck up! Point to where she is. Fucking point--!
+- Mel: Owen!
+- Ellie: Tell me where Abby is.
+- Owen: She's…
+- Ellie: Where the fuck is she?
+- Owen: (inaudible)
+- Ellie: No, no, no… Oh fuck… Oh fuck.
+- Tommy: Ellie. Whoa, whoa, whoa! Неу…
+- Ellie: I'm sorry.
+- Tommy: It's all right. Come on, let's go. Let's go. It's all right.
 ## 埃比 西雅图第3天
 ### 埃比追杀到剧院
 - Tommy: Fuckin' Jesse… Think I don't know what real gold looks like… Wait'll you see this, you sumbitch. She gonna love it.
