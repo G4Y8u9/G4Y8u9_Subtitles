@@ -1,6 +1,6 @@
 翻译主要取自游戏简体中文版、维基百科
 
-## 人物/组织/感染者
+## 游戏内角色/组织/感染者
 |FULLNAME|NAME|中文|备注|
 |:----|:----|:----|:----|
 |-|Fireflies|火萤组织|前作组织|
@@ -25,6 +25,7 @@
 |-|Jordan|乔丹|WLF成员，Leah之爱人|
 |-|Leah|利娅|WLF8人之一 被疤脸帮杀害|
 |-|Danny|丹尼|WLF成员|
+|-|Alice|爱丽丝|WLF的一条狗|
 |-|Prophet/Prophetess|先知大人/先知|疤脸帮信奉的神|
 |-|Lev|勒弗|疤脸帮成员|
 |-|Lily|莉莉|勒弗的另一个名字|
@@ -49,10 +50,10 @@
 |:----|:----|:----|
 |Jackson|杰克逊|游戏开篇的小镇|
 |Seattle|西雅图|游戏核心内容的发生地|
-|Eastbrook|伊斯特布鲁克小学|西雅图Day1的小学|
-|KMAB 13 News Station|13频道电视台|西雅图Day1的广播电台|
-|Hillcrest|希尔科列斯特|西雅图Day2的地区|
-|Santa Barbara|圣塔芭芭拉||
+|Eastbrook|伊斯特布鲁克小学|西雅图 第1天的小学|
+|KMAB 13 News Station|13频道电视台|西雅图 第1天的广播电台|
+|Hillcrest|希尔科列斯特|西雅图 第2天的地区|
+|Santa Barbara|圣塔芭芭拉|结尾发生在加州的故事地点|
 |Ground Zero|原爆点|医院地下室 疫情爆发点|
 |St Mary's Hospital|圣玛莉医院|前作火萤组织的医院|
 |2425 Constance|康斯坦斯街2425号|火萤在圣塔芭芭拉的据点|
@@ -65,8 +66,9 @@
 |The Last of Us: Left Behind|最后生还者：遗落|前作DLC|
 |Naughty Dog|顽皮狗|游戏制作组|
 |Normal|普通|游戏难度|
-|Difficult|困难|游戏难度|
-|Survivor|生还者|游戏难度|
+|difficult|困难|游戏难度|
+|survivor|生还者|游戏难度|
+|Seattle Day X|西雅图 第X天|X要用阿拉伯数字 中间要有空格|
 |Neil Druckmann|尼尔·德鲁克曼|游戏编剧之一|
 |Halley Gross|哈雷·格罗斯|游戏编剧之一|
 |Cordyceps Brain Infection/CBI|虫草菌脑部感染|游戏中感染者的疾病（翻译来自一代）|

@@ -15,10 +15,10 @@ Audio File: Q:/给没组/tlou2.mp4
 Video File: Q:/给没组/tlou2.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 5172
-Active Line: 5180
-Video Position: 751917
+Video Zoom Percent: 0.750000
+Scroll Position: 5033
+Active Line: 5037
+Video Position: 613118
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -3889,27 +3889,27 @@ Dialogue: 1,2:09:56.21,2:10:00.44,辉中,,0,0,0,,而是要为了蒂娜未出生�
 Dialogue: 2,2:09:56.21,2:10:00.44,辉英,,0,0,0,,but rather need to get Dina somewhere safe for the sake of her unborn child.
 Dialogue: 1,2:10:00.44,2:10:03.71,辉中,,0,0,0,,一切都很正常 直到……
 Dialogue: 2,2:10:00.44,2:10:03.71,辉英,,0,0,0,,All is normal, until this…
-Dialogue: 0,2:10:07.15,2:10:09.15,辉中 Script,,0,0,0,,艾莉：糟了！
-Dialogue: 0,2:10:14.81,2:10:15.81,辉中 Script,,0,0,0,,杰西？
-Dialogue: 0,2:10:15.81,2:10:17.28,辉中 Script,,0,0,0,,埃比：站起来！
-Dialogue: 0,2:10:17.28,2:10:19.21,辉中 Script,,0,0,0,,举起手来，不然我开枪把他也打死！
-Dialogue: 0,2:10:19.21,2:10:22.06,辉中 Script,,0,0,0,,汤米：别听她的，艾莉！快离开这里！
-Dialogue: 0,2:10:21.89,2:10:23.46,辉中 Script,,0,0,0,,埃比：站起来！
-Dialogue: 0,2:10:23.35,2:10:24.80,辉中 Script,,0,0,0,,汤米：你他妈敢试试——
-Dialogue: 0,2:10:24.45,2:10:26.45,辉中 Script,,0,0,0,,埃比：你他妈闭嘴！
-Dialogue: 0,2:10:26.82,2:10:27.83,辉中 Script,,0,0,0,,艾莉：妈的。
-Dialogue: 0,2:10:27.44,2:10:28.70,辉中 Script,,0,0,0,,埃比：好吧——
-Dialogue: 0,2:10:28.29,2:10:30.93,辉中 Script,,0,0,0,,艾莉：快停下！
-Dialogue: 0,2:10:34.60,2:10:37.11,辉中 Script,,0,0,0,,埃比：扔掉你的武器。
-Dialogue: 0,2:10:37.45,2:10:38.15,辉中 Script,,0,0,0,,扔掉你的武器！
-Dialogue: 0,2:10:38.15,2:10:39.95,辉中 Script,,0,0,0,,艾莉：妈的！
-Dialogue: 0,2:10:39.95,2:10:42.45,辉中 Script,,0,0,0,,汤米：不……不……
-Dialogue: 0,2:10:43.21,2:10:45.71,辉中 Script,,0,0,0,,艾莉：我知道你为什么要杀了乔尔。
-Dialogue: 0,2:10:46.35,2:10:48.61,辉中 Script,,0,0,0,,他那样做是为了救我。
-Dialogue: 0,2:10:48.61,2:10:51.08,辉中 Script,,0,0,0,,因为我才没有疫苗。我就是你要找的人。
-Dialogue: 0,2:10:53.01,2:10:55.53,辉中 Script,,0,0,0,,放他走。
-Dialogue: 0,2:10:58.66,2:11:01.16,辉中 Script,,0,0,0,,埃比：你杀死了我的朋友……
-Dialogue: 0,2:11:02.50,2:11:07.03,辉中 Script,,0,0,0,,我们放了你们一条生路……但你们浪费了机会！
+Dialogue: 1,2:10:07.15,2:10:09.15,辉中 Script,,0,0,0,,艾莉：糟了！
+Dialogue: 1,2:10:14.81,2:10:15.81,辉中 Script,,0,0,0,,杰西？
+Dialogue: 1,2:10:15.81,2:10:17.28,辉中 Script,,0,0,0,,埃比：站起来！
+Dialogue: 1,2:10:17.28,2:10:19.21,辉中 Script,,0,0,0,,举起手来，不然我开枪把他也打死！
+Dialogue: 1,2:10:19.21,2:10:22.06,辉中 Script,,0,0,0,,汤米：别听她的，艾莉！快离开这里！
+Dialogue: 1,2:10:21.89,2:10:23.46,辉中 Script,,0,0,0,,埃比：站起来！
+Dialogue: 1,2:10:23.35,2:10:24.80,辉中 Script,,0,0,0,,汤米：你他妈敢试试——
+Dialogue: 1,2:10:24.45,2:10:26.45,辉中 Script,,0,0,0,,埃比：你他妈闭嘴！
+Dialogue: 1,2:10:26.82,2:10:27.83,辉中 Script,,0,0,0,,艾莉：妈的。
+Dialogue: 1,2:10:27.44,2:10:28.70,辉中 Script,,0,0,0,,埃比：好吧——
+Dialogue: 1,2:10:28.29,2:10:30.93,辉中 Script,,0,0,0,,艾莉：快停下！
+Dialogue: 1,2:10:34.60,2:10:37.11,辉中 Script,,0,0,0,,埃比：扔掉你的武器。
+Dialogue: 1,2:10:37.45,2:10:38.15,辉中 Script,,0,0,0,,扔掉你的武器！
+Dialogue: 1,2:10:38.15,2:10:39.95,辉中 Script,,0,0,0,,艾莉：妈的！
+Dialogue: 1,2:10:39.95,2:10:42.45,辉中 Script,,0,0,0,,汤米：不……不……
+Dialogue: 1,2:10:43.21,2:10:45.71,辉中 Script,,0,0,0,,艾莉：我知道你为什么要杀了乔尔。
+Dialogue: 1,2:10:46.35,2:10:48.61,辉中 Script,,0,0,0,,他那样做是为了救我。
+Dialogue: 1,2:10:48.61,2:10:51.08,辉中 Script,,0,0,0,,因为我才没有疫苗。我就是你要找的人。
+Dialogue: 1,2:10:53.01,2:10:55.53,辉中 Script,,0,0,0,,放他走。
+Dialogue: 1,2:10:58.66,2:11:01.16,辉中 Script,,0,0,0,,埃比：你杀死了我的朋友……
+Dialogue: 1,2:11:02.50,2:11:07.03,辉中 Script,,0,0,0,,我们放了你们一条生路……但你们浪费了机会！
 Dialogue: 1,2:11:12.26,2:11:16.34,辉中,,0,0,0,,这是一个极其突然且尖锐的叙事转折
 Dialogue: 2,2:11:12.26,2:11:16.34,辉英,,0,0,0,,This is a stunningly sudden and sharp narrative beat.
 Dialogue: 1,2:11:16.34,2:11:20.61,辉中,,0,0,0,,我知道要发生一些事情了 但我没想到会如此突然
@@ -4154,21 +4154,21 @@ Dialogue: 1,2:19:21.53,2:19:26.06,辉中,,0,0,0,,在这段对话的末尾 埃比
 Dialogue: 2,2:19:21.53,2:19:26.06,辉英,,0,0,0,,It's at the end of this discussion that Abby comes in the room, bringing her father some dinner.
 Dialogue: 1,2:19:26.06,2:19:29.48,辉中,,0,0,0,,而她之后说的话很有意思
 Dialogue: 2,2:19:26.06,2:19:29.48,辉英,,0,0,0,,And she offers a fairly interesting anecdote.
-Dialogue: 0,2:19:29.50,2:19:32.01,辉中 Script,,0,0,0,,埃比：你做得对。
-Dialogue: 0,2:19:33.68,2:19:36.18,辉中 Script,,0,0,0,,杰瑞：嗯。
-Dialogue: 0,2:19:39.41,2:19:41.91,辉中 Script,,0,0,0,,埃比：如果是我的话……
-Dialogue: 0,2:19:42.95,2:19:44.98,辉中 Script,,0,0,0,,我会希望你进行手术。
+Dialogue: 1,2:19:29.50,2:19:32.01,辉中 Script,,0,0,0,,埃比：你做得对。
+Dialogue: 1,2:19:33.68,2:19:36.18,辉中 Script,,0,0,0,,杰瑞：嗯。
+Dialogue: 1,2:19:39.41,2:19:41.91,辉中 Script,,0,0,0,,埃比：如果是我的话……
+Dialogue: 1,2:19:42.95,2:19:44.98,辉中 Script,,0,0,0,,我会希望你进行手术。
 Dialogue: 1,2:19:46.64,2:19:51.68,辉中,,0,0,0,,随后很快画面一黑 镜头来到了埃比跑进手术室的画面
 Dialogue: 2,2:19:46.64,2:19:51.68,辉英,,0,0,0,,Immediately after this, we cut to black and we transitioned the Abby running into the operating room.
 Dialogue: 1,2:19:51.68,2:19:53.54,辉中,,0,0,0,,她发现她父亲已经死了
 Dialogue: 2,2:19:51.68,2:19:53.54,辉英,,0,0,0,,Finding her dad, dead.
-Dialogue: 0,2:19:58.43,2:20:00.20,辉中 Script,,0,0,0,,欧文：他还在该死的楼里吗？
-Dialogue: 0,2:20:00.16,2:20:01.26,辉中 Script,,0,0,0,,埃比：这是——
-Dialogue: 0,2:20:01.29,2:20:02.03,辉中 Script,,0,0,0,,欧文：埃比。
-Dialogue: 0,2:20:01.99,2:20:02.73,辉中 Script,,0,0,0,,埃比，别看——
-Dialogue: 0,2:20:02.73,2:20:04.21,辉中 Script,,0,0,0,,埃比：爸爸！
-Dialogue: 0,2:20:04.21,2:20:06.71,辉中 Script,,0,0,0,,爸爸！不！
-Dialogue: 0,2:20:08.08,2:20:11.65,辉中 Script,,0,0,0,,不行！天呐……
+Dialogue: 1,2:19:58.43,2:20:00.20,辉中 Script,,0,0,0,,欧文：他还在该死的楼里吗？
+Dialogue: 1,2:20:00.16,2:20:01.26,辉中 Script,,0,0,0,,埃比：这是——
+Dialogue: 1,2:20:01.29,2:20:02.03,辉中 Script,,0,0,0,,欧文：埃比。
+Dialogue: 1,2:20:01.99,2:20:02.73,辉中 Script,,0,0,0,,埃比，别看——
+Dialogue: 1,2:20:02.73,2:20:04.21,辉中 Script,,0,0,0,,埃比：爸爸！
+Dialogue: 1,2:20:04.21,2:20:06.71,辉中 Script,,0,0,0,,爸爸！不！
+Dialogue: 1,2:20:08.08,2:20:11.65,辉中 Script,,0,0,0,,不行！天呐……
 Dialogue: 1,2:20:15.02,2:20:18.29,辉中,,0,0,0,,这就是埃比要杀乔尔的原因
 Dialogue: 2,2:20:15.02,2:20:18.29,辉英,,0,0,0,,This is why Abby wanted to kill Joel.
 Dialogue: 1,2:20:18.29,2:20:23.30,辉中,,0,0,0,,全都明白了 为了强调这一点 画面马上切到乔尔死的时候
@@ -4181,102 +4181,171 @@ Dialogue: 1,2:20:29.56,2:20:31.82,辉中,,0,0,0,,因为现在我们终于能听�
 Dialogue: 2,2:20:29.56,2:20:31.82,辉英,,0,0,0,,that we had the first time that we saw it.
 Dialogue: 1,2:20:31.82,2:20:36.02,辉中,,0,0,0,,我们可以听到整段对话与人们的争论
 Dialogue: 2,2:20:31.82,2:20:36.02,辉英,,0,0,0,,Now we can hear the entire conversation, the debate that goes back and forth.
-Dialogue: 0,2:20:42.55,2:20:45.05,辉中 Script,,0,0,0,,男子：在地狱中烧成灰烬吧，pendejo。
-Dialogue: 0,2:20:47.35,2:20:49.85,辉中 Script,,0,0,0,,艾莉：我他妈要杀了你们……
-Dialogue: 0,2:20:50.11,2:20:51.58,辉中 Script,,0,0,0,,欧文：喂，喂，你要干嘛？
-Dialogue: 0,2:20:51.58,2:20:52.21,辉中 Script,,0,0,0,,曼尼。
-Dialogue: 0,2:20:52.21,2:20:52.71,辉中 Script,,0,0,0,,曼尼：把他们收拾了。
-Dialogue: 0,2:20:52.64,2:20:54.53,辉中 Script,,0,0,0,,欧文：别这样。我们是冲他来的。到此为止。
-Dialogue: 0,2:20:54.53,2:20:56.16,辉中 Script,,0,0,0,,曼尼：留他们活口太危险了。
-Dialogue: 0,2:20:56.16,2:20:57.93,辉中 Script,,0,0,0,,欧文：太他妈坏了。
-Dialogue: 0,2:20:57.90,2:20:59.63,辉中 Script,,0,0,0,,梅尔：他说的对。
-Dialogue: 0,2:20:59.63,2:21:02.03,辉中 Script,,0,0,0,,我们不能留下活口。
-Dialogue: 0,2:21:02.03,2:21:04.53,辉中 Script,,0,0,0,,欧文：如果我们杀了他们，就和他没区别。
-Dialogue: 0,2:21:05.73,2:21:06.96,辉中 Script,,0,0,0,,他们又没做错什么！
-Dialogue: 0,2:21:06.96,2:21:08.23,辉中 Script,,0,0,0,,乔丹：是吗？看看我的脸——
-Dialogue: 0,2:21:08.23,2:21:09.23,辉中 Script,,0,0,0,,欧文：去你妈的脸。
-Dialogue: 0,2:21:09.23,2:21:11.61,辉中 Script,,0,0,0,,你应该听我的在楼上守着。
-Dialogue: 0,2:21:11.61,2:21:12.15,辉中 Script,,0,0,0,,乔丹：闪开。
-Dialogue: 0,2:21:12.15,2:21:12.65,辉中 Script,,0,0,0,,欧文：往后退。
-Dialogue: 0,2:21:12.51,2:21:13.48,辉中 Script,,0,0,0,,梅尔：冷静点。
-Dialogue: 0,2:21:13.05,2:21:13.98,辉中 Script,,0,0,0,,乔丹：你想怎么样？
-Dialogue: 0,2:21:13.48,2:21:14.95,辉中 Script,,0,0,0,,欧文：你他妈的后退！
-Dialogue: 0,2:21:14.34,2:21:15.35,辉中 Script,,0,0,0,,梅尔：冷静点！
-Dialogue: 0,2:21:14.95,2:21:17.08,辉中 Script,,0,0,0,,曼尼：乔丹！
-Dialogue: 0,2:21:16.59,2:21:17.75,辉中 Script,,0,0,0,,欧文：你要打死我吗？
-Dialogue: 0,2:21:17.30,2:21:19.91,辉中 Script,,0,0,0,,埃比：行了！
-Dialogue: 0,2:21:21.55,2:21:23.55,辉中 Script,,0,0,0,,我们收手。
-Dialogue: 1,2:21:24.56,2:21:27.62,辉中,,0,0,0,,This is the midpoint of the game, really.
-Dialogue: 1,2:21:27.62,2:21:30.95,辉中,,0,0,0,,As far as we can tell, we're done playing as Ellie.
-Dialogue: 1,2:21:30.95,2:21:34.10,辉中,,0,0,0,,The next sequence pops up with Seattle Day 1,
-Dialogue: 1,2:21:34.10,2:21:38.57,辉中,,0,0,0,,implying that we're going to be going back through the entirety of what we just did with Ellie,
-Dialogue: 1,2:21:38.57,2:21:40.73,辉中,,0,0,0,,but from Abby's perspective.
-Dialogue: 1,2:21:40.73,2:21:43.94,辉中,,0,0,0,,It's an interesting flip, and the change of perspective is,
-Dialogue: 1,2:21:43.94,2:21:48.80,辉中,,0,0,0,,after all, the operative narrative element of this entire game's design.
-Dialogue: 1,2:21:48.80,2:21:53.28,辉中,,0,0,0,,But I can't help but feel as though many players are going to already be exhausted
-Dialogue: 1,2:21:53.28,2:21:55.67,辉中,,0,0,0,,from the journey that they just endeavored on.
-Dialogue: 1,2:21:55.67,2:21:59.12,辉中,,0,0,0,,This is why at this point in the game, pace is more important than ever.
-Dialogue: 1,2:21:59.12,2:22:01.25,辉中,,0,0,0,,You have to keep the player engaged,
-Dialogue: 1,2:22:01.25,2:22:04.36,辉中,,0,0,0,,especially because many of us probably felt as though
-Dialogue: 1,2:22:04.36,2:22:07.16,辉中,,0,0,0,,we had just played through an entire game by itself.
-Dialogue: 1,2:22:07.16,2:22:12.68,辉中,,0,0,0,,And now you're asking us to play through another game with another character,
-Dialogue: 1,2:22:12.68,2:22:15.72,辉中,,0,0,0,,but in this case, the villain, as far as we're concerned,
-Dialogue: 1,2:22:15.72,2:22:19.85,辉中,,0,0,0,,and you want us to give her the same time of day and attention that we give Ellie,
-Dialogue: 1,2:22:19.85,2:22:23.10,辉中,,0,0,0,,a character that we have a deep relationship built up with
-Dialogue: 1,2:22:23.10,2:22:26.93,辉中,,0,0,0,,after having played a game with her back in 2013.
-Dialogue: 1,2:22:26.93,2:22:28.46,辉中,,0,0,0,,It really is a lot to ask,
-Dialogue: 1,2:22:28.46,2:22:32.75,辉中,,0,0,0,,and I don't really blame a lot of players that decided to walk away at this point.
-Dialogue: 1,2:22:32.75,2:22:36.91,辉中,,0,0,0,,Sure, they may never get the actual story resolved with what happened
-Dialogue: 1,2:22:36.91,2:22:39.95,辉中,,0,0,0,,when that Abby pulled the gun on Ellie in the theater,
-Dialogue: 1,2:22:39.95,2:22:45.02,辉中,,0,0,0,,or perhaps they simply fast forwarded and watched a run through of the game after that point.
-Dialogue: 1,2:22:45.02,2:22:51.11,辉中,,0,0,0,,And lastly, most players are going to have a very skeptical outlook at this second half.
-Dialogue: 1,2:22:51.11,2:22:54.53,辉中,,0,0,0,,We're all looking for reasons to dislike Abby.
-Dialogue: 1,2:22:54.53,2:22:59.63,辉中,,0,0,0,,After all, she's done something that we would deem most likely unforgivable.
-Dialogue: 1,2:22:59.63,2:23:04.34,辉中,,0,0,0,,However, I would like to think that most of us would have an open enough mind to play through this
-Dialogue: 1,2:23:04.34,2:23:08.90,辉中,,0,0,0,,and see whether or not they could be convinced of whether or not she was justified.
-Dialogue: 1,2:23:08.90,2:23:13.16,辉中,,0,0,0,,In that survey I conducted, it seemed as though the overwhelming majority of people
-Dialogue: 1,2:23:13.16,2:23:18.74,辉中,,0,0,0,,that decided to walk away from the game didn't play it after this particular point,
-Dialogue: 1,2:23:18.74,2:23:25.61,辉中,,0,0,0,,and those people tended to rate the game very negatively, averaging around a 4 to 5.
-Dialogue: 1,2:23:25.61,2:23:29.04,辉中,,0,0,0,,However, of the people that played the game all the way through,
-Dialogue: 1,2:23:29.04,2:23:33.28,辉中,,0,0,0,,the majority of them rated the game in the range of an 8 to 9.
-Dialogue: 1,2:23:33.28,2:23:35.90,辉中,,0,0,0,,Seems to be the conclusion is fairly clear.
-Dialogue: 1,2:23:35.90,2:23:39.36,辉中,,0,0,0,,Those that gave the game the chance to prove itself to them
-Dialogue: 1,2:23:39.36,2:23:42.77,辉中,,0,0,0,,ended up enjoying it once they experienced the whole thing.
-Dialogue: 1,2:23:42.77,2:23:45.01,辉中,,0,0,0,,Whereas those that decided to cut and run
-Dialogue: 1,2:23:45.01,2:23:48.44,辉中,,0,0,0,,had the experience that you would expect from somebody who cuts and runs.
-Dialogue: 1,2:23:48.44,2:23:50.09,辉中,,0,0,0,,It really is that simple.
-Dialogue: 1,2:23:50.09,2:23:55.31,辉中,,0,0,0,,You have to give a game like this the chance to do its job.
-Dialogue: 1,2:23:55.31,2:23:59.42,辉中,,0,0,0,,What they're trying to do is convince you that a character you hate
-Dialogue: 1,2:23:59.42,2:24:03.34,辉中,,0,0,0,,is actually a human being that has feelings and emotions
-Dialogue: 1,2:24:03.34,2:24:08.06,辉中,,0,0,0,,that are perhaps just as justified as the character you'd find relatable.
-Dialogue: 1,2:24:08.06,2:24:12.98,辉中,,0,0,0,,That argument isn't made over the course of an hour gameplay sequence.
-Dialogue: 1,2:24:12.98,2:24:16.43,辉中,,0,0,0,,It takes time and it takes a lot of effort.
-Dialogue: 1,2:24:16.43,2:24:20.63,辉中,,0,0,0,,And more than anything, it takes the open mind of the observer.
-Dialogue: 1,2:24:20.63,2:24:23.44,辉中,,0,0,0,,It may seem like a cliche for many people to say
-Dialogue: 1,2:24:23.44,2:24:27.32,辉中,,0,0,0,,"Well, if you didn't like TLOU2 when you quit halfway through,
-Dialogue: 1,2:24:27.32,2:24:30.14,辉中,,0,0,0,,you just didn't get it, and you were never going to like it".
-Dialogue: 1,2:24:30.14,2:24:32.99,辉中,,0,0,0,,However, I think there is a fair amount of truth in that.
-Dialogue: 1,2:24:32.99,2:24:34.76,辉中,,0,0,0,,But I don't know, let me know what you think.
-Dialogue: 1,2:24:34.76,2:24:41.30,辉中,,0,0,0,,What I do know is that at this point, in my first run of the game, I was highly exhausted.
-Dialogue: 1,2:24:41.30,2:24:47.96,辉中,,0,0,0,,Abby Sequences required a lot of effort, both emotionally and physically, to get through.
-Dialogue: 1,2:24:47.96,2:24:50.99,辉中,,0,0,0,,With the emotional tension and all of the gore,
-Dialogue: 1,2:24:50.99,2:24:54.98,辉中,,0,0,0,,it's an exhausting 10 to 15 hours of game play to get through.
-Dialogue: 1,2:24:54.98,2:25:01.10,辉中,,0,0,0,,And I will be honest, even I considered taking a break before continuing on with Abby sequences.
-Dialogue: 1,2:25:01.10,2:25:05.78,辉中,,0,0,0,,But I decided to put my head down and give the game the chance that it was asking for.
-Dialogue: 1,2:25:05.78,2:25:09.65,辉中,,0,0,0,,But regardless, this is the time when we begin playing as Abby.
-Dialogue: 1,2:25:09.65,2:25:14.13,辉中,,0,0,0,,The pace changes, the attitude changes, the tone changes.
-Dialogue: 1,2:25:14.13,2:25:19.52,辉中,,0,0,0,,And more broadly, even the style of character work changes.
-Dialogue: 1,2:25:19.52,2:25:25.01,辉中,,0,0,0,,In many ways, it's going to feel like a different game entirely both for better and worse.
-Dialogue: 1,2:25:25.01,2:25:27.29,辉中,,0,0,0,,But don't worry, we're going to get into all of it.
-Dialogue: 1,2:25:27.29,2:25:28.62,辉中,,0,0,0,,Seattle Day 1,
-Dialogue: 1,2:25:28.62,2:25:31.64,辉中,,0,0,0,,Abby wakes up and we begin the second half of the game
-Dialogue: 1,2:25:31.64,2:25:35.87,辉中,,0,0,0,,playing as who most of us will consider to be the antagonist.
-Dialogue: 1,2:25:35.87,2:25:38.99,辉中,,0,0,0,,However, this might change by the time we get to the end.
-Dialogue: 1,2:25:38.99,2:25:42.29,辉中,,0,0,0,,This whole game is, of course, about perspective in relativism,
-Dialogue: 1,2:25:42.29,2:25:44.78,辉中,,0,0,0,,and to that extent it works fairly simply.
-Dialogue: 1,2:25:44.78,2:25:47.78,辉中,,0,0,0,,We're going to be forced to play as Abby at least
-Dialogue: 1,2:25:47.78,2:25:53.75,辉中,,0,0,0,,until we either start to enjoy her as a character like her or even love her,
-Dialogue: 1,2:25:53.75,2:25:57.80,辉中,,0,0,0,,or at the very least, until we forget how much we hate her.
+Dialogue: 1,2:20:42.55,2:20:45.05,辉中 Script,,0,0,0,,男子：在地狱中烧成灰烬吧，pendejo。
+Dialogue: 1,2:20:47.35,2:20:49.85,辉中 Script,,0,0,0,,艾莉：我他妈要杀了你们……
+Dialogue: 1,2:20:50.11,2:20:51.58,辉中 Script,,0,0,0,,欧文：喂，喂，你要干嘛？
+Dialogue: 1,2:20:51.58,2:20:52.21,辉中 Script,,0,0,0,,曼尼。
+Dialogue: 1,2:20:52.21,2:20:52.71,辉中 Script,,0,0,0,,曼尼：把他们收拾了。
+Dialogue: 1,2:20:52.64,2:20:54.53,辉中 Script,,0,0,0,,欧文：别这样。我们是冲他来的。到此为止。
+Dialogue: 1,2:20:54.53,2:20:56.16,辉中 Script,,0,0,0,,曼尼：留他们活口太危险了。
+Dialogue: 1,2:20:56.16,2:20:57.93,辉中 Script,,0,0,0,,欧文：太他妈坏了。
+Dialogue: 1,2:20:57.90,2:20:59.63,辉中 Script,,0,0,0,,梅尔：他说的对。
+Dialogue: 1,2:20:59.63,2:21:02.03,辉中 Script,,0,0,0,,我们不能留下活口。
+Dialogue: 1,2:21:02.03,2:21:04.53,辉中 Script,,0,0,0,,欧文：如果我们杀了他们，就和他没区别。
+Dialogue: 1,2:21:05.73,2:21:06.96,辉中 Script,,0,0,0,,他们又没做错什么！
+Dialogue: 1,2:21:06.96,2:21:08.23,辉中 Script,,0,0,0,,乔丹：是吗？看看我的脸——
+Dialogue: 1,2:21:08.23,2:21:09.23,辉中 Script,,0,0,0,,欧文：去你妈的脸。
+Dialogue: 1,2:21:09.23,2:21:11.61,辉中 Script,,0,0,0,,你应该听我的在楼上守着。
+Dialogue: 1,2:21:11.61,2:21:12.15,辉中 Script,,0,0,0,,乔丹：闪开。
+Dialogue: 1,2:21:12.15,2:21:12.65,辉中 Script,,0,0,0,,欧文：往后退。
+Dialogue: 1,2:21:12.51,2:21:13.48,辉中 Script,,0,0,0,,梅尔：冷静点。
+Dialogue: 1,2:21:13.05,2:21:13.98,辉中 Script,,0,0,0,,乔丹：你想怎么样？
+Dialogue: 1,2:21:13.48,2:21:14.95,辉中 Script,,0,0,0,,欧文：你他妈的后退！
+Dialogue: 1,2:21:14.34,2:21:15.35,辉中 Script,,0,0,0,,梅尔：冷静点！
+Dialogue: 1,2:21:14.95,2:21:17.08,辉中 Script,,0,0,0,,曼尼：乔丹！
+Dialogue: 1,2:21:16.59,2:21:17.75,辉中 Script,,0,0,0,,欧文：你要打死我吗？
+Dialogue: 1,2:21:17.30,2:21:19.91,辉中 Script,,0,0,0,,埃比：行了！
+Dialogue: 1,2:21:21.55,2:21:23.55,辉中 Script,,0,0,0,,我们收手。
+Dialogue: 1,2:21:24.56,2:21:27.62,辉中,,0,0,0,,这里正式来到了游戏的中点
+Dialogue: 2,2:21:24.56,2:21:27.62,辉英,,0,0,0,,This is the midpoint of the game, really.
+Dialogue: 1,2:21:27.62,2:21:30.95,辉中,,0,0,0,,我们可以看出的是 艾莉的游玩部分已经结束了
+Dialogue: 2,2:21:27.62,2:21:30.95,辉英,,0,0,0,,As far as we can tell, we're done playing as Ellie.
+Dialogue: 1,2:21:30.95,2:21:34.10,辉中,,0,0,0,,接下来画面出现了“西雅图 第1天”
+Dialogue: 2,2:21:30.95,2:21:34.10,辉英,,0,0,0,,The next sequence pops up with "Seattle Day 1",
+Dialogue: 1,2:21:34.10,2:21:38.57,辉中,,0,0,0,,说明我们即将重新完整过一遍之前操控艾莉的这三天
+Dialogue: 2,2:21:34.10,2:21:38.57,辉英,,0,0,0,,implying that we're going to be going back through the entirety of what we just did with Ellie,
+Dialogue: 1,2:21:38.57,2:21:40.73,辉中,,0,0,0,,而这次是埃比的视角
+Dialogue: 2,2:21:38.57,2:21:40.73,辉英,,0,0,0,,but from Abby's perspective.
+Dialogue: 1,2:21:40.73,2:21:41.98,辉中,,0,0,0,,这样的转换很有趣
+Dialogue: 2,2:21:40.73,2:21:41.98,辉英,,0,0,0,,It's an interesting flip,
+Dialogue: 1,2:21:41.98,2:21:48.80,辉中,,0,0,0,,而这种视角的转换就是整个游戏叙事元素的核心
+Dialogue: 2,2:21:41.98,2:21:48.80,辉英,,0,0,0,,and the change of perspective is, after all, the operative narrative element of this entire game's design.
+Dialogue: 1,2:21:48.80,2:21:55.67,辉中,,0,0,0,,但我不禁感觉很多玩家玩到这里 经历了刚刚那样的旅程 已经身心疲惫了
+Dialogue: 2,2:21:48.80,2:21:53.28,辉英,,0,0,0,,But I can't help but feel as though many players are going to already be exhausted
+Dialogue: 2,2:21:53.28,2:21:55.67,辉英,,0,0,0,,from the journey that they just endeavored on.
+Dialogue: 1,2:21:55.67,2:21:59.12,辉中,,0,0,0,,也因此游戏到了这里 节奏的掌握就变得尤为重要
+Dialogue: 2,2:21:55.67,2:21:59.12,辉英,,0,0,0,,This is why at this point in the game, pace is more important than ever.
+Dialogue: 1,2:21:59.12,2:22:01.25,辉中,,0,0,0,,你必须得让玩家兴奋起来
+Dialogue: 2,2:21:59.12,2:22:01.25,辉英,,0,0,0,,You have to keep the player engaged,
+Dialogue: 1,2:22:01.25,2:22:07.16,辉中,,0,0,0,,特别是考虑到很多玩家会感觉自己明明刚刚玩过这三天的内容了
+Dialogue: 2,2:22:01.25,2:22:04.36,辉英,,0,0,0,,especially because many of us probably felt as though
+Dialogue: 2,2:22:04.36,2:22:07.16,辉英,,0,0,0,,we had just played through an entire game by itself.
+Dialogue: 1,2:22:07.16,2:22:12.68,辉中,,0,0,0,,现在游戏却让我再操控另一个角色再玩一遍
+Dialogue: 2,2:22:07.16,2:22:12.68,辉英,,0,0,0,,And now you're asking us to play through another game with another character,
+Dialogue: 1,2:22:12.68,2:22:15.72,辉中,,0,0,0,,而且还是大家眼中的反派角色
+Dialogue: 2,2:22:12.68,2:22:15.72,辉英,,0,0,0,,but in this case, the villain, as far as we're concerned,
+Dialogue: 1,2:22:15.72,2:22:19.85,辉中,,0,0,0,,游戏还想让我们陪她度过和艾莉一样的三天时间
+Dialogue: 2,2:22:15.72,2:22:19.85,辉英,,0,0,0,,and you want us to give her the same time of day and attention that we give Ellie,
+Dialogue: 1,2:22:19.85,2:22:26.93,辉中,,0,0,0,,可我们早在2013年的一代游戏中就已经和艾莉建立深厚感情了
+Dialogue: 2,2:22:19.85,2:22:23.10,辉英,,0,0,0,,a character that we have a deep relationship built up with
+Dialogue: 2,2:22:23.10,2:22:26.93,辉英,,0,0,0,,after having played a game with her back in 2013.
+Dialogue: 1,2:22:26.93,2:22:28.46,辉中,,0,0,0,,这里真的有很多问题要问
+Dialogue: 2,2:22:26.93,2:22:28.46,辉英,,0,0,0,,It really is a lot to ask,
+Dialogue: 1,2:22:28.46,2:22:32.75,辉中,,0,0,0,,而我也真不会怨很多玩到这里决定弃坑的玩家
+Dialogue: 2,2:22:28.46,2:22:32.75,辉英,,0,0,0,,and I don't really blame a lot of players that decided to walk away at this point.
+Dialogue: 1,2:22:32.75,2:22:39.95,辉中,,0,0,0,,诚然他们可能永远也看不到埃比在剧院拿枪指着艾莉之后的故事了
+Dialogue: 2,2:22:32.75,2:22:36.91,辉英,,0,0,0,,Sure, they may never get the actual story resolved with what happened
+Dialogue: 2,2:22:36.91,2:22:39.95,辉英,,0,0,0,,when that Abby pulled the gun on Ellie in the theater,
+Dialogue: 1,2:22:39.95,2:22:45.02,辉中,,0,0,0,,或者可能是快进 可能是之后就改看别人的视频流程云了
+Dialogue: 2,2:22:39.95,2:22:45.02,辉英,,0,0,0,,or perhaps they simply fast forwarded and watched a run through of the game after that point.
+Dialogue: 1,2:22:45.02,2:22:51.11,辉中,,0,0,0,,导致最后 不少玩家会对游戏后半部分自带一个怀疑态度
+Dialogue: 2,2:22:45.02,2:22:51.11,辉英,,0,0,0,,And lastly, most players are going to have a very skeptical outlook at this second half.
+Dialogue: 1,2:22:51.11,2:22:54.53,辉中,,0,0,0,,一进来都在拿放大镜找埃比可恨的原因
+Dialogue: 2,2:22:51.11,2:22:54.53,辉英,,0,0,0,,We're all looking for reasons to dislike Abby.
+Dialogue: 1,2:22:54.53,2:22:59.63,辉中,,0,0,0,,毕竟 她做了一些我们很可能会认为是不可饶恕的事情
+Dialogue: 2,2:22:54.53,2:22:59.63,辉英,,0,0,0,,After all, she's done something that we would deem most likely unforgivable.
+Dialogue: 1,2:22:59.63,2:23:04.34,辉中,,0,0,0,,然而 我想我们中的大多数人还是会有足够开放的心态来玩这个游戏
+Dialogue: 2,2:22:59.63,2:23:04.34,辉英,,0,0,0,,However, I would like to think that most of us would have an open enough mind to play through this
+Dialogue: 1,2:23:04.34,2:23:08.90,辉中,,0,0,0,,看看游戏是否能说服他们埃比行为的合理性
+Dialogue: 2,2:23:04.34,2:23:08.90,辉英,,0,0,0,,and see whether or not they could be convinced of whether or not she was justified.
+Dialogue: 1,2:23:08.90,2:23:10.44,辉中,,0,0,0,,在我进行的那份调查当中
+Dialogue: 2,2:23:08.90,2:23:10.44,辉英,,0,0,0,,In that survey I conducted,
+Dialogue: 1,2:23:10.44,2:23:15.59,辉中,,0,0,0,,绝大多数玩了这个游戏结果中途放弃的玩家
+Dialogue: 2,2:23:10.44,2:23:15.59,辉英,,0,0,0,,it seemed as though the overwhelming majority of people that decided to walk away from the game
+Dialogue: 1,2:23:15.59,2:23:18.74,辉中,,0,0,0,,几乎都是在这一时刻弃坑的
+Dialogue: 2,2:23:15.59,2:23:18.74,辉英,,0,0,0,,didn't play it after this particular point,
+Dialogue: 1,2:23:18.74,2:23:25.61,辉中,,0,0,0,,而这些玩家更倾向于给游戏打低分 平均分在4~5左右
+Dialogue: 2,2:23:18.74,2:23:25.61,辉英,,0,0,0,,and those people tended to rate the game very negatively, averaging around a 4 to 5.
+Dialogue: 1,2:23:25.61,2:23:29.04,辉中,,0,0,0,,而打通了整个游戏的玩家
+Dialogue: 2,2:23:25.61,2:23:29.04,辉英,,0,0,0,,However, of the people that played the game all the way through,
+Dialogue: 1,2:23:29.04,2:23:33.28,辉中,,0,0,0,,给游戏的打分多数在8~9分
+Dialogue: 2,2:23:29.04,2:23:33.28,辉英,,0,0,0,,the majority of them rated the game in the range of an 8 to 9.
+Dialogue: 1,2:23:33.28,2:23:35.90,辉中,,0,0,0,,结论看起来还是很明显的
+Dialogue: 2,2:23:33.28,2:23:35.90,辉英,,0,0,0,,Seems to be the conclusion is fairly clear.
+Dialogue: 1,2:23:35.90,2:23:39.36,辉中,,0,0,0,,那些给这个游戏证明自己的机会的玩家
+Dialogue: 2,2:23:35.90,2:23:39.36,辉英,,0,0,0,,Those that gave the game the chance to prove itself to them
+Dialogue: 1,2:23:39.36,2:23:42.77,辉中,,0,0,0,,通关后还是很享受这款游戏的
+Dialogue: 2,2:23:39.36,2:23:42.77,辉英,,0,0,0,,ended up enjoying it once they experienced the whole thing.
+Dialogue: 1,2:23:42.77,2:23:45.01,辉中,,0,0,0,,而那些决定中途放弃这款游戏的玩家
+Dialogue: 2,2:23:42.77,2:23:45.01,辉英,,0,0,0,,Whereas those that decided to cut and run
+Dialogue: 1,2:23:45.01,2:23:48.44,辉中,,0,0,0,,游戏体验就和正常做事半途而废的体验一样
+Dialogue: 2,2:23:45.01,2:23:48.44,辉英,,0,0,0,,had the experience that you would expect from somebody who cuts and runs.
+Dialogue: 1,2:23:48.44,2:23:50.09,辉中,,0,0,0,,就这么简单
+Dialogue: 2,2:23:48.44,2:23:50.09,辉英,,0,0,0,,It really is that simple.
+Dialogue: 1,2:23:50.09,2:23:55.31,辉中,,0,0,0,,玩家需要给游戏一个证明自己的机会
+Dialogue: 2,2:23:50.09,2:23:55.31,辉英,,0,0,0,,You have to give a game like this the chance to do its job.
+Dialogue: 1,2:23:55.31,2:23:59.42,辉中,,0,0,0,,游戏正在做的是说服你 你所恨的这个角色
+Dialogue: 2,2:23:55.31,2:23:59.42,辉英,,0,0,0,,What they're trying to do is convince you that a character you hate
+Dialogue: 1,2:23:59.42,2:24:03.34,辉中,,0,0,0,,是一个有血有肉、有真情实感的活生生的人
+Dialogue: 2,2:23:59.42,2:24:03.34,辉英,,0,0,0,,is actually a human being that has feelings and emotions
+Dialogue: 1,2:24:03.34,2:24:08.06,辉中,,0,0,0,,和你会觉得有亲和力的角色一样
+Dialogue: 2,2:24:03.34,2:24:08.06,辉英,,0,0,0,,that are perhaps just as justified as the character you'd find relatable.
+Dialogue: 1,2:24:08.06,2:24:12.98,辉中,,0,0,0,,这个论点并不是在短短一两个小时的游戏过程中提出的
+Dialogue: 2,2:24:08.06,2:24:12.98,辉英,,0,0,0,,That argument isn't made over the course of an hour gameplay sequence.
+Dialogue: 1,2:24:12.98,2:24:16.43,辉中,,0,0,0,,这需要时间 需要很多努力
+Dialogue: 2,2:24:12.98,2:24:16.43,辉英,,0,0,0,,It takes time and it takes a lot of effort.
+Dialogue: 1,2:24:16.43,2:24:20.63,辉中,,0,0,0,,更重要的是 还需要玩家开放的心态
+Dialogue: 2,2:24:16.43,2:24:20.63,辉英,,0,0,0,,And more than anything, it takes the open mind of the observer.
+Dialogue: 1,2:24:20.63,2:24:23.44,辉中,,0,0,0,,听起来有点像很多玩家都说的那样
+Dialogue: 2,2:24:20.63,2:24:23.44,辉英,,0,0,0,,It may seem like a cliche for many people to say
+Dialogue: 1,2:24:23.44,2:24:27.32,辉中,,0,0,0,,“你看你玩一半就弃坑了 就说你不喜欢这游戏
+Dialogue: 2,2:24:23.44,2:24:27.32,辉英,,0,0,0,,"Well, if you didn't like TLOU2 when you quit halfway through,
+Dialogue: 1,2:24:27.32,2:24:30.14,辉中,,0,0,0,,那说明你没玩到点上 你就永远不会喜欢这个游戏”
+Dialogue: 2,2:24:27.32,2:24:30.14,辉英,,0,0,0,,you just didn't get it, and you were never going to like it".
+Dialogue: 1,2:24:30.14,2:24:32.99,辉中,,0,0,0,,然而 我认为这里面有相当多的道理
+Dialogue: 2,2:24:30.14,2:24:32.99,辉英,,0,0,0,,However, I think there is a fair amount of truth in that.
+Dialogue: 1,2:24:32.99,2:24:34.76,辉中,,0,0,0,,但我也说不好 欢迎大家讨论
+Dialogue: 2,2:24:32.99,2:24:34.76,辉英,,0,0,0,,But I don't know, let me know what you think.
+Dialogue: 1,2:24:34.76,2:24:41.30,辉中,,0,0,0,,但我能说的是 当我一周目玩到这里的时候 我真的感觉身心俱疲
+Dialogue: 2,2:24:34.76,2:24:41.30,辉英,,0,0,0,,What I do know is that at this point, in my first run of the game, I was highly exhausted.
+Dialogue: 1,2:24:41.30,2:24:47.96,辉中,,0,0,0,,游玩埃比的部分需要相当大的精力 无论是心理上还是肉体上
+Dialogue: 2,2:24:41.30,2:24:47.96,辉英,,0,0,0,,Abby Sequences required a lot of effort, both emotionally and physically, to get through.
+Dialogue: 1,2:24:47.96,2:24:50.99,辉中,,0,0,0,,伴随着精神的高度紧张 和各种血腥厮杀
+Dialogue: 2,2:24:47.96,2:24:50.99,辉英,,0,0,0,,With the emotional tension and all of the gore,
+Dialogue: 1,2:24:50.99,2:24:54.98,辉中,,0,0,0,,这段10-15小时的游玩内容真的很令人疲惫
+Dialogue: 2,2:24:50.99,2:24:54.98,辉英,,0,0,0,,it's an exhausting 10 to 15 hours of game play to get through.
+Dialogue: 1,2:24:54.98,2:25:01.10,辉中,,0,0,0,,而且说实话 我玩到埃比章节的时候甚至也考虑过要不要休息一下
+Dialogue: 2,2:24:54.98,2:25:01.10,辉英,,0,0,0,,And I will be honest, even I considered taking a break before continuing on with Abby sequences.
+Dialogue: 1,2:25:01.10,2:25:05.78,辉中,,0,0,0,,但我还是决定埋头继续玩 给游戏一个它想要证明自己的机会
+Dialogue: 2,2:25:01.10,2:25:05.78,辉英,,0,0,0,,But I decided to put my head down and give the game the chance that it was asking for.
+Dialogue: 1,2:25:05.78,2:25:09.65,辉中,,0,0,0,,总之 我们开始操控埃比了
+Dialogue: 2,2:25:05.78,2:25:09.65,辉英,,0,0,0,,But regardless, this is the time when we begin playing as Abby.
+Dialogue: 1,2:25:09.65,2:25:14.13,辉中,,0,0,0,,节奏变了 态度变了 语气也变了
+Dialogue: 2,2:25:09.65,2:25:14.13,辉英,,0,0,0,,The pace changes, the attitude changes, the tone changes.
+Dialogue: 1,2:25:14.13,2:25:19.52,辉中,,0,0,0,,更广泛地讲 角色的行为风格也完全变了
+Dialogue: 2,2:25:14.13,2:25:19.52,辉英,,0,0,0,,And more broadly, even the style of character work changes.
+Dialogue: 1,2:25:19.52,2:25:25.01,辉中,,0,0,0,,在许多方面 无论是好是坏 都会让玩家感觉这是一个完全不同的游戏
+Dialogue: 2,2:25:19.52,2:25:25.01,辉英,,0,0,0,,In many ways, it's going to feel like a different game entirely both for better and worse.
+Dialogue: 1,2:25:25.01,2:25:27.29,辉中,,0,0,0,,但不要担心 我们会深入了解这一切
+Dialogue: 2,2:25:25.01,2:25:27.29,辉英,,0,0,0,,But don't worry, we're going to get into all of it.
+Dialogue: 1,2:25:27.29,2:25:28.62,辉中,,0,0,0,,西雅图 第1天
+Dialogue: 2,2:25:27.29,2:25:28.62,辉英,,0,0,0,,Seattle Day 1,
+Dialogue: 1,2:25:28.62,2:25:31.64,辉中,,0,0,0,,埃比醒来 游戏下半场开始
+Dialogue: 2,2:25:28.62,2:25:31.64,辉英,,0,0,0,,Abby wakes up and we begin the second half of the game
+Dialogue: 1,2:25:31.64,2:25:35.87,辉中,,0,0,0,,玩家操控这位大多数人眼中的反面角色
+Dialogue: 2,2:25:31.64,2:25:35.87,辉英,,0,0,0,,playing as who most of us will consider to be the antagonist.
+Dialogue: 1,2:25:35.87,2:25:38.99,辉中,,0,0,0,,然而这样的评价可能会在游戏结束后有所改变
+Dialogue: 2,2:25:35.87,2:25:38.99,辉英,,0,0,0,,However, this might change by the time we get to the end.
+Dialogue: 1,2:25:38.99,2:25:42.29,辉中,,0,0,0,,当然整个游戏都需要从不同角度去讲的
+Dialogue: 2,2:25:38.99,2:25:42.29,辉英,,0,0,0,,This whole game is, of course, about perspective in relativism,
+Dialogue: 1,2:25:42.29,2:25:44.78,辉中,,0,0,0,,在这方面游戏做得相对简单
+Dialogue: 2,2:25:42.29,2:25:44.78,辉英,,0,0,0,,and to that extent it works fairly simply.
+Dialogue: 1,2:25:44.78,2:25:46.96,辉中,,0,0,0,,游戏强迫玩家操控埃比
+Dialogue: 2,2:25:44.78,2:25:46.96,辉英,,0,0,0,,We're going to be forced to play as Abby
+Dialogue: 1,2:25:46.96,2:25:53.75,辉中,,0,0,0,,至少到玩家开始喜欢这个角色 甚至爱上这个角色
+Dialogue: 2,2:25:46.96,2:25:53.75,辉英,,0,0,0,,at least until we either start to enjoy her as a character like her or even love her,
+Dialogue: 1,2:25:53.75,2:25:57.80,辉中,,0,0,0,,或者最少是让玩家忘记之前有多恨她
+Dialogue: 2,2:25:53.75,2:25:57.80,辉英,,0,0,0,,or at the very least, until we forget how much we hate her.
 Dialogue: 1,2:25:57.80,2:25:59.18,辉中,,0,0,0,,这样的转变不能一蹴而就
 Dialogue: 2,2:25:57.80,2:25:59.18,辉英,,0,0,0,,It's not going to happen instantly,
 Dialogue: 1,2:25:59.18,2:26:02.78,辉中,,0,0,0,,而是需要8-12小时的游戏内容去慢慢渗透
@@ -4291,168 +4360,351 @@ Dialogue: 1,2:26:17.66,2:26:21.32,辉中,,0,0,0,,你恨这些人 他们杀死了
 Dialogue: 2,2:26:17.66,2:26:21.32,辉英,,0,0,0,,You hate these people, these people killed Joel.
 Dialogue: 1,2:26:21.32,2:26:26.76,辉中,,0,0,0,,为什么他们跟没事人一样吃得下饭睡得着觉
 Dialogue: 2,2:26:21.32,2:26:26.76,辉英,,0,0,0,,Why are they so normal, and why do they seem so happy and relaxed.
-Dialogue: 1,2:26:26.76,2:26:32.09,辉中,,0,0,0,,You explore the WLF base where their station, which is actually built out of a stadium.
-Dialogue: 1,2:26:32.09,2:26:33.80,辉中,,0,0,0,,You're preparing to go out on a mission,
-Dialogue: 1,2:26:33.80,2:26:38.81,辉中,,0,0,0,,and so naturally you grab guns, a burrito and play fetch with a dog.
-Dialogue: 1,2:26:49.25,2:26:53.21,辉中,,0,0,0,,Now Mel is going with Abby and Manny on this patrol.
-Dialogue: 1,2:26:53.21,2:26:57.57,辉中,,0,0,0,,Of course, this is the same girl that we just saw Ellie kill.
-Dialogue: 1,2:26:57.57,2:27:00.14,辉中,,0,0,0,,Once again, it's a little surreal.
-Dialogue: 1,2:27:00.14,2:27:04.79,辉中,,0,0,0,,You just saw this woman get murdered, and Ellie freak out as a result,
-Dialogue: 1,2:27:04.79,2:27:10.73,辉中,,0,0,0,,and you also know that Abby freaked out as a result of Ellie's actions towards Mel and Owen,
-Dialogue: 1,2:27:10.73,2:27:16.73,辉中,,0,0,0,,so to see her seemingly fine in this particular instance, is a little startling.
-Dialogue: 1,2:27:16.73,2:27:20.28,辉中,,0,0,0,,Nonetheless, Abby and Manny debate for a brief moment
-Dialogue: 1,2:27:20.28,2:27:22.55,辉中,,0,0,0,,as to whether or not Mel should be allowed to go with them.
-Dialogue: 1,2:27:22.55,2:27:26.39,辉中,,0,0,0,,After all, she's pretty damn pregnant, as you can probably see.
-Dialogue: 1,2:27:26.39,2:27:29.54,辉中,,0,0,0,,But they dismiss it because they don't expect to see any action there
-Dialogue: 1,2:27:29.54,2:27:31.73,辉中,,0,0,0,,basically just going to go on a quick patrol,
-Dialogue: 1,2:27:31.73,2:27:34.25,辉中,,0,0,0,,make sure that there's nothing to concerning out there,
-Dialogue: 1,2:27:34.25,2:27:36.38,辉中,,0,0,0,,and if there is, they're going to call in support,
-Dialogue: 1,2:27:36.38,2:27:39.35,辉中,,0,0,0,,at which point it wouldn't actually matter that Mel is there.
-Dialogue: 1,2:27:39.35,2:27:44.40,辉中,,0,0,0,,In my opinion, it's still a stupid decision to bring what is a very pregnant woman
-Dialogue: 1,2:27:44.40,2:27:49.52,辉中,,0,0,0,,on what is effectively a military mission to scout out the surrounding area.
-Dialogue: 1,2:27:50.54,2:27:53.45,辉中,,0,0,0,,But that's just me, and it's actually Abby too.
-Dialogue: 1,2:27:53.45,2:27:59.07,辉中,,0,0,0,,At the end of this sequence, Abby actually gives me any crap for having brought Mel along
-Dialogue: 1,2:27:59.07,2:28:02.93,辉中,,0,0,0,,and says that she definitely should never have been allowed to come in the first place.
-Dialogue: 1,2:28:02.93,2:28:06.60,辉中,,0,0,0,,But nonetheless, they allowed her to go, from the outset.
-Dialogue: 1,2:28:06.60,2:28:12.26,辉中,,0,0,0,,Now, while speaking of Mel, the fact that she's pregnant and we just saw her get murdered by Ellie,
-Dialogue: 1,2:28:12.26,2:28:15.20,辉中,,0,0,0,,I think it's also important that we addressed the elephant in the room
-Dialogue: 1,2:28:15.20,2:28:17.99,辉中,,0,0,0,,that some have said actually ruins the game.
-Dialogue: 1,2:28:17.99,2:28:23.24,辉中,,0,0,0,,That is that knowing what's going to happen removes all of the stakes in the story.
-Dialogue: 1,2:28:23.24,2:28:28.57,辉中,,0,0,0,,After Ellie's whole half of the game, we know that most of these characters are going to die.
-Dialogue: 1,2:28:28.57,2:28:32.89,辉中,,0,0,0,,And more importantly, we know how they're going to die and when they're going to die.
-Dialogue: 1,2:28:32.89,2:28:39.17,辉中,,0,0,0,,And so going through these sequences where we're trying to protect them or do things with and for them,
-Dialogue: 1,2:28:39.17,2:28:43.01,辉中,,0,0,0,,it removes a lot of the tension, since we know how it's all going to end.
-Dialogue: 1,2:28:43.01,2:28:46.94,辉中,,0,0,0,,However, I strongly disagree with this idea.
-Dialogue: 1,2:28:46.94,2:28:53.03,辉中,,0,0,0,,There are countless stories where the conclusion is known before the story even really begins.
-Dialogue: 1,2:28:53.03,2:28:57.05,辉中,,0,0,0,,You could look at something as simple and kitschy as the movie Titanic,
-Dialogue: 1,2:28:57.05,2:29:02.48,辉中,,0,0,0,,a fascinating film about an albeit cheesy and captivating romance.
-Dialogue: 1,2:29:02.48,2:29:06.59,辉中,,0,0,0,,But at its core, we all know how that story is going to end.
-Dialogue: 1,2:29:06.59,2:29:10.55,辉中,,0,0,0,,The Titanic is not magically going to make it back to New York,
-Dialogue: 1,2:29:10.55,2:29:15.14,辉中,,0,0,0,,but rather it's going down and many people are going to die.
-Dialogue: 1,2:29:15.14,2:29:18.35,辉中,,0,0,0,,But it's still an interesting and captivating story
-Dialogue: 1,2:29:18.35,2:29:22.33,辉中,,0,0,0,,because it's not actually about the destination that the story reaches.
-Dialogue: 1,2:29:22.33,2:29:24.86,辉中,,0,0,0,,It's about the journey to that destination.
+Dialogue: 1,2:26:26.76,2:26:32.09,辉中,,0,0,0,,玩家探索WLF的基地 这里其实是由一个体育场改造而来的
+Dialogue: 2,2:26:26.76,2:26:32.09,辉英,,0,0,0,,You explore the WLF base where their station, which is actually built out of a stadium.
+Dialogue: 1,2:26:32.09,2:26:33.80,辉中,,0,0,0,,你准备出去执行任务
+Dialogue: 2,2:26:32.09,2:26:33.80,辉英,,0,0,0,,You're preparing to go out on a mission,
+Dialogue: 1,2:26:33.80,2:26:38.81,辉中,,0,0,0,,所以自然要去拿枪 之前还吃了点卷饼 和狗狗玩了一会
+Dialogue: 2,2:26:33.80,2:26:38.81,辉英,,0,0,0,,and so naturally you grab guns, a burrito and play fetch with a dog.
+Dialogue: 1,2:26:39.92,2:26:42.93,辉中 Script,,0,0,0,,埃比：好吧，既然你这么问了……
+Dialogue: 2,2:26:39.92,2:26:42.93,辉英 Script,,0,0,0,,Yeah, okay, since you ask so nicely…
+Dialogue: 1,2:26:43.36,2:26:44.66,辉中 Script,,0,0,0,,把球捡回来！
+Dialogue: 2,2:26:43.36,2:26:44.66,辉英 Script,,0,0,0,,Get the ball!
+Dialogue: 1,2:26:47.34,2:26:49.14,辉中 Script,,0,0,0,,对不起，伙计。是我的错。
+Dialogue: 2,2:26:47.34,2:26:49.14,辉英 Script,,0,0,0,,Sorry buddy. My bad.
+Dialogue: 1,2:26:49.25,2:26:53.21,辉中,,0,0,0,,现在 梅尔要和埃比、曼尼一起出去巡逻
+Dialogue: 2,2:26:49.25,2:26:53.21,辉英,,0,0,0,,Now Mel is going with Abby and Manny on this patrol.
+Dialogue: 1,2:26:53.21,2:26:57.57,辉中,,0,0,0,,没错 这就是刚刚艾莉杀死的那个女的
+Dialogue: 2,2:26:53.21,2:26:57.57,辉英,,0,0,0,,Of course, this is the same girl that we just saw Ellie kill.
+Dialogue: 1,2:26:57.57,2:27:00.14,辉中,,0,0,0,,那种奇妙感觉又来了
+Dialogue: 2,2:26:57.57,2:27:00.14,辉英,,0,0,0,,Once again, it's a little surreal.
+Dialogue: 1,2:27:00.14,2:27:04.79,辉中,,0,0,0,,你刚刚还看到这个女的遇害 而艾莉也精神近乎崩溃
+Dialogue: 2,2:27:00.14,2:27:04.79,辉英,,0,0,0,,You just saw this woman get murdered, and Ellie freak out as a result,
+Dialogue: 1,2:27:04.79,2:27:10.73,辉中,,0,0,0,,而埃比也因艾莉对梅尔和欧文的残忍行为而近乎崩溃
+Dialogue: 2,2:27:04.79,2:27:10.73,辉英,,0,0,0,,and you also know that Abby freaked out as a result of Ellie's actions towards Mel and Owen,
+Dialogue: 1,2:27:10.73,2:27:16.73,辉中,,0,0,0,,所以在这里看到她活蹦乱跳的 感觉有点怪
+Dialogue: 2,2:27:10.73,2:27:16.73,辉英,,0,0,0,,so to see her seemingly fine in this particular instance, is a little startling.
+Dialogue: 1,2:27:16.73,2:27:20.28,辉中,,0,0,0,,埃比还和曼尼就梅尔应不应该一起和他们巡逻的事情争论了一会
+Dialogue: 2,2:27:16.73,2:27:20.28,辉英,,0,0,0,,Nonetheless, Abby and Manny debate for a brief moment
+Dialogue: 1,2:27:20.28,2:27:22.55,辉中,,0,0,0,,埃比还和曼尼就梅尔应不应该一起和他们巡逻的事情争论了一会
+Dialogue: 2,2:27:20.28,2:27:22.55,辉英,,0,0,0,,as to whether or not Mel should be allowed to go with them.
+Dialogue: 1,2:27:22.55,2:27:26.39,辉中,,0,0,0,,毕竟大家都看到她挺着大肚子
+Dialogue: 2,2:27:22.55,2:27:26.39,辉英,,0,0,0,,After all, she's pretty damn pregnant, as you can probably see.
+Dialogue: 1,2:27:26.39,2:27:29.36,辉中,,0,0,0,,但也没太在意 因为他们感觉不会出什么事
+Dialogue: 2,2:27:26.39,2:27:29.36,辉英,,0,0,0,,But they dismiss it because they don't expect to see any action.
+Dialogue: 1,2:27:29.36,2:27:31.73,辉中,,0,0,0,,毕竟他们只是出去快速巡逻一下
+Dialogue: 2,2:27:29.36,2:27:31.73,辉英,,0,0,0,,They're basically just going to go on a quick patrol,
+Dialogue: 1,2:27:31.73,2:27:34.25,辉中,,0,0,0,,保证外面没有什么让人担心的事情
+Dialogue: 2,2:27:31.73,2:27:34.25,辉英,,0,0,0,,make sure that there's nothing to concerning out there,
+Dialogue: 1,2:27:34.25,2:27:36.38,辉中,,0,0,0,,有的话呼叫增援就好了
+Dialogue: 2,2:27:34.25,2:27:36.38,辉英,,0,0,0,,and if there is, they're going to call in support,
+Dialogue: 1,2:27:36.38,2:27:39.35,辉中,,0,0,0,,到那时梅尔在不在也无妨
+Dialogue: 2,2:27:36.38,2:27:39.35,辉英,,0,0,0,,at which point it wouldn't actually matter that Mel is there.
+Dialogue: 1,2:27:39.35,2:27:44.40,辉中,,0,0,0,,但我个人认为 带着这样一个身怀六甲的孕妇
+Dialogue: 2,2:27:39.35,2:27:44.40,辉英,,0,0,0,,In my opinion, it's still a stupid decision to bring what is a very pregnant woman
+Dialogue: 1,2:27:44.40,2:27:49.52,辉中,,0,0,0,,参加一场外出巡逻的军事行动仍然是很蠢的行为
+Dialogue: 2,2:27:44.40,2:27:49.52,辉英,,0,0,0,,on what is effectively a military mission to scout out the surrounding area.
+Dialogue: 1,2:27:50.54,2:27:53.45,辉中,,0,0,0,,但可能只有我和埃比这样认为罢
+Dialogue: 2,2:27:50.54,2:27:53.45,辉英,,0,0,0,,But that's just me, and it's actually Abby too.
+Dialogue: 1,2:27:53.45,2:27:59.07,辉中,,0,0,0,,这段场景结束埃比还跟曼尼说不应该带梅尔来的
+Dialogue: 2,2:27:53.45,2:27:59.07,辉英,,0,0,0,,At the end of this sequence, Abby actually gives Manny crap for having brought Mel along
+Dialogue: 1,2:27:59.07,2:28:02.93,辉中,,0,0,0,,还说从最开始就不应该允许她参加这次巡逻
+Dialogue: 2,2:27:59.07,2:28:02.93,辉英,,0,0,0,,and says that she definitely should never have been allowed to come in the first place.
+Dialogue: 1,2:28:02.93,2:28:06.60,辉中,,0,0,0,,但总之还是允许她来了
+Dialogue: 2,2:28:02.93,2:28:06.60,辉英,,0,0,0,,But nonetheless, they allowed her to go, from the outset.
+Dialogue: 1,2:28:06.60,2:28:12.26,辉中,,0,0,0,,现在既然说到梅尔 我们也知道她怀孕了 我们刚刚也看到她被艾莉杀害了
+Dialogue: 2,2:28:06.60,2:28:12.26,辉英,,0,0,0,,Now, while speaking of Mel, the fact that she's pregnant and we just saw her get murdered by Ellie,
+Dialogue: 1,2:28:12.26,2:28:15.20,辉中,,0,0,0,,我觉得有必要聊聊一个大家早已知道的问题
+Dialogue: 2,2:28:12.26,2:28:15.20,辉英,,0,0,0,,I think it's also important that we addressed the elephant in the room
+Dialogue: 1,2:28:15.20,2:28:17.99,辉中,,0,0,0,,就是有人认为这样安排毁了这场游戏
+Dialogue: 2,2:28:15.20,2:28:17.99,辉英,,0,0,0,,that some have said actually ruins the game.
+Dialogue: 1,2:28:17.99,2:28:23.24,辉中,,0,0,0,,即玩家此时已经知道了结局 所以感觉剧情没味了
+Dialogue: 2,2:28:17.99,2:28:23.24,辉英,,0,0,0,,That is that knowing what's going to happen removes all of the stakes in the story.
+Dialogue: 1,2:28:23.24,2:28:28.57,辉中,,0,0,0,,在玩过艾莉线后 我们知道这里很多角色最后会死
+Dialogue: 2,2:28:23.24,2:28:28.57,辉英,,0,0,0,,After Ellie's whole half of the game, we know that most of these characters are going to die.
+Dialogue: 1,2:28:28.57,2:28:32.89,辉中,,0,0,0,,而且更重要的是 我们会知道这些角色是什么时候 怎么死的
+Dialogue: 2,2:28:28.57,2:28:32.89,辉英,,0,0,0,,And more importantly, we know how they're going to die and when they're going to die.
+Dialogue: 1,2:28:32.89,2:28:39.17,辉中,,0,0,0,,因此这些玩家试图保护他们或与他们一起经历的情节
+Dialogue: 2,2:28:32.89,2:28:39.17,辉英,,0,0,0,,And so going through these sequences where we're trying to protect them or do things with and for them,
+Dialogue: 1,2:28:39.17,2:28:43.01,辉中,,0,0,0,,会少了很多紧张感 因为我们都知道结局如何
+Dialogue: 2,2:28:39.17,2:28:43.01,辉英,,0,0,0,,it removes a lot of the tension, since we know how it's all going to end.
+Dialogue: 1,2:28:43.01,2:28:46.94,辉中,,0,0,0,,然而 我对这样的观点表示强烈不同意
+Dialogue: 2,2:28:43.01,2:28:46.94,辉英,,0,0,0,,However, I strongly disagree with this idea.
+Dialogue: 1,2:28:46.94,2:28:53.03,辉中,,0,0,0,,在已知结果的情况下 中间的故事会有无数种可能
+Dialogue: 2,2:28:46.94,2:28:53.03,辉英,,0,0,0,,There are countless stories where the conclusion is known before the story even really begins.
+Dialogue: 1,2:28:53.03,2:28:57.05,辉中,,0,0,0,,大家可以看看那些简单而刻奇的电影 比如《泰坦尼克号》
+Dialogue: 2,2:28:53.03,2:28:57.05,辉英,,0,0,0,,You could look at something as simple and kitschy as the movie Titanic,
+Dialogue: 1,2:28:57.05,2:29:02.48,辉中,,0,0,0,,这是一部很俗但又很迷人的爱情电影
+Dialogue: 2,2:28:57.05,2:29:02.48,辉英,,0,0,0,,a fascinating film about an albeit cheesy and captivating romance.
+Dialogue: 1,2:29:02.48,2:29:06.59,辉中,,0,0,0,,就其核心而言 我们都知道故事结局如何
+Dialogue: 2,2:29:02.48,2:29:06.59,辉英,,0,0,0,,But at its core, we all know how that story is going to end.
+Dialogue: 1,2:29:06.59,2:29:10.55,辉中,,0,0,0,,泰坦尼克不可能像变魔术一样回到纽约
+Dialogue: 2,2:29:06.59,2:29:10.55,辉英,,0,0,0,,The Titanic is not magically going to make it back to New York,
+Dialogue: 1,2:29:10.55,2:29:15.14,辉中,,0,0,0,,而是会和很多人的生命一同沉入大洋
+Dialogue: 2,2:29:10.55,2:29:15.14,辉英,,0,0,0,,but rather it's going down and many people are going to die.
+Dialogue: 1,2:29:15.14,2:29:18.35,辉中,,0,0,0,,但它仍然是一个有趣而吸引人的故事
+Dialogue: 2,2:29:15.14,2:29:18.35,辉英,,0,0,0,,But it's still an interesting and captivating story
+Dialogue: 1,2:29:18.35,2:29:22.33,辉中,,0,0,0,,因为重要的不是故事的结果如何
+Dialogue: 2,2:29:18.35,2:29:22.33,辉英,,0,0,0,,because it's not actually about the destination that the story reaches.
+Dialogue: 1,2:29:22.33,2:29:24.86,辉中,,0,0,0,,而是通往这个结果的过程
+Dialogue: 2,2:29:22.33,2:29:24.86,辉英,,0,0,0,,It's about the journey to that destination.
 Dialogue: 1,2:29:24.86,2:29:28.88,辉中,,0,0,0,,或者另一个游戏中的例子是2018年的《战神》
 Dialogue: 2,2:29:24.86,2:29:28.88,辉英,,0,0,0,,Or in a gaming example, we could look at God of War from 2018.
 Dialogue: 1,2:29:28.88,2:29:34.20,辉中,,0,0,0,,我们从游戏一开始就已经知道游戏结局是奎托斯和阿特柔斯
 Dialogue: 2,2:29:28.88,2:29:34.20,辉英,,0,0,0,,We know from the beginning of the game that the story is going to end with Kratos and Atreus
 Dialogue: 1,2:29:34.20,2:29:38.04,辉中,,0,0,0,,将菲的骨灰撒在九界最高峰
 Dialogue: 2,2:29:34.20,2:29:38.04,辉英,,0,0,0,,spreading Faye's ashes from the highest peak in the realms.
-Dialogue: 1,2:29:38.04,2:29:40.49,辉中,,0,0,0,,We know the ending from the start.
-Dialogue: 1,2:29:40.49,2:29:45.76,辉中,,0,0,0,,and yet the story is still captivating because it's not just about reaching that destination.
-Dialogue: 1,2:29:45.76,2:29:48.65,辉中,,0,0,0,,Again, to me this seems fairly obvious,
-Dialogue: 1,2:29:48.65,2:29:55.68,辉中,,0,0,0,,but it is actually a pretty common accusation against stories that have presumed endings.
-Dialogue: 1,2:29:55.68,2:29:58.64,辉中,,0,0,0,,In my mind, if you're going to allow a story to be ruined,
-Dialogue: 1,2:29:58.64,2:30:03.41,辉中,,0,0,0,,Simply because you know how the characters are going to end up at the end of that story,
-Dialogue: 1,2:30:03.41,2:30:09.56,辉中,,0,0,0,,you're not actually engaging and absorbing the media in the correct,
-Dialogue: 1,2:30:09.56,2:30:11.63,辉中,,0,0,0,,or at the very least, most effective way.
-Dialogue: 1,2:30:11.63,2:30:16.76,辉中,,0,0,0,,Regardless, Abby leaves on the back of a truck out on patrol with Manny, and Mel
-Dialogue: 1,2:30:16.76,2:30:19.63,辉中,,0,0,0,,and of course, the dog, Alice.
-Dialogue: 1,2:30:19.63,2:30:24.10,辉中,,0,0,0,,Remember, I said, that that dog that we found in the aquarium earlier that
-Dialogue: 1,2:30:24.10,2:30:26.84,辉中,,0,0,0,,Ellie actually stabs the crap out of
-Dialogue: 1,2:30:26.84,2:30:31.28,辉中,,0,0,0,,would come back again well… yeah, this… this is actually the same dog.
-Dialogue: 1,2:30:31.28,2:30:36.67,辉中,,0,0,0,,It's Alice, and she's cute and lovable, and Ellie kills the crap out of her.
-Dialogue: 1,2:30:36.67,2:30:38.63,辉中,,0,0,0,,Abby and Mel talk about how they're doing.
-Dialogue: 1,2:30:38.63,2:30:43.76,辉中,,0,0,0,,Apparently everybody's been struggling with sleep ever since they killed Joel in Jackson.
-Dialogue: 1,2:30:43.76,2:30:49.02,辉中,,0,0,0,,Abby and Owen are also going out on countless open assignments trying to keep busy
-Dialogue: 1,2:30:49.02,2:30:52.52,辉中,,0,0,0,,and exhaust themselves to the point where they don't have to think about what they've done.
-Dialogue: 1,2:30:52.52,2:30:54.72,辉中,,0,0,0,,These are hardened militaristic people
-Dialogue: 1,2:30:54.72,2:30:58.82,辉中,,0,0,0,,and the fact that they're so torn up over what they did to Joel.
-Dialogue: 1,2:30:58.82,2:31:00.03,辉中,,0,0,0,,It's interesting.
-Dialogue: 1,2:31:00.03,2:31:03.88,辉中,,0,0,0,,Because at the very least, it shows that they were somewhat distressed by what they did
-Dialogue: 1,2:31:03.88,2:31:05.75,辉中,,0,0,0,,and perhaps even some of them regretted.
-Dialogue: 1,2:31:05.75,2:31:10.70,辉中,,0,0,0,,This is the first step towards humanizing these people that you wanted to villainize from the start.
-Dialogue: 1,2:31:10.70,2:31:12.89,辉中,,0,0,0,,It's subtle, but it works.
-Dialogue: 1,2:31:12.89,2:31:17.66,辉中,,0,0,0,,It also breaks the perception that Abby and the crew are simply cold blooded killers.
-Dialogue: 1,2:31:17.66,2:31:20.30,辉中,,0,0,0,,They're humans, and yeah, they do so messed up stuff.
-Dialogue: 1,2:31:20.30,2:31:24.56,辉中,,0,0,0,,But some of them can feel regret over something that they felt was unjust.
-Dialogue: 1,2:31:24.56,2:31:27.23,辉中,,0,0,0,,Or at the very least, a bad choice.
-Dialogue: 1,2:31:27.23,2:31:32.93,辉中,,0,0,0,,However, this gets interrupted by a group of Seraphites, ambushing the group on horseback.
-Dialogue: 1,2:31:32.93,2:31:35.45,辉中,,0,0,0,,I personally hate these sequences.
-Dialogue: 1,2:31:35.45,2:31:41.48,辉中,,0,0,0,,The aiming is awkward, the damage feels unfair, and often it's just generally awkward.
-Dialogue: 1,2:31:41.48,2:31:43.37,辉中,,0,0,0,,If we compare it to other car sequences,
-Dialogue: 1,2:31:43.37,2:31:48.65,辉中,,0,0,0,,like the one earlier with Jesse traveling all the way down into the river.
-Dialogue: 1,2:31:48.65,2:31:50.84,辉中,,0,0,0,,It's not quite the same.
-Dialogue: 1,2:31:50.84,2:31:55.62,辉中,,0,0,0,,The one with Ellie and Jesse is very scripted from start to finish
-Dialogue: 1,2:31:55.62,2:31:58.40,辉中,,0,0,0,,and feels fair because it's so heavily scripted.
-Dialogue: 1,2:31:58.40,2:32:00.89,辉中,,0,0,0,,The player doesn't actually have that much agency.
-Dialogue: 1,2:32:00.89,2:32:06.92,辉中,,0,0,0,,However, if you don't do anything in this car sequence when you're ambushed by the Seraphites
-Dialogue: 1,2:32:06.92,2:32:09.88,辉中,,0,0,0,,you're going to be killed and have to reload.
-Dialogue: 1,2:32:09.88,2:32:14.75,辉中,,0,0,0,,So you have to be actively engaging with the game in its most awkward state,
-Dialogue: 1,2:32:14.75,2:32:20.72,辉中,,0,0,0,,which to me means that its subject and worthy of criticism since you're forced to engage with it.
-Dialogue: 1,2:32:20.72,2:32:23.72,辉中,,0,0,0,,Now, Abby and her group eventually get to safety.
-Dialogue: 1,2:32:23.72,2:32:25.61,辉中,,0,0,0,,You push through several different buildings,
-Dialogue: 1,2:32:25.61,2:32:30.29,辉中,,0,0,0,,and after fighting through multiple waves of infected and more Seraphites,
-Dialogue: 1,2:32:30.29,2:32:35.18,辉中,,0,0,0,,you find yourself in a gas station being ambushed by yet another wave of Seraphites.
-Dialogue: 1,2:32:35.18,2:32:37.49,辉中,,0,0,0,,Now a lot of this just feels like bloat.
-Dialogue: 1,2:32:37.49,2:32:39.26,辉中,,0,0,0,,And when we're talking about pacing,
-Dialogue: 1,2:32:39.26,2:32:44.93,辉中,,0,0,0,,that's the last thing that you want to be thinking when going through this stage of the game,
-Dialogue: 1,2:32:44.93,2:32:50.06,辉中,,0,0,0,,players need to be more engaged than they have been in the entire game to this point.
-Dialogue: 1,2:32:50.06,2:32:55.37,辉中,,0,0,0,,But I think most people are going to start to feel bored because it just feels like more of the same.
-Dialogue: 1,2:32:55.37,2:32:57.29,辉中,,0,0,0,,有一些轻佻有趣的时刻
+Dialogue: 1,2:29:38.04,2:29:40.49,辉中,,0,0,0,,我们从一开始就知道结局如何
+Dialogue: 2,2:29:38.04,2:29:40.49,辉英,,0,0,0,,We know the ending from the start.
+Dialogue: 1,2:29:40.49,2:29:45.76,辉中,,0,0,0,,而故事仍然很吸引人 因为重要的不只是结局
+Dialogue: 2,2:29:40.49,2:29:45.76,辉英,,0,0,0,,and yet the story is still captivating because it's not just about reaching that destination.
+Dialogue: 1,2:29:45.76,2:29:48.65,辉中,,0,0,0,,所以我觉得这是明摆着的事情
+Dialogue: 2,2:29:45.76,2:29:48.65,辉英,,0,0,0,,Again, to me this seems fairly obvious,
+Dialogue: 1,2:29:48.65,2:29:55.68,辉中,,0,0,0,,但实际上对这种已知结局的故事的批判总是不少
+Dialogue: 2,2:29:48.65,2:29:55.68,辉英,,0,0,0,,but it is actually a pretty common accusation against stories that have presumed endings.
+Dialogue: 1,2:29:55.68,2:29:58.64,辉中,,0,0,0,,在我个人看来 如果你觉得一个故事被毁了
+Dialogue: 2,2:29:55.68,2:29:58.64,辉英,,0,0,0,,In my mind, if you're going to allow a story to be ruined,
+Dialogue: 1,2:29:58.64,2:30:03.41,辉中,,0,0,0,,仅仅是因为你知道了角色在故事最终会怎样
+Dialogue: 2,2:29:58.64,2:30:03.41,辉英,,0,0,0,,simply because you know how the characters are going to end up at the end of that story,
+Dialogue: 1,2:30:03.41,2:30:11.63,辉中,,0,0,0,,那我认为你实际上并没有以一种正确 或者至少是最有效的方式去和游戏互动
+Dialogue: 2,2:30:03.41,2:30:09.56,辉英,,0,0,0,,you're not actually engaging and absorbing the media in the correct,
+Dialogue: 2,2:30:09.56,2:30:11.63,辉英,,0,0,0,,or at the very least, most effective way.
+Dialogue: 1,2:30:11.63,2:30:19.63,辉中,,0,0,0,,回到游戏 埃比和曼尼、梅尔 当然还有那条叫爱丽丝的狗一起上了卡车后座
+Dialogue: 2,2:30:11.63,2:30:16.76,辉英,,0,0,0,,Regardless, Abby leaves on the back of a truck out on patrol with Manny, and Mel
+Dialogue: 2,2:30:16.76,2:30:19.63,辉英,,0,0,0,,and of course, the dog, Alice.
+Dialogue: 1,2:30:19.63,2:30:28.01,辉中,,0,0,0,,还记得我说艾莉在水族馆捅死的那条很快还会出现的狗吗
+Dialogue: 2,2:30:19.63,2:30:24.10,辉英,,0,0,0,,Remember, I said, that that dog that we found in the aquarium earlier that
+Dialogue: 2,2:30:24.10,2:30:28.01,辉英,,0,0,0,,Ellie actually stabs the crap out of would come back again
+Dialogue: 1,2:30:28.01,2:30:31.28,辉中,,0,0,0,,呃……没错 就是这条
+Dialogue: 2,2:30:28.01,2:30:31.28,辉英,,0,0,0,,well… yeah, this… this is actually the same dog.
+Dialogue: 1,2:30:31.28,2:30:36.67,辉中,,0,0,0,,它名叫爱丽丝 贼可爱 最后被艾莉捅死了
+Dialogue: 2,2:30:31.28,2:30:36.67,辉英,,0,0,0,,It's Alice, and she's cute and lovable, and Ellie kills the crap out of her.
+Dialogue: 1,2:30:36.67,2:30:38.63,辉中,,0,0,0,,埃比和梅尔聊了聊日常
+Dialogue: 2,2:30:36.67,2:30:38.63,辉英,,0,0,0,,Abby and Mel talk about how they're doing.
+Dialogue: 1,2:30:38.63,2:30:43.76,辉中,,0,0,0,,显然大家在杰克逊杀死乔尔之后都睡不好觉
+Dialogue: 2,2:30:38.63,2:30:43.76,辉英,,0,0,0,,Apparently everybody's been struggling with sleep ever since they killed Joel in Jackson.
+Dialogue: 1,2:30:43.76,2:30:49.02,辉中,,0,0,0,,埃比和欧文不停接外出巡逻的活 想让自己忙起来
+Dialogue: 2,2:30:43.76,2:30:49.02,辉英,,0,0,0,,Abby and Owen are also going out on countless open assignments trying to keep busy
+Dialogue: 1,2:30:49.02,2:30:52.52,辉中,,0,0,0,,忙到让自己没工夫去想自己做过的坏事
+Dialogue: 2,2:30:49.02,2:30:52.52,辉英,,0,0,0,,and exhaust themselves to the point where they don't have to think about what they've done.
+Dialogue: 1,2:30:52.52,2:30:54.72,辉中,,0,0,0,,这些可是受过军事训练的人
+Dialogue: 2,2:30:52.52,2:30:54.72,辉英,,0,0,0,,These are hardened militaristic people
+Dialogue: 1,2:30:54.72,2:30:58.82,辉中,,0,0,0,,但他们却为自己对乔尔的所作所为感到无法释怀
+Dialogue: 2,2:30:54.72,2:30:58.82,辉英,,0,0,0,,and the fact that they're so torn up over what they did to Joel.
+Dialogue: 1,2:30:58.82,2:31:00.03,辉中,,0,0,0,,这很有趣
+Dialogue: 2,2:30:58.82,2:31:00.03,辉英,,0,0,0,,It's interesting.
+Dialogue: 1,2:31:00.03,2:31:03.88,辉中,,0,0,0,,因为至少表明他们对自己所作所为有些苦恼
+Dialogue: 2,2:31:00.03,2:31:03.88,辉英,,0,0,0,,Because at the very least, it shows that they were somewhat distressed by what they did
+Dialogue: 1,2:31:03.88,2:31:05.75,辉中,,0,0,0,,甚至可能有点后悔
+Dialogue: 2,2:31:03.88,2:31:05.75,辉英,,0,0,0,,and perhaps even some of them regretted.
+Dialogue: 1,2:31:05.75,2:31:10.70,辉中,,0,0,0,,这是使这些你一开始认为是反派的人展现其人性一面的第一步
+Dialogue: 2,2:31:05.75,2:31:10.70,辉英,,0,0,0,,This is the first step towards humanizing these people that you wanted to villainize from the start.
+Dialogue: 1,2:31:10.70,2:31:12.89,辉中,,0,0,0,,很微妙 但很有用
+Dialogue: 2,2:31:10.70,2:31:12.89,辉英,,0,0,0,,It's subtle, but it works.
+Dialogue: 1,2:31:12.89,2:31:17.66,辉中,,0,0,0,,它还打破了人们对埃比及其成员只是冷血杀手的看法
+Dialogue: 2,2:31:12.89,2:31:17.66,辉英,,0,0,0,,It also breaks the perception that Abby and the crew are simply cold blooded killers.
+Dialogue: 1,2:31:17.66,2:31:20.30,辉中,,0,0,0,,他们是活生生的人 也会搞砸一些事情
+Dialogue: 2,2:31:17.66,2:31:20.30,辉英,,0,0,0,,They're humans, and yeah, they do so messed up stuff.
+Dialogue: 1,2:31:20.30,2:31:24.56,辉中,,0,0,0,,而他们会为一些不公平的事情感觉到后悔
+Dialogue: 2,2:31:20.30,2:31:24.56,辉英,,0,0,0,,But some of them can feel regret over something that they felt was unjust.
+Dialogue: 1,2:31:24.56,2:31:27.23,辉中,,0,0,0,,或者至少认为自己做了错误的选择
+Dialogue: 2,2:31:24.56,2:31:27.23,辉英,,0,0,0,,Or at the very least, a bad choice.
+Dialogue: 1,2:31:27.23,2:31:32.93,辉中,,0,0,0,,然而这段对话被一群骑马搞伏击的赛拉菲特帮打断了
+Dialogue: 2,2:31:27.23,2:31:32.93,辉英,,0,0,0,,However, this gets interrupted by a group of Seraphites, ambushing the group on horseback.
+Dialogue: 1,2:31:32.93,2:31:35.45,辉中,,0,0,0,,我个人挺讨厌这些战斗的
+Dialogue: 2,2:31:32.93,2:31:35.45,辉英,,0,0,0,,I personally hate these sequences.
+Dialogue: 1,2:31:35.45,2:31:41.48,辉中,,0,0,0,,瞄准很蹩脚 伤害也感觉不合理 简单来说就是不好对付
+Dialogue: 2,2:31:35.45,2:31:41.48,辉英,,0,0,0,,The aiming is awkward, the damage feels unfair, and often it's just generally awkward.
+Dialogue: 1,2:31:41.48,2:31:43.37,辉中,,0,0,0,,如果对比其他汽车战
+Dialogue: 2,2:31:41.48,2:31:43.37,辉英,,0,0,0,,If we compare it to other car sequences,
+Dialogue: 1,2:31:43.37,2:31:48.65,辉中,,0,0,0,,比如之前和杰西把车开河里那段
+Dialogue: 2,2:31:43.37,2:31:48.65,辉英,,0,0,0,,like the one earlier with Jesse traveling all the way down into the river.
+Dialogue: 1,2:31:48.65,2:31:50.84,辉中,,0,0,0,,会发现两者是不太一样的
+Dialogue: 2,2:31:48.65,2:31:50.84,辉英,,0,0,0,,It's not quite the same.
+Dialogue: 1,2:31:50.84,2:31:55.62,辉中,,0,0,0,,艾莉和杰西的那场从头到尾都有很多脚本参与
+Dialogue: 2,2:31:50.84,2:31:55.62,辉英,,0,0,0,,The one with Ellie and Jesse is very scripted from start to finish
+Dialogue: 1,2:31:55.62,2:31:58.40,辉中,,0,0,0,,因为脚本成分很重 让游戏感觉很公平
+Dialogue: 2,2:31:55.62,2:31:58.40,辉英,,0,0,0,,and feels fair because it's so heavily scripted.
+Dialogue: 1,2:31:58.40,2:32:00.89,辉中,,0,0,0,,玩家并不需要太多操作
+Dialogue: 2,2:31:58.40,2:32:00.89,辉英,,0,0,0,,The player doesn't actually have that much agency.
+Dialogue: 1,2:32:00.89,2:32:06.92,辉中,,0,0,0,,但如果在这场被赛拉菲特帮伏击的汽车战中你什么都不做的话
+Dialogue: 2,2:32:00.89,2:32:06.92,辉英,,0,0,0,,However, if you don't do anything in this car sequence when you're ambushed by the Seraphites
+Dialogue: 1,2:32:06.92,2:32:09.88,辉中,,0,0,0,,那你就会被打死 然后重新读档
+Dialogue: 2,2:32:06.92,2:32:09.88,辉英,,0,0,0,,you're going to be killed and have to reload.
+Dialogue: 1,2:32:09.88,2:32:14.75,辉中,,0,0,0,,所以你必须进行这种蹩脚的游戏操作
+Dialogue: 2,2:32:09.88,2:32:14.75,辉英,,0,0,0,,So you have to be actively engaging with the game in its most awkward state,
+Dialogue: 1,2:32:14.75,2:32:20.72,辉中,,0,0,0,,而对我来说 既然这种操作是被迫的 那我觉得就是一个值得批评的点
+Dialogue: 2,2:32:14.75,2:32:20.72,辉英,,0,0,0,,which to me means that it's subject and worthy of criticism since you're forced to engage with it.
+Dialogue: 1,2:32:20.72,2:32:23.72,辉中,,0,0,0,,现在 埃比一行人终于到达安全地带
+Dialogue: 2,2:32:20.72,2:32:23.72,辉英,,0,0,0,,Now, Abby and her group eventually get to safety.
+Dialogue: 1,2:32:23.72,2:32:25.61,辉中,,0,0,0,,你们穿过几座建筑
+Dialogue: 2,2:32:23.72,2:32:25.61,辉英,,0,0,0,,You push through several different buildings,
+Dialogue: 1,2:32:25.61,2:32:30.29,辉中,,0,0,0,,解决掉几波感染者和赛拉菲特帮
+Dialogue: 2,2:32:25.61,2:32:30.29,辉英,,0,0,0,,and after fighting through multiple waves of infected and more Seraphites,
+Dialogue: 1,2:32:30.29,2:32:35.18,辉中,,0,0,0,,来到了一座加油站 发现自己又被另一波赛拉菲特帮伏击了
+Dialogue: 2,2:32:30.29,2:32:35.18,辉英,,0,0,0,,you find yourself in a gas station being ambushed by yet another wave of Seraphites.
+Dialogue: 1,2:32:35.18,2:32:37.49,辉中,,0,0,0,,我现在就感觉这些东西很臃肿
+Dialogue: 2,2:32:35.18,2:32:37.49,辉英,,0,0,0,,Now a lot of this just feels like bloat.
+Dialogue: 1,2:32:37.49,2:32:39.26,辉中,,0,0,0,,而当我们谈论游戏节奏的时候
+Dialogue: 2,2:32:37.49,2:32:39.26,辉英,,0,0,0,,And when we're talking about pacing,
+Dialogue: 1,2:32:39.26,2:32:44.93,辉中,,0,0,0,,这样的臃肿是你在经历游戏这个阶段时最不想遇到的事情
+Dialogue: 2,2:32:39.26,2:32:44.93,辉英,,0,0,0,,that's the last thing that you want to be thinking when going through this stage of the game,
+Dialogue: 1,2:32:44.93,2:32:50.06,辉中,,0,0,0,,玩家此时需要比他们在整个游戏中到此为止还要更高的参与度
+Dialogue: 2,2:32:44.93,2:32:50.06,辉英,,0,0,0,,players need to be more engaged than they have been in the entire game to this point.
+Dialogue: 1,2:32:50.06,2:32:55.37,辉中,,0,0,0,,但我认为大多数人到这都会开始感到厌烦 因为它只是更多重复的东西
+Dialogue: 2,2:32:50.06,2:32:55.37,辉英,,0,0,0,,But I think most people are going to start to feel bored because it just feels like more of the same.
+Dialogue: 1,2:32:55.37,2:32:57.29,辉中,,0,0,0,,的确有一些轻佻有趣的时刻
 Dialogue: 2,2:32:55.37,2:32:57.29,辉英,,0,0,0,,There are some interesting moments of levity,
 Dialogue: 1,2:32:57.29,2:33:01.10,辉中,,0,0,0,,也有一些令角色展现人性一面的时刻
 Dialogue: 2,2:32:57.29,2:33:01.10,辉英,,0,0,0,,and there are moments where these characters are actually humanized a lot,
-Dialogue: 1,2:33:01.10,2:33:04.73,辉中,,0,0,0,,这或许是游戏这段内容的更重要的意义
+Dialogue: 1,2:33:01.10,2:33:04.73,辉中,,0,0,0,,而这或许才是游戏这段内容中更有用的东西
 Dialogue: 2,2:33:01.10,2:33:04.73,辉英,,0,0,0,,which is perhaps more the point of this section of the game.
-Dialogue: 1,2:33:04.73,2:33:07.37,辉中,,0,0,0,,It's not really about keeping the player super engaged,
-Dialogue: 1,2:33:07.37,2:33:12.23,辉中,,0,0,0,,it's about making sure that the player starts to relate to these people that they previously hated.
-Dialogue: 1,2:33:12.23,2:33:18.17,辉中,,0,0,0,,I know it's a lot to ask that we get both an interesting game play sequence that keeps the player engaged
-Dialogue: 1,2:33:18.17,2:33:20.99,辉中,,0,0,0,,and humanizing sequences with these characters.
-Dialogue: 1,2:33:20.99,2:33:24.62,辉中,,0,0,0,,But nonetheless, I wish that there were something a little bit more engaging.
-Dialogue: 1,2:33:24.62,2:33:28.94,辉中,,0,0,0,,My favorite part is probably when Abby is discussing her fear of heights with Mel.
-Dialogue: 1,2:33:28.94,2:33:32.39,辉中,,0,0,0,,It's a small moment, and it's something that could be easily missed,
-Dialogue: 1,2:33:32.39,2:33:34.25,辉中,,0,0,0,,but I actually find it really endearing.
-Dialogue: 1,2:34:01.58,2:34:05.33,辉中,,0,0,0,,Once you hit the gas station and after a shoot out in a rail yard,
-Dialogue: 1,2:34:05.33,2:34:06.98,辉中,,0,0,0,,a crew of WLF members,
-Dialogue: 1,2:34:06.98,2:34:10.73,辉中,,0,0,0,,presumably alerted by the assault that happened just a few minutes before,
-Dialogue: 1,2:34:10.73,2:34:12.32,辉中,,0,0,0,,come in and save the day,
-Dialogue: 1,2:34:12.32,2:34:15.41,辉中,,0,0,0,,killing all of the Seraphites that we're about to get the jump on you.
-Dialogue: 1,2:34:15.41,2:34:19.53,辉中,,0,0,0,,And so you're all rescued, and you brought to the forward base as it's called.
-Dialogue: 1,2:34:19.53,2:34:23.69,辉中,,0,0,0,,Mel goes to get patched up while Abby and Manny go into see Isaac.
-Dialogue: 1,2:34:23.69,2:34:26.27,辉中,,0,0,0,,Finally, we're going to get to meet the head honcho,
-Dialogue: 1,2:34:26.27,2:34:27.98,辉中,,0,0,0,,the guy that we've been hearing all about
-Dialogue: 1,2:34:27.98,2:34:33.51,辉中,,0,0,0,,for the last 12 or so hours of gameplay since Ellie got to Seattle.
-Dialogue: 1,2:34:33.51,2:34:36.23,辉中,,0,0,0,,On the way up to see Isaac Abby and Manny are told
-Dialogue: 1,2:34:36.23,2:34:39.86,辉中,,0,0,0,,that Owen was actually off with another member of the squad,
-Dialogue: 1,2:34:39.86,2:34:45.89,辉中,,0,0,0,,and that he shot that guy, Danny in order to save quote unquote "some Scar".
-Dialogue: 1,2:34:45.89,2:34:50.48,辉中,,0,0,0,,Needless to say, this could lead to a death sentence for Owen if proven true,
-Dialogue: 1,2:34:50.48,2:34:52.43,辉中,,0,0,0,,we don't really know what exactly happened.
-Dialogue: 1,2:34:52.43,2:34:55.90,辉中,,0,0,0,,But if Owen did actually kill a WLF member
-Dialogue: 1,2:34:55.90,2:35:01.04,辉中,,0,0,0,,simply to save what's considered a barbarian pest on their people,
-Dialogue: 1,2:35:01.04,2:35:03.08,辉中,,0,0,0,,It ain't good end a pretty bad for Owen.
-Dialogue: 1,2:35:03.08,2:35:05.88,辉中,,0,0,0,,And so Abby and Manny head up to talk with Issac
-Dialogue: 1,2:35:05.88,2:35:10.85,辉中,,0,0,0,,and Isaac probably has the most badass introduction of any character in this game.
-Dialogue: 1,2:36:00.47,2:36:03.24,辉中,,0,0,0,,Now Isaac doesn't want them to go and save Owen
-Dialogue: 1,2:36:03.24,2:36:08.03,辉中,,0,0,0,,because they are revving up for some big assault on the scars, and he can't spare them.
-Dialogue: 1,2:36:08.03,2:36:13.04,辉中,,0,0,0,,Abby says "Screw it" and they go after him anyways, because why not?
-Dialogue: 1,2:36:13.04,2:36:14.27,辉中,,0,0,0,,Now there's two things about this.
-Dialogue: 1,2:36:14.27,2:36:18.34,辉中,,0,0,0,,For one, Abby leaving the group to go and find Owen
-Dialogue: 1,2:36:18.34,2:36:22.46,辉中,,0,0,0,,explains why she seems to have gone AWOL in all of those sequences,
-Dialogue: 1,2:36:22.46,2:36:25.25,辉中,,0,0,0,,when Ellie was trying to figure out what was going on;
-Dialogue: 1,2:36:25.25,2:36:27.62,辉中,,0,0,0,,and why Abby was not with the rest of the group.
-Dialogue: 1,2:36:27.62,2:36:30.73,辉中,,0,0,0,,The WLF were upset with her and wanted to hunt her down
-Dialogue: 1,2:36:30.73,2:36:34.19,辉中,,0,0,0,,because she went AWOL and disobeyed Isaacs orders.
-Dialogue: 1,2:36:34.19,2:36:37.22,辉中,,0,0,0,,This, of course, doesn't mean that she's not a threat to Ellie,
-Dialogue: 1,2:36:37.22,2:36:42.56,辉中,,0,0,0,,but it does mean that she's not as interested in simply pursuing the goals
-Dialogue: 1,2:36:42.56,2:36:47.19,辉中,,0,0,0,,and hopes and aspirations of the WLF as Ellie perhaps initially thought.
-Dialogue: 1,2:36:47.19,2:36:49.08,辉中,,0,0,0,,Abby is much more of an individual,
-Dialogue: 1,2:36:49.08,2:36:53.06,辉中,,0,0,0,,and perhaps that's even something that Ellie and Abby have in common.
-Dialogue: 1,2:36:53.06,2:36:57.76,辉中,,0,0,0,,The other thing about this is that it seems relatively easy for Abby to go AWOL
-Dialogue: 1,2:36:57.76,2:37:00.35,辉中,,0,0,0,,and disobey direct orders like this.
-Dialogue: 1,2:37:00.35,2:37:02.96,辉中,,0,0,0,,Maybe it's just that she's particularly capable,
-Dialogue: 1,2:37:02.96,2:37:05.96,辉中,,0,0,0,,and so she was able to sneak out with any major issue.
-Dialogue: 1,2:37:05.96,2:37:09.02,辉中,,0,0,0,,But she also doesn't seem particularly threatened by Isaac,
-Dialogue: 1,2:37:09.02,2:37:14.51,辉中,,0,0,0,,which is strange considering that our introduction to him is of him torturing a guy.
-Dialogue: 1,2:37:14.51,2:37:18.59,辉中,,0,0,0,,So whether its hubris or simply a lack of consideration,
-Dialogue: 1,2:37:18.59,2:37:22.31,辉中,,0,0,0,,Abby breaks out and decides to go find Owen herself.
-Dialogue: 1,2:37:22.31,2:37:25.67,辉中,,0,0,0,,Her hope, of course, being that she's going to be able to save Owen
-Dialogue: 1,2:37:25.67,2:37:29.33,辉中,,0,0,0,,and figure something out before the big raid on the Seraphites
-Dialogue: 1,2:37:29.33,2:37:32.00,辉中,,0,0,0,,so that she's never realized to have gone missing.
-Dialogue: 1,2:37:32.00,2:37:37.30,辉中,,0,0,0,,We then have a quick cutaway where we go to a short date between Abby and Owen.
-Dialogue: 1,2:37:37.30,2:37:40.49,辉中,,0,0,0,,They're on a Ferris wheel, and it's actually super cute.
-Dialogue: 1,2:37:40.49,2:37:43.19,辉中,,0,0,0,,Once again we see that Abby is terrified of heights,
-Dialogue: 1,2:37:43.19,2:37:49.46,辉中,,0,0,0,,and it's again a humanizing moment to see her chilling with Owen and also freaked out.
+Dialogue: 1,2:33:04.73,2:33:07.37,辉中,,0,0,0,,这并不是真的要让玩家超级投入
+Dialogue: 2,2:33:04.73,2:33:07.37,辉英,,0,0,0,,It's not really about keeping the player super engaged,
+Dialogue: 1,2:33:07.37,2:33:12.23,辉中,,0,0,0,,而是要确保玩家慢慢开始与这些他们之前讨厌的人产生情感上的联系
+Dialogue: 2,2:33:07.37,2:33:12.23,辉英,,0,0,0,,it's about making sure that the player starts to relate to these people that they previously hated.
+Dialogue: 1,2:33:12.23,2:33:18.17,辉中,,0,0,0,,我知道要求我们既要有有趣的游戏内容 让玩家参与其中
+Dialogue: 2,2:33:12.23,2:33:18.17,辉英,,0,0,0,,I know it's a lot to ask that we get both an interesting game play sequence that keeps the player engaged
+Dialogue: 1,2:33:18.17,2:33:20.99,辉中,,0,0,0,,又要让玩家感受到这些角色人性的一面是很难的
+Dialogue: 2,2:33:18.17,2:33:20.99,辉英,,0,0,0,,and humanizing sequences with these characters.
+Dialogue: 1,2:33:20.99,2:33:24.62,辉中,,0,0,0,,但尽管如此 我仍然希望能有一些更吸引人的东西
+Dialogue: 2,2:33:20.99,2:33:24.62,辉英,,0,0,0,,But nonetheless, I wish that there were something a little bit more engaging.
+Dialogue: 1,2:33:24.62,2:33:28.94,辉中,,0,0,0,,我最喜欢的部分可能是埃比与梅尔讨论她恐高症的时候
+Dialogue: 2,2:33:24.62,2:33:28.94,辉英,,0,0,0,,My favorite part is probably when Abby is discussing her fear of heights with Mel.
+Dialogue: 1,2:33:28.94,2:33:32.39,辉中,,0,0,0,,这是一个很短 很容易被忽略的时刻
+Dialogue: 2,2:33:28.94,2:33:32.39,辉英,,0,0,0,,It's a small moment, and it's something that could be easily missed,
+Dialogue: 1,2:33:32.39,2:33:34.25,辉中,,0,0,0,,但我觉得真的很有爱
+Dialogue: 2,2:33:32.39,2:33:34.25,辉英,,0,0,0,,but I actually find it really endearing.
+Dialogue: 1,2:33:35.70,2:33:38.31,辉中 Script,,0,0,0,,梅尔：真难想象你也有怕的东西。
+Dialogue: 2,2:33:35.70,2:33:38.31,辉英 Script,,0,0,0,,Mel: It's kind of hard to imagine you being afraid of anything.
+Dialogue: 1,2:33:38.31,2:33:40.55,辉中 Script,,0,0,0,,埃比：我不是你以为的那么无所畏惧。
+Dialogue: 2,2:33:38.31,2:33:40.55,辉英 Script,,0,0,0,,Abby: I'm not as fearless as you think.
+Dialogue: 1,2:33:40.55,2:33:41.64,辉中 Script,,0,0,0,,梅尔：哦，最好是……
+Dialogue: 2,2:33:40.55,2:33:41.64,辉英 Script,,0,0,0,,Mel: Oh please.
+Dialogue: 1,2:33:41.64,2:33:44.76,辉中 Script,,0,0,0,,埃比：比如我永远无法像你一样做手术。
+Dialogue: 2,2:33:41.64,2:33:44.76,辉英 Script,,0,0,0,,Abby: Like I could never do the surgery stuff you do.
+Dialogue: 1,2:33:44.76,2:33:47.30,辉中 Script,,0,0,0,,如果搞砸了，我会很抓狂。
+Dialogue: 2,2:33:44.76,2:33:47.30,辉英 Script,,0,0,0,,I'd be too freaked out about fucking it up.
+Dialogue: 1,2:33:47.59,2:33:49.76,辉中 Script,,0,0,0,,梅尔：你以为我不是这样吗？
+Dialogue: 2,2:33:47.59,2:33:49.76,辉英 Script,,0,0,0,,Mel: You think I don't feel the same way?
+Dialogue: 1,2:33:49.76,2:33:53.96,辉中 Script,,0,0,0,,埃比：不管怎样，我爸总说你是他最好的学生。
+Dialogue: 2,2:33:49.76,2:33:53.96,辉英 Script,,0,0,0,,Abby: Well, for what it's worth my dad always said you were his best student.
+Dialogue: 1,2:33:54.35,2:33:55.47,辉中 Script,,0,0,0,,梅尔：真的？
+Dialogue: 2,2:33:54.35,2:33:55.47,辉英 Script,,0,0,0,,Mel: He did?
+Dialogue: 1,2:33:55.92,2:33:59.26,辉中 Script,,0,0,0,,你总是说他是个笨蛋。
+Dialogue: 2,2:33:55.92,2:33:59.26,辉英 Script,,0,0,0,,Well… you always said he was an idiot.
+Dialogue: 1,2:34:00.04,2:34:00.91,辉中 Script,,0,0,0,,得了。
+Dialogue: 2,2:34:00.04,2:34:00.91,辉英 Script,,0,0,0,,C'mon.
+Dialogue: 1,2:34:01.58,2:34:05.33,辉中,,0,0,0,,在铁路线和加油站的一番混战过后
+Dialogue: 2,2:34:01.58,2:34:05.33,辉英,,0,0,0,,Once you at the gas station and after a shoot out in a rail yard,
+Dialogue: 1,2:34:05.33,2:34:06.98,辉中,,0,0,0,,一队WLF士兵
+Dialogue: 2,2:34:05.33,2:34:06.98,辉英,,0,0,0,,a crew of WLF members,
+Dialogue: 1,2:34:06.98,2:34:10.73,辉中,,0,0,0,,可能是被几分钟之前的伏击引起的警报吸引过来的一队
+Dialogue: 2,2:34:06.98,2:34:10.73,辉英,,0,0,0,,presumably alerted by the assault that happened just a few minutes before,
+Dialogue: 1,2:34:10.73,2:34:12.32,辉中,,0,0,0,,来到现场拯救了大家
+Dialogue: 2,2:34:10.73,2:34:12.32,辉英,,0,0,0,,come in and save the day,
+Dialogue: 1,2:34:12.32,2:34:15.41,辉中,,0,0,0,,解决了所有攻击你们小队的赛拉菲特帮
+Dialogue: 2,2:34:12.32,2:34:15.41,辉英,,0,0,0,,killing all of the Seraphites that we're about to get the jump on you.
+Dialogue: 1,2:34:15.41,2:34:19.53,辉中,,0,0,0,,你们都脱困了 并且一起去了所谓的前线基地
+Dialogue: 2,2:34:15.41,2:34:19.53,辉英,,0,0,0,,And so you're all rescued, and you brought to the forward base as it's called.
+Dialogue: 1,2:34:19.53,2:34:23.69,辉中,,0,0,0,,梅尔去处理伤口 埃比和曼尼去见伊萨克
+Dialogue: 2,2:34:19.53,2:34:23.69,辉英,,0,0,0,,Mel goes to get patched up while Abby and Manny go into see Isaac.
+Dialogue: 1,2:34:23.69,2:34:26.27,辉中,,0,0,0,,我们终于能见到这位老大了
+Dialogue: 2,2:34:23.69,2:34:26.27,辉英,,0,0,0,,Finally, we're going to get to meet the head honcho,
+Dialogue: 1,2:34:26.27,2:34:33.51,辉中,,0,0,0,,这位自从艾莉到西雅图以后在游戏中听了能有12小时的幕后大佬
+Dialogue: 2,2:34:26.27,2:34:27.98,辉英,,0,0,0,,the guy that we've been hearing all about
+Dialogue: 2,2:34:27.98,2:34:33.51,辉英,,0,0,0,,for the last 12 or so hours of gameplay since Ellie got to Seattle.
+Dialogue: 1,2:34:33.51,2:34:36.23,辉中,,0,0,0,,在去见伊萨克的路上 埃比和曼尼听说
+Dialogue: 2,2:34:33.51,2:34:36.23,辉英,,0,0,0,,On the way up to see Isaac Abby and Manny are told
+Dialogue: 1,2:34:36.23,2:34:39.86,辉中,,0,0,0,,欧文和另一个小队分开了
+Dialogue: 2,2:34:36.23,2:34:39.86,辉英,,0,0,0,,that Owen was actually off with another member of the squad,
+Dialogue: 1,2:34:39.86,2:34:45.89,辉中,,0,0,0,,而他开枪打死的人——丹尼说欧文是为了保护“某位疤脸帮”
+Dialogue: 2,2:34:39.86,2:34:45.89,辉英,,0,0,0,,and that he shot that guy, Danny in order to save quote unquote "some Scar".
+Dialogue: 1,2:34:45.89,2:34:50.48,辉中,,0,0,0,,不用说也知道 一旦此事被证实 那欧文无疑会被判死刑
+Dialogue: 2,2:34:45.89,2:34:50.48,辉英,,0,0,0,,Needless to say, this could lead to a death sentence for Owen if proven true.
+Dialogue: 1,2:34:50.48,2:34:52.43,辉中,,0,0,0,,我们不知道到底发生了什么
+Dialogue: 2,2:34:50.48,2:34:52.43,辉英,,0,0,0,,We don't really know what exactly happened.
+Dialogue: 1,2:34:52.43,2:35:01.04,辉中,,0,0,0,,但如果欧文真的只是为了他们眼中的野蛮人害虫就杀死了一名WLF士兵
+Dialogue: 2,2:34:52.43,2:34:55.90,辉英,,0,0,0,,But if Owen did actually kill a WLF member
+Dialogue: 2,2:34:55.90,2:35:01.04,辉英,,0,0,0,,simply to save what's considered a barbarian pest on their people,
+Dialogue: 1,2:35:01.04,2:35:03.08,辉中,,0,0,0,,那一定会对欧文很不利
+Dialogue: 2,2:35:01.04,2:35:03.08,辉英,,0,0,0,,It ain't good end a pretty bad for Owen.
+Dialogue: 1,2:35:03.08,2:35:05.88,辉中,,0,0,0,,所以埃比和曼尼想去见伊萨克
+Dialogue: 2,2:35:03.08,2:35:05.88,辉英,,0,0,0,,And so Abby and Manny head up to talk with Issac
+Dialogue: 1,2:35:05.88,2:35:10.69,辉中,,0,0,0,,而伊萨克可能是整个游戏里登场方式看上去最邪恶的角色了
+Dialogue: 2,2:35:05.88,2:35:10.69,辉英,,0,0,0,,and Isaac probably has the most badass introduction of any character in this game.
+Dialogue: 1,2:35:10.31,2:35:10.78,辉中 Script,,0,0,0,,WLF士兵：诶，埃比。
+Dialogue: 1,2:35:10.78,2:35:12.05,辉中 Script,,0,0,0,,埃比：我们要上去。
+Dialogue: 1,2:35:12.05,2:35:13.45,辉中 Script,,0,0,0,,WLF士兵：伊萨克在那里面。
+Dialogue: 1,2:35:13.45,2:35:15.55,辉中 Script,,0,0,0,,埃比：哦。
+Dialogue: 1,2:35:15.55,2:35:18.05,辉中 Script,,0,0,0,,你知道他还要多久吗？
+Dialogue: 1,2:35:18.61,2:35:21.35,辉中 Script,,0,0,0,,WLF士兵：他说等你们到了就叫他。来吧。
+Dialogue: 1,2:35:34.50,2:35:37.00,辉中 Script,,0,0,0,,长官。埃比和曼尼到了。
+Dialogue: 1,2:35:50.11,2:35:51.68,辉中 Script,,0,0,0,,伊萨克：别让他睡着。
+Dialogue: 1,2:35:51.68,2:35:54.05,辉中 Script,,0,0,0,,WLF士兵：遵命。
+Dialogue: 1,2:35:54.05,2:35:56.56,辉中 Script,,0,0,0,,伊萨克：我们上楼。
+Dialogue: 1,2:36:00.47,2:36:03.24,辉中,,0,0,0,,现在伊萨克并不像让他们去救欧文
+Dialogue: 2,2:36:00.47,2:36:03.24,辉英,,0,0,0,,Now Isaac doesn't want them to go and save Owen
+Dialogue: 1,2:36:03.24,2:36:08.03,辉中,,0,0,0,,因为WLF正在组织一场对疤脸帮的进攻 他需要人手
+Dialogue: 2,2:36:03.24,2:36:08.03,辉英,,0,0,0,,because they are revving up for some big assault on the Scars, and he can't spare them.
+Dialogue: 1,2:36:08.03,2:36:11.17,辉中,,0,0,0,,埃比说了句“去他的吧” 然后就去找欧文了
+Dialogue: 2,2:36:08.03,2:36:11.17,辉英,,0,0,0,,Abby says "Screw it" and they go after him anyways,
+Dialogue: 1,2:36:11.17,2:36:13.04,辉中,,0,0,0,,要不然……没法演了啊
+Dialogue: 2,2:36:11.17,2:36:13.04,辉英,,0,0,0,,because why not?
+Dialogue: 1,2:36:13.04,2:36:14.27,辉中,,0,0,0,,我要说的有两点
+Dialogue: 2,2:36:13.04,2:36:14.27,辉英,,0,0,0,,Now there's two things about this.
+Dialogue: 1,2:36:14.27,2:36:18.34,辉中,,0,0,0,,一方面 埃比留下其他人 自己去找欧文
+Dialogue: 2,2:36:14.27,2:36:18.34,辉英,,0,0,0,,For one, Abby leaving the group to go and find Owen
+Dialogue: 1,2:36:18.34,2:36:22.46,辉中,,0,0,0,,解释了为什么之前很多地方里艾莉寻找埃比的时候
+Dialogue: 2,2:36:18.34,2:36:22.46,辉英,,0,0,0,,explains why she seems to have gone AWOL in all of those sequences,
+Dialogue: 1,2:36:22.46,2:36:25.25,辉中,,0,0,0,,埃比看起来总是擅离职守
+Dialogue: 2,2:36:22.46,2:36:25.25,辉英,,0,0,0,,when Ellie was trying to figure out what was going on;
+Dialogue: 1,2:36:25.25,2:36:27.62,辉中,,0,0,0,,也解释了为什么埃比没和团队其他人在一起
+Dialogue: 2,2:36:25.25,2:36:27.62,辉英,,0,0,0,,and why Abby was not with the rest of the group.
+Dialogue: 1,2:36:27.62,2:36:30.73,辉中,,0,0,0,,WLF方面对她很不满 想要追捕她
+Dialogue: 2,2:36:27.62,2:36:30.73,辉英,,0,0,0,,The WLF were upset with her and wanted to hunt her down
+Dialogue: 1,2:36:30.73,2:36:34.19,辉中,,0,0,0,,因为她擅离职守 违抗伊萨克的命令
+Dialogue: 2,2:36:30.73,2:36:34.19,辉英,,0,0,0,,because she went AWOL and disobeyed Isaac's orders.
+Dialogue: 1,2:36:34.19,2:36:37.22,辉中,,0,0,0,,这当然不代表她就不是艾莉的威胁了
+Dialogue: 2,2:36:34.19,2:36:37.22,辉英,,0,0,0,,This, of course, doesn't mean that she's not a threat to Ellie,
+Dialogue: 1,2:36:37.22,2:36:42.56,辉中,,0,0,0,,但却能说明她对单纯追求WLF的目标和愿望并不像艾莉最初想象的那样感兴趣
+Dialogue: 2,2:36:37.22,2:36:42.56,辉英,,0,0,0,,but it does mean that she's not as interested in simply pursuing the goals
+Dialogue: 1,2:36:42.56,2:36:47.19,辉中,,0,0,0,,但却能说明她对单纯追求WLF的目标和愿望并不像艾莉最初想象的那样感兴趣
+Dialogue: 2,2:36:42.56,2:36:47.19,辉英,,0,0,0,,and hopes and aspirations of the WLF as Ellie perhaps initially thought.
+Dialogue: 1,2:36:47.19,2:36:49.08,辉中,,0,0,0,,埃比更像是一个独立的个体
+Dialogue: 2,2:36:47.19,2:36:49.08,辉英,,0,0,0,,Abby is much more of an individual,
+Dialogue: 1,2:36:49.08,2:36:53.06,辉中,,0,0,0,,这甚至还是埃比和艾莉的共同点
+Dialogue: 2,2:36:49.08,2:36:53.06,辉英,,0,0,0,,and perhaps that's even something that Ellie and Abby have in common.
+Dialogue: 1,2:36:53.06,2:36:57.76,辉中,,0,0,0,,另一方面 埃比看起来好像很轻松就能擅离职守
+Dialogue: 2,2:36:53.06,2:36:57.76,辉英,,0,0,0,,The other thing about this is that it seems relatively easy for Abby to go AWOL
+Dialogue: 1,2:36:57.76,2:37:00.35,辉中,,0,0,0,,还能这样直接违抗命令
+Dialogue: 2,2:36:57.76,2:37:00.35,辉英,,0,0,0,,and disobey direct orders like this.
+Dialogue: 1,2:37:00.35,2:37:02.96,辉中,,0,0,0,,也许只是她特别能干
+Dialogue: 2,2:37:00.35,2:37:02.96,辉英,,0,0,0,,Maybe it's just that she's particularly capable,
+Dialogue: 1,2:37:02.96,2:37:05.96,辉中,,0,0,0,,所以她能够偷偷溜走而不会有大问题
+Dialogue: 2,2:37:02.96,2:37:05.96,辉英,,0,0,0,,and so she was able to sneak out with any major issue.
+Dialogue: 1,2:37:05.96,2:37:09.02,辉中,,0,0,0,,但她看起来好像还很怕伊萨克
+Dialogue: 2,2:37:05.96,2:37:09.02,辉英,,0,0,0,,But she also doesn't seem particularly threatened by Isaac,
+Dialogue: 1,2:37:09.02,2:37:14.51,辉中,,0,0,0,,特别是他一登场我们就看到他在拷问一个人
+Dialogue: 2,2:37:09.02,2:37:14.51,辉英,,0,0,0,,which is strange considering that our introduction to him is of him torturing a guy.
+Dialogue: 1,2:37:14.51,2:37:18.59,辉中,,0,0,0,,所以不管是她太傲慢了还是游戏在这方面设计欠考虑
+Dialogue: 2,2:37:14.51,2:37:18.59,辉英,,0,0,0,,So whether its hubris or simply a lack of consideration,
+Dialogue: 1,2:37:18.59,2:37:22.31,辉中,,0,0,0,,埃比还是想办法出去自己找欧文了
+Dialogue: 2,2:37:18.59,2:37:22.31,辉英,,0,0,0,,Abby breaks out and decides to go find Owen herself.
+Dialogue: 1,2:37:22.31,2:37:25.67,辉中,,0,0,0,,当然 她希望的是自己能够救出欧文
+Dialogue: 2,2:37:22.31,2:37:25.67,辉英,,0,0,0,,Her hope, of course, being that she's going to be able to save Owen
+Dialogue: 1,2:37:25.67,2:37:29.33,辉中,,0,0,0,,并且能在围攻赛拉菲特帮之前想出一些应对办法
+Dialogue: 2,2:37:25.67,2:37:29.33,辉英,,0,0,0,,and figure something out before the big raid on the Seraphites
+Dialogue: 1,2:37:29.33,2:37:32.00,辉中,,0,0,0,,让其他人不会察觉到她曾经失踪了一段时间
+Dialogue: 2,2:37:29.33,2:37:32.00,辉英,,0,0,0,,so that she's never realized to have gone missing.
+Dialogue: 1,2:37:32.00,2:37:37.30,辉中,,0,0,0,,然后画面很快切到埃比和欧文曾经一次短暂的约会
+Dialogue: 2,2:37:32.00,2:37:37.30,辉英,,0,0,0,,We then have a quick cutaway where we go to a short date between Abby and Owen.
+Dialogue: 1,2:37:37.30,2:37:40.49,辉中,,0,0,0,,他们在一座摩天轮上 这段场景也很有趣
+Dialogue: 2,2:37:37.30,2:37:40.49,辉英,,0,0,0,,They're on a Ferris wheel, and it's actually super cute.
+Dialogue: 1,2:37:40.49,2:37:43.19,辉中,,0,0,0,,我们再一次看到了埃比对高处的恐惧
+Dialogue: 2,2:37:40.49,2:37:43.19,辉英,,0,0,0,,Once again we see that Abby is terrified of heights,
+Dialogue: 1,2:37:43.19,2:37:49.46,辉中,,0,0,0,,再一次看到了她在欧文面前表现出害怕恐惧的人性一面
+Dialogue: 2,2:37:43.19,2:37:49.46,辉英,,0,0,0,,and it's again a humanizing moment to see her chilling with Owen and also freaked out.
 Dialogue: 1,2:37:49.46,2:37:54.59,辉中,,0,0,0,,然而这就又到了讨论叙事节奏问题的时候了
 Dialogue: 2,2:37:49.46,2:37:54.59,辉英,,0,0,0,,However, once again, this is a point when the pace really starts to come into question.
 Dialogue: 1,2:37:54.59,2:37:58.46,辉中,,0,0,0,,这里在讲什么？为何节奏如此缓慢？
@@ -4462,11 +4714,11 @@ Dialogue: 2,2:37:58.46,2:38:02.87,辉英,,0,0,0,,Why are we going through all of
 Dialogue: 2,2:38:02.87,2:38:06.44,辉英,,0,0,0,,and most people probably don't care that much about yet?
 Dialogue: 1,2:38:06.44,2:38:12.41,辉中,,0,0,0,,我们什么时候能进入一段更有趣更快速的叙事片段？
 Dialogue: 2,2:38:06.44,2:38:12.41,辉英,,0,0,0,,When we need to be engaged and going through a much more interesting and fast base sequences?
-Dialogue: 1,2:38:12.41,2:38:18.86,辉中,,0,0,0,,也许可能只有我这样 喜欢快节奏的叙事片段
-Dialogue: 2,2:38:12.41,2:38:18.86,辉英,,0,0,0,,Now perhaps I'm alone, in my tolerance for fast pace narrative sequences is much much higher.
-Dialogue: 1,2:38:18.86,2:38:20.60,辉中,,0,0,0,,所以我希望多多益善
+Dialogue: 1,2:38:12.41,2:38:18.86,辉中,,0,0,0,,也许可能只有我这样 喜欢节奏更快一点的叙事片段
+Dialogue: 2,2:38:12.41,2:38:18.86,辉英,,0,0,0,,Now perhaps I'm alone, and my tolerance for fast pace narrative sequences is much much higher.
+Dialogue: 1,2:38:18.86,2:38:20.60,辉中,,0,0,0,,所以我希望多来点
 Dialogue: 2,2:38:18.86,2:38:20.60,辉英,,0,0,0,,So I need a lot more.
-Dialogue: 1,2:38:20.60,2:38:25.43,辉中,,0,0,0,,也许这部游戏就是这样 所以节奏上可能没我想的那么糟
+Dialogue: 1,2:38:20.60,2:38:25.43,辉中,,0,0,0,,可也许这部游戏就是这样 所以节奏上可能没我想的那么糟
 Dialogue: 2,2:38:20.60,2:38:25.43,辉英,,0,0,0,,Maybe that's what it is, and the pace isn't actually as bad as it seems to me.
 Dialogue: 1,2:38:25.43,2:38:30.62,辉中,,0,0,0,,但在即将到来的西雅图第2天和第3天的内容中
 Dialogue: 2,2:38:25.43,2:38:30.62,辉英,,0,0,0,,But in these sequences that are coming over the course of Seattle Day 2 and 3,
@@ -4474,107 +4726,209 @@ Dialogue: 1,2:38:30.62,2:38:34.79,辉中,,0,0,0,,游戏中很多片段真的开�
 Dialogue: 2,2:38:30.62,2:38:34.79,辉英,,0,0,0,,the games really going to slow to a crawl in multiple moments.
 Dialogue: 1,2:38:34.79,2:38:36.83,辉中,,0,0,0,,我也不是很懂……欢迎在评论区讨论
 Dialogue: 2,2:38:34.79,2:38:36.83,辉英,,0,0,0,,But I don't know, let me know what you think.
-Dialogue: 1,2:38:36.83,2:38:38.24,辉中,,0,0,0,,The date is relatively cute
-Dialogue: 1,2:38:38.24,2:38:44.03,辉中,,0,0,0,,and at ends within the aquarium with Abby and Owen talking about their feelings.
-Dialogue: 1,2:38:44.03,2:38:47.81,辉中,,0,0,0,,At one point, Abby breaks away, she's got something else on her mind,
-Dialogue: 1,2:38:47.81,2:38:50.45,辉中,,0,0,0,,and it turns out that she's still thinking about Joel.
-Dialogue: 1,2:38:50.45,2:38:55.76,辉中,,0,0,0,,They're trying to find some way of finding him so that they can enact some sort of revenge.
-Dialogue: 1,2:38:55.76,2:38:59.18,辉中,,0,0,0,,Owen doesn't seem particularly interested in that pursuit,
-Dialogue: 1,2:38:59.18,2:39:03.83,辉中,,0,0,0,,even though he did know Abby's father fairly well from what we can tell.
-Dialogue: 1,2:39:03.83,2:39:06.92,辉中,,0,0,0,,But he understands this means a lot to Abby,
-Dialogue: 1,2:39:06.92,2:39:09.62,辉中,,0,0,0,,and so he goes along with it, at least for the most part.
-Dialogue: 1,2:39:09.62,2:39:13.61,辉中,,0,0,0,,What is clear is that this is Abby's pursuit, and this is what Abby wants.
-Dialogue: 1,2:39:13.61,2:39:17.39,辉中,,0,0,0,,And she's not going to quit until she finds Joel and kills him.
-Dialogue: 1,2:39:17.39,2:39:20.15,辉中,,0,0,0,,She references multiple times that they need to get back to training,
-Dialogue: 1,2:39:20.15,2:39:24.05,辉中,,0,0,0,,which explains why she is currently not particularly shredded,
-Dialogue: 1,2:39:24.05,2:39:26.87,辉中,,0,0,0,,at least compared to what we see in the present day
-Dialogue: 1,2:39:26.87,2:39:31.19,辉中,,0,0,0,,quote unquote sequences of Abby going through and fighting infected,
-Dialogue: 1,2:39:31.19,2:39:33.62,辉中,,0,0,0,,and of course Ellie and her gang.
-Dialogue: 1,2:39:33.62,2:39:37.68,辉中,,0,0,0,,That's why in many moments I think her physical buffness and appearance
-Dialogue: 1,2:39:37.68,2:39:40.19,辉中,,0,0,0,,is a direct reflection of her mental state,
-Dialogue: 1,2:39:40.19,2:39:44.39,辉中,,0,0,0,,which is why later in the game, when she's led off of that revenge base pursuit,
-Dialogue: 1,2:39:44.39,2:39:48.89,辉中,,0,0,0,,she actually thins out a lot and is no longer as much of a meat head.
-Dialogue: 1,2:39:48.89,2:39:52.19,辉中,,0,0,0,,But other than the pace, this is actually starting to work.
-Dialogue: 1,2:39:52.19,2:39:55.34,辉中,,0,0,0,,I found myself actually caring about Abby and Owen,
-Dialogue: 1,2:39:55.34,2:39:59.27,辉中,,0,0,0,,and being involved and interested in what was going on within their lives.
-Dialogue: 1,2:39:59.27,2:40:04.28,辉中,,0,0,0,,It's kind of bizarre to say, but I was starting to feel bad for Joel's murderer.
-Dialogue: 1,2:40:04.28,2:40:08.72,辉中,,0,0,0,,We then cut to Abby and Manny at the outskirts of the WLF's territory.
-Dialogue: 1,2:40:08.72,2:40:14.33,辉中,,0,0,0,,She's going to find Owen, and for some reason Manny leaves her to go on by herself.
-Dialogue: 1,2:40:14.33,2:40:18.83,辉中,,0,0,0,,He claimed, so it's not to draw too much attention and to get them in trouble with Isaac.
-Dialogue: 1,2:40:18.83,2:40:20.57,辉中,,0,0,0,,Even with this excuse,
-Dialogue: 1,2:40:20.57,2:40:24.53,辉中,,0,0,0,,it seems like a bit of a stretch that Manny would leave her to go on by herself.
-Dialogue: 1,2:40:24.53,2:40:27.74,辉中,,0,0,0,,But I'm willing to let it slide, it's not that big of a deal.
-Dialogue: 1,2:40:27.74,2:40:31.25,辉中,,0,0,0,,Now the navigation in this chapter is actually pretty interesting,
-Dialogue: 1,2:40:31.25,2:40:34.31,辉中,,0,0,0,,and it's done in a subtle and beautiful way.
-Dialogue: 1,2:40:34.31,2:40:37.46,辉中,,0,0,0,,All you have to do is follow the sunset.
-Dialogue: 1,2:40:37.46,2:40:39.29,辉中,,0,0,0,,It's simple, it's elegant,
-Dialogue: 1,2:40:39.29,2:40:43.70,辉中,,0,0,0,,and it's easy to understand and follow as you explore a given level.
-Dialogue: 1,2:40:43.70,2:40:47.57,辉中,,0,0,0,,Because pretty much all of the lighting in TLOU2 is ambient.
-Dialogue: 1,2:40:47.57,2:40:52.20,辉中,,0,0,0,,You're always in tune with the direction of light that's coming in from the outside.
-Dialogue: 1,2:40:52.20,2:40:55.52,辉中,,0,0,0,,And I have to say while exploring multiple of these levels,
-Dialogue: 1,2:40:55.52,2:41:00.14,辉中,,0,0,0,,focusing on the sunlight coming in through the windows to reorient myself,
-Dialogue: 1,2:41:00.14,2:41:05.75,辉中,,0,0,0,,I found it remarkably natural and really cool at just how fluidly this worked.
-Dialogue: 1,2:41:05.75,2:41:08.08,辉中,,0,0,0,,I personally can't remember the last time
-Dialogue: 1,2:41:08.08,2:41:12.56,辉中,,0,0,0,,that a game used the sunlight to direct players in a particular way,
-Dialogue: 1,2:41:12.56,2:41:14.81,辉中,,0,0,0,,but I find that kind of refreshing.
-Dialogue: 1,2:41:14.81,2:41:20.21,辉中,,0,0,0,,Sure, a lot of games use cardinal directions to point players in the right direction.
-Dialogue: 1,2:41:20.21,2:41:22.32,辉中,,0,0,0,,They'll say, go north or go west,
-Dialogue: 1,2:41:22.32,2:41:26.66,辉中,,0,0,0,,or they have a compass on screen that allows you to figure out where you need to go.
-Dialogue: 1,2:41:26.66,2:41:28.75,辉中,,0,0,0,,But I don't think that that's the same thing.
-Dialogue: 1,2:41:29.18,2:41:31.76,辉中,,0,0,0,,For one, it forces you to look at the compass itself.
-Dialogue: 1,2:41:31.76,2:41:35.60,辉中,,0,0,0,,Look at a game such as Skyrim, if you ever want to reorient yourself,
-Dialogue: 1,2:41:35.60,2:41:38.69,辉中,,0,0,0,,if you don't happen to know the map like the back of your hand,
-Dialogue: 1,2:41:38.69,2:41:42.32,辉中,,0,0,0,,you have to glance up at the compass and figure out where you need to go.
-Dialogue: 1,2:41:42.32,2:41:47.03,辉中,,0,0,0,,This takes your eyes off of the map and in turn off of all of the amazing artwork
-Dialogue: 1,2:41:47.03,2:41:51.29,辉中,,0,0,0,,that all of the developers over at the studio spent years and years working on.
-Dialogue: 1,2:41:51.29,2:41:56.33,辉中,,0,0,0,,I've always thought of this as a real tragedy when it comes to open world game design
-Dialogue: 1,2:41:56.33,2:41:59.33,辉中,,0,0,0,,that a developer can spend all this time working on something,
-Dialogue: 1,2:41:59.33,2:42:04.88,辉中,,0,0,0,,only to have the player completely distracted from it by way of simple exploration,
-Dialogue: 1,2:42:04.88,2:42:07.34,辉中,,0,0,0,,something that should go hand in hand with it.
-Dialogue: 1,2:42:07.34,2:42:11.69,辉中,,0,0,0,,This is why I'm often a fan of completely mixing UI on screen.
-Dialogue: 1,2:42:11.69,2:42:13.43,辉中,,0,0,0,,I just don't think that it's worth it.
-Dialogue: 1,2:42:13.43,2:42:17.92,辉中,,0,0,0,,Especially when there's other alternatives such as having in game UI.
-Dialogue: 1,2:42:17.92,2:42:20.26,辉中,,0,0,0,,Look at a game such as Death Stranding.
-Dialogue: 1,2:42:20.26,2:42:24.53,辉中,,0,0,0,,Whenever you want to navigate to a given destination to complete a delivery,
-Dialogue: 1,2:42:24.53,2:42:26.72,辉中,,0,0,0,,you set the way point on your map.
-Dialogue: 1,2:42:26.72,2:42:31.34,辉中,,0,0,0,,Then, as you head out into the game world to reach your destination,
-Dialogue: 1,2:42:31.34,2:42:37.82,辉中,,0,0,0,,you find that all of the direction that you're given is interspersed with the terrain.
-Dialogue: 1,2:42:37.82,2:42:42.11,辉中,,0,0,0,,This means that the guidance you are given to get from one destination to another
-Dialogue: 1,2:42:42.11,2:42:46.13,辉中,,0,0,0,,doesn't pull you out of the game world or distract you from it,
-Dialogue: 1,2:42:46.13,2:42:48.83,辉中,,0,0,0,,but rather it pulls you in even more.
-Dialogue: 1,2:42:48.83,2:42:53.51,辉中,,0,0,0,,It makes you look at every hill crest, every ridge, every mountain top.
-Dialogue: 1,2:42:53.51,2:42:58.37,辉中,,0,0,0,,It's at that point that these open world games really shine.
-Dialogue: 1,2:42:58.37,2:43:04.34,辉中,,0,0,0,,And I honestly believe that's why Death Stranding even though its world is subjectively quite empty,
-Dialogue: 1,2:43:04.34,2:43:08.48,辉中,,0,0,0,,can still captivate players in such an intriguing way.
-Dialogue: 1,2:43:08.48,2:43:10.64,辉中,,0,0,0,,But if you want to hear all of my thoughts on that,
-Dialogue: 1,2:43:10.64,2:43:13.55,辉中,,0,0,0,,go check out my full length critique of Death Stranding.
-Dialogue: 1,2:43:13.55,2:43:15.89,辉中,,0,0,0,,It's over two hours' long, it's… it's a monster.
-Dialogue: 1,2:43:15.89,2:43:19.68,辉中,,0,0,0,,But if you're this far into this video, you're probably gained for it.
-Dialogue: 1,2:43:19.68,2:43:23.56,辉中,,0,0,0,,All of this to say, I think that the level design in the direction
-Dialogue: 1,2:43:23.56,2:43:27.82,辉中,,0,0,0,,that Naughty Dog gives the player in this particular sequence with Abby
-Dialogue: 1,2:43:27.82,2:43:30.26,辉中,,0,0,0,,is phenomenal and I can't applauded enough.
-Dialogue: 1,2:43:30.26,2:43:33.66,辉中,,0,0,0,,Something as simple as having the player follow sunlight
-Dialogue: 1,2:43:33.66,2:43:38.81,辉中,,0,0,0,,is implemented so well, that I think it's absolutely astonishing.
-Dialogue: 1,2:43:38.81,2:43:43.37,辉中,,0,0,0,,Any studio could set up a scene where they demand that the player follow the sunlight.
-Dialogue: 1,2:43:43.37,2:43:49.40,辉中,,0,0,0,,But it's much harder to have that sunlight carry through in every scene, every area, every room
-Dialogue: 1,2:43:49.40,2:43:54.02,辉中,,0,0,0,,that the player enters, such that they know exactly where they need to go next.
-Dialogue: 1,2:43:54.02,2:43:58.76,辉中,,0,0,0,,And so it's with this guidance that Abby heads west to try to get to the aquarium,
-Dialogue: 1,2:43:58.76,2:44:00.56,辉中,,0,0,0,,where she thinks Owen is hiding out.
-Dialogue: 1,2:44:00.56,2:44:05.72,辉中,,0,0,0,,She wants to speak to Owen because she needs to figure out why exactly he shot Danny.
-Dialogue: 1,2:44:05.72,2:44:08.72,辉中,,0,0,0,,And whether or not there's two sides to the story.
-Dialogue: 1,2:44:08.72,2:44:10.91,辉中,,0,0,0,,Throughout this relatively calm sequence,
-Dialogue: 1,2:44:10.91,2:44:15.50,辉中,,0,0,0,,you're mostly collecting ammo and exploring buildings, grabbing some collectibles.
-Dialogue: 1,2:44:15.50,2:44:18.88,辉中,,0,0,0,,This really is the calm before the storm because after this
-Dialogue: 1,2:44:18.88,2:44:22.76,辉中,,0,0,0,,is when the game is really going to pick up and carry through to the final act.
-Dialogue: 1,2:44:22.76,2:44:27.38,辉中,,0,0,0,,And this descent into chaos begins when Abby's climbing through a crack in the wall.
-Dialogue: 1,2:44:27.38,2:44:29.39,辉中,,0,0,0,,And well, this happens.
-Dialogue: 1,2:44:55.52,2:44:59.84,辉中,,0,0,0,,I love these you-are-not-safe moments, I really do.
-Dialogue: 1,2:44:59.84,2:45:04.79,辉中,,0,0,0,,As we mentioned earlier, Ellie actually gets jumped while she's adjusting weapons,
-Dialogue: 1,2:45:04.79,2:45:07.99,辉中,,0,0,0,,and you're upgrading abilities at a workbench.
-Dialogue: 1,2:45:07.99,2:45:13.49,辉中,,0,0,0,,And now Abby while you're in what is presumed to be a covered, loading space,
-Dialogue: 1,2:45:13.49,2:45:15.00,辉中,,0,0,0,,and Abby even gets jumped.
-Dialogue: 1,2:45:15.00,2:45:19.76,辉中,,0,0,0,,I just, I think it's so cool, I… I know that maybe I'm in the minority with this,
-Dialogue: 1,2:45:19.76,2:45:22.07,辉中,,0,0,0,,but I really do think that it's cool to see.
+Dialogue: 1,2:38:36.83,2:38:38.24,辉中,,0,0,0,,这场约会还是很暖的
+Dialogue: 2,2:38:36.83,2:38:38.24,辉英,,0,0,0,,The date is relatively cute
+Dialogue: 1,2:38:38.24,2:38:44.03,辉中,,0,0,0,,在水族馆的最后 埃比和欧文俩人在亲亲
+Dialogue: 2,2:38:38.24,2:38:44.03,辉英,,0,0,0,,and at ends within the aquarium with Abby and Owen talking about their feelings.
+Dialogue: 1,2:38:44.03,2:38:47.81,辉中,,0,0,0,,埃比突然打断 她自己有些心事
+Dialogue: 2,2:38:44.03,2:38:47.81,辉英,,0,0,0,,At one point, Abby breaks away, she's got something else on her mind,
+Dialogue: 1,2:38:47.81,2:38:50.45,辉中,,0,0,0,,结果发现是她还在想乔尔的事情
+Dialogue: 2,2:38:47.81,2:38:50.45,辉英,,0,0,0,,and it turns out that she's still thinking about Joel.
+Dialogue: 1,2:38:50.45,2:38:55.76,辉中,,0,0,0,,他们正想办法找他 从而实施某种报复
+Dialogue: 2,2:38:50.45,2:38:55.76,辉英,,0,0,0,,They're trying to find some way of finding him so that they can enact some sort of revenge.
+Dialogue: 1,2:38:55.76,2:38:59.18,辉中,,0,0,0,,欧文似乎对这种复仇并没有很深的执念
+Dialogue: 2,2:38:55.76,2:38:59.18,辉英,,0,0,0,,Owen doesn't seem particularly interested in that pursuit,
+Dialogue: 1,2:38:59.18,2:39:03.83,辉中,,0,0,0,,尽管从我们可以看出他确实和埃比的父亲很熟
+Dialogue: 2,2:38:59.18,2:39:03.83,辉英,,0,0,0,,even though he did know Abby's father fairly well from what we can tell.
+Dialogue: 1,2:39:03.83,2:39:06.92,辉中,,0,0,0,,但他也懂这对埃比意义重大
+Dialogue: 2,2:39:03.83,2:39:06.92,辉英,,0,0,0,,But he understands this means a lot to Abby,
+Dialogue: 1,2:39:06.92,2:39:09.62,辉中,,0,0,0,,所以他选择顺着埃比的意思 至少多数部分是这样
+Dialogue: 2,2:39:06.92,2:39:09.62,辉英,,0,0,0,,and so he goes along with it, at least for the most part.
+Dialogue: 1,2:39:09.62,2:39:13.61,辉中,,0,0,0,,我们明白的是 这点是埃比的诉求 是她想要的
+Dialogue: 2,2:39:09.62,2:39:13.61,辉英,,0,0,0,,What is clear is that this is Abby's pursuit, and this is what Abby wants.
+Dialogue: 1,2:39:13.61,2:39:17.39,辉中,,0,0,0,,而且在找到并杀死乔尔之前她是不会放弃的
+Dialogue: 2,2:39:13.61,2:39:17.39,辉英,,0,0,0,,And she's not going to quit until she finds Joel and kills him.
+Dialogue: 1,2:39:17.39,2:39:20.15,辉中,,0,0,0,,她多次提到他们要回去训练
+Dialogue: 2,2:39:17.39,2:39:20.15,辉英,,0,0,0,,She references multiple times that they need to get back to training,
+Dialogue: 1,2:39:20.15,2:39:24.05,辉中,,0,0,0,,也解释了为什么她当前不是那么壮
+Dialogue: 2,2:39:20.15,2:39:24.05,辉英,,0,0,0,,which explains why she is currently not particularly shredded,
+Dialogue: 1,2:39:24.05,2:39:26.87,辉中,,0,0,0,,至少和“现在”那个手撕感染者、大战艾莉帮时候的肌肉块相比
+Dialogue: 2,2:39:24.05,2:39:26.87,辉英,,0,0,0,,at least compared to what we see in the present day
+Dialogue: 1,2:39:26.87,2:39:33.62,辉中,,0,0,0,,至少和“现在”那个手撕感染者、大战艾莉帮时候的肌肉块相比
+Dialogue: 2,2:39:26.87,2:39:33.62,辉英,,0,0,0,,quote unquote sequences of Abby going through and fighting infected, and of course Ellie and her gang.
+Dialogue: 1,2:39:33.62,2:39:37.68,辉中,,0,0,0,,这就是为什么我认为在很多时候她的身体状况和外表
+Dialogue: 2,2:39:33.62,2:39:37.68,辉英,,0,0,0,,That's why in many moments I think her physical buffness and appearance
+Dialogue: 1,2:39:37.68,2:39:40.19,辉中,,0,0,0,,是她精神状态的直接反映
+Dialogue: 2,2:39:37.68,2:39:40.19,辉英,,0,0,0,,is a direct reflection of her mental state,
+Dialogue: 1,2:39:40.19,2:39:44.39,辉中,,0,0,0,,这就是为什么在游戏的后期 当她被复仇的艾莉追击时
+Dialogue: 2,2:39:40.19,2:39:44.39,辉英,,0,0,0,,which is why later in the game, when she's led off of that revenge-base pursuit,
+Dialogue: 1,2:39:44.39,2:39:48.89,辉中,,0,0,0,,整个人瘦了很多 没那么大块头了
+Dialogue: 2,2:39:44.39,2:39:48.89,辉英,,0,0,0,,she actually thins out a lot and is no longer as much of a meat head.
+Dialogue: 1,2:39:48.89,2:39:52.19,辉中,,0,0,0,,但抛开节奏问题 其实游戏真的体现出它的作用了
+Dialogue: 2,2:39:48.89,2:39:52.19,辉英,,0,0,0,,But other than the pace, this is actually starting to work.
+Dialogue: 1,2:39:52.19,2:39:55.34,辉中,,0,0,0,,我发现自己真的开始关心埃比和欧文
+Dialogue: 2,2:39:52.19,2:39:55.34,辉英,,0,0,0,,I found myself actually caring about Abby and Owen,
+Dialogue: 1,2:39:55.34,2:39:59.27,辉中,,0,0,0,,开始感兴趣他们的人生道路上到底发生了什么
+Dialogue: 2,2:39:55.34,2:39:59.27,辉英,,0,0,0,,and being involved and interested in what was going on within their lives.
+Dialogue: 1,2:39:59.27,2:40:04.28,辉中,,0,0,0,,说起来有点离奇 但我真的开始为杀害乔尔的凶手而感到难过
+Dialogue: 2,2:39:59.27,2:40:04.28,辉英,,0,0,0,,It's kind of bizarre to say, but I was starting to feel bad for Joel's murderer.
+Dialogue: 1,2:40:04.28,2:40:08.72,辉中,,0,0,0,,然后镜头来到了在WLF领土边界的埃比和曼尼
+Dialogue: 2,2:40:04.28,2:40:08.72,辉英,,0,0,0,,We then cut to Abby and Manny at the outskirts of the WLF's territory.
+Dialogue: 1,2:40:08.72,2:40:14.33,辉中,,0,0,0,,她要去找欧文 而出于某种原因曼尼留她独自前往
+Dialogue: 2,2:40:08.72,2:40:14.33,辉英,,0,0,0,,She's going to find Owen, and for some reason Manny leaves her to go on by herself.
+Dialogue: 1,2:40:14.33,2:40:18.83,辉中,,0,0,0,,他说这样不会引起太多注意 也不至于让他们惹上伊萨克的麻烦
+Dialogue: 2,2:40:14.33,2:40:18.83,辉英,,0,0,0,,He claimed, so it's not to draw too much attention and to get them in trouble with Isaac.
+Dialogue: 1,2:40:18.83,2:40:20.57,辉中,,0,0,0,,说是这么说
+Dialogue: 2,2:40:18.83,2:40:20.57,辉英,,0,0,0,,Even with this excuse,
+Dialogue: 1,2:40:20.57,2:40:24.53,辉中,,0,0,0,,但感觉曼尼能让她一个人去还是有点牵强
+Dialogue: 2,2:40:20.57,2:40:24.53,辉英,,0,0,0,,it seems like a bit of a stretch that Manny would leave her to go on by herself.
+Dialogue: 1,2:40:24.53,2:40:27.74,辉中,,0,0,0,,但我觉得还能接受 又不是什么大事
+Dialogue: 2,2:40:24.53,2:40:27.74,辉英,,0,0,0,,But I'm willing to let it slide, it's not that big of a deal.
+Dialogue: 1,2:40:27.74,2:40:31.25,辉中,,0,0,0,,现在这里游戏的引导系统非常有趣
+Dialogue: 2,2:40:27.74,2:40:31.25,辉英,,0,0,0,,Now the navigation in this chapter is actually pretty interesting,
+Dialogue: 1,2:40:31.25,2:40:34.31,辉中,,0,0,0,,设计得非常精巧 非常美
+Dialogue: 2,2:40:31.25,2:40:34.31,辉英,,0,0,0,,and it's done in a subtle and beautiful way.
+Dialogue: 1,2:40:34.31,2:40:37.46,辉中,,0,0,0,,玩家要做的 就是跟着日落
+Dialogue: 2,2:40:34.31,2:40:37.46,辉英,,0,0,0,,All you have to do is follow the sunset.
+Dialogue: 1,2:40:37.46,2:40:39.29,辉中,,0,0,0,,非常简单 又非常优美
+Dialogue: 2,2:40:37.46,2:40:39.29,辉英,,0,0,0,,It's simple, it's elegant,
+Dialogue: 1,2:40:39.29,2:40:43.70,辉中,,0,0,0,,这样的指引在你探索一个关卡时简单易懂
+Dialogue: 2,2:40:39.29,2:40:43.70,辉英,,0,0,0,,and it's easy to understand and follow as you explore a given level.
+Dialogue: 1,2:40:43.70,2:40:47.57,辉中,,0,0,0,,因为TLOU2中的很多光照都是环境光
+Dialogue: 2,2:40:43.70,2:40:47.57,辉英,,0,0,0,,Because pretty much all of the lighting in TLOU2 is ambient.
+Dialogue: 1,2:40:47.57,2:40:52.20,辉中,,0,0,0,,玩家总会与外面照进来的光线方向一致
+Dialogue: 2,2:40:47.57,2:40:52.20,辉英,,0,0,0,,You're always in tune with the direction of light that's coming in from the outside.
+Dialogue: 1,2:40:52.20,2:40:55.52,辉中,,0,0,0,,而且我不得不说 当我在探索这些关卡的时候
+Dialogue: 2,2:40:52.20,2:40:55.52,辉英,,0,0,0,,And I have to say while exploring multiple of these levels,
+Dialogue: 1,2:40:55.52,2:41:00.14,辉中,,0,0,0,,我会让自己根据从窗户射进来的光源调整自己的方向
+Dialogue: 2,2:40:55.52,2:41:00.14,辉英,,0,0,0,,focusing on the sunlight coming in through the windows to reorient myself,
+Dialogue: 1,2:41:00.14,2:41:05.75,辉中,,0,0,0,,我发现这个过程非常自然 而这个设计的实现是如此流畅 感觉真的很酷
+Dialogue: 2,2:41:00.14,2:41:05.75,辉英,,0,0,0,,I found it remarkably natural and really cool at just how fluidly this worked.
+Dialogue: 1,2:41:05.75,2:41:08.08,辉中,,0,0,0,,我自己已经不记得上一个
+Dialogue: 2,2:41:05.75,2:41:08.08,辉英,,0,0,0,,I personally can't remember the last time
+Dialogue: 1,2:41:08.08,2:41:12.56,辉中,,0,0,0,,使用类似的光源引导玩家的游戏了
+Dialogue: 2,2:41:08.08,2:41:12.56,辉英,,0,0,0,,that a game used the sunlight to direct players in a particular way,
+Dialogue: 1,2:41:12.56,2:41:14.81,辉中,,0,0,0,,我觉得这真的很新鲜
+Dialogue: 2,2:41:12.56,2:41:14.81,辉英,,0,0,0,,but I find that kind of refreshing.
+Dialogue: 1,2:41:14.81,2:41:20.21,辉中,,0,0,0,,当然 很多游戏都使用地图坐标来为玩家指出正确的方向
+Dialogue: 2,2:41:14.81,2:41:20.21,辉英,,0,0,0,,Sure, a lot of games use cardinal directions to point players in the right direction.
+Dialogue: 1,2:41:20.21,2:41:22.32,辉中,,0,0,0,,他们会直接告诉你往北还是往西
+Dialogue: 2,2:41:20.21,2:41:22.32,辉英,,0,0,0,,They'll say, go north or go west,
+Dialogue: 1,2:41:22.32,2:41:26.66,辉中,,0,0,0,,或者是屏幕上有个罗盘 让你自己知道该去哪
+Dialogue: 2,2:41:22.32,2:41:26.66,辉英,,0,0,0,,or they have a compass on screen that allows you to figure out where you need to go.
+Dialogue: 1,2:41:26.66,2:41:28.75,辉中,,0,0,0,,但我觉得这是两码事
+Dialogue: 2,2:41:26.66,2:41:28.75,辉英,,0,0,0,,But I don't think that that's the same thing.
+Dialogue: 1,2:41:28.75,2:41:31.76,辉中,,0,0,0,,一方面 这会让你不停地去看游戏里的罗盘
+Dialogue: 2,2:41:28.75,2:41:31.76,辉英,,0,0,0,,For one, it forces you to look at the compass itself.
+Dialogue: 1,2:41:31.76,2:41:35.60,辉中,,0,0,0,,比如《上古卷轴V：天际》 如果你想知道自己的方向
+Dialogue: 2,2:41:31.76,2:41:35.60,辉英,,0,0,0,,Look at a game such as Skyrim, if you ever want to reorient yourself,
+Dialogue: 1,2:41:35.60,2:41:38.69,辉中,,0,0,0,,且你又碰巧不是那么了解地图的话
+Dialogue: 2,2:41:35.60,2:41:38.69,辉英,,0,0,0,,if you don't happen to know the map like the back of your hand,
+Dialogue: 1,2:41:38.69,2:41:42.32,辉中,,0,0,0,,你那就不得不抬眼看一下上面的罗盘 找到你要去的地方
+Dialogue: 2,2:41:38.69,2:41:42.32,辉英,,0,0,0,,you have to glance up at the compass and figure out where you need to go.
+Dialogue: 1,2:41:42.32,2:41:44.08,辉中,,0,0,0,,这个过程中你的眼睛从游戏画面中移开
+Dialogue: 2,2:41:42.32,2:41:44.08,辉英,,0,0,0,,This takes your eyes off of the map
+Dialogue: 1,2:41:44.08,2:41:47.08,辉中,,0,0,0,,从工作室的所有开发人员花费数年时间制作的所有惊人的艺术作品上移开
+Dialogue: 2,2:41:44.08,2:41:47.08,辉英,,0,0,0,,and in turn off of all of the amazing artwork
+Dialogue: 1,2:41:47.08,2:41:51.29,辉中,,0,0,0,,从工作室的所有开发人员花费数年时间制作的所有惊人的艺术作品上移开
+Dialogue: 2,2:41:47.08,2:41:51.29,辉英,,0,0,0,,that all of the developers over at the studio spent years and years working on.
+Dialogue: 1,2:41:51.29,2:41:56.33,辉中,,0,0,0,,我一直认为这是开放世界游戏设计的一个真正的悲剧
+Dialogue: 2,2:41:51.29,2:41:56.33,辉英,,0,0,0,,I've always thought of this as a real tragedy when it comes to open world game design
+Dialogue: 1,2:41:56.33,2:41:59.33,辉中,,0,0,0,,开发者辛苦花费这么多时间创造的精美游戏内容
+Dialogue: 2,2:41:56.33,2:41:59.33,辉英,,0,0,0,,that a developer can spend all this time working on something,
+Dialogue: 1,2:41:59.33,2:42:04.88,辉中,,0,0,0,,但却让玩家因为简单的探索寻路过程而完全分心
+Dialogue: 2,2:41:59.33,2:42:04.88,辉英,,0,0,0,,only to have the player completely distracted from it by way of simple exploration,
+Dialogue: 1,2:42:04.88,2:42:07.34,辉中,,0,0,0,,而这两件事本应是共同推进的
+Dialogue: 2,2:42:04.88,2:42:07.34,辉英,,0,0,0,,something that should go hand in hand with it.
+Dialogue: 1,2:42:07.34,2:42:11.69,辉中,,0,0,0,,这也是为什么我非常喜欢把屏幕上UI界面完全打散的方式
+Dialogue: 2,2:42:07.34,2:42:11.69,辉英,,0,0,0,,This is why I'm often a fan of completely mixing UI on screen.
+Dialogue: 1,2:42:11.69,2:42:13.43,辉中,,0,0,0,,我只是感觉这样不太值
+Dialogue: 2,2:42:11.69,2:42:13.43,辉英,,0,0,0,,I just don't think that it's worth it.
+Dialogue: 1,2:42:13.43,2:42:17.92,辉中,,0,0,0,,特别是当还有其他选择的时候 比如游戏内UI
+Dialogue: 2,2:42:13.43,2:42:17.92,辉英,,0,0,0,,Especially when there's other alternatives such as having in game UI.
+Dialogue: 1,2:42:17.92,2:42:20.26,辉中,,0,0,0,,比如像《死亡搁浅》这样的游戏
+Dialogue: 2,2:42:17.92,2:42:20.26,辉英,,0,0,0,,Look at a game such as Death Stranding.
+Dialogue: 1,2:42:20.26,2:42:24.53,辉中,,0,0,0,,当你想导航去某处送货的时候
+Dialogue: 2,2:42:20.26,2:42:24.53,辉英,,0,0,0,,Whenever you want to navigate to a given destination to complete a delivery,
+Dialogue: 1,2:42:24.53,2:42:26.72,辉中,,0,0,0,,你会在地图上设定好路径点
+Dialogue: 2,2:42:24.53,2:42:26.72,辉英,,0,0,0,,you set the way point on your map.
+Dialogue: 1,2:42:26.72,2:42:31.34,辉中,,0,0,0,,然后 当你在游戏世界里向着目的地进发的时候
+Dialogue: 2,2:42:26.72,2:42:31.34,辉英,,0,0,0,,Then, as you head out into the game world to reach your destination,
+Dialogue: 1,2:42:31.34,2:42:37.82,辉中,,0,0,0,,你会发现你所有的目标点都点缀在了游戏的地形当中
+Dialogue: 2,2:42:31.34,2:42:37.82,辉英,,0,0,0,,you find that all of the direction that you're given is interspersed with the terrain.
+Dialogue: 1,2:42:37.82,2:42:42.11,辉中,,0,0,0,,这使得游戏指引你去目的地的导航过程
+Dialogue: 2,2:42:37.82,2:42:42.11,辉英,,0,0,0,,This means that the guidance you are given to get from one destination to another
+Dialogue: 1,2:42:42.11,2:42:46.13,辉中,,0,0,0,,并没有把你的思绪从游戏世界中拉出来
+Dialogue: 2,2:42:42.11,2:42:46.13,辉英,,0,0,0,,doesn't pull you out of the game world or distract you from it,
+Dialogue: 1,2:42:46.13,2:42:48.83,辉中,,0,0,0,,相反 它能让你更加融入其中
+Dialogue: 2,2:42:46.13,2:42:48.83,辉英,,0,0,0,,but rather it pulls you in even more.
+Dialogue: 1,2:42:48.83,2:42:53.51,辉中,,0,0,0,,这会让你注意到每一座山峰 每一条山脊
+Dialogue: 2,2:42:48.83,2:42:53.51,辉英,,0,0,0,,It makes you look at every hill crest, every ridge, every mountain top.
+Dialogue: 1,2:42:53.51,2:42:58.37,辉中,,0,0,0,,这才是这类开放世界游戏真正展现光芒的时刻
+Dialogue: 2,2:42:53.51,2:42:58.37,辉英,,0,0,0,,It's at that point that these open world games really shine.
+Dialogue: 1,2:42:58.37,2:43:04.34,辉中,,0,0,0,,而我真诚地相信 这就是为什么《死亡搁浅》即使其世界在主观上相当空洞
+Dialogue: 2,2:42:58.37,2:43:04.34,辉英,,0,0,0,,And I honestly believe that's why Death Stranding even though its world is subjectively quite empty,
+Dialogue: 1,2:43:04.34,2:43:08.48,辉中,,0,0,0,,但仍能以如此引人入胜 吸引玩家眼球
+Dialogue: 2,2:43:04.34,2:43:08.48,辉英,,0,0,0,,can still captivate players in such an intriguing way.
+Dialogue: 1,2:43:08.48,2:43:10.64,辉中,,0,0,0,,当然 如果你想听我关于这款游戏的全部想法
+Dialogue: 2,2:43:08.48,2:43:10.64,辉英,,0,0,0,,But if you want to hear all of my thoughts on that,
+Dialogue: 1,2:43:10.64,2:43:13.55,辉中,,0,0,0,,可以去看我完整的《死亡搁浅》评测
+Dialogue: 2,2:43:10.64,2:43:13.55,辉英,,0,0,0,,go check out my full length critique of Death Stranding.
+Dialogue: 1,2:43:13.55,2:43:15.89,辉中,,0,0,0,,两个多小时 有亿点点长
+Dialogue: 2,2:43:13.55,2:43:15.89,辉英,,0,0,0,,It's over two hours' long, it's… it's a monster.
+Dialogue: 1,2:43:15.89,2:43:19.68,辉中,,0,0,0,,但你既然这个视频都看了这么久 那你可能已经看过那个了
+Dialogue: 2,2:43:15.89,2:43:19.68,辉英,,0,0,0,,But if you're this far into this video, you're probably gained for it.
+Dialogue: 1,2:43:19.68,2:43:23.56,辉中,,0,0,0,,总之 我认为顽皮狗在埃比这部分关卡中引导玩家的设计
+Dialogue: 2,2:43:19.68,2:43:23.56,辉英,,0,0,0,,All of this to say, I think that the level design in the direction
+Dialogue: 1,2:43:23.56,2:43:27.82,辉中,,0,0,0,,总之 我认为顽皮狗在埃比这部分关卡中引导玩家的设计
+Dialogue: 2,2:43:23.56,2:43:27.82,辉英,,0,0,0,,that Naughty Dog gives the player in this particular sequence with Abby
+Dialogue: 1,2:43:27.82,2:43:30.26,辉中,,0,0,0,,是非常了不起的 我吹爆
+Dialogue: 2,2:43:27.82,2:43:30.26,辉英,,0,0,0,,is phenomenal and I can't applauded enough.
+Dialogue: 1,2:43:30.26,2:43:35.67,辉中,,0,0,0,,把让玩家跟随阳光这样简单的事情被实现得如此之好
+Dialogue: 2,2:43:30.26,2:43:35.67,辉英,,0,0,0,,Something as simple as having the player follow sunlight is implemented so well,
+Dialogue: 1,2:43:35.67,2:43:38.81,辉中,,0,0,0,,我认为这绝对是惊人的成就
+Dialogue: 2,2:43:35.67,2:43:38.81,辉英,,0,0,0,,that I think it's absolutely astonishing.
+Dialogue: 1,2:43:38.81,2:43:43.37,辉中,,0,0,0,,随便一个工作室都能做一个要求玩家跟随阳光的关卡场景
+Dialogue: 2,2:43:38.81,2:43:43.37,辉英,,0,0,0,,Any studio could set up a scene where they demand that the player follow the sunlight.
+Dialogue: 1,2:43:43.37,2:43:49.40,辉中,,0,0,0,,但要让阳光贯穿于玩家进入的每个场景、每个区域、每个房间
+Dialogue: 2,2:43:43.37,2:43:49.40,辉英,,0,0,0,,But it's much harder to have that sunlight carry through in every scene, every area, every room
+Dialogue: 1,2:43:49.40,2:43:54.02,辉中,,0,0,0,,让他们清楚地知道下一步要去哪里 这就非常有难度了
+Dialogue: 2,2:43:49.40,2:43:54.02,辉英,,0,0,0,,that the player enters, such that they know exactly where they need to go next.
+Dialogue: 1,2:43:54.02,2:43:58.76,辉中,,0,0,0,,因此 在这种引导下 埃比一路西行前往水族馆
+Dialogue: 2,2:43:54.02,2:43:58.76,辉英,,0,0,0,,And so it's with this guidance that Abby heads west to try to get to the aquarium,
+Dialogue: 1,2:43:58.76,2:44:00.56,辉中,,0,0,0,,她认为欧文就藏在那里
+Dialogue: 2,2:43:58.76,2:44:00.56,辉英,,0,0,0,,where she thinks Owen is hiding out.
+Dialogue: 1,2:44:00.56,2:44:05.72,辉中,,0,0,0,,她想和欧文谈谈 因为她需要弄清楚他到底为什么要枪杀丹尼
+Dialogue: 2,2:44:00.56,2:44:05.72,辉英,,0,0,0,,She wants to speak to Owen because she needs to figure out why exactly he shot Danny,
+Dialogue: 1,2:44:05.72,2:44:08.72,辉中,,0,0,0,,以及故事是否还有反转
+Dialogue: 2,2:44:05.72,2:44:08.72,辉英,,0,0,0,,and whether or not there's two sides to the story.
+Dialogue: 1,2:44:08.72,2:44:10.91,辉中,,0,0,0,,在这个相对平静的游戏内容中
+Dialogue: 2,2:44:08.72,2:44:10.91,辉英,,0,0,0,,Throughout this relatively calm sequence,
+Dialogue: 1,2:44:10.91,2:44:15.50,辉中,,0,0,0,,你主要是在收集弹药、探索建筑、找找收集品
+Dialogue: 2,2:44:10.91,2:44:15.50,辉英,,0,0,0,,you're mostly collecting ammo and exploring buildings, grabbing some collectibles.
+Dialogue: 1,2:44:15.50,2:44:18.88,辉中,,0,0,0,,这真的是暴风雨前的平静 因为在这之后
+Dialogue: 2,2:44:15.50,2:44:18.88,辉英,,0,0,0,,This really is the calm before the storm because after this
+Dialogue: 1,2:44:18.88,2:44:22.76,辉中,,0,0,0,,游戏就真的开始全程高能直到结尾
+Dialogue: 2,2:44:18.88,2:44:22.76,辉英,,0,0,0,,is when the game is really going to pick up and carry through to the final act.
+Dialogue: 1,2:44:22.76,2:44:27.38,辉中,,0,0,0,,而这个高能就是从埃比爬入墙缝里的时候开始的
+Dialogue: 2,2:44:22.76,2:44:27.38,辉英,,0,0,0,,And this descent into chaos begins when Abby's climbing through a crack in the wall.
+Dialogue: 1,2:44:27.38,2:44:29.39,辉中,,0,0,0,,呃……然后就……
+Dialogue: 2,2:44:27.38,2:44:29.39,辉英,,0,0,0,,And well, this happens.
+Dialogue: 1,2:44:30.68,2:44:32.70,辉中 Script,,0,0,0,,埃比：该死！
+Dialogue: 1,2:44:55.52,2:44:59.84,辉中,,0,0,0,,我真的很喜欢这种“你安全了……吗？”的设计
+Dialogue: 2,2:44:55.52,2:44:59.84,辉英,,0,0,0,,I love these you-are-not-safe moments, I really do.
+Dialogue: 1,2:44:59.84,2:45:04.79,辉中,,0,0,0,,就像之前提到的 艾莉在工作台升级武器的时候被偷袭
+Dialogue: 2,2:44:59.84,2:45:04.79,辉英,,0,0,0,,As we mentioned earlier, Ellie actually gets jumped while she's adjusting weapons,
+Dialogue: 1,2:45:04.79,2:45:07.99,辉中,,0,0,0,,就像之前提到的 艾莉在工作台升级武器的时候被偷袭
+Dialogue: 2,2:45:04.79,2:45:07.99,辉英,,0,0,0,,and you're upgrading abilities at a workbench.
+Dialogue: 1,2:45:07.99,2:45:13.49,辉中,,0,0,0,,而现在埃比在一个看上去很隐蔽的、让你以为游戏在读条的空间里
+Dialogue: 2,2:45:07.99,2:45:13.49,辉英,,0,0,0,,And now Abby while you're in what is presumed to be a covered, loading space,
+Dialogue: 1,2:45:13.49,2:45:15.00,辉中,,0,0,0,,也被突然吓了一跳
+Dialogue: 2,2:45:13.49,2:45:15.00,辉英,,0,0,0,,and Abby even gets jumped.
+Dialogue: 1,2:45:15.00,2:45:19.76,辉中,,0,0,0,,我……我真的感觉这太爽了 可能我算是这样想的少数人吧
+Dialogue: 2,2:45:15.00,2:45:19.76,辉英,,0,0,0,,I just, I think it's so cool, I… I know that maybe I'm in the minority with this,
+Dialogue: 1,2:45:19.76,2:45:22.07,辉中,,0,0,0,,但我真的感觉这样很有观感
+Dialogue: 2,2:45:19.76,2:45:22.07,辉英,,0,0,0,,but I really do think that it's cool to see.
 Dialogue: 1,2:45:22.07,2:45:26.84,辉中,,0,0,0,,这也让我回想起艾莉和乔尔之前的片段 两人在墙缝中缓缓前行时
 Dialogue: 2,2:45:22.07,2:45:26.84,辉英,,0,0,0,,This also reminded me of a flashback when Ellie and Joel were climbing through a crack in the wall,
 Dialogue: 0,2:45:26.84,2:45:30.38,辉注,,0,0,0,,原文有口误 是巨无霸不是循声者（Clicker）
@@ -4582,75 +4936,142 @@ Dialogue: 1,2:45:26.84,2:45:30.38,辉中,,0,0,0,,巨无霸把墙里的艾莉一�
 Dialogue: 2,2:45:26.84,2:45:30.38,辉英,,0,0,0,,and the Clicker punched through the wall, pulling Ellie out,
 Dialogue: 1,2:45:30.38,2:45:32.09,辉中,,0,0,0,,引发接下来的Boss战
 Dialogue: 2,2:45:30.38,2:45:32.09,辉英,,0,0,0,,and it starts in many boss fight.
-Dialogue: 1,2:45:32.09,2:45:36.92,辉中,,0,0,0,,Maybe it's a similarly between Abby and Ellie to make you think of them as relatable and similar.
-Dialogue: 1,2:45:36.92,2:45:39.29,辉中,,0,0,0,,But perhaps I'm reading too much into it.
-Dialogue: 1,2:45:39.29,2:45:43.84,辉中,,0,0,0,,At the end of the level you come upon a checkpoint from the initial quarantine.
-Dialogue: 1,2:45:54.86,2:45:59.42,辉中,,0,0,0,,There's a shrine set up here dedicated to the profit of the Seraphites cult.
-Dialogue: 1,2:45:59.42,2:46:05.78,辉中,,0,0,0,,There's also all of these notes surrounding the shrine that are asking her for various things,
-Dialogue: 1,2:46:05.78,2:46:07.73,辉中,,0,0,0,,and I think it makes the player realize
-Dialogue: 1,2:46:07.73,2:46:12.08,辉中,,0,0,0,,just how different the Seraphites are from the WLF and in turn Ellie.
-Dialogue: 1,2:46:12.08,2:46:17.21,辉中,,0,0,0,,Now we never get to see or meet the Prophetess, which I actually like,
-Dialogue: 1,2:46:17.21,2:46:21.68,辉中,,0,0,0,,similar to how we don't end up having a major boss fight or clash with Isaac,
-Dialogue: 1,2:46:21.68,2:46:24.77,辉中,,0,0,0,,something I think video games are definitely guilty of doing
-Dialogue: 1,2:46:24.77,2:46:27.35,辉中,,0,0,0,,whenever there's a notable character introduced.
-Dialogue: 1,2:46:27.35,2:46:30.83,辉中,,0,0,0,,If you see a bad guy introduced to the story at some point,
-Dialogue: 1,2:46:30.83,2:46:35.24,辉中,,0,0,0,,chances are you're going to have some sort of boss fight with him or her.
-Dialogue: 1,2:46:35.24,2:46:37.94,辉中,,0,0,0,,Otherwise they wouldn't have been introduced in the first place.
-Dialogue: 1,2:46:37.94,2:46:41.75,辉中,,0,0,0,,And maybe I'm alone, but I really appreciate that Naughty Dog bucked this trend
-Dialogue: 1,2:46:41.75,2:46:44.92,辉中,,0,0,0,,and made sure that these characters stood by themselves
-Dialogue: 1,2:46:44.92,2:46:48.84,辉中,,0,0,0,,and simply turn them into a trophy on your Playstation achievements list.
-Dialogue: 1,2:46:48.84,2:46:50.40,辉中,,0,0,0,,Now speaking of the Prophetess,
-Dialogue: 1,2:46:50.40,2:46:54.93,辉中,,0,0,0,,or as she's more commonly referred to in the game, just "the Prophet",
-Dialogue: 1,2:46:54.93,2:46:57.89,辉中,,0,0,0,,we don't actually get to find out a lot about her.
-Dialogue: 1,2:46:57.89,2:47:02.03,辉中,,0,0,0,,I did a lot of digging to try to figure out who this lady actually was,
-Dialogue: 1,2:47:02.03,2:47:08.15,辉中,,0,0,0,,and I say WAS because it's implied that she actually was killed before the events of this second game.
-Dialogue: 1,2:47:08.15,2:47:13.46,辉中,,0,0,0,,You see, it seems that soon after the outbreak and Seattle fell into absolute chaos,
-Dialogue: 1,2:47:13.46,2:47:17.24,辉中,,0,0,0,,this woman arose as the leader of a small cult.
-Dialogue: 1,2:47:17.24,2:47:22.15,辉中,,0,0,0,,She claimed that the infection was effectively a punishment on humanity
-Dialogue: 1,2:47:22.15,2:47:24.80,辉中,,0,0,0,,for their overreliance on technology.
+Dialogue: 1,2:45:32.09,2:45:36.92,辉中,,0,0,0,,可能这也是一处类比让你感觉两人是相似的 有关联的吧
+Dialogue: 2,2:45:32.09,2:45:36.92,辉英,,0,0,0,,Maybe it's a similarly between Abby and Ellie to make you think of them as relatable and similar.
+Dialogue: 1,2:45:36.92,2:45:39.29,辉中,,0,0,0,,但也可能是我过度解读了
+Dialogue: 2,2:45:36.92,2:45:39.29,辉英,,0,0,0,,But perhaps I'm reading too much into it.
+Dialogue: 1,2:45:39.29,2:45:43.84,辉中,,0,0,0,,在关卡的最后 你会遇到当年隔离区的一个检查点
+Dialogue: 2,2:45:39.29,2:45:43.84,辉英,,0,0,0,,At the end of the level you come upon a checkpoint from the initial quarantine.
+Dialogue: 0,2:45:40.30,2:45:41.93,辉中 Script,,0,0,0,,埃比：烈士之门……
+Dialogue: 0,2:45:42.40,2:45:45.96,辉中 Script,,0,0,0,,停站期已经结束，但你们还是不停过来……
+Dialogue: 0,2:45:52.50,2:45:53.53,辉中 Script,,0,0,0,,哇哦……
+Dialogue: 0,2:45:59.95,2:46:11.56,辉中 Script,,400,0,200,,{\fade(300,300)\fs50\an1}先知大人：\N\N{\s1}我请求您赐予我 请求您赐予我{\s0}\N\N也许我所求的是天方夜谭，但我必须请求您：用您的洞察力、\N您的智慧和您的仁爱祝福狼，让他们放弃自私的行为，放下武\N器。希望您给世界带来和平。
+Dialogue: 1,2:45:54.86,2:45:59.42,辉中,,0,0,0,,这里设置了一个神龛 专门用来供奉赛拉菲特教的先知大人
+Dialogue: 2,2:45:54.86,2:45:59.42,辉英,,0,0,0,,There's a shrine set up here dedicated to the Prophet of the Seraphites cult.
+Dialogue: 1,2:45:59.42,2:46:05.78,辉中,,0,0,0,,神龛周围还有各种纸条 都在向她索要各种东西
+Dialogue: 2,2:45:59.42,2:46:05.78,辉英,,0,0,0,,There's also all of these notes surrounding the shrine that are asking her for various things,
+Dialogue: 1,2:46:05.78,2:46:07.73,辉中,,0,0,0,,我想这让玩家意识到
+Dialogue: 2,2:46:05.78,2:46:07.73,辉英,,0,0,0,,and I think it makes the player realize
+Dialogue: 1,2:46:07.73,2:46:12.08,辉中,,0,0,0,,赛拉菲特帮与WLF有多大的不同 艾莉也同样意识到了这一点
+Dialogue: 2,2:46:07.73,2:46:12.08,辉英,,0,0,0,,just how different the Seraphites are from the WLF and in turn Ellie.
+Dialogue: 1,2:46:12.08,2:46:17.21,辉中,,0,0,0,,现在我们还未见到过这位女先知 实际上我喜欢这样的设定
+Dialogue: 2,2:46:12.08,2:46:17.21,辉英,,0,0,0,,Now we never get to see or meet the Prophetess, which I actually like,
+Dialogue: 1,2:46:17.21,2:46:21.68,辉中,,0,0,0,,就像我们最终也没有和伊萨克有过boss战
+Dialogue: 2,2:46:17.21,2:46:21.68,辉英,,0,0,0,,similar to how we don't end up having a major boss fight or clash with Isaac,
+Dialogue: 1,2:46:21.68,2:46:27.35,辉中,,0,0,0,,放到一般游戏 介绍了这样的大人物却什么都不做简直是大罪过
+Dialogue: 2,2:46:21.68,2:46:24.77,辉英,,0,0,0,,something I think video games are definitely guilty of doing
+Dialogue: 2,2:46:24.77,2:46:27.35,辉英,,0,0,0,,whenever there's a notable character introduced.
+Dialogue: 1,2:46:27.35,2:46:30.83,辉中,,0,0,0,,如果玩家看到游戏中介绍了某个大坏蛋
+Dialogue: 2,2:46:27.35,2:46:30.83,辉英,,0,0,0,,If you see a bad guy introduced to the story at some point,
+Dialogue: 0,2:46:28.26,2:46:36.45,辉中 Script,,400,0,400,,{\fade(300,300)\fs50\an1}先知大人：\N\N我想要的不多，我的请求很简单。但是我双手笨拙，无法为我\N们村子做出贡献：修补、锻造和建造。我请求您赐予我这些能\N力，让我更有效率，更受人尊重。
+Dialogue: 1,2:46:30.83,2:46:35.24,辉中,,0,0,0,,那你很可能会和ta打一场boss战
+Dialogue: 2,2:46:30.83,2:46:35.24,辉英,,0,0,0,,chances are you're going to have some sort of boss fight with him or her.
+Dialogue: 1,2:46:35.24,2:46:37.94,辉中,,0,0,0,,否则最开始就不会介绍这个人
+Dialogue: 2,2:46:35.24,2:46:37.94,辉英,,0,0,0,,Otherwise they wouldn't have been introduced in the first place.
+Dialogue: 1,2:46:37.94,2:46:41.75,辉中,,0,0,0,,可能只有我这样想吧 但我真的很高兴顽皮狗能打破这个常规
+Dialogue: 2,2:46:37.94,2:46:41.75,辉英,,0,0,0,,And maybe I'm alone, but I really appreciate that Naughty Dog bucked this trend
+Dialogue: 1,2:46:41.75,2:46:44.92,辉中,,0,0,0,,这些角色还是他们自己
+Dialogue: 2,2:46:41.75,2:46:44.92,辉英,,0,0,0,,and made sure that these characters stood by themselves
+Dialogue: 1,2:46:44.92,2:46:48.84,辉中,,0,0,0,,只是偶尔会放进Playstation的奖杯列表里
+Dialogue: 2,2:46:44.92,2:46:48.84,辉英,,0,0,0,,and simply turn them into a trophy on your Playstation achievements list.
+Dialogue: 1,2:46:48.84,2:46:50.40,辉中,,0,0,0,,现在说到这个女先知
+Dialogue: 2,2:46:48.84,2:46:50.40,辉英,,0,0,0,,Now speaking of the Prophetess,
+Dialogue: 1,2:46:50.40,2:46:54.93,辉中,,0,0,0,,或者游戏中更多人只是叫她“先知”
+Dialogue: 2,2:46:50.40,2:46:54.93,辉英,,0,0,0,,or as she's more commonly referred to in the game, just "the Prophet",
+Dialogue: 1,2:46:54.93,2:46:57.89,辉中,,0,0,0,,我们实际上并没有发现很多关于她的事情
+Dialogue: 2,2:46:54.93,2:46:57.89,辉英,,0,0,0,,we don't actually get to find out a lot about her.
+Dialogue: 1,2:46:57.89,2:47:02.03,辉中,,0,0,0,,我做了很多调查 试图弄清楚这位女士曾经究竟是谁
+Dialogue: 2,2:46:57.89,2:47:02.03,辉英,,0,0,0,,I did a lot of digging to try to figure out who this lady actually was,
+Dialogue: 1,2:47:02.03,2:47:08.15,辉中,,0,0,0,,我说“曾经” 因为游戏暗示她实际上在二代游戏故事之前就已经遇害了
+Dialogue: 2,2:47:02.03,2:47:08.15,辉英,,0,0,0,,and I say WAS because it's implied that she actually was killed before the events of this second game.
+Dialogue: 1,2:47:08.15,2:47:13.46,辉中,,0,0,0,,似乎在疫情爆发 西雅图陷入一片混乱后不久
+Dialogue: 2,2:47:08.15,2:47:13.46,辉英,,0,0,0,,You see, it seems that soon after the outbreak and Seattle fell into absolute chaos,
+Dialogue: 1,2:47:13.46,2:47:17.24,辉中,,0,0,0,,这位女士就成为了一个小型邪教团体的领袖
+Dialogue: 2,2:47:13.46,2:47:17.24,辉英,,0,0,0,,this woman arose as the leader of a small cult.
+Dialogue: 1,2:47:17.24,2:47:22.15,辉中,,0,0,0,,她宣称虫草菌实际上是对人类过度依赖科学技术的惩罚
+Dialogue: 2,2:47:17.24,2:47:22.15,辉英,,0,0,0,,She claimed that the infection was effectively a punishment on humanity
+Dialogue: 1,2:47:22.15,2:47:24.80,辉中,,0,0,0,,她宣称虫草菌实际上是对人类过度依赖科学技术的惩罚
+Dialogue: 2,2:47:22.15,2:47:24.80,辉英,,0,0,0,,for their overreliance on technology.
 Dialogue: 1,2:47:24.80,2:47:32.36,辉中,,0,0,0,,因此 她自然而然地规定她的所有追随者从事长年累月艰苦的体力劳动
 Dialogue: 2,2:47:24.80,2:47:32.36,辉英,,0,0,0,,So naturally she prescribed all of her followers to years and years of hard manual labour,
 Dialogue: 1,2:47:32.36,2:47:38.84,辉中,,0,0,0,,躬耕于田 以符合自然本身的方式生产自己的食物
 Dialogue: 2,2:47:32.36,2:47:38.84,辉英,,0,0,0,,working in the fields to produce their own food in a way that was congruity with nature itself.
-Dialogue: 1,2:47:38.84,2:47:42.47,辉中,,0,0,0,,This obviously lead to a very strict lifestyle for all of the Seraphites,
-Dialogue: 1,2:47:42.47,2:47:45.53,辉中,,0,0,0,,but they were willing to do it because of her guidance.
-Dialogue: 1,2:47:45.53,2:47:49.46,辉中,,0,0,0,,However, she died, at some point, somehow.
-Dialogue: 1,2:47:49.46,2:47:54.62,辉中,,0,0,0,,As far as I could find, there's never a mention of exactly how she died.
-Dialogue: 1,2:47:54.62,2:47:58.61,辉中,,0,0,0,,If you came across something, please comment down below, I would love to know.
-Dialogue: 1,2:47:58.61,2:48:02.21,辉中,,0,0,0,,But in all of my digging in my multiple runthroughs of the game,
-Dialogue: 1,2:48:02.21,2:48:06.47,辉中,,0,0,0,,I couldn't find anything detailing specifically how she died.
-Dialogue: 1,2:48:06.47,2:48:08.72,辉中,,0,0,0,,What we do know is that soon after she died,
-Dialogue: 1,2:48:08.72,2:48:12.34,辉中,,0,0,0,,a bunch of other elders in the church of the Seraphites
-Dialogue: 1,2:48:12.34,2:48:19.79,辉中,,0,0,0,,took over and started ramping up the critical element of the cult, which was control.
-Dialogue: 1,2:48:19.79,2:48:24.32,辉中,,0,0,0,,Naturally, many of the new leaders started to fall into corrupt states.
-Dialogue: 1,2:48:24.32,2:48:29.36,辉中,,0,0,0,,They started to hog more food, they started to control different territories,
-Dialogue: 1,2:48:29.36,2:48:30.59,辉中,,0,0,0,,and before they knew it,
-Dialogue: 1,2:48:30.59,2:48:34.82,辉中,,0,0,0,,the Seraphites cult wasn't about living incongruity with nature,
-Dialogue: 1,2:48:34.82,2:48:41.75,辉中,,0,0,0,,but rather was much more about control and strict adherence to the guidance and dictum of the elders.
-Dialogue: 1,2:48:41.75,2:48:44.48,辉中,,0,0,0,,This is an interesting choice by Naughty Dogs riders.
-Dialogue: 1,2:48:44.48,2:48:50.42,辉中,,0,0,0,,Specifically because it makes it so that the Seraphites followers are much more relatable and sympathetic.
-Dialogue: 1,2:48:50.42,2:48:51.72,辉中,,0,0,0,,Whenever you feel as though
-Dialogue: 1,2:48:51.72,2:48:57.38,辉中,,0,0,0,,they're employing some very animalistic and barbarian tactic to achieve a certain ends,
-Dialogue: 1,2:48:57.38,2:49:03.11,辉中,,0,0,0,,such as gutting somebody to release them into the heavens for some reason,
-Dialogue: 1,2:49:03.11,2:49:05.92,辉中,,0,0,0,,you can always fall back and partially excuse it
-Dialogue: 1,2:49:05.92,2:49:10.94,辉中,,0,0,0,,because these are people simply following directions that they believe are coming from on high.
-Dialogue: 1,2:49:10.94,2:49:15.94,辉中,,0,0,0,,Most of the Seraphites aren't viciously evil and despicable people
-Dialogue: 1,2:49:15.94,2:49:19.31,辉中,,0,0,0,,trying to do despicable things because they enjoy it.
-Dialogue: 1,2:49:19.31,2:49:25.10,辉中,,0,0,0,,Rather, they're people simply trying to survive in a world that's really really messed up.
-Dialogue: 1,2:49:25.10,2:49:28.16,辉中,,0,0,0,,and it's no mystery that this is set up right around the time
-Dialogue: 1,2:49:28.16,2:49:35.39,辉中,,0,0,0,,when Abby is starting to feel sympathy towards members, or in this case, former members of the cult.
-Dialogue: 1,2:49:35.39,2:49:37.88,辉中,,0,0,0,,Again this game is all about perspectives.
-Dialogue: 1,2:49:37.88,2:49:40.33,辉中,,0,0,0,,And it's all about trying to get you to sympathise
-Dialogue: 1,2:49:40.33,2:49:44.28,辉中,,0,0,0,,with people that you didn't think you could possibly sympathize with before.
-Dialogue: 1,2:49:44.28,2:49:47.93,辉中,,0,0,0,,The point is, the Prophet is a very interesting character,
-Dialogue: 1,2:49:47.93,2:49:53.36,辉中,,0,0,0,,specifically considering the control that she seems to have over the Seraphites.
-Dialogue: 1,2:49:53.36,2:49:58.16,辉中,,0,0,0,,However, without many details on exactly when she died or how she died,
-Dialogue: 1,2:49:58.16,2:50:01.52,辉中,,0,0,0,,it's unclear at just how long she's been gone.
-Dialogue: 1,2:50:01.52,2:50:04.82,辉中,,0,0,0,,It would be one thing if she had been dead for just a few years,
-Dialogue: 1,2:50:04.82,2:50:07.28,辉中,,0,0,0,,and this is what starting to ramp up.
-Dialogue: 1,2:50:07.28,2:50:12.29,辉中,,0,0,0,,But it's an entirely another case for her to have been dead for ten or fifteen years,
-Dialogue: 1,2:50:12.29,2:50:18.62,辉中,,0,0,0,,leading to over a decade of power struggles, which eventually bred this new, morphed cult.
-Dialogue: 1,2:50:18.62,2:50:21.83,辉中,,0,0,0,,Regardless, I think the Seraphites are fairly interesting.
+Dialogue: 1,2:47:38.84,2:47:42.47,辉中,,0,0,0,,这显然也导致了赛拉菲特帮严格的生活方式
+Dialogue: 2,2:47:38.84,2:47:42.47,辉英,,0,0,0,,This obviously lead to a very strict lifestyle for all of the Seraphites,
+Dialogue: 1,2:47:42.47,2:47:45.53,辉中,,0,0,0,,而他们愿意追随女先知的指引 愿意这样做
+Dialogue: 2,2:47:42.47,2:47:45.53,辉英,,0,0,0,,but they were willing to do it because of her guidance.
+Dialogue: 1,2:47:45.53,2:47:49.46,辉中,,0,0,0,,然后 在某个时刻 因为某种原因 她死了
+Dialogue: 2,2:47:45.53,2:47:49.46,辉英,,0,0,0,,However, she died, at some point, somehow.
+Dialogue: 1,2:47:49.46,2:47:54.62,辉中,,0,0,0,,就我所知 没有人提到她到底是怎么死的
+Dialogue: 2,2:47:49.46,2:47:54.62,辉英,,0,0,0,,As far as I could find, there's never a mention of exactly how she died.
+Dialogue: 1,2:47:54.62,2:47:58.61,辉中,,0,0,0,,如果你发现了什么 欢迎在评论区告诉我 我很想听听
+Dialogue: 2,2:47:54.62,2:47:58.61,辉英,,0,0,0,,If you came across something, please comment down below, I would love to know.
+Dialogue: 1,2:47:58.61,2:48:02.21,辉中,,0,0,0,,但我在游戏中多次深挖后
+Dialogue: 2,2:47:58.61,2:48:02.21,辉英,,0,0,0,,But in all of my digging in my multiple runthroughs of the game,
+Dialogue: 1,2:48:02.21,2:48:06.47,辉中,,0,0,0,,还是无法找到任何详细说明她具体如何死亡的资料
+Dialogue: 2,2:48:02.21,2:48:06.47,辉英,,0,0,0,,I couldn't find anything detailing specifically how she died.
+Dialogue: 1,2:48:06.47,2:48:08.72,辉中,,0,0,0,,我们知道的是 在她死后不久
+Dialogue: 2,2:48:06.47,2:48:08.72,辉英,,0,0,0,,What we do know is that soon after she died,
+Dialogue: 1,2:48:08.72,2:48:13.31,辉中,,0,0,0,,赛拉菲特教会的其他长老接管了大权
+Dialogue: 2,2:48:08.72,2:48:13.31,辉英,,0,0,0,,a bunch of other elders in the church of the Seraphites took over
+Dialogue: 1,2:48:13.31,2:48:19.79,辉中,,0,0,0,,并开始加强邪教的关键因素——对人的控制
+Dialogue: 2,2:48:13.31,2:48:19.79,辉英,,0,0,0,,and started ramping up the critical element of the cult, which was control.
+Dialogue: 1,2:48:19.79,2:48:24.32,辉中,,0,0,0,,自然 许多新掌权者开始陷入腐败状态
+Dialogue: 2,2:48:19.79,2:48:24.32,辉英,,0,0,0,,Naturally, many of the new leaders started to fall into corrupt states.
+Dialogue: 1,2:48:24.32,2:48:29.36,辉中,,0,0,0,,他们开始霸占更多的食物 开始控制不同的领土
+Dialogue: 2,2:48:24.32,2:48:29.36,辉英,,0,0,0,,They started to hog more food, they started to control different territories,
+Dialogue: 1,2:48:29.36,2:48:30.59,辉中,,0,0,0,,而在教徒们发现之前
+Dialogue: 2,2:48:29.36,2:48:30.59,辉英,,0,0,0,,and before they knew it,
+Dialogue: 1,2:48:30.59,2:48:34.82,辉中,,0,0,0,,赛拉菲特帮崇拜的就已经不是与自然不协调的生活
+Dialogue: 2,2:48:30.59,2:48:34.82,辉英,,0,0,0,,the Seraphites cult wasn't about living incongruity with nature,
+Dialogue: 1,2:48:34.82,2:48:41.75,辉中,,0,0,0,,而是越来越多对人思想的控制 与对长老命令的严格遵守
+Dialogue: 2,2:48:34.82,2:48:41.75,辉英,,0,0,0,,but rather was much more about control and strict adherence to the guidance and dictum of the elders.
+Dialogue: 1,2:48:41.75,2:48:44.48,辉中,,0,0,0,,这是顽皮狗编剧们的一个有趣的设定
+Dialogue: 2,2:48:41.75,2:48:44.48,辉英,,0,0,0,,This is an interesting choice by Naughty Dogs writers.
+Dialogue: 1,2:48:44.48,2:48:50.42,辉中,,0,0,0,,特别是由于其让赛拉菲特教徒更加让人同情
+Dialogue: 2,2:48:44.48,2:48:50.42,辉英,,0,0,0,,Specifically because it makes it so that the Seraphites followers are much more relatable and sympathetic.
+Dialogue: 1,2:48:50.42,2:48:51.72,辉中,,0,0,0,,每当你觉得
+Dialogue: 2,2:48:50.42,2:48:51.72,辉英,,0,0,0,,Whenever you feel as though
+Dialogue: 1,2:48:51.72,2:48:57.38,辉中,,0,0,0,,他们为了达到某种目的而采用了一些非常禽兽、野蛮的手段
+Dialogue: 2,2:48:51.72,2:48:57.38,辉英,,0,0,0,,they're employing some very animalistic and barbarian tactic to achieve a certain ends,
+Dialogue: 1,2:48:57.38,2:49:03.11,辉中,,0,0,0,,比如将人开膛破肚是为了让他升上天堂之类的
+Dialogue: 2,2:48:57.38,2:49:03.11,辉英,,0,0,0,,such as gutting somebody to release them into the heavens for some reason,
+Dialogue: 1,2:49:03.11,2:49:05.92,辉中,,0,0,0,,你总是可以回头借口说是这一切是有原因的
+Dialogue: 2,2:49:03.11,2:49:05.92,辉英,,0,0,0,,you can always fall back and partially excuse it
+Dialogue: 1,2:49:05.92,2:49:10.94,辉中,,0,0,0,,因为这些人只是遵循他们认为的来自宗教高层的指示
+Dialogue: 2,2:49:05.92,2:49:10.94,辉英,,0,0,0,,because these are people simply following directions that they believe are coming from on high.
+Dialogue: 1,2:49:10.94,2:49:19.31,辉中,,0,0,0,,大多数赛拉菲特教徒不是因为喜欢就去做一些罪大恶极的事情的大恶人
+Dialogue: 2,2:49:10.94,2:49:15.94,辉英,,0,0,0,,Most of the Seraphites aren't viciously evil and despicable people
+Dialogue: 2,2:49:15.94,2:49:19.31,辉英,,0,0,0,,trying to do despicable things because they enjoy it.
+Dialogue: 1,2:49:19.31,2:49:25.10,辉中,,0,0,0,,相反 他们只是试图在这样一个礼坏乐崩的世界中谋求生存的受害者
+Dialogue: 2,2:49:19.31,2:49:25.10,辉英,,0,0,0,,Rather, they're people simply trying to survive in a world that's really really messed up.
+Dialogue: 1,2:49:25.10,2:49:28.16,辉中,,0,0,0,,玩家这样的一个思想观点刚好是在
+Dialogue: 2,2:49:25.10,2:49:28.16,辉英,,0,0,0,,and it's no mystery that this is set up right around the time
+Dialogue: 1,2:49:28.16,2:49:35.39,辉中,,0,0,0,,埃比开始对之前邪教的成员感到同情的时间点建立起来的
+Dialogue: 2,2:49:28.16,2:49:35.39,辉英,,0,0,0,,when Abby is starting to feel sympathy towards members, or in this case, former members of the cult.
+Dialogue: 1,2:49:35.39,2:49:37.88,辉中,,0,0,0,,再次强调 整部游戏都是关于视角的
+Dialogue: 2,2:49:35.39,2:49:37.88,辉英,,0,0,0,,Again this game is all about perspectives.
+Dialogue: 1,2:49:37.88,2:49:40.91,辉中,,0,0,0,,它的目的是试图让你同情那些你以前认为自己不可能同情的人
+Dialogue: 2,2:49:37.88,2:49:40.91,辉英,,0,0,0,,And it's all about trying to get you to sympathize with people 
+Dialogue: 1,2:49:40.91,2:49:44.28,辉中,,0,0,0,,它的目的是试图让你同情那些你以前认为自己不可能同情的人
+Dialogue: 2,2:49:40.91,2:49:44.28,辉英,,0,0,0,,that you didn't think you could possibly sympathize with before.
+Dialogue: 1,2:49:44.28,2:49:47.93,辉中,,0,0,0,,重点是 先知是一个非常有趣的角色
+Dialogue: 2,2:49:44.28,2:49:47.93,辉英,,0,0,0,,The point is, the Prophet is a very interesting character,
+Dialogue: 1,2:49:47.93,2:49:53.36,辉中,,0,0,0,,特别是考虑到她对赛拉菲特教徒思想上的控制
+Dialogue: 2,2:49:47.93,2:49:53.36,辉英,,0,0,0,,specifically considering the control that she seems to have over the Seraphites.
+Dialogue: 1,2:49:53.36,2:49:58.16,辉中,,0,0,0,,然而由于没有太多关于何时死亡或如何死亡的细节
+Dialogue: 2,2:49:53.36,2:49:58.16,辉英,,0,0,0,,However, without many details on exactly when she died or how she died,
+Dialogue: 1,2:49:58.16,2:50:01.52,辉中,,0,0,0,,我们不清楚她究竟死了多久
+Dialogue: 2,2:49:58.16,2:50:01.52,辉英,,0,0,0,,it's unclear at just how long she's been gone.
+Dialogue: 1,2:50:01.52,2:50:04.82,辉中,,0,0,0,,如果她只死了几年 那是一回事
+Dialogue: 2,2:50:01.52,2:50:04.82,辉英,,0,0,0,,It would be one thing if she had been dead for just a few years,
+Dialogue: 1,2:50:04.82,2:50:07.28,辉中,,0,0,0,,而这个时间可以慢慢往上加
+Dialogue: 2,2:50:04.82,2:50:07.28,辉英,,0,0,0,,and this is what's starting to ramp up.
+Dialogue: 1,2:50:07.28,2:50:12.29,辉中,,0,0,0,,但如果她已经死了十年十五年 导致了十多年的权力斗争
+Dialogue: 2,2:50:07.28,2:50:12.29,辉英,,0,0,0,,But it's an entirely another case for her to have been dead for ten or fifteen years,
+Dialogue: 1,2:50:12.29,2:50:18.62,辉中,,0,0,0,,最终滋生了这样病态的邪教 那就完全是另一回事了
+Dialogue: 2,2:50:12.29,2:50:18.62,辉英,,0,0,0,,leading to over a decade of power struggles, which eventually bred this new, morphed cult.
+Dialogue: 1,2:50:18.62,2:50:21.83,辉中,,0,0,0,,总之 我觉得赛拉菲特帮的设定还是挺有意思的\NRegardless, I think the Seraphites are fairly interesting.
 Dialogue: 1,2:50:21.83,2:50:25.81,辉中,,0,0,0,,At the very least they are a little bit different and they offer a fresh perspective
 Dialogue: 1,2:50:25.81,2:50:31.04,辉中,,0,0,0,,on how a group of people might go about surviving in a world that's this messed up.
 Dialogue: 1,2:50:31.04,2:50:36.84,辉中,,0,0,0,,I especially like it because so often these types of narratives are completely drowned out
@@ -4993,6 +5414,19 @@ Dialogue: 1,3:14:32.45,3:14:37.85,辉中,,0,0,0,,the two get into an industrial 
 Dialogue: 1,3:14:37.85,3:14:41.83,辉中,,0,0,0,,Now, if you remember from earlier Abby's worst nightmare is heights.
 Dialogue: 1,3:14:41.83,3:14:46.86,辉中,,0,0,0,,Here, Lev actually shares a bit of sweet advice to try and take out his mind off of the terror
 Dialogue: 1,3:14:46.86,3:14:50.36,辉中,,0,0,0,,that she feels due to the enormous and ever increasing heights.
+Dialogue: 1,3:14:50.78,3:14:53.25,辉中 Script,,0,0,0,,勒弗：能给你一些建议吗？
+Dialogue: 1,3:14:52.25,3:14:55.25,辉中 Script,,0,0,0,,埃比：天哪……
+Dialogue: 1,3:14:54.99,3:14:58.11,辉中 Script,,0,0,0,,勒弗：就……想想关于恐惧的好的一面。
+Dialogue: 1,3:14:57.20,3:14:59.01,辉中 Script,,0,0,0,,埃比：好的一面？
+Dialogue: 1,3:14:59.61,3:15:01.85,辉中 Script,,0,0,0,,勒弗：比如说……你会跑得更快。
+Dialogue: 1,3:15:02.05,3:15:03.28,辉中 Script,,0,0,0,,你的注意力会更集中。
+Dialogue: 1,3:15:02.61,3:15:04.45,辉中 Script,,0,0,0,,埃比：他妈的。
+Dialogue: 1,3:15:04.45,3:15:06.11,辉中 Script,,0,0,0,,勒弗：你不会感觉到疼痛。
+Dialogue: 1,3:15:08.31,3:15:09.65,辉中 Script,,0,0,0,,所有的负面感觉……
+Dialogue: 1,3:15:09.98,3:15:12.78,辉中 Script,,0,0,0,,手心冒汗，心跳加速……
+Dialogue: 1,3:15:13.21,3:15:15.38,辉中 Script,,0,0,0,,都是你变得更强的信号。
+Dialogue: 1,3:15:17.81,3:15:22.81,辉中 Script,,0,0,0,,所以当你感到害怕时，你应该想想你的身体\N是如何为即将到来的事情做好准备。
+Dialogue: 1,3:15:23.98,3:15:26.98,辉中 Script,,0,0,0,,“虚弱时我们才会发现自己真正的力量。”
 Dialogue: 1,3:15:29.09,3:15:32.18,辉中,,0,0,0,,Now, at the top of the skyscraper, they begin crossing the bridge,
 Dialogue: 1,3:15:32.18,3:15:35.60,辉中,,0,0,0,,which is actually just a partially collapsed crane.
 Dialogue: 1,3:15:35.60,3:15:41.67,辉中,,0,0,0,,This again reaffirms the point that the WLF probably should have seen this crane on a clear day
@@ -5206,15 +5640,15 @@ Dialogue: 1,3:27:56.72,3:28:00.70,辉中,,0,0,0,,by the fact that she starts see
 Dialogue: 1,3:28:00.70,3:28:04.81,辉中,,0,0,0,,Now Abby pushes on and explores the area, trying to find the stuff that she needs,
 Dialogue: 1,3:28:04.81,3:28:09.10,辉中,,0,0,0,,and eventually she reconnects the power and pushes through some locked doors,
 Dialogue: 1,3:28:09.10,3:28:10.09,辉中,,0,0,0,,only to find…
-Dialogue: 0,3:28:13.21,3:28:15.35,辉中 Script,,0,0,0,,谁干的？
+Dialogue: 1,3:28:13.21,3:28:15.35,辉中 Script,,0,0,0,,谁干的？
 Dialogue: 1,3:28:17.59,3:28:20.26,辉中,,0,0,0,,Yeah, the door has been ripped open.
 Dialogue: 1,3:28:20.26,3:28:22.87,辉中,,0,0,0,,There's something really big here, and Abby knows it.
 Dialogue: 1,3:28:22.87,3:28:24.49,辉中,,0,0,0,,However, there is nowhere else to go.
 Dialogue: 1,3:28:24.49,3:28:29.68,辉中,,0,0,0,,So Abby pushes through the tunnel and eventually finds the tools that she needs in an ambulance.
 Dialogue: 1,3:28:29.68,3:28:34.51,辉中,,0,0,0,,But of course, because timing is perfect in every horror situation,
 Dialogue: 1,3:28:34.51,3:28:35.71,辉中,,0,0,0,,this guy comes along.
-Dialogue: 0,3:28:47.98,3:28:48.65,辉中 Script,,0,0,0,,埃比：来吧！
-Dialogue: 0,3:28:50.18,3:28:51.95,辉中 Script,,0,0,0,,快打开，你这个破玩意！
+Dialogue: 1,3:28:47.98,3:28:48.65,辉中 Script,,0,0,0,,埃比：来吧！
+Dialogue: 1,3:28:50.18,3:28:51.95,辉中 Script,,0,0,0,,快打开，你这个破玩意！
 Dialogue: 1,3:28:57.28,3:29:03.22,辉中,,0,0,0,,Yeah, this horrific monstrosity comes out and poses the next boss fight to the player.
 Dialogue: 1,3:29:03.22,3:29:07.33,辉中,,0,0,0,,It's a coagulation of multiple infected and Clickers,
 Dialogue: 1,3:29:07.33,3:29:10.57,辉中,,0,0,0,,and it's pretty disgusting looking,
@@ -5481,25 +5915,25 @@ Dialogue: 1,3:45:13.78,3:45:17.98,辉中,,0,0,0,,and the player has to also deal
 Dialogue: 1,3:45:17.98,3:45:23.68,辉中,,0,0,0,,And now Abby is losing a close friend of hers and is forced to deal with it in the same way.
 Dialogue: 1,3:45:23.68,3:45:25.27,辉中,,0,0,0,,So you start around a little bit.
 Dialogue: 1,3:45:25.27,3:45:26.68,辉中,,0,0,0,,And Abby pushes through the door.
-Dialogue: 0,3:45:49.61,3:45:51.65,辉中 Script,,0,0,0,,雅拉：你没事吧？
-Dialogue: 0,3:45:51.65,3:45:53.88,辉中 Script,,0,0,0,,埃比？
-Dialogue: 0,3:45:53.88,3:45:55.31,辉中 Script,,0,0,0,,埃比：没事。
-Dialogue: 0,3:45:55.31,3:45:57.41,辉中 Script,,0,0,0,,你呢？
-Dialogue: 0,3:45:57.41,3:45:59.93,辉中 Script,,0,0,0,,雅拉：没事。
-Dialogue: 0,3:46:01.52,3:46:02.93,辉中 Script,,0,0,0,,他是谁？
-Dialogue: 0,3:46:02.93,3:46:05.13,辉中 Script,,0,0,0,,埃比：可恶。
-Dialogue: 0,3:46:05.10,3:46:07.00,辉中 Script,,0,0,0,,无所谓了。
-Dialogue: 0,3:46:07.00,3:46:09.06,辉中 Script,,0,0,0,,我们去找勒弗，然后回水族馆。
-Dialogue: 0,3:46:09.06,3:46:11.06,辉中 Script,,0,0,0,,走。我们去坐那艘船。
+Dialogue: 1,3:45:49.61,3:45:51.65,辉中 Script,,0,0,0,,雅拉：你没事吧？
+Dialogue: 1,3:45:51.65,3:45:53.88,辉中 Script,,0,0,0,,埃比？
+Dialogue: 1,3:45:53.88,3:45:55.31,辉中 Script,,0,0,0,,埃比：没事。
+Dialogue: 1,3:45:55.31,3:45:57.41,辉中 Script,,0,0,0,,你呢？
+Dialogue: 1,3:45:57.41,3:45:59.93,辉中 Script,,0,0,0,,雅拉：没事。
+Dialogue: 1,3:46:01.52,3:46:02.93,辉中 Script,,0,0,0,,他是谁？
+Dialogue: 1,3:46:02.93,3:46:05.13,辉中 Script,,0,0,0,,埃比：可恶。
+Dialogue: 1,3:46:05.10,3:46:07.00,辉中 Script,,0,0,0,,无所谓了。
+Dialogue: 1,3:46:07.00,3:46:09.06,辉中 Script,,0,0,0,,我们去找勒弗，然后回水族馆。
+Dialogue: 1,3:46:09.06,3:46:11.06,辉中 Script,,0,0,0,,走。我们去坐那艘船。
 Dialogue: 1,3:46:14.23,3:46:20.20,辉中,,0,0,0,,If you just look on her face, you know, Abby knows who this was.
 Dialogue: 1,3:46:20.20,3:46:25.93,辉中,,0,0,0,,She knows that Tommy is here and that that is very bad.
 Dialogue: 1,3:46:25.93,3:46:31.00,辉中,,0,0,0,,This is especially bad because Manny just said a few moments ago
 Dialogue: 1,3:46:31.00,3:46:32.68,辉中,,0,0,0,,when you were in the interstate,
 Dialogue: 1,3:46:32.68,3:46:38.65,辉中,,0,0,0,,that there's more than one trespassers in town, killing WLF members.
-Dialogue: 0,3:46:38.76,3:46:40.26,辉中 Script,,0,0,0,,曼尼：该死的入侵者！
-Dialogue: 0,3:46:41.10,3:46:42.36,辉中 Script,,0,0,0,,埃比：什么入侵者？
-Dialogue: 0,3:46:43.00,3:46:44.93,辉中 Script,,0,0,0,,曼尼：几天前他们不知道从哪儿冒出来。
-Dialogue: 0,3:46:45.73,3:46:46.96,辉中 Script,,0,0,0,,彻底痛宰了我们！
+Dialogue: 1,3:46:38.76,3:46:40.26,辉中 Script,,0,0,0,,曼尼：该死的入侵者！
+Dialogue: 1,3:46:41.10,3:46:42.36,辉中 Script,,0,0,0,,埃比：什么入侵者？
+Dialogue: 1,3:46:43.00,3:46:44.93,辉中 Script,,0,0,0,,曼尼：几天前他们不知道从哪儿冒出来。
+Dialogue: 1,3:46:45.73,3:46:46.96,辉中 Script,,0,0,0,,彻底痛宰了我们！
 Dialogue: 1,3:46:47.41,3:46:52.96,辉中,,0,0,0,,This means that even if she killed Tommy just now, which is a stretch,
 Dialogue: 1,3:46:52.96,3:46:58.03,辉中,,0,0,0,,there's a lot more people that are in town, killing WLF members.
 Dialogue: 1,3:46:58.03,3:47:02.64,辉中,,0,0,0,,And if Tommy's here, chances are it's other people from Jackson
@@ -5513,10 +5947,10 @@ Dialogue: 1,3:47:29.26,3:47:32.20,辉中,,0,0,0,,Abby and Yara reach the Scars' 
 Dialogue: 1,3:47:32.20,3:47:36.76,辉中,,0,0,0,,Yara takes the lead, and brings Abby into the heart of one of their major camps.
 Dialogue: 1,3:47:36.76,3:47:41.80,辉中,,0,0,0,,And the most interesting thing about this actually is that Yara and Lev still buy into the cult,
 Dialogue: 1,3:47:41.80,3:47:43.87,辉中,,0,0,0,,even though they've rejected the leadership.
-Dialogue: 0,3:47:46.50,3:47:48.90,辉中 Script,,0,0,0,,雅拉：愿她的光芒指引我们穿越风暴。
+Dialogue: 1,3:47:46.50,3:47:48.90,辉中 Script,,0,0,0,,雅拉：愿她的光芒指引我们穿越风暴。
 Dialogue: 1,3:47:50.26,3:47:54.63,辉中 Script,,0,0,0,,埃比：“当你迷失在黑暗中……就去寻找光明。”
-Dialogue: 0,3:47:55.06,3:47:55.93,辉中 Script,,0,0,0,,雅拉：什么意思？
-Dialogue: 0,3:47:56.36,3:47:58.38,辉中 Script,,0,0,0,,埃比：我爸爸以前常说的话。
+Dialogue: 1,3:47:55.06,3:47:55.93,辉中 Script,,0,0,0,,雅拉：什么意思？
+Dialogue: 1,3:47:56.36,3:47:58.38,辉中 Script,,0,0,0,,埃比：我爸爸以前常说的话。
 Dialogue: 1,3:47:58.84,3:48:00.97,辉中,,0,0,0,,And to be honest, I don't really know what to make of this.
 Dialogue: 1,3:48:00.97,3:48:06.07,辉中,,0,0,0,,I've heard stories of people that were involved in cults that get out and still partially believe it,
 Dialogue: 1,3:48:06.07,3:48:09.07,辉中,,0,0,0,,even though they feel as though it was corrupted somewhat.
@@ -5543,28 +5977,28 @@ Dialogue: 1,3:49:22.18,3:49:27.58,辉中,,0,0,0,,While you're doing this, you fi
 Dialogue: 1,3:49:27.58,3:49:29.86,辉中,,0,0,0,,But nonetheless it gives you something to do
 Dialogue: 1,3:49:29.86,3:49:34.15,辉中,,0,0,0,,to shake up the monotony of just walking through sequences in watching small cut scenes.
 Dialogue: 1,3:49:34.15,3:49:37.39,辉中,,0,0,0,,Eventually you come upon the house, and the following scene plays out.
-Dialogue: 0,3:49:37.58,3:49:40.08,辉中 Script,,0,0,0,,雅拉：勒弗？
-Dialogue: 0,3:49:48.68,3:49:51.18,辉中 Script,,0,0,0,,妈妈……
-Dialogue: 0,3:49:53.83,3:49:56.33,辉中 Script,,0,0,0,,哦，谢天谢地。
-Dialogue: 0,3:49:57.13,3:49:59.63,辉中 Script,,0,0,0,,这是她干的？
-Dialogue: 0,3:50:00.13,3:50:02.63,辉中 Script,,0,0,0,,勒弗：我只是想跟她谈谈。
-Dialogue: 0,3:50:03.36,3:50:06.53,辉中 Script,,0,0,0,,我想让她理解我，可是……
-Dialogue: 0,3:50:07.23,3:50:09.73,辉中 Script,,0,0,0,,她不停大叫。
-Dialogue: 0,3:50:10.51,3:50:13.01,辉中 Script,,0,0,0,,然后她开始追我。
-Dialogue: 0,3:50:13.31,3:50:15.31,辉中 Script,,0,0,0,,我想让她停下来。
-Dialogue: 0,3:50:15.31,3:50:16.25,辉中 Script,,0,0,0,,我只是想把她推开……
-Dialogue: 0,3:50:16.25,3:50:18.08,辉中 Script,,0,0,0,,雅拉：嘿、嘿、嘿
-Dialogue: 0,3:50:18.08,3:50:20.58,辉中 Script,,0,0,0,,勒弗：然后她撞到了桌子。
-Dialogue: 0,3:50:20.71,3:50:21.28,辉中 Script,,0,0,0,,雅拉：听着。
-Dialogue: 0,3:50:21.28,3:50:22.78,辉中 Script,,0,0,0,,勒弗：雅拉……
-Dialogue: 0,3:50:22.78,3:50:25.28,辉中 Script,,0,0,0,,雅拉：你是在自卫。
-Dialogue: 0,3:50:25.68,3:50:28.20,辉中 Script,,0,0,0,,你没有做错。
-Dialogue: 0,3:50:33.13,3:50:35.63,辉中 Script,,0,0,0,,不会有事的，我保证。
-Dialogue: 0,3:50:40.40,3:50:42.90,辉中 Script,,0,0,0,,勒弗：我想离开。
-Dialogue: 0,3:50:43.88,3:50:45.31,辉中 Script,,0,0,0,,雅拉：嗯，我也是。
-Dialogue: 0,3:50:45.31,3:50:47.85,辉中 Script,,0,0,0,,走吧
-Dialogue: 0,3:50:52.71,3:50:55.21,辉中 Script,,0,0,0,,埃比：嗨，小家伙。
-Dialogue: 0,3:50:56.88,3:50:58.88,辉中 Script,,0,0,0,,雅拉：走吧。
+Dialogue: 1,3:49:37.58,3:49:40.08,辉中 Script,,0,0,0,,雅拉：勒弗？
+Dialogue: 1,3:49:48.68,3:49:51.18,辉中 Script,,0,0,0,,妈妈……
+Dialogue: 1,3:49:53.83,3:49:56.33,辉中 Script,,0,0,0,,哦，谢天谢地。
+Dialogue: 1,3:49:57.13,3:49:59.63,辉中 Script,,0,0,0,,这是她干的？
+Dialogue: 1,3:50:00.13,3:50:02.63,辉中 Script,,0,0,0,,勒弗：我只是想跟她谈谈。
+Dialogue: 1,3:50:03.36,3:50:06.53,辉中 Script,,0,0,0,,我想让她理解我，可是……
+Dialogue: 1,3:50:07.23,3:50:09.73,辉中 Script,,0,0,0,,她不停大叫。
+Dialogue: 1,3:50:10.51,3:50:13.01,辉中 Script,,0,0,0,,然后她开始追我。
+Dialogue: 1,3:50:13.31,3:50:15.31,辉中 Script,,0,0,0,,我想让她停下来。
+Dialogue: 1,3:50:15.31,3:50:16.25,辉中 Script,,0,0,0,,我只是想把她推开……
+Dialogue: 1,3:50:16.25,3:50:18.08,辉中 Script,,0,0,0,,雅拉：嘿、嘿、嘿
+Dialogue: 1,3:50:18.08,3:50:20.58,辉中 Script,,0,0,0,,勒弗：然后她撞到了桌子。
+Dialogue: 1,3:50:20.71,3:50:21.28,辉中 Script,,0,0,0,,雅拉：听着。
+Dialogue: 1,3:50:21.28,3:50:22.78,辉中 Script,,0,0,0,,勒弗：雅拉……
+Dialogue: 1,3:50:22.78,3:50:25.28,辉中 Script,,0,0,0,,雅拉：你是在自卫。
+Dialogue: 1,3:50:25.68,3:50:28.20,辉中 Script,,0,0,0,,你没有做错。
+Dialogue: 1,3:50:33.13,3:50:35.63,辉中 Script,,0,0,0,,不会有事的，我保证。
+Dialogue: 1,3:50:40.40,3:50:42.90,辉中 Script,,0,0,0,,勒弗：我想离开。
+Dialogue: 1,3:50:43.88,3:50:45.31,辉中 Script,,0,0,0,,雅拉：嗯，我也是。
+Dialogue: 1,3:50:45.31,3:50:47.85,辉中 Script,,0,0,0,,走吧
+Dialogue: 1,3:50:52.71,3:50:55.21,辉中 Script,,0,0,0,,埃比：嗨，小家伙。
+Dialogue: 1,3:50:56.88,3:50:58.88,辉中 Script,,0,0,0,,雅拉：走吧。
 Dialogue: 1,3:51:01.03,3:51:05.47,辉中,,0,0,0,,And this doesn't really surprise anyone, she was never going to understand.
 Dialogue: 1,3:51:05.47,3:51:09.94,辉中,,0,0,0,,But it's also important to note that this severs all ties for Lev,
 Dialogue: 1,3:51:09.94,3:51:13.68,辉中,,0,0,0,,which signal to me that they were actually being set up to leave Seattle completely
@@ -5597,60 +6031,60 @@ Dialogue: 1,3:52:37.50,3:52:41.74,辉中,,0,0,0,,So the three star pushing throu
 Dialogue: 1,3:52:41.74,3:52:44.92,辉中,,0,0,0,,and it looks as though the Seraphites don't even actively patrol it
 Dialogue: 1,3:52:44.92,3:52:47.08,辉中,,0,0,0,,since it's from the old world.
 Dialogue: 1,3:52:47.08,3:52:49.12,辉中,,0,0,0,,Everything's quiet, until…
-Dialogue: 0,3:52:50.42,3:52:51.33,辉中 Script,,0,0,0,,雅拉：这边。
-Dialogue: 0,3:52:51.33,3:52:53.40,辉中 Script,,0,0,0,,WLF士兵：抓到一个了！
-Dialogue: 0,3:52:53.40,3:52:54.73,辉中 Script,,0,0,0,,埃比：雅拉！
-Dialogue: 0,3:52:56.03,3:52:57.38,辉中 Script,,0,0,0,,WLF士兵：埃比？
-Dialogue: 0,3:53:03.81,3:53:06.31,辉中 Script,,0,0,0,,勒弗：雅拉！
-Dialogue: 0,3:53:07.15,3:53:08.05,辉中 Script,,0,0,0,,雅拉，起来——
-Dialogue: 0,3:53:08.01,3:53:10.41,辉中 Script,,0,0,0,,WLF士兵：有枪声！来吧！
-Dialogue: 0,3:53:10.41,3:53:11.71,辉中 Script,,0,0,0,,勒弗：雅拉，求你了。
-Dialogue: 0,3:53:11.71,3:53:12.51,辉中 Script,,0,0,0,,埃比：勒弗，我们要走了。
-Dialogue: 0,3:53:12.51,3:53:13.73,辉中 Script,,0,0,0,,勒弗：不。
-Dialogue: 0,3:53:13.73,3:53:14.23,辉中 Script,,0,0,0,,埃比：快点！
-Dialogue: 0,3:53:13.96,3:53:14.50,辉中 Script,,0,0,0,,勒弗：不行！
-Dialogue: 0,3:53:14.50,3:53:15.30,辉中 Script,,0,0,0,,WLF士兵：我看见人了！
-Dialogue: 0,3:53:15.30,3:53:16.66,辉中 Script,,0,0,0,,勒弗：我不能把她留在这里！
-Dialogue: 0,3:53:16.66,3:53:17.60,辉中 Script,,0,0,0,,埃比：别过来！
-Dialogue: 0,3:53:17.60,3:53:19.06,辉中 Script,,0,0,0,,WLF士兵：放下枪！快！
-Dialogue: 0,3:53:19.06,3:53:20.06,辉中 Script,,0,0,0,,WLF士兵：该死。
-Dialogue: 0,3:53:20.06,3:53:20.66,辉中 Script,,0,0,0,,WLF士兵：是埃比。
-Dialogue: 0,3:53:20.66,3:53:22.53,辉中 Script,,0,0,0,,埃比：我说别过来！
-Dialogue: 0,3:53:22.53,3:53:25.03,辉中 Script,,0,0,0,,伊萨克：退下！
-Dialogue: 0,3:53:29.73,3:53:32.28,辉中 Script,,0,0,0,,埃比：伊萨克。
-Dialogue: 0,3:53:34.85,3:53:37.35,辉中 Script,,0,0,0,,伊萨克：你到底在干嘛？
-Dialogue: 0,3:53:39.05,3:53:41.55,辉中 Script,,0,0,0,,埃比：我需要你听我说完。
-Dialogue: 0,3:53:42.68,3:53:45.18,辉中 Script,,0,0,0,,伊萨克：你身后是谁？
-Dialogue: 0,3:53:45.35,3:53:46.90,辉中 Script,,0,0,0,,埃比：他救了我的命。
-Dialogue: 0,3:53:46.90,3:53:47.60,辉中 Script,,0,0,0,,伊萨克：让开。
-Dialogue: 0,3:53:47.60,3:53:49.03,辉中 Script,,0,0,0,,我们回去再找你算账。
-Dialogue: 0,3:53:49.03,3:53:50.60,辉中 Script,,0,0,0,,埃比：他不是他们的人。拜托了。
-Dialogue: 0,3:53:50.60,3:53:51.70,辉中 Script,,0,0,0,,伊萨克：埃比，走开——
-Dialogue: 0,3:53:51.70,3:53:54.20,辉中 Script,,0,0,0,,埃比：该死的，他只是一个孩子！
-Dialogue: 0,3:53:55.23,3:53:59.16,辉中 Script,,0,0,0,,伊萨克：你有三秒钟离开那个疤脸帮的人。
-Dialogue: 0,3:54:00.33,3:54:00.83,辉中 Script,,0,0,0,,一。
-Dialogue: 0,3:54:00.80,3:54:03.26,辉中 Script,,0,0,0,,埃比：你真的要朝我开枪吗？
-Dialogue: 0,3:54:04.31,3:54:05.35,辉中 Script,,0,0,0,,伊萨克：二。
-Dialogue: 0,3:54:05.35,3:54:07.85,辉中 Script,,0,0,0,,埃比：我他妈不会走。
-Dialogue: 0,3:54:11.88,3:54:12.38,辉中 Script,,0,0,0,,WLF士兵：不！
-Dialogue: 0,3:54:12.28,3:54:13.68,辉中 Script,,0,0,0,,WLF士兵：搞什么？
-Dialogue: 0,3:54:13.55,3:54:16.15,辉中 Script,,0,0,0,,WLF士兵：打死她！
-Dialogue: 0,3:54:16.78,3:54:17.41,辉中 Script,,0,0,0,,WLF士兵：阻止他们！
-Dialogue: 0,3:54:17.41,3:54:19.91,辉中 Script,,0,0,0,,WLF士兵：别让他们跑了！
-Dialogue: 0,3:54:21.50,3:54:24.00,辉中 Script,,0,0,0,,埃比：来吧。
-Dialogue: 0,3:54:32.70,3:54:35.16,辉中 Script,,0,0,0,,勒弗，我们要走了。
-Dialogue: 0,3:54:35.16,3:54:37.18,辉中 Script,,0,0,0,,勒弗：她死了。
-Dialogue: 0,3:54:37.18,3:54:39.08,辉中 Script,,0,0,0,,天哪。她死了。
-Dialogue: 0,3:54:39.08,3:54:40.05,辉中 Script,,0,0,0,,埃比：勒弗，快点！
-Dialogue: 0,3:54:40.05,3:54:41.61,辉中 Script,,0,0,0,,勒弗：那些他妈的都是你的人！
-Dialogue: 0,3:54:41.61,3:54:44.11,辉中 Script,,0,0,0,,埃比：嘿，我现在站在你这边！
-Dialogue: 0,3:54:44.68,3:54:46.45,辉中 Script,,0,0,0,,听我说。
-Dialogue: 0,3:54:46.41,3:54:48.38,辉中 Script,,0,0,0,,我们要战斗才能离开这里，懂吗？
-Dialogue: 0,3:54:48.38,3:54:50.88,辉中 Script,,0,0,0,,我需要你带我们找到那些船。
-Dialogue: 0,3:54:52.61,3:54:54.76,辉中 Script,,0,0,0,,任何人都不能组织我们，明白吗？
-Dialogue: 0,3:54:58.56,3:55:00.49,辉中 Script,,0,0,0,,勒弗：好。
-Dialogue: 0,3:55:00.49,3:55:01.53,辉中 Script,,0,0,0,,埃比：好。
-Dialogue: 0,3:55:01.53,3:55:03.53,辉中 Script,,0,0,0,,跟我来。
+Dialogue: 1,3:52:50.42,3:52:51.33,辉中 Script,,0,0,0,,雅拉：这边。
+Dialogue: 1,3:52:51.33,3:52:53.40,辉中 Script,,0,0,0,,WLF士兵：抓到一个了！
+Dialogue: 1,3:52:53.40,3:52:54.73,辉中 Script,,0,0,0,,埃比：雅拉！
+Dialogue: 1,3:52:56.03,3:52:57.38,辉中 Script,,0,0,0,,WLF士兵：埃比？
+Dialogue: 1,3:53:03.81,3:53:06.31,辉中 Script,,0,0,0,,勒弗：雅拉！
+Dialogue: 1,3:53:07.15,3:53:08.05,辉中 Script,,0,0,0,,雅拉，起来——
+Dialogue: 1,3:53:08.01,3:53:10.41,辉中 Script,,0,0,0,,WLF士兵：有枪声！来吧！
+Dialogue: 1,3:53:10.41,3:53:11.71,辉中 Script,,0,0,0,,勒弗：雅拉，求你了。
+Dialogue: 1,3:53:11.71,3:53:12.51,辉中 Script,,0,0,0,,埃比：勒弗，我们要走了。
+Dialogue: 1,3:53:12.51,3:53:13.73,辉中 Script,,0,0,0,,勒弗：不。
+Dialogue: 1,3:53:13.73,3:53:14.23,辉中 Script,,0,0,0,,埃比：快点！
+Dialogue: 1,3:53:13.96,3:53:14.50,辉中 Script,,0,0,0,,勒弗：不行！
+Dialogue: 1,3:53:14.50,3:53:15.30,辉中 Script,,0,0,0,,WLF士兵：我看见人了！
+Dialogue: 1,3:53:15.30,3:53:16.66,辉中 Script,,0,0,0,,勒弗：我不能把她留在这里！
+Dialogue: 1,3:53:16.66,3:53:17.60,辉中 Script,,0,0,0,,埃比：别过来！
+Dialogue: 1,3:53:17.60,3:53:19.06,辉中 Script,,0,0,0,,WLF士兵：放下枪！快！
+Dialogue: 1,3:53:19.06,3:53:20.06,辉中 Script,,0,0,0,,WLF士兵：该死。
+Dialogue: 1,3:53:20.06,3:53:20.66,辉中 Script,,0,0,0,,WLF士兵：是埃比。
+Dialogue: 1,3:53:20.66,3:53:22.53,辉中 Script,,0,0,0,,埃比：我说别过来！
+Dialogue: 1,3:53:22.53,3:53:25.03,辉中 Script,,0,0,0,,伊萨克：退下！
+Dialogue: 1,3:53:29.73,3:53:32.28,辉中 Script,,0,0,0,,埃比：伊萨克。
+Dialogue: 1,3:53:34.85,3:53:37.35,辉中 Script,,0,0,0,,伊萨克：你到底在干嘛？
+Dialogue: 1,3:53:39.05,3:53:41.55,辉中 Script,,0,0,0,,埃比：我需要你听我说完。
+Dialogue: 1,3:53:42.68,3:53:45.18,辉中 Script,,0,0,0,,伊萨克：你身后是谁？
+Dialogue: 1,3:53:45.35,3:53:46.90,辉中 Script,,0,0,0,,埃比：他救了我的命。
+Dialogue: 1,3:53:46.90,3:53:47.60,辉中 Script,,0,0,0,,伊萨克：让开。
+Dialogue: 1,3:53:47.60,3:53:49.03,辉中 Script,,0,0,0,,我们回去再找你算账。
+Dialogue: 1,3:53:49.03,3:53:50.60,辉中 Script,,0,0,0,,埃比：他不是他们的人。拜托了。
+Dialogue: 1,3:53:50.60,3:53:51.70,辉中 Script,,0,0,0,,伊萨克：埃比，走开——
+Dialogue: 1,3:53:51.70,3:53:54.20,辉中 Script,,0,0,0,,埃比：该死的，他只是一个孩子！
+Dialogue: 1,3:53:55.23,3:53:59.16,辉中 Script,,0,0,0,,伊萨克：你有三秒钟离开那个疤脸帮的人。
+Dialogue: 1,3:54:00.33,3:54:00.83,辉中 Script,,0,0,0,,一。
+Dialogue: 1,3:54:00.80,3:54:03.26,辉中 Script,,0,0,0,,埃比：你真的要朝我开枪吗？
+Dialogue: 1,3:54:04.31,3:54:05.35,辉中 Script,,0,0,0,,伊萨克：二。
+Dialogue: 1,3:54:05.35,3:54:07.85,辉中 Script,,0,0,0,,埃比：我他妈不会走。
+Dialogue: 1,3:54:11.88,3:54:12.38,辉中 Script,,0,0,0,,WLF士兵：不！
+Dialogue: 1,3:54:12.28,3:54:13.68,辉中 Script,,0,0,0,,WLF士兵：搞什么？
+Dialogue: 1,3:54:13.55,3:54:16.15,辉中 Script,,0,0,0,,WLF士兵：打死她！
+Dialogue: 1,3:54:16.78,3:54:17.41,辉中 Script,,0,0,0,,WLF士兵：阻止他们！
+Dialogue: 1,3:54:17.41,3:54:19.91,辉中 Script,,0,0,0,,WLF士兵：别让他们跑了！
+Dialogue: 1,3:54:21.50,3:54:24.00,辉中 Script,,0,0,0,,埃比：来吧。
+Dialogue: 1,3:54:32.70,3:54:35.16,辉中 Script,,0,0,0,,勒弗，我们要走了。
+Dialogue: 1,3:54:35.16,3:54:37.18,辉中 Script,,0,0,0,,勒弗：她死了。
+Dialogue: 1,3:54:37.18,3:54:39.08,辉中 Script,,0,0,0,,天哪。她死了。
+Dialogue: 1,3:54:39.08,3:54:40.05,辉中 Script,,0,0,0,,埃比：勒弗，快点！
+Dialogue: 1,3:54:40.05,3:54:41.61,辉中 Script,,0,0,0,,勒弗：那些他妈的都是你的人！
+Dialogue: 1,3:54:41.61,3:54:44.11,辉中 Script,,0,0,0,,埃比：嘿，我现在站在你这边！
+Dialogue: 1,3:54:44.68,3:54:46.45,辉中 Script,,0,0,0,,听我说。
+Dialogue: 1,3:54:46.41,3:54:48.38,辉中 Script,,0,0,0,,我们要战斗才能离开这里，懂吗？
+Dialogue: 1,3:54:48.38,3:54:50.88,辉中 Script,,0,0,0,,我需要你带我们找到那些船。
+Dialogue: 1,3:54:52.61,3:54:54.76,辉中 Script,,0,0,0,,任何人都不能组织我们，明白吗？
+Dialogue: 1,3:54:58.56,3:55:00.49,辉中 Script,,0,0,0,,勒弗：好。
+Dialogue: 1,3:55:00.49,3:55:01.53,辉中 Script,,0,0,0,,埃比：好。
+Dialogue: 1,3:55:01.53,3:55:03.53,辉中 Script,,0,0,0,,跟我来。
 Dialogue: 1,3:55:04.09,3:55:09.24,辉中,,0,0,0,,于是现在开始我们和勒弗搭档对抗我们曾经的队友——WLF成员
 Dialogue: 2,3:55:04.09,3:55:07.03,辉英,,0,0,0,,So now we're paired with Lev against the WLF members
 Dialogue: 2,3:55:07.03,3:55:09.24,辉英,,0,0,0,,we previously considered our friends.

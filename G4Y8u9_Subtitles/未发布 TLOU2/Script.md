@@ -99,7 +99,16 @@
 - Tommy: Ellie. Whoa, whoa, whoa! Неу…
 - Ellie: I'm sorry.
 - Tommy: It's all right. Come on, let's go. Let's go. It's all right.
-## 埃比 西雅图第3天
+## 埃比 西雅图 第1天
+### 埃比和梅尔从楼顶梯子爬下来
+- Mel: It's kind of hard to imagine you being afraid of anything.
+- Abby: I'm not as fearless as you think.
+- Mel: Oh please.
+- Abby: Like I could never do the surgery stuff you do. I'd be too freaked out about fucking it up.
+- Mel: You think I don't feel the same way?
+- Abby: Well, for what it's worth my dad always said you were his best student.
+- Mel: He did? Well… you always said he was an idiot. C'mon.
+## 埃比 西雅图 第3天
 ### 埃比追杀到剧院
 - Tommy: Fuckin' Jesse… Think I don't know what real gold looks like… Wait'll you see this, you sumbitch. She gonna love it.
 - Abby: Hands up. Back away from your shit. I said back up!
