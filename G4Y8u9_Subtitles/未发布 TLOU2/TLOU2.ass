@@ -16,9 +16,9 @@ Video File: Q:/给没组/tlou2.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 5178
-Active Line: 5186
-Video Position: 634646
+Scroll Position: 5229
+Active Line: 5213
+Video Position: 636099
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -5185,48 +5185,89 @@ Dialogue: 2,2:53:56.69,2:53:59.16,辉英,,0,0,0,,which is why he apparently appr
 Dialogue: 2,2:53:59.16,2:54:03.21,辉英,,0,0,0,,for them to leave for weeks and weeks on end, potentially months
 Dialogue: 1,2:54:03.21,2:54:07.79,辉中,,0,0,0,,去追杀一个好几年前做了一些坏事的人
 Dialogue: 2,2:54:03.21,2:54:07.79,辉英,,0,0,0,,trying to hunt down a guy that did something terrible years and years ago.
-Dialogue: 1,2:54:07.79,2:54:11.90,辉中,,0,0,0,,我个人感觉伊萨克能允许这么多人离开挺牵强的\NTo me, it seems like a stretch that he would be willing to let this many people go,
-Dialogue: 1,2:54:11.90,2:54:16.12,辉中,,0,0,0,,尤其还有不少要参加巡逻、戍守WLF边防的年轻新兵\Nespecially young whippersnappers, who were involved in the active patrolling
-Dialogue: 1,2:54:16.12,2:54:19.22,辉中,,0,0,0,,尤其还有不少要参加巡逻、戍守WLF边防的年轻新兵\Nand maintenance of the WLF's defenses.
-Dialogue: 1,2:54:19.22,2:54:21.84,辉中,,0,0,0,,但可能只有我这么想吧\NBut regardless, maybe that's just me.
-Dialogue: 1,2:54:21.84,2:54:28.22,辉中,,0,0,0,,或许让他们离开这件事是符合伊萨克的性格的 而我却感觉牵强\NAnd may be it actually is within Isaac's character to let them go but it seems like a stretch to me.
-Dialogue: 1,2:54:28.22,2:54:31.40,辉中,,0,0,0,,在一阵争辩过后 他们决定了\NAfter a brief debate back and forth, they settle on it.
-Dialogue: 1,2:54:31.40,2:54:34.70,辉中,,0,0,0,,他们要去杰克逊寻找汤米\NThey're going to Jackson, they're going to try to find Tommy,
-Dialogue: 1,2:54:34.70,2:54:38.93,辉中,,0,0,0,,然后尝试找到乔尔复仇 了结这一切\Nand then they're going to try and find Joel, once and for all, and finish it.
-Dialogue: 1,2:54:38.93,2:54:41.15,辉中,,0,0,0,,画面切回丛林里\NNow we cut back to the forest.
-Dialogue: 1,2:54:41.15,2:54:46.64,辉中,,0,0,0,,这其实是我们很多年前在预告片里第一次看到埃比的场景\NThis is actually the trailer sequence that we saw back when we first met Abby years ago.
-Dialogue: 1,2:54:46.64,2:54:49.22,辉中,,0,0,0,,我还记得我第一次看这个预告片的时候\NI remember when I first saw this scene in the trailer,
-Dialogue: 1,2:54:49.22,2:54:53.54,辉中,,0,0,0,,我还猜埃比这人会不会最后发现是艾莉的妈妈\NI thought that Abby was going to turn out to be Ellie's mom in this flashback,
-Dialogue: 1,2:54:53.54,2:54:55.34,辉中,,0,0,0,,但……好吧……\NBut… well…
-Dialogue: 1,2:54:55.34,2:54:56.72,辉中,,0,0,0,,我猜错了\NI was wrong.
-Dialogue: 1,2:54:56.72,2:54:58.76,辉中,,0,0,0,,错得离谱\NLike… really wrong.
-Dialogue: 1,2:54:58.76,2:55:01.30,辉中,,0,0,0,,疤脸帮把埃比吊起来准备处刑\NThe Scars start to string up Abby for execution
-Dialogue: 1,2:55:01.30,2:55:04.31,辉中,,0,0,0,,却被他们刚抓来的一个女孩打断了\Nwhen they're interrupted by a young girl that they've just captured.
+Dialogue: 1,2:54:07.79,2:54:11.90,辉中,,0,0,0,,我个人感觉伊萨克能允许这么多人离开挺牵强的
+Dialogue: 2,2:54:07.79,2:54:11.90,辉英,,0,0,0,,To me, it seems like a stretch that he would be willing to let this many people go,
+Dialogue: 1,2:54:11.90,2:54:16.12,辉中,,0,0,0,,尤其还有不少要参加巡逻、戍守WLF边防的年轻新兵
+Dialogue: 2,2:54:11.90,2:54:16.12,辉英,,0,0,0,,especially young whippersnappers, who were involved in the active patrolling
+Dialogue: 1,2:54:16.12,2:54:19.22,辉中,,0,0,0,,尤其还有不少要参加巡逻、戍守WLF边防的年轻新兵
+Dialogue: 2,2:54:16.12,2:54:19.22,辉英,,0,0,0,,and maintenance of the WLF's defenses.
+Dialogue: 1,2:54:19.22,2:54:21.84,辉中,,0,0,0,,但可能只有我这么想吧
+Dialogue: 2,2:54:19.22,2:54:21.84,辉英,,0,0,0,,But regardless, maybe that's just me.
+Dialogue: 1,2:54:21.84,2:54:28.22,辉中,,0,0,0,,或许让他们离开这件事是符合伊萨克的性格的 而我却感觉牵强
+Dialogue: 2,2:54:21.84,2:54:28.22,辉英,,0,0,0,,And may be it actually is within Isaac's character to let them go but it seems like a stretch to me.
+Dialogue: 1,2:54:28.22,2:54:31.40,辉中,,0,0,0,,在一阵争辩过后 他们决定了
+Dialogue: 2,2:54:28.22,2:54:31.40,辉英,,0,0,0,,After a brief debate back and forth, they settle on it.
+Dialogue: 1,2:54:31.40,2:54:34.70,辉中,,0,0,0,,他们要去杰克逊寻找汤米
+Dialogue: 2,2:54:31.40,2:54:34.70,辉英,,0,0,0,,They're going to Jackson, they're going to try to find Tommy,
+Dialogue: 1,2:54:34.70,2:54:38.93,辉中,,0,0,0,,然后尝试找到乔尔复仇 了结这一切
+Dialogue: 2,2:54:34.70,2:54:38.93,辉英,,0,0,0,,and then they're going to try and find Joel, once and for all, and finish it.
+Dialogue: 1,2:54:38.93,2:54:41.15,辉中,,0,0,0,,画面切回丛林里
+Dialogue: 2,2:54:38.93,2:54:41.15,辉英,,0,0,0,,Now we cut back to the forest.
+Dialogue: 1,2:54:41.15,2:54:46.64,辉中,,0,0,0,,这其实是我们很多年前在预告片里第一次看到埃比的场景
+Dialogue: 2,2:54:41.15,2:54:46.64,辉英,,0,0,0,,This is actually the trailer sequence that we saw back when we first met Abby years ago.
+Dialogue: 1,2:54:46.64,2:54:49.22,辉中,,0,0,0,,我还记得我第一次看这个预告片的时候
+Dialogue: 2,2:54:46.64,2:54:49.22,辉英,,0,0,0,,I remember when I first saw this scene in the trailer,
+Dialogue: 1,2:54:49.22,2:54:53.54,辉中,,0,0,0,,我还猜埃比这人会不会最后发现是艾莉的妈妈
+Dialogue: 2,2:54:49.22,2:54:53.54,辉英,,0,0,0,,I thought that Abby was going to turn out to be Ellie's mom in this flashback,
+Dialogue: 1,2:54:53.54,2:54:55.34,辉中,,0,0,0,,但……好吧……
+Dialogue: 2,2:54:53.54,2:54:55.34,辉英,,0,0,0,,But… well…
+Dialogue: 1,2:54:55.34,2:54:56.72,辉中,,0,0,0,,我猜错了
+Dialogue: 2,2:54:55.34,2:54:56.72,辉英,,0,0,0,,I was wrong.
+Dialogue: 1,2:54:56.72,2:54:58.76,辉中,,0,0,0,,错得离谱
+Dialogue: 2,2:54:56.72,2:54:58.76,辉英,,0,0,0,,Like… really wrong.
+Dialogue: 1,2:54:58.76,2:55:01.30,辉中,,0,0,0,,疤脸帮把埃比吊起来准备处刑
+Dialogue: 2,2:54:58.76,2:55:01.30,辉英,,0,0,0,,The Scars start to string up Abby for execution
+Dialogue: 1,2:55:01.30,2:55:04.31,辉中,,0,0,0,,却被他们刚抓来的一个女孩中断了
+Dialogue: 2,2:55:01.30,2:55:04.31,辉英,,0,0,0,,when they're interrupted by a young girl that they've just captured.
 Dialogue: 0,2:55:08.23,2:55:10.73,辉中 Script,,0,0,0,,赛拉菲特：雅拉。
 Dialogue: 0,2:55:14.66,2:55:17.13,辉中 Script,,0,0,0,,另外一个叛徒呢？
-Dialogue: 1,2:55:17.51,2:55:21.11,辉中,,0,0,0,,我们目前还不知道这是什么意思 但简单来讲的话\NNow we don't know what this means, but for simplicity's sake,
-Dialogue: 1,2:55:21.11,2:55:25.07,辉中,,0,0,0,,这个叫雅拉的女孩和其他的 不知道是谁的叛徒\Nthis girl Yara and the other apostate, whoever they may be,
-Dialogue: 1,2:55:25.07,2:55:27.41,辉中,,0,0,0,,做了一些事情激怒了疤脸帮\Ndid something to piss off the Scars.
-Dialogue: 1,2:55:27.41,2:55:34.61,辉中,,0,0,0,,在雅拉向那个疤脸帮长老吐口水之后 她下令“折断她的翅膀”\NAfter Yara spits in this elder Scars face, she is sentenced to having her wings clipped,
-Dialogue: 1,2:55:34.61,2:55:35.78,辉中,,0,0,0,,而我不得不说\Nand I have to say,
-Dialogue: 1,2:55:35.78,2:55:40.22,辉中,,0,0,0,,我看完才发现这分明是属于暴力拆解\Nthis is probably the least clippy way they could have possibly clipped her wings.
-Dialogue: 1,2:55:40.22,2:55:44.45,辉中,,0,0,0,,另一个叛徒后来也现身了 名字叫勒弗\NThe other apostate shows up who will eventually find out his name Lev.
-Dialogue: 1,2:55:44.45,2:55:47.00,辉中,,0,0,0,,他向赛拉菲特帮射了几箭\NLev starts shooting arrows at the Seraphites,
-Dialogue: 1,2:55:47.00,2:55:48.38,辉中,,0,0,0,,解决掉了几个\Nkilling a couple of them.
-Dialogue: 1,2:55:48.38,2:55:52.26,辉中,,0,0,0,,又和长老纠缠了一会 也把她解决掉了\NAnd after a brief tussle with the elder, she's also killed.
-Dialogue: 1,2:55:52.26,2:55:57.38,辉中,,0,0,0,,然后勒弗听从雅拉的指示 把埃比放了下来 差点就要被勒死了\NFollowing Yara's direction, Lev cuts Abby down, just in time for her to not die.
-Dialogue: 1,2:55:57.38,2:55:59.48,辉中,,0,0,0,,真的 她刚才可太悬了\NI mean seriously, she was really close.
-Dialogue: 1,2:55:59.48,2:56:05.51,辉中,,0,0,0,,他们杀死长老后就让她吊在那 太扯了\NThey just kind of left her hanging here after she killed the elder little… little ridiculous,
-Dialogue: 1,2:56:05.51,2:56:10.80,辉中,,0,0,0,,但……埃比还真就在那吊了一会\Nbut you know whatever she was just hang in there, and… and that's that.
-Dialogue: 1,2:56:10.80,2:56:14.18,辉中,,0,0,0,,放埃比下来后 他们开始准备对抗感染者\NAfter Abby's cut down, they all prep to fight some zombies,
-Dialogue: 1,2:56:14.18,2:56:17.42,辉中,,0,0,0,,怕你们忘 提醒你们一下这游戏是有感染者的\Njust in case that you forgot that this game actually has zombies in it,
-Dialogue: 1,2:56:17.42,2:56:20.48,辉中,,0,0,0,,因为到这时好像好久没看到感染者了\Nbecause at this point it's been a hot minute since they were featured.
-Dialogue: 1,2:56:20.48,2:56:22.80,辉中,,0,0,0,,And a fun little fact, and something to notice is that
-Dialogue: 1,2:56:22.80,2:56:29.36,辉中,,0,0,0,,this rash and brews over Abby's neck will actually remain for the rest of the main story.
-Dialogue: 1,2:56:29.36,2:56:31.49,辉中,,0,0,0,,It's a great detail, and it really helps with immersion,
-Dialogue: 1,2:56:31.49,2:56:34.58,辉中,,0,0,0,,especially as later scenes come and go,
-Dialogue: 1,2:56:34.58,2:56:37.97,辉中,,0,0,0,,you'll see Abby rubbing her neck because it still hurts,
-Dialogue: 1,2:56:37.97,2:56:40.70,辉中,,0,0,0,,because after all she was just hung from it.
+Dialogue: 1,2:55:17.51,2:55:21.11,辉中,,0,0,0,,我们目前还不知道这是什么意思 但简单来讲的话
+Dialogue: 2,2:55:17.51,2:55:21.11,辉英,,0,0,0,,Now we don't know what this means, but for simplicity's sake,
+Dialogue: 1,2:55:21.11,2:55:25.07,辉中,,0,0,0,,这个叫雅拉的女孩和其他的 不知道是谁的叛徒
+Dialogue: 2,2:55:21.11,2:55:25.07,辉英,,0,0,0,,this girl Yara and the other apostate, whoever they may be,
+Dialogue: 1,2:55:25.07,2:55:27.41,辉中,,0,0,0,,做了一些事情激怒了疤脸帮
+Dialogue: 2,2:55:25.07,2:55:27.41,辉英,,0,0,0,,did something to piss off the Scars.
+Dialogue: 1,2:55:27.41,2:55:34.61,辉中,,0,0,0,,在雅拉向那个疤脸帮长老吐口水之后 她下令“折断她的翅膀”
+Dialogue: 2,2:55:27.41,2:55:34.61,辉英,,0,0,0,,After Yara spits in this elder Scars face, she is sentenced to having her wings clipped,
+Dialogue: 1,2:55:34.61,2:55:35.78,辉中,,0,0,0,,而我不得不说
+Dialogue: 2,2:55:34.61,2:55:35.78,辉英,,0,0,0,,and I have to say,
+Dialogue: 1,2:55:35.78,2:55:40.22,辉中,,0,0,0,,我看完才这段操作发现这分明是属于暴力拆解
+Dialogue: 2,2:55:35.78,2:55:40.22,辉英,,0,0,0,,this is probably the least clippy way they could have possibly clipped her wings.
+Dialogue: 1,2:55:40.22,2:55:44.45,辉中,,0,0,0,,另一个叛徒后来也现身了 名字叫勒弗
+Dialogue: 2,2:55:40.22,2:55:44.45,辉英,,0,0,0,,The other apostate shows up who will eventually find out his name Lev.
+Dialogue: 1,2:55:44.45,2:55:47.00,辉中,,0,0,0,,他向赛拉菲特帮射了几箭
+Dialogue: 2,2:55:44.45,2:55:47.00,辉英,,0,0,0,,Lev starts shooting arrows at the Seraphites,
+Dialogue: 1,2:55:47.00,2:55:48.38,辉中,,0,0,0,,解决掉了几个
+Dialogue: 2,2:55:47.00,2:55:48.38,辉英,,0,0,0,,killing a couple of them.
+Dialogue: 1,2:55:48.38,2:55:52.26,辉中,,0,0,0,,又和长老纠缠了一会 也把她解决掉了
+Dialogue: 2,2:55:48.38,2:55:52.26,辉英,,0,0,0,,And after a brief tussle with the elder, she's also killed.
+Dialogue: 1,2:55:52.26,2:55:57.38,辉中,,0,0,0,,然后勒弗听从雅拉的指示 把埃比放了下来 差点就要被勒死了
+Dialogue: 2,2:55:52.26,2:55:57.38,辉英,,0,0,0,,Following Yara's direction, Lev cuts Abby down, just in time for her to not die.
+Dialogue: 1,2:55:57.38,2:55:59.48,辉中,,0,0,0,,真的 她刚才可太悬了
+Dialogue: 2,2:55:57.38,2:55:59.48,辉英,,0,0,0,,I mean seriously, she was really close.
+Dialogue: 1,2:55:59.48,2:56:05.51,辉中,,0,0,0,,他们杀死长老后就让她吊在那 太扯了
+Dialogue: 2,2:55:59.48,2:56:05.51,辉英,,0,0,0,,They just kind of left her hanging here after she killed the elder little… little ridiculous,
+Dialogue: 1,2:56:05.51,2:56:10.80,辉注,,0,0,0,,双关：“hang in there” 直译是“吊在那”\N一般意思是“坚持住！”
+Dialogue: 1,2:56:05.51,2:56:10.80,辉中,,0,0,0,,但……埃比还真就在那吊了一会
+Dialogue: 2,2:56:05.51,2:56:10.80,辉英,,0,0,0,,but you know whatever she was just hang in there, and… and that's that.
+Dialogue: 1,2:56:10.80,2:56:14.18,辉中,,0,0,0,,放埃比下来后 他们开始准备对抗感染者
+Dialogue: 2,2:56:10.80,2:56:14.18,辉英,,0,0,0,,After Abby's cut down, they all prep to fight some zombies,
+Dialogue: 1,2:56:14.18,2:56:17.42,辉中,,0,0,0,,怕你们忘 提醒你们一下这游戏是有感染者的
+Dialogue: 2,2:56:14.18,2:56:17.42,辉英,,0,0,0,,just in case that you forgot that this game actually has zombies in it,
+Dialogue: 1,2:56:17.42,2:56:20.48,辉中,,0,0,0,,因为到这时好像好久没看到感染者了
+Dialogue: 2,2:56:17.42,2:56:20.48,辉英,,0,0,0,,because at this point it's been a hot minute since they were featured.
+Dialogue: 1,2:56:20.48,2:56:22.80,辉中,,0,0,0,,这里有一点很有趣 值得注意一下
+Dialogue: 2,2:56:20.48,2:56:22.80,辉英,,0,0,0,,And a fun little fact, and something to notice is that
+Dialogue: 1,2:56:22.80,2:56:29.36,辉中,,0,0,0,,埃比脖子上这条勒出的伤痕会一直伴随埃比后半段的游戏
+Dialogue: 2,2:56:22.80,2:56:29.36,辉英,,0,0,0,,this rash and brews over Abby's neck will actually remain for the rest of the main story.
+Dialogue: 1,2:56:29.36,2:56:31.49,辉中,,0,0,0,,这个细节很棒 提高了游戏的沉浸体验
+Dialogue: 2,2:56:29.36,2:56:31.49,辉英,,0,0,0,,It's a great detail, and it really helps with immersion,
+Dialogue: 1,2:56:31.49,2:56:34.58,辉中,,0,0,0,,尤其等稍后的场景里
+Dialogue: 2,2:56:31.49,2:56:34.58,辉英,,0,0,0,,especially as later scenes come and go,
+Dialogue: 1,2:56:34.58,2:56:37.97,辉中,,0,0,0,,你可以看到埃比用手揉自己的脖子 因为还很疼
+Dialogue: 2,2:56:34.58,2:56:37.97,辉英,,0,0,0,,you'll see Abby rubbing her neck because it still hurts,
+Dialogue: 1,2:56:37.97,2:56:40.70,辉中,,0,0,0,,毕竟当了那么久的晴天娃娃
+Dialogue: 2,2:56:37.97,2:56:40.70,辉英,,0,0,0,,because after all she was just hung from it.
 Dialogue: 1,2:56:40.70,2:56:43.74,辉中,,0,0,0,,It's this attention to detail that Naughty Dog is really known for
 Dialogue: 1,2:56:43.74,2:56:45.68,辉中,,0,0,0,,and that you have to compliment them on.
 Dialogue: 1,2:56:45.68,2:56:48.87,辉中,,0,0,0,,These scenes are filmed months apart from each other
