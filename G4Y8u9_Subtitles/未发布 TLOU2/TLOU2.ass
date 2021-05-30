@@ -16,9 +16,9 @@ Video File: Q:/给没组/tlou2.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 5229
-Active Line: 5213
-Video Position: 636099
+Scroll Position: 7267
+Active Line: 7273
+Video Position: 887108
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -31,6 +31,7 @@ Style: 辉中 大标题,方正综艺简体,65,&H00FFFFFF,&H000019FF,&H00704012,&
 Style: 辉中 歌词,文泉驿等宽微米黑,80,&H00FFFFFF,&H000019FF,&H00415055,&H00000000,0,0,0,0,100,100,0.5,0,1,3,0.2,2,0,0,45,1
 Style: 辉中 Script,文泉驿微米黑,65,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0.5,0,1,1,0.2,2,0,0,160,1
 Style: 辉英 Script,PragmataPro,30,&H00BBD3D2,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,1,0.2,2,0,0,125,1
+Style: 辉中 西雅图标题,黑体,120,&H00FFFFFF,&H000019FF,&H00704012,&H00000000,-1,0,0,0,100,100,0.5,0,1,0,0,3,0,0,45,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -2014,7 +2015,9 @@ Dialogue: 1,1:03:57.57,1:03:59.01,辉中,,0,0,0,,让游戏不那么有趣
 Dialogue: 2,1:03:57.57,1:03:59.01,辉英,,0,0,0,,It's a little uninteresting.
 Dialogue: 1,1:03:59.01,1:04:04.08,辉中,,0,0,0,,因此知道自己需要一次完成很多个目标还是挺有意思的
 Dialogue: 2,1:03:59.01,1:04:04.08,辉英,,0,0,0,,So to see that we have multiple things we're trying to do all at once is a little refreshing.
-Dialogue: 1,1:04:04.26,1:04:10.98,辉中,,0,0,0,,至此 我们来到了游戏的核心内容——西雅图 第1天
+Dialogue: 1,1:04:04.26,1:04:10.98,辉中,,0,0,0,,至此 我们来到了游戏的核心内容——「西雅图 第1天」
+Dialogue: 0,1:04:04.07,1:04:10.45,辉中 西雅图标题,,0,530,300,,{\fade(120,40,255,0,1500,10000,0)}西雅图
+Dialogue: 0,1:04:06.15,1:04:10.45,辉中 西雅图标题,,0,180,300,,{\fade(255,40,255,0,1500,10000,0)}第1天
 Dialogue: 2,1:04:04.26,1:04:10.98,辉英,,0,0,0,,After this we jumped to the start of the core game itself, Seattle day 1.
 Dialogue: 1,1:04:10.98,1:04:15.93,辉中,,0,0,0,,序章结束了 该开始游玩游戏的最核心部分了
 Dialogue: 2,1:04:10.98,1:04:15.93,辉英,,0,0,0,,And after this, we're done with the prologue and ready to move into the core of the game.
@@ -2081,7 +2084,7 @@ Dialogue: 1,1:06:16.98,1:06:19.14,辉中,,0,0,0,,感觉有点……YUE
 Dialogue: 2,1:06:16.98,1:06:19.14,辉英,,0,0,0,,It's just kind of… blaaaah.
 Dialogue: 1,1:06:19.14,1:06:20.67,辉中,,0,0,0,,不过不急 我们稍后会提到
 Dialogue: 2,1:06:19.14,1:06:20.67,辉英,,0,0,0,,But don't worry, we're going to get into it.
-Dialogue: 1,1:06:20.67,1:06:24.46,辉中,,0,0,0,,就这样 我们来到了西雅图 第1天
+Dialogue: 1,1:06:20.67,1:06:24.46,辉中,,0,0,0,,就这样 我们来到了「西雅图 第1天」
 Dialogue: 2,1:06:20.67,1:06:24.46,辉英,,0,0,0,,And with that we move to Seattle Day 1.
 Dialogue: 1,1:06:24.46,1:06:28.24,辉中,,0,0,0,,来西雅图的第一天 主要元素是“大门”
 Dialogue: 2,1:06:24.46,1:06:28.24,辉英,,0,0,0,,Our first day in Seattle starts with the gate,
@@ -2311,7 +2314,7 @@ Dialogue: 1,1:14:10.14,1:14:15.66,辉中,,0,0,0,,但我们知道的是他貌似�
 Dialogue: 2,1:14:10.14,1:14:15.66,辉英,,0,0,0,,But what we do know is that he seemingly runs the WLF, and he has a firm grip on power.
 Dialogue: 1,1:14:15.66,1:14:18.21,辉中,,0,0,0,,大家都听他的 还都很害怕他
 Dialogue: 2,1:14:15.66,1:14:18.21,辉英,,0,0,0,,Everyone does what he says and are scared of him.
-Dialogue: 1,1:14:18.21,1:14:23.16,辉中,,0,0,0,,顽皮狗的游戏按照惯例会将此作为后来与伊萨克的boss战的铺垫
+Dialogue: 1,1:14:18.21,1:14:23.16,辉中,,0,0,0,,顽皮狗的游戏按照惯例会将此作为后来与伊萨克的Boss战的铺垫
 Dialogue: 2,1:14:18.21,1:14:23.16,辉英,,0,0,0,,Naughty Dog games of the past would use this as a set up for the later boss fight with Isaac.
 Dialogue: 1,1:14:23.16,1:14:26.82,辉中,,0,0,0,,既然提到他了 那他在游戏后面肯定是个关键角色了对吧？
 Dialogue: 2,1:14:23.16,1:14:26.82,辉英,,0,0,0,,If he's mentioned, he'll be a key part of the story later, right?
@@ -2642,8 +2645,9 @@ Dialogue: 2,1:25:10.35,1:25:15.87,辉英,,0,0,0,,Because at the very end of this
 Dialogue: 1,1:25:15.87,1:25:21.27,辉中,,0,0,0,,不用说 这明显是乔尔和艾莉都不想讨论的事
 Dialogue: 2,1:25:15.87,1:25:21.27,辉英,,0,0,0,,And needless to say, it's something that Joel and Ellie don't want to discuss.
 Dialogue: 1,1:25:21.27,1:25:22.62,辉中,,0,0,0,,于是俩人直接回去了
+Dialogue: 0,1:25:22.44,1:25:24.93,辉中 西雅图标题,,0,180,300,,{\fade(40,40,255,0,1500,10000,0)}西雅图 第2天
 Dialogue: 2,1:25:21.27,1:25:22.62,辉英,,0,0,0,,So they just leave.
-Dialogue: 1,1:25:22.62,1:25:25.29,辉中,,0,0,0,,然后 我们来到了西雅图 第2天
+Dialogue: 1,1:25:22.62,1:25:25.29,辉中,,0,0,0,,然后 我们来到了「西雅图 第2天」
 Dialogue: 2,1:25:22.62,1:25:25.29,辉英,,0,0,0,,And after that we jumped to Seattle Day 2.
 Dialogue: 1,1:25:25.29,1:25:27.39,辉中,,0,0,0,,西雅图第2天开始
 Dialogue: 2,1:25:25.29,1:25:27.39,辉英,,0,0,0,,Starting out our second day in Seattle,
@@ -3017,11 +3021,11 @@ Dialogue: 1,1:38:01.04,1:38:05.45,辉中,,0,0,0,,在大多数情况下它可以�
 Dialogue: 2,1:38:01.04,1:38:05.45,辉英,,0,0,0,,And it motivates the player to explore the levels in most instances.
 Dialogue: 1,1:38:05.45,1:38:10.75,辉中,,0,0,0,,但开发者使用了一个动态平衡生成的系统来实现这个内容
 Dialogue: 2,1:38:05.45,1:38:10.75,辉英,,0,0,0,,But the developers used a balanced, dynamic generation system that makes it.
-Dialogue: 1,1:38:10.75,1:38:14.99,辉中,,0,0,0,,比如如果你在为某个boss战做准备
+Dialogue: 1,1:38:10.75,1:38:14.99,辉中,,0,0,0,,比如如果你在为某个Boss战做准备
 Dialogue: 2,1:38:10.75,1:38:14.99,辉英,,0,0,0,,So if you were preparing to go up against a boss fight, for instance,
 Dialogue: 1,1:38:14.99,1:38:18.43,辉中,,0,0,0,,那你就会发现大战之前必有补给
 Dialogue: 2,1:38:14.99,1:38:18.43,辉英,,0,0,0,,more ammo will generate as you get closer to that boss
-Dialogue: 1,1:38:18.43,1:38:23.90,辉中,,0,0,0,,游戏会让你的装备达到boss战所需的推荐水平
+Dialogue: 1,1:38:18.43,1:38:23.90,辉中,,0,0,0,,游戏会让你的装备达到Boss战所需的推荐水平
 Dialogue: 2,1:38:18.43,1:38:23.90,辉英,,0,0,0,,to bring you up to the recommended level that they set for that boss fighting counter.
 Dialogue: 1,1:38:23.90,1:38:26.45,辉中,,0,0,0,,当然 没人逼着你捡这些东西
 Dialogue: 2,1:38:23.90,1:38:26.45,辉英,,0,0,0,,Now of course, nothing is forcing you to pick up these items,
@@ -3194,7 +3198,7 @@ Dialogue: 1,1:43:29.42,1:43:31.37,辉中,,0,0,0,,等我反应过来的时候
 Dialogue: 2,1:43:29.42,1:43:31.37,辉英,,0,0,0,,and by the time I figured it out,
 Dialogue: 1,1:43:31.37,1:43:34.34,辉中,,0,0,0,,我可能早就凉透了 但我还是活下来了
 Dialogue: 2,1:43:31.37,1:43:34.34,辉英,,0,0,0,,I definitely should have died, but nonetheless I was allowed to live.
-Dialogue: 1,1:43:34.34,1:43:37.97,辉中,,0,0,0,,在那场小boss战后 艾莉推进到了医院内
+Dialogue: 1,1:43:34.34,1:43:37.97,辉中,,0,0,0,,在那场小Boss战后 艾莉推进到了医院内
 Dialogue: 2,1:43:34.34,1:43:37.97,辉英,,0,0,0,,So the player and Ellie pushed to the hospital after the fight with the mini boss.
 Dialogue: 1,1:43:37.97,1:43:40.04,辉中,,0,0,0,,我们一路潜行进入医院
 Dialogue: 2,1:43:37.97,1:43:40.04,辉英,,0,0,0,,We stealth our way into the hospital.
@@ -3330,9 +3334,10 @@ Dialogue: 1,1:48:32.93,1:48:34.64,辉中,,0,0,0,,这段场景简短而安静
 Dialogue: 2,1:48:32.93,1:48:34.64,辉英,,0,0,0,,It's a brief and quiet scene.
 Dialogue: 1,1:48:34.64,1:48:37.85,辉中,,0,0,0,,在感人的片段过后 艾莉和蒂娜睡觉了
 Dialogue: 2,1:48:34.64,1:48:37.85,辉英,,0,0,0,,And after this touching moment, Ellie and Dina fall asleep,
-Dialogue: 1,1:48:37.85,1:48:40.49,辉中,,0,0,0,,故事进入西雅图 第3天
+Dialogue: 1,1:48:37.85,1:48:40.49,辉中,,0,0,0,,故事进入「西雅图 第3天」
 Dialogue: 2,1:48:37.85,1:48:40.49,辉英,,0,0,0,,which takes us to Seattle Day 3.
 Dialogue: 1,1:48:40.49,1:48:42.89,辉中,,0,0,0,,首先是一段两年前的回忆
+Dialogue: 0,1:48:40.40,1:48:44.73,辉中 西雅图标题,,0,200,300,,{\fade(120,60,255,0,500,3800,4300)}两年前
 Dialogue: 2,1:48:40.49,1:48:42.89,辉英,,0,0,0,,We begin with a flashback to two years earlier
 Dialogue: 1,1:48:42.89,1:48:46.08,辉中,,0,0,0,,艾莉回到了一代作品中结尾部分的医院
 Dialogue: 2,1:48:42.89,1:48:46.08,辉英,,0,0,0,,when Ellie returned to the hospital from the end of the first game.
@@ -4208,7 +4213,9 @@ Dialogue: 1,2:21:24.56,2:21:27.62,辉中,,0,0,0,,这里正式来到了游戏的�
 Dialogue: 2,2:21:24.56,2:21:27.62,辉英,,0,0,0,,This is the midpoint of the game, really.
 Dialogue: 1,2:21:27.62,2:21:30.95,辉中,,0,0,0,,我们可以看出的是 艾莉的游玩部分已经结束了
 Dialogue: 2,2:21:27.62,2:21:30.95,辉英,,0,0,0,,As far as we can tell, we're done playing as Ellie.
-Dialogue: 1,2:21:30.95,2:21:34.10,辉中,,0,0,0,,接下来画面出现了“西雅图 第1天”
+Dialogue: 1,2:21:30.95,2:21:34.10,辉中,,0,0,0,,接下来画面出现了「西雅图 第1天」
+Dialogue: 0,2:21:30.28,2:21:38.36,辉中 西雅图标题,,0,540,300,,{\fade(255,40,255,0,1500,10000,0)}西雅图
+Dialogue: 0,2:21:33.71,2:21:38.36,辉中 西雅图标题,,0,180,300,,{\fade(255,40,255,0,1500,10000,0)}第1天
 Dialogue: 2,2:21:30.95,2:21:34.10,辉英,,0,0,0,,The next sequence pops up with "Seattle Day 1",
 Dialogue: 1,2:21:34.10,2:21:38.57,辉中,,0,0,0,,说明我们即将重新完整过一遍之前操控艾莉的这三天
 Dialogue: 2,2:21:34.10,2:21:38.57,辉英,,0,0,0,,implying that we're going to be going back through the entirety of what we just did with Ellie,
@@ -4326,7 +4333,7 @@ Dialogue: 1,2:25:19.52,2:25:25.01,辉中,,0,0,0,,在许多方面 无论是好是
 Dialogue: 2,2:25:19.52,2:25:25.01,辉英,,0,0,0,,In many ways, it's going to feel like a different game entirely both for better and worse.
 Dialogue: 1,2:25:25.01,2:25:27.29,辉中,,0,0,0,,但不要担心 我们会深入了解这一切
 Dialogue: 2,2:25:25.01,2:25:27.29,辉英,,0,0,0,,But don't worry, we're going to get into all of it.
-Dialogue: 1,2:25:27.29,2:25:28.62,辉中,,0,0,0,,西雅图 第1天
+Dialogue: 1,2:25:27.29,2:25:28.62,辉中,,0,0,0,,「西雅图 第1天」
 Dialogue: 2,2:25:27.29,2:25:28.62,辉英,,0,0,0,,Seattle Day 1,
 Dialogue: 1,2:25:28.62,2:25:31.64,辉中,,0,0,0,,埃比醒来 游戏下半场开始
 Dialogue: 2,2:25:28.62,2:25:31.64,辉英,,0,0,0,,Abby wakes up and we begin the second half of the game
@@ -4628,7 +4635,7 @@ Dialogue: 2,2:34:55.90,2:35:01.04,辉英,,0,0,0,,simply to save what's considere
 Dialogue: 1,2:35:01.04,2:35:03.08,辉中,,0,0,0,,那一定会对欧文很不利
 Dialogue: 2,2:35:01.04,2:35:03.08,辉英,,0,0,0,,It ain't good end a pretty bad for Owen.
 Dialogue: 1,2:35:03.08,2:35:05.88,辉中,,0,0,0,,所以埃比和曼尼想去见伊萨克
-Dialogue: 2,2:35:03.08,2:35:05.88,辉英,,0,0,0,,And so Abby and Manny head up to talk with Issac
+Dialogue: 2,2:35:03.08,2:35:05.88,辉英,,0,0,0,,And so Abby and Manny head up to talk with Isaac
 Dialogue: 1,2:35:05.88,2:35:10.69,辉中,,0,0,0,,而伊萨克可能是整个游戏里登场方式看上去最邪恶的角色了
 Dialogue: 2,2:35:05.88,2:35:10.69,辉英,,0,0,0,,and Isaac probably has the most badass introduction of any character in this game.
 Dialogue: 1,2:35:10.31,2:35:10.78,辉中 Script,,0,0,0,,WLF士兵：诶，埃比。
@@ -4954,7 +4961,7 @@ Dialogue: 1,2:46:07.73,2:46:12.08,辉中,,0,0,0,,赛拉菲特帮与WLF有多大�
 Dialogue: 2,2:46:07.73,2:46:12.08,辉英,,0,0,0,,just how different the Seraphites are from the WLF and in turn Ellie.
 Dialogue: 1,2:46:12.08,2:46:17.21,辉中,,0,0,0,,现在我们还未见到过这位女先知 实际上我喜欢这样的设定
 Dialogue: 2,2:46:12.08,2:46:17.21,辉英,,0,0,0,,Now we never get to see or meet the Prophetess, which I actually like,
-Dialogue: 1,2:46:17.21,2:46:21.68,辉中,,0,0,0,,就像我们最终也没有和伊萨克有过boss战
+Dialogue: 1,2:46:17.21,2:46:21.68,辉中,,0,0,0,,就像我们最终也没有和伊萨克有过Boss战
 Dialogue: 2,2:46:17.21,2:46:21.68,辉英,,0,0,0,,similar to how we don't end up having a major boss fight or clash with Isaac,
 Dialogue: 1,2:46:21.68,2:46:27.35,辉中,,0,0,0,,放到一般游戏 介绍了这样的大人物却什么都不做简直是大罪过
 Dialogue: 2,2:46:21.68,2:46:24.77,辉英,,0,0,0,,something I think video games are definitely guilty of doing
@@ -4962,7 +4969,7 @@ Dialogue: 2,2:46:24.77,2:46:27.35,辉英,,0,0,0,,whenever there's a notable char
 Dialogue: 1,2:46:27.35,2:46:30.83,辉中,,0,0,0,,如果玩家看到游戏中介绍了某个大坏蛋
 Dialogue: 2,2:46:27.35,2:46:30.83,辉英,,0,0,0,,If you see a bad guy introduced to the story at some point,
 Dialogue: 0,2:46:28.26,2:46:36.45,辉中 Script,,400,0,400,,{\fade(300,300)\fs50\an1}先知大人：\N\N我想要的不多，我的请求很简单。但是我双手笨拙，无法为我\N们村子做出贡献：修补、锻造和建造。我请求您赐予我这些能\N力，让我更有效率，更受人尊重。
-Dialogue: 1,2:46:30.83,2:46:35.24,辉中,,0,0,0,,那你很可能会和ta打一场boss战
+Dialogue: 1,2:46:30.83,2:46:35.24,辉中,,0,0,0,,那你很可能会和ta打一场Boss战
 Dialogue: 2,2:46:30.83,2:46:35.24,辉英,,0,0,0,,chances are you're going to have some sort of boss fight with him or her.
 Dialogue: 1,2:46:35.24,2:46:37.94,辉中,,0,0,0,,否则最开始就不会介绍这个人
 Dialogue: 2,2:46:35.24,2:46:37.94,辉英,,0,0,0,,Otherwise they wouldn't have been introduced in the first place.
@@ -5097,7 +5104,7 @@ Dialogue: 1,2:51:08.24,2:51:11.59,辉中,,0,0,0,,这里我们会和大量的疤�
 Dialogue: 2,2:51:08.24,2:51:11.59,辉英,,0,0,0,,Here we'll fight a ton of Scars,
 Dialogue: 1,2:51:11.59,2:51:15.95,辉中,,0,0,0,,而且相信我 等打到这关结尾你会杀一大堆的疤脸帮
 Dialogue: 2,2:51:11.59,2:51:15.95,辉英,,0,0,0,,and believe me, you're going to be ploughing through them by the end of this sequence.
-Dialogue: 1,2:51:23.09,2:51:26.06,辉中,,0,0,0,,而且这部分很多boss战我非常喜欢
+Dialogue: 1,2:51:23.09,2:51:26.06,辉中,,0,0,0,,而且这部分很多Boss战我非常喜欢
 Dialogue: 2,2:51:23.09,2:51:26.06,辉英,,0,0,0,,There's actually a great many boss fight here that I really enjoyed
 Dialogue: 1,2:51:26.06,2:51:34.28,辉注,,0,0,0,,Helga 德语名字 很强壮勇猛的感觉\N算是名字的一种刻板印象\N类似提到“吴克”就会想到光头
 Dialogue: 1,2:51:26.06,2:51:29.12,辉中,,0,0,0,,这个女boss 我暂且叫她海尔格
@@ -5174,7 +5181,7 @@ Dialogue: 1,2:53:35.03,2:53:41.42,辉中,,0,0,0,,但他们预想是先找到汤�
 Dialogue: 2,2:53:35.03,2:53:41.42,辉英,,0,0,0,,But they mostly expect to find Tommy and hope to convince him to share Joel's location or whereabouts.
 Dialogue: 1,2:53:41.42,2:53:45.78,辉中,,0,0,0,,总之 在埃比告诉欧文自己有一条乔尔弟弟的线索后
 Dialogue: 2,2:53:41.42,2:53:45.78,辉英,,0,0,0,,Regardless after breaking to Owen that she has a lead on Joel's brother
-Dialogue: 1,2:53:45.78,2:53:49.82,辉中,,0,0,0,,她还告诉欧文艾萨克批准了执行这次行动的小队
+Dialogue: 1,2:53:45.78,2:53:49.82,辉中,,0,0,0,,她还告诉欧文伊萨克批准了执行这次行动的小队
 Dialogue: 2,2:53:45.78,2:53:49.82,辉英,,0,0,0,,Abby also throws out the fact that Isaac approved the whole squad,
 Dialogue: 1,2:53:49.82,2:53:52.88,辉中,,0,0,0,,允许他们离开几周去追杀乔尔
 Dialogue: 2,2:53:49.82,2:53:52.88,辉英,,0,0,0,,leaving for weeks on end to chase Joel down.
@@ -5268,79 +5275,156 @@ Dialogue: 1,2:56:34.58,2:56:37.97,辉中,,0,0,0,,你可以看到埃比用手揉�
 Dialogue: 2,2:56:34.58,2:56:37.97,辉英,,0,0,0,,you'll see Abby rubbing her neck because it still hurts,
 Dialogue: 1,2:56:37.97,2:56:40.70,辉中,,0,0,0,,毕竟当了那么久的晴天娃娃
 Dialogue: 2,2:56:37.97,2:56:40.70,辉英,,0,0,0,,because after all she was just hung from it.
-Dialogue: 1,2:56:40.70,2:56:43.74,辉中,,0,0,0,,It's this attention to detail that Naughty Dog is really known for
-Dialogue: 1,2:56:43.74,2:56:45.68,辉中,,0,0,0,,and that you have to compliment them on.
-Dialogue: 1,2:56:45.68,2:56:48.87,辉中,,0,0,0,,These scenes are filmed months apart from each other
-Dialogue: 1,2:56:48.87,2:56:52.82,辉中,,0,0,0,,in some cases, years apart after rewrites and reshoots,
-Dialogue: 1,2:56:52.82,2:56:55.34,辉中,,0,0,0,,and then changing the game and level design around them,
-Dialogue: 1,2:56:55.34,2:56:58.40,辉中,,0,0,0,,they have to reshoot it because the level design change.
-Dialogue: 1,2:56:58.40,2:57:02.40,辉中,,0,0,0,,This amount of detail that's thrown in shows just how much they care.
-Dialogue: 1,2:57:02.40,2:57:07.23,辉中,,0,0,0,,They made notes of absolutely everything that was going on with the character
-Dialogue: 1,2:57:07.23,2:57:11.03,辉中,,0,0,0,,so that months after the fact, they would be able to reference back and say,
-Dialogue: 1,2:57:11.03,2:57:14.78,辉中,,0,0,0,,"Oh, Abby's neck was sore here because she was hung from it,"
-Dialogue: 1,2:57:14.78,2:57:19.10,辉中,,0,0,0,,just a few hours of gameplay before this in the game's timeline.
-Dialogue: 1,2:57:19.10,2:57:22.43,辉中,,0,0,0,,So make sure that that's reflected in your performance.
-Dialogue: 1,2:57:22.43,2:57:27.41,辉中,,0,0,0,,That level of detail is something thats really rare you mostly only see it in Hollywood,
-Dialogue: 1,2:57:27.41,2:57:30.56,辉中,,0,0,0,,and even then you don't see it on very many productions.
-Dialogue: 1,2:57:30.56,2:57:35.09,辉中,,0,0,0,,But anyway, you escape the infected and come upon your old friend, Helga,
-Dialogue: 1,2:57:35.09,2:57:37.25,辉中,,0,0,0,,attacking Lev who was leaving the pack.
-Dialogue: 1,2:57:37.25,2:57:41.93,辉中,,0,0,0,,You have a quick fist fight where you eventually finish her with a hammer to…
-Dialogue: 1,2:57:41.93,2:57:43.56,辉中,,0,0,0,,well, the face.
-Dialogue: 1,2:57:43.56,2:57:45.16,辉中,,0,0,0,,And Abby gets her stuff back
-Dialogue: 1,2:57:45.16,2:57:50.33,辉中,,0,0,0,,because Helga just happened to be wearing Abby's backpack after capturing her earlier.
-Dialogue: 1,2:57:50.33,2:57:52.34,辉中,,0,0,0,,I actually thought this was kind of a fun touch,
-Dialogue: 1,2:57:52.34,2:57:56.67,辉中,,0,0,0,,since the normal way that you would find all of your gear after being kidnapped like this in a video game
-Dialogue: 1,2:57:56.67,2:58:00.35,辉中,,0,0,0,,would be to just find it in a chest or sitting on a desk somewhere.
-Dialogue: 1,2:58:00.35,2:58:03.72,辉中,,0,0,0,,Now there's some dialogue here about the Seraphites and the WLF
-Dialogue: 1,2:58:03.72,2:58:06.14,辉中,,0,0,0,,And it's strange for them to trust each other.
-Dialogue: 1,2:58:06.14,2:58:10.19,辉中,,0,0,0,,But at this point they've both saved each other's lives,
-Dialogue: 1,2:58:10.19,2:58:12.29,辉中,,0,0,0,,which is why it's a little more understandable.
-Dialogue: 1,2:58:12.29,2:58:18.65,辉中,,0,0,0,,Abby just saved Lev's life from Helga and Lev just saved Abby from hanging.
-Dialogue: 1,2:58:18.65,2:58:23.21,辉中,,0,0,0,,There is a clear tit for tat here, Which is why I think this blood pact is formed.
-Dialogue: 1,2:58:23.21,2:58:26.44,辉中,,0,0,0,,Now Abby eventually asks Lev the obvious question
-Dialogue: 1,2:58:37.42,2:58:39.59,辉中,,0,0,0,,And Lev is being honest here,
-Dialogue: 1,2:58:39.59,2:58:41.96,辉中,,0,0,0,,but it's far more complicated than it seems.
-Dialogue: 1,2:58:41.96,2:58:44.24,辉中,,0,0,0,,But don't worry, we're going to get to that later.
-Dialogue: 1,2:58:44.24,2:58:50.87,辉中,,0,0,0,,Your new little crew fights through waves of infected and slowly begin trusting each other more and more.
-Dialogue: 1,2:58:50.87,2:58:55.82,辉中,,0,0,0,,The sequence actually climaxes with Abby carrying Yara while Lev keeps watch.
-Dialogue: 1,2:58:55.82,2:58:59.57,辉中,,0,0,0,,You all push into a small office trailer and set up camp for the night.
-Dialogue: 1,2:58:59.57,2:59:02.57,辉中,,0,0,0,,Feeling bad for them, Abby helps Yara set her arm,
-Dialogue: 1,2:59:02.57,2:59:05.92,辉中,,0,0,0,,which is clearly in some serious trouble.
-Dialogue: 1,2:59:05.92,2:59:08.45,辉中,,0,0,0,,After helping them with this Abby leaves.
-Dialogue: 1,2:59:08.45,2:59:12.89,辉中,,0,0,0,,Just as baffled as they are that she just helped a Seraphite.
-Dialogue: 1,2:59:12.89,2:59:16.07,辉中,,0,0,0,,In yet another reflection between characters,
-Dialogue: 1,2:59:16.07,2:59:20.57,辉中,,0,0,0,,Abby has found herself in the same position that Owen found himself in.
-Dialogue: 1,2:59:20.57,2:59:23.36,辉中,,0,0,0,,She seemingly helped a Scar,
-Dialogue: 1,2:59:23.36,2:59:27.50,辉中,,0,0,0,,which is something that the WLF is never supposed to do.
-Dialogue: 1,2:59:27.50,2:59:30.53,辉中,,0,0,0,,This is going to completely change the following scene,
-Dialogue: 1,2:59:30.53,2:59:32.12,辉中,,0,0,0,,but we'll get to that in just a second.
-Dialogue: 1,2:59:32.12,2:59:36.17,辉中,,0,0,0,,As Abby leaves Yara and Lev, her perplexion is palpable.
-Dialogue: 1,2:59:36.17,2:59:40.25,辉中,,0,0,0,,She cares for these two kids, and she doesn't even really know why.
-Dialogue: 1,2:59:40.25,2:59:44.45,辉中,,0,0,0,,It's the same emotion that the player is likely feeling towards Abby herself,
-Dialogue: 1,2:59:44.45,2:59:47.96,辉中,,0,0,0,,which is why it's so brilliant that it was done this way.
-Dialogue: 1,2:59:47.96,2:59:52.10,辉中,,0,0,0,,Abby is feeling the same confusion and inner conflict as the player.
-Dialogue: 1,2:59:52.10,2:59:55.60,辉中,,0,0,0,,But in this case she's baffled that she's been made to feel sympathy
-Dialogue: 1,2:59:55.60,2:59:58.10,辉中,,0,0,0,,for members of a group that she's supposed to hate,
-Dialogue: 1,2:59:58.10,3:00:04.56,辉中,,0,0,0,,whereas we, the player likely feel that conflict because we want to hate Abby for killing Joel.
-Dialogue: 1,3:00:04.56,3:00:06.56,辉中,,0,0,0,,And maybe a part of us still does,
-Dialogue: 1,3:00:06.56,3:00:10.94,辉中,,0,0,0,,but at the very least we're beginning to sympathize with her and even care for her.
-Dialogue: 1,3:00:10.94,3:00:12.56,辉中,,0,0,0,,It's masterfully done.
-Dialogue: 1,3:00:12.56,3:00:16.87,辉中,,0,0,0,,And it's this subtle character work that makes this game what it is.
-Dialogue: 1,3:00:16.87,3:00:23.61,辉中,,0,0,0,,And why, in my opinion, you have to play it all the way through, even despite the pacing issues.
-Dialogue: 1,3:00:23.61,3:00:27.38,辉中,,0,0,0,,Now, eventually, Abby fights her way through a ton of infected in a shipping yard
-Dialogue: 1,3:00:27.38,3:00:30.71,辉中,,0,0,0,,and finds her way to a series of boats and ships.
-Dialogue: 1,3:00:30.71,3:00:35.69,辉中,,0,0,0,,You fight your way through another group of infected and stumble across a crossbow,
-Dialogue: 1,3:00:35.69,3:00:38.51,辉中,,0,0,0,,which is actually my favorite weapon in the entire game.
-Dialogue: 1,3:00:38.51,3:00:42.68,辉中,,0,0,0,,After you push through all of these infected you get to the aquarium where Owen is staying,
-Dialogue: 1,3:00:42.68,3:00:45.59,辉中,,0,0,0,,However, you can't find Owen anywhere.
-Dialogue: 1,3:00:45.59,3:00:50.99,辉中,,0,0,0,,Abby starts to kind of freak out, worrying that he's dead or just abandoned and went AWOL.
-Dialogue: 1,3:00:50.99,3:00:53.18,辉中,,0,0,0,,But eventually Abby stumbles on to him.
-Dialogue: 1,3:00:53.18,3:00:56.66,辉中,,0,0,0,,He's sitting in the boat that he's been trying to fix up fridges.
+Dialogue: 1,2:56:40.70,2:56:43.74,辉中,,0,0,0,,顽皮狗可是出了名的喜欢钻细节
+Dialogue: 2,2:56:40.70,2:56:43.74,辉英,,0,0,0,,It's this attention to detail that Naughty Dog is really known for
+Dialogue: 1,2:56:43.74,2:56:45.68,辉中,,0,0,0,,这点没得黑
+Dialogue: 2,2:56:43.74,2:56:45.68,辉英,,0,0,0,,and that you have to compliment them on.
+Dialogue: 1,2:56:45.68,2:56:48.87,辉中,,0,0,0,,这些场景之间的拍摄可能隔了几个月
+Dialogue: 2,2:56:45.68,2:56:48.87,辉英,,0,0,0,,These scenes are filmed months apart from each other
+Dialogue: 1,2:56:48.87,2:56:52.82,辉中,,0,0,0,,有时可能还要经历数年后重写 重拍
+Dialogue: 2,2:56:48.87,2:56:52.82,辉英,,0,0,0,,in some cases, years apart after rewrites and reshoots,
+Dialogue: 1,2:56:52.82,2:56:55.34,辉中,,0,0,0,,然后围绕其对游戏关卡进行修改
+Dialogue: 2,2:56:52.82,2:56:55.34,辉英,,0,0,0,,and then changing the game and level design around them,
+Dialogue: 1,2:56:55.34,2:56:58.40,辉中,,0,0,0,,然后关卡改了 过场又要跟着重拍
+Dialogue: 2,2:56:55.34,2:56:58.40,辉英,,0,0,0,,they have to reshoot it because the level design change.
+Dialogue: 1,2:56:58.40,2:57:02.40,辉中,,0,0,0,,从这样大量的细节就能看出他们有多在乎此事
+Dialogue: 2,2:56:58.40,2:57:02.40,辉英,,0,0,0,,This amount of detail that's thrown in shows just how much they care.
+Dialogue: 1,2:57:02.40,2:57:07.23,辉中,,0,0,0,,他们会记录下角色身上发生的一切事情
+Dialogue: 2,2:57:02.40,2:57:07.23,辉英,,0,0,0,,They made notes of absolutely everything that was going on with the character
+Dialogue: 1,2:57:07.23,2:57:11.03,辉中,,0,0,0,,这样即使过了几个月 他们也可能翻出来 想想说
+Dialogue: 2,2:57:07.23,2:57:11.03,辉英,,0,0,0,,so that months after the fact, they would be able to reference back and say,
+Dialogue: 1,2:57:11.03,2:57:14.78,辉中,,0,0,0,,“诶 埃比在这吊了这么久 是不是脖子应该疼啊
+Dialogue: 2,2:57:11.03,2:57:14.78,辉英,,0,0,0,,"Oh, Abby's neck was sore here because she was hung from it,
+Dialogue: 1,2:57:14.78,2:57:19.10,辉中,,0,0,0,,在游戏的时间里她也刚被放下来几小时
+Dialogue: 2,2:57:14.78,2:57:19.10,辉英,,0,0,0,,just a few hours of gameplay before this in the game's timeline,
+Dialogue: 1,2:57:19.10,2:57:22.43,辉中,,0,0,0,,所以你应该在人物表演中表现出这一点”
+Dialogue: 2,2:57:19.10,2:57:22.43,辉英,,0,0,0,,so make sure that that's reflected in your performance."
+Dialogue: 1,2:57:22.43,2:57:25.16,辉中,,0,0,0,,这种水平的细节追求是非常罕见的
+Dialogue: 2,2:57:22.43,2:57:25.16,辉英,,0,0,0,,That level of detail is something that's really rare
+Dialogue: 1,2:57:25.16,2:57:30.56,辉中,,0,0,0,,大多只能在好莱坞看到 而且也不是很多作品都有
+Dialogue: 2,2:57:25.16,2:57:30.56,辉英,,0,0,0,,you mostly only see it in Hollywood, and even then you don't see it on very many productions.
+Dialogue: 1,2:57:30.56,2:57:35.09,辉中,,0,0,0,,最后你逃出了一众感染者 遇到了老朋友海尔格
+Dialogue: 2,2:57:30.56,2:57:35.09,辉英,,0,0,0,,But anyway, you escape the infected and come upon your old friend, Helga,
+Dialogue: 1,2:57:35.09,2:57:37.25,辉中,,0,0,0,,她正在攻击落单的勒弗
+Dialogue: 2,2:57:35.09,2:57:37.25,辉英,,0,0,0,,attacking Lev who was leaving the pack.
+Dialogue: 1,2:57:37.25,2:57:41.93,辉中,,0,0,0,,你和她有一段快速的肉搏战 最后你终于一个大锤80让她……
+Dialogue: 2,2:57:37.25,2:57:41.93,辉英,,0,0,0,,You have a quick fist fight where you eventually finish her with a hammer to…
+Dialogue: 1,2:57:41.93,2:57:43.56,辉中,,0,0,0,,……破相了
+Dialogue: 2,2:57:41.93,2:57:43.56,辉英,,0,0,0,,well, the face.
+Dialogue: 1,2:57:43.56,2:57:45.16,辉中,,0,0,0,,埃比也把装备拿了回来
+Dialogue: 2,2:57:43.56,2:57:45.16,辉英,,0,0,0,,And Abby gets her stuff back
+Dialogue: 1,2:57:45.16,2:57:50.33,辉中,,0,0,0,,因为海尔格刚好在抓走埃比之后把她的包背在了自己身上
+Dialogue: 2,2:57:45.16,2:57:50.33,辉英,,0,0,0,,because Helga just happened to be wearing Abby's backpack after capturing her earlier.
+Dialogue: 1,2:57:50.33,2:57:52.34,辉中,,0,0,0,,我觉得这样的设定还是挺有趣的
+Dialogue: 2,2:57:50.33,2:57:52.34,辉英,,0,0,0,,I actually thought this was kind of a fun touch,
+Dialogue: 1,2:57:52.34,2:57:56.67,辉中,,0,0,0,,因为类似这样的游戏 在角色被绑架后想找回装备
+Dialogue: 2,2:57:52.34,2:57:56.67,辉英,,0,0,0,,since the normal way that you would find all of your gear after being kidnapped like this in a video game
+Dialogue: 1,2:57:56.67,2:58:00.35,辉中,,0,0,0,,而装备通常只是放在某个箱子里或者桌子上
+Dialogue: 2,2:57:56.67,2:58:00.35,辉英,,0,0,0,,would be to just find it in a chest or sitting on a desk somewhere.
+Dialogue: 1,2:58:00.35,2:58:03.72,辉中,,0,0,0,,现在三人之间进行了一段关于赛拉菲特帮和WLF的对话
+Dialogue: 2,2:58:00.35,2:58:03.72,辉英,,0,0,0,,Now there's some dialogue here about the Seraphites and the WLF
+Dialogue: 1,2:58:03.72,2:58:06.14,辉中,,0,0,0,,看他们能互相信任还是挺奇怪的
+Dialogue: 2,2:58:03.72,2:58:06.14,辉英,,0,0,0,,and it's strange for them to trust each other.
+Dialogue: 1,2:58:06.14,2:58:10.19,辉中,,0,0,0,,但在这个节骨眼上 他们都互相救了对方
+Dialogue: 2,2:58:06.14,2:58:10.19,辉英,,0,0,0,,But at this point they've both saved each other's lives,
+Dialogue: 1,2:58:10.19,2:58:12.29,辉中,,0,0,0,,所以还是稍微能理解的
+Dialogue: 2,2:58:10.19,2:58:12.29,辉英,,0,0,0,,which is why it's a little more understandable.
+Dialogue: 1,2:58:12.29,2:58:18.65,辉中,,0,0,0,,埃比刚刚从海尔格手里救下了勒弗 勒弗也救下了要被吊死的埃比
+Dialogue: 2,2:58:12.29,2:58:18.65,辉英,,0,0,0,,Abby just saved Lev's life from Helga and Lev just saved Abby from hanging.
+Dialogue: 1,2:58:18.65,2:58:23.21,辉中,,0,0,0,,我觉得这种一报还一报的情节的存在促使两人结成了血盟关系
+Dialogue: 2,2:58:18.65,2:58:23.21,辉英,,0,0,0,,There is a clear tit for tat here, which is why I think this blood pact is formed.
+Dialogue: 1,2:58:23.21,2:58:26.44,辉中,,0,0,0,,埃比最后还直截了当地问了勒弗怎么回事
+Dialogue: 2,2:58:23.21,2:58:26.44,辉英,,0,0,0,,Now Abby eventually asks Lev the obvious question
+Dialogue: 0,2:58:26.50,2:58:29.23,辉中 Script,,0,0,0,,埃比：从没见过疤脸帮自己人追自己人。
+Dialogue: 0,2:58:29.36,2:58:30.83,辉中 Script,,0,0,0,,勒弗：赛拉菲特。
+Dialogue: 0,2:58:31.53,2:58:32.70,辉中 Script,,0,0,0,,埃比：你到底干了什么？
+Dialogue: 0,2:58:33.20,2:58:34.90,辉中 Script,,0,0,0,,勒弗：我剃了头。
+Dialogue: 0,2:58:35.60,2:58:37.03,辉中 Script,,0,0,0,,埃比：好吧，不用告诉我。
+Dialogue: 1,2:58:37.42,2:58:39.59,辉中,,0,0,0,,而勒弗的回答其实很真诚
+Dialogue: 2,2:58:37.42,2:58:39.59,辉英,,0,0,0,,and Lev is being honest here,
+Dialogue: 0,2:58:37.63,2:58:38.73,辉中 Script,,0,0,0,,我其实不在乎。
+Dialogue: 1,2:58:39.59,2:58:41.96,辉中,,0,0,0,,但背后的具体内容远比看起来得复杂
+Dialogue: 2,2:58:39.59,2:58:41.96,辉英,,0,0,0,,but it's far more complicated than it seems.
+Dialogue: 1,2:58:41.96,2:58:44.24,辉中,,0,0,0,,不过不着急 我们会聊到这部分的
+Dialogue: 2,2:58:41.96,2:58:44.24,辉英,,0,0,0,,But don't worry, we're going to get to that later.
+Dialogue: 1,2:58:44.24,2:58:50.87,辉中,,0,0,0,,你和你新小队又杀了几波感染者 慢慢开始相互信任起来
+Dialogue: 2,2:58:44.24,2:58:50.87,辉英,,0,0,0,,Your new little crew fights through waves of infected and slowly begin trusting each other more and more.
+Dialogue: 1,2:58:50.87,2:58:55.82,辉中,,0,0,0,,剧情在埃比抱起雅拉 让勒弗看好四周的时候达到了高潮
+Dialogue: 2,2:58:50.87,2:58:55.82,辉英,,0,0,0,,The sequence actually climaxes with Abby carrying Yara while Lev keeps watch.
+Dialogue: 1,2:58:55.82,2:58:59.57,辉中,,0,0,0,,你们一起来到了一个拖车小屋 打算过夜
+Dialogue: 2,2:58:55.82,2:58:59.57,辉英,,0,0,0,,You all push into a small office trailer and set up camp for the night.
+Dialogue: 1,2:58:59.57,2:59:02.57,辉中,,0,0,0,,埃比出于关心 帮雅拉简单看了一下胳膊
+Dialogue: 2,2:58:59.57,2:59:02.57,辉英,,0,0,0,,Feeling bad for them, Abby helps Yara set her arm,
+Dialogue: 1,2:59:02.57,2:59:05.92,辉中,,0,0,0,,明显看着挺严重的
+Dialogue: 2,2:59:02.57,2:59:05.92,辉英,,0,0,0,,which is clearly in some serious trouble.
+Dialogue: 1,2:59:05.92,2:59:08.45,辉中,,0,0,0,,简单打理好后 埃比离开了
+Dialogue: 2,2:59:05.92,2:59:08.45,辉英,,0,0,0,,After helping them with this Abby leaves.
+Dialogue: 1,2:59:08.45,2:59:12.89,辉中,,0,0,0,,她救了一个疤脸帮 她和他们一样感到了纠结
+Dialogue: 2,2:59:08.45,2:59:12.89,辉英,,0,0,0,,Just as baffled as they are that she just helped a Seraphite.
+Dialogue: 1,2:59:12.89,2:59:16.07,辉中,,0,0,0,,而作为另一个游戏角色之间的类比
+Dialogue: 2,2:59:12.89,2:59:16.07,辉英,,0,0,0,,In yet another reflection between characters,
+Dialogue: 1,2:59:16.07,2:59:20.57,辉中,,0,0,0,,埃比发现她自己变成了另一个欧文
+Dialogue: 2,2:59:16.07,2:59:20.57,辉英,,0,0,0,,Abby has found herself in the same position that Owen found himself in.
+Dialogue: 1,2:59:20.57,2:59:23.36,辉中,,0,0,0,,她帮助了一名疤脸帮
+Dialogue: 2,2:59:20.57,2:59:23.36,辉英,,0,0,0,,She seemingly helped a Scar,
+Dialogue: 1,2:59:23.36,2:59:27.50,辉中,,0,0,0,,而这在WLF里可是大忌
+Dialogue: 2,2:59:23.36,2:59:27.50,辉英,,0,0,0,,which is something that the WLF is never supposed to do.
+Dialogue: 1,2:59:27.50,2:59:30.53,辉中,,0,0,0,,这将完全改变接下来的情节
+Dialogue: 2,2:59:27.50,2:59:30.53,辉英,,0,0,0,,This is going to completely change the following scene,
+Dialogue: 1,2:59:30.53,2:59:32.12,辉中,,0,0,0,,我们马上就会看到
+Dialogue: 2,2:59:30.53,2:59:32.12,辉英,,0,0,0,,but we'll get to that in just a second.
+Dialogue: 1,2:59:32.12,2:59:36.17,辉中,,0,0,0,,埃比走的时候 内心的纠结是可想而知的
+Dialogue: 2,2:59:32.12,2:59:36.17,辉英,,0,0,0,,As Abby leaves Yara and Lev, her perplexion is palpable.
+Dialogue: 1,2:59:36.17,2:59:40.25,辉中,,0,0,0,,她关心这两个孩子 但她自己却不知道为什么
+Dialogue: 2,2:59:36.17,2:59:40.25,辉英,,0,0,0,,She cares for these two kids, and she doesn't even really know why.
+Dialogue: 1,2:59:40.25,2:59:44.45,辉中,,0,0,0,,这种感觉就像玩家现在对埃比的情感一样
+Dialogue: 2,2:59:40.25,2:59:44.45,辉英,,0,0,0,,It's the same emotion that the player is likely feeling towards Abby herself,
+Dialogue: 1,2:59:44.45,2:59:47.96,辉中,,0,0,0,,游戏这样的安排真是太妙了
+Dialogue: 2,2:59:44.45,2:59:47.96,辉英,,0,0,0,,which is why it's so brilliant that it was done this way.
+Dialogue: 1,2:59:47.96,2:59:52.10,辉中,,0,0,0,,埃比和玩家有相同的困惑与内心的矛盾
+Dialogue: 2,2:59:47.96,2:59:52.10,辉英,,0,0,0,,Abby is feeling the same confusion and inner conflict as the player.
+Dialogue: 1,2:59:52.10,2:59:58.10,辉中,,0,0,0,,埃比是因自己竟然会同情对面阵营的两个敌人而困扰
+Dialogue: 2,2:59:52.10,2:59:55.60,辉英,,0,0,0,,But in this case she's baffled that she's been made to feel sympathy
+Dialogue: 2,2:59:55.60,2:59:58.10,辉英,,0,0,0,,for members of a group that she's supposed to hate,
+Dialogue: 1,2:59:58.10,3:00:04.56,辉中,,0,0,0,,而我们玩家 则是因为我们想去恨杀死乔尔的埃比而感觉到矛盾
+Dialogue: 2,2:59:58.10,3:00:04.56,辉英,,0,0,0,,whereas we, the player likely feel that conflict because we want to hate Abby for killing Joel.
+Dialogue: 1,3:00:04.56,3:00:06.56,辉中,,0,0,0,,可能我们中还有一些人仍增恨埃比
+Dialogue: 2,3:00:04.56,3:00:06.56,辉英,,0,0,0,,And maybe a part of us still does,
+Dialogue: 1,3:00:06.56,3:00:10.94,辉中,,0,0,0,,但我们至少已经慢慢开始同情她 甚至开始关心她了
+Dialogue: 2,3:00:06.56,3:00:10.94,辉英,,0,0,0,,but at the very least we're beginning to sympathize with her and even care for her.
+Dialogue: 1,3:00:10.94,3:00:12.56,辉中,,0,0,0,,这样的处理真的很棒
+Dialogue: 2,3:00:10.94,3:00:12.56,辉英,,0,0,0,,It's masterfully done.
+Dialogue: 1,3:00:12.56,3:00:16.87,辉中,,0,0,0,,正是这样精妙的故事安排才成就了这样一款游戏
+Dialogue: 2,3:00:12.56,3:00:16.87,辉英,,0,0,0,,And it's this subtle character work that makes this game what it is.
+Dialogue: 1,3:00:16.87,3:00:23.61,辉中,,0,0,0,,也因此 我认为虽然游戏有节奏上的问题 但我还是建议大家能够认真通关
+Dialogue: 2,3:00:16.87,3:00:23.61,辉英,,0,0,0,,And why, in my opinion, you have to play it all the way through, even despite the pacing issues.
+Dialogue: 1,3:00:23.61,3:00:27.38,辉中,,0,0,0,,最后 埃比在船厂解决了一大堆的感染者
+Dialogue: 2,3:00:23.61,3:00:27.38,辉英,,0,0,0,,Now, eventually, Abby fights her way through a ton of infected in a shipping yard
+Dialogue: 1,3:00:27.38,3:00:30.71,辉中,,0,0,0,,来到了一些停泊于此的船上
+Dialogue: 2,3:00:27.38,3:00:30.71,辉英,,0,0,0,,and finds her way to a series of boats and ships.
+Dialogue: 1,3:00:30.71,3:00:35.69,辉中,,0,0,0,,你又杀了一堆感染者 最后拿到了十字弓
+Dialogue: 2,3:00:30.71,3:00:35.69,辉英,,0,0,0,,You fight your way through another group of infected and stumble across a crossbow,
+Dialogue: 1,3:00:35.69,3:00:38.51,辉中,,0,0,0,,这是整个游戏里我最喜欢的武器
+Dialogue: 2,3:00:35.69,3:00:38.51,辉英,,0,0,0,,which is actually my favorite weapon in the entire game.
+Dialogue: 1,3:00:38.51,3:00:42.68,辉中,,0,0,0,,解决掉所有感染者后 你来到了欧文所在的水族馆
+Dialogue: 2,3:00:38.51,3:00:42.68,辉英,,0,0,0,,After you push through all of these infected you get to the aquarium where Owen is staying,
+Dialogue: 1,3:00:42.68,3:00:45.59,辉中,,0,0,0,,但你到处都找不到欧文
+Dialogue: 2,3:00:42.68,3:00:45.59,辉英,,0,0,0,,However, you can't find Owen anywhere.
+Dialogue: 1,3:00:45.59,3:00:50.99,辉中,,0,0,0,,埃比有点担心 怕他死了 或者被抛弃后决定离开自己的岗位
+Dialogue: 2,3:00:45.59,3:00:50.99,辉英,,0,0,0,,Abby starts to kind of freak out, worrying that he's dead or just abandoned and went AWOL.
+Dialogue: 1,3:00:50.99,3:00:53.18,辉中,,0,0,0,,但最终埃比还是找到了他
+Dialogue: 2,3:00:50.99,3:00:53.18,辉英,,0,0,0,,But eventually Abby stumbles on to him.
+Dialogue: 1,3:00:53.18,3:00:56.66,辉中,,0,0,0,,他坐在船上 正在修上面的冰箱
+Dialogue: 2,3:00:53.18,3:00:56.66,辉英,,0,0,0,,He's sitting in the boat that he's been trying to fix up fridges.
 Dialogue: 0,3:00:56.61,3:00:59.11,辉中 Script,,0,0,0,,埃比：欧文？
-Dialogue: 1,3:00:56.66,3:01:00.35,辉中,,0,0,0,,and it seems as though it's his one safe space left in the world.
-Dialogue: 1,3:01:00.35,3:01:03.03,辉中,,0,0,0,,Abby and Owen start talking,
-Dialogue: 1,3:01:03.03,3:01:07.94,辉中,,0,0,0,,and you know, I can't really explain this part in a good way,
-Dialogue: 1,3:01:07.94,3:01:10.37,辉中,,0,0,0,,so I'm just going to let it play… so…
+Dialogue: 1,3:00:56.66,3:01:00.35,辉中,,0,0,0,,这条船看起来是他在世界上唯一安全的小空间了
+Dialogue: 2,3:00:56.66,3:01:00.35,辉英,,0,0,0,,and it seems as though it's his one safe space left in the world.
+Dialogue: 1,3:01:00.35,3:01:03.03,辉中,,0,0,0,,然后埃比和欧文开始对话
+Dialogue: 2,3:01:00.35,3:01:03.03,辉英,,0,0,0,,Abby and Owen start talking, and…
+Dialogue: 1,3:01:03.03,3:01:07.94,辉中,,0,0,0,,你们懂的……这段不太好解释……
+Dialogue: 2,3:01:03.03,3:01:07.94,辉英,,0,0,0,,you know, I can't really explain this part in a good way,
+Dialogue: 1,3:01:07.94,3:01:10.37,辉中,,0,0,0,,我就直接播片了……
+Dialogue: 2,3:01:07.94,3:01:10.37,辉英,,0,0,0,,so I'm just going to let it play… so…
 Dialogue: 0,3:01:12.33,3:01:14.83,辉中 Script,,0,0,0,,埃比：要不要说说发生了什么事？
 Dialogue: 0,3:01:18.73,3:01:21.13,辉中 Script,,0,0,0,,欧文：我们当时正在收拾一小拨人。
 Dialogue: 0,3:01:21.86,3:01:24.36,辉中 Script,,0,0,0,,就几个疤脸帮的，然后……
@@ -5408,157 +5492,301 @@ Dialogue: 1,3:05:26.33,3:05:31.43,辉中,,0,0,0,,就感觉挺突然的……明�
 Dialogue: 2,3:05:26.33,3:05:31.43,辉英,,0,0,0,,It kind of comes out of left field because they were fighting and then they start… start banging,
 Dialogue: 1,3:05:31.43,3:05:34.31,辉中,,0,0,0,,我真不……彳亍口巴……你们开心就好
 Dialogue: 2,3:05:31.43,3:05:34.31,辉英,,0,0,0,,I don't… good for them, I mean, I guess it makes sense.
-Dialogue: 1,3:05:34.31,3:05:37.67,辉中,,0,0,0,,There's a lot of tension and visceral emotion going on,
-Dialogue: 1,3:05:37.67,3:05:41.50,辉中,,0,0,0,,but it seemed to come out of nowhere to me.
-Dialogue: 1,3:05:41.50,3:05:45.86,辉中,,0,0,0,,Out enough, there's some deeper literary reason for this. I would love to hear it.
-Dialogue: 1,3:05:45.86,3:05:50.57,辉中,,0,0,0,,I'm not sure I've thought about it, but I don't really know what to make of it.
-Dialogue: 1,3:05:50.57,3:05:52.50,辉中,,0,0,0,,So… moving on.
-Dialogue: 1,3:05:52.50,3:05:58.84,辉中,,0,0,0,,Seattle Day 1 wraps up with Abby having a bizarre nightmare about Yara and Lev being killed and strung up
-Dialogue: 1,3:05:58.84,3:06:02.93,辉中,,0,0,0,,in the very same hospital room where her father died,
-Dialogue: 1,3:06:02.93,3:06:08.33,辉中,,0,0,0,,which to me seems to imply that she feels some sort of familial attachment to them.
-Dialogue: 1,3:06:08.33,3:06:13.31,辉中,,0,0,0,,Since in her dream they die in the same place that her father died.
-Dialogue: 1,3:06:13.31,3:06:19.22,辉中,,0,0,0,,I really don't think you can understate the significance of her seeing them in this space.
-Dialogue: 1,3:06:19.22,3:06:22.31,辉中,,0,0,0,,If she was stressing out purely about them being killed,
-Dialogue: 1,3:06:22.31,3:06:26.33,辉中,,0,0,0,,Why wouldn't she just have a nightmare where she imagines coming across their bodies
-Dialogue: 1,3:06:26.33,3:06:28.85,辉中,,0,0,0,,as she was heading back to the WLF base.
-Dialogue: 1,3:06:28.85,3:06:32.90,辉中,,0,0,0,,The fact that she has the stream and it set in the hospital is significant,
-Dialogue: 1,3:06:32.90,3:06:38.63,辉中,,0,0,0,,and I think it shows that she has a much deeper bond with these kids than even she realizes.
-Dialogue: 1,3:06:38.63,3:06:44.12,辉中,,0,0,0,,So after the stream she decides that she needs to go and make sure that they're okay.
-Dialogue: 1,3:06:44.12,3:06:47.95,辉中,,0,0,0,,Yeah, she's actually going to go and help Scars.
-Dialogue: 1,3:06:47.95,3:06:52.88,辉中,,0,0,0,,She's just as baffled as any other WLF member would be,
-Dialogue: 1,3:06:52.88,3:06:58.49,辉中,,0,0,0,,and it seems that she's coming to the realization that Owen also came to.
-Dialogue: 1,3:06:58.49,3:07:00.83,辉中,,0,0,0,,She's done with all of it.
-Dialogue: 1,3:07:00.83,3:07:02.81,辉中,,0,0,0,,Seattle Day 2.
-Dialogue: 1,3:07:02.81,3:07:05.84,辉中,,0,0,0,,So after Abby wakes up she rushes back to the shipping yard
-Dialogue: 1,3:07:05.84,3:07:07.76,辉中,,0,0,0,,to try and find Yara and Lev.
-Dialogue: 1,3:07:07.76,3:07:11.00,辉中,,0,0,0,,She encounters a ton of Scars, including several Brutes,
-Dialogue: 1,3:07:11.00,3:07:13.91,辉中,,0,0,0,,which leads to a fairly interesting combat encounter.
-Dialogue: 1,3:07:13.91,3:07:16.82,辉中,,0,0,0,,After clearing them out, Abby heads back into the office trailer,
-Dialogue: 1,3:07:16.82,3:07:20.15,辉中,,0,0,0,,and she finds Yara in really bad shape.
+Dialogue: 1,3:05:34.31,3:05:37.67,辉中,,0,0,0,,感觉有很多发自肺腑的真情实感在流露出来
+Dialogue: 2,3:05:34.31,3:05:37.67,辉英,,0,0,0,,There's a lot of tension and visceral emotion going on,
+Dialogue: 1,3:05:37.67,3:05:41.50,辉中,,0,0,0,,但我感觉这些都是毫无根据的
+Dialogue: 2,3:05:37.67,3:05:41.50,辉英,,0,0,0,,but it seemed to come out of nowhere to me.
+Dialogue: 1,3:05:41.50,3:05:45.86,辉中,,0,0,0,,我也不明白 如果有什么深度的文学原因 请告诉我 谢谢
+Dialogue: 2,3:05:41.50,3:05:45.86,辉英,,0,0,0,,I don't know, there's some deeper literary reason for this. I would love to hear it.
+Dialogue: 1,3:05:45.86,3:05:50.57,辉中,,0,0,0,,我也不知道自己想没想过这些 但我反正是不知该如何评价
+Dialogue: 2,3:05:45.86,3:05:50.57,辉英,,0,0,0,,I'm not sure I've thought about it, but I don't really know what to make of it.
+Dialogue: 1,3:05:50.57,3:05:52.50,辉中,,0,0,0,,所以……我们继续
+Dialogue: 2,3:05:50.57,3:05:52.50,辉英,,0,0,0,,So… moving on.
+Dialogue: 1,3:05:52.50,3:05:58.84,辉中,,0,0,0,,在「西雅图 第1天」结尾 埃比做噩梦了 梦见她在自己父亲去世的医院房间里
+Dialogue: 2,3:05:52.50,3:05:58.84,辉英,,0,0,0,,Seattle Day 1 wraps up with Abby having a bizarre nightmare about Yara and Lev being killed and strung up
+Dialogue: 1,3:05:58.84,3:06:02.93,辉中,,0,0,0,,看到雅拉和勒弗被吊死
+Dialogue: 2,3:05:58.84,3:06:02.93,辉英,,0,0,0,,in the very same hospital room where her father died,
+Dialogue: 1,3:06:02.93,3:06:08.33,辉中,,0,0,0,,在我看来 这似乎意味着她对他们有某种家人般的情感
+Dialogue: 2,3:06:02.93,3:06:08.33,辉英,,0,0,0,,which to me seems to imply that she feels some sort of familial attachment to them.
+Dialogue: 1,3:06:08.33,3:06:13.31,辉中,,0,0,0,,因为在埃比的梦中 他们死在了和父亲一样的地方
+Dialogue: 2,3:06:08.33,3:06:13.31,辉英,,0,0,0,,Since in her dream they die in the same place that her father died.
+Dialogue: 1,3:06:13.31,3:06:19.22,辉中,,0,0,0,,我觉得一定不能低估她在这样的一个地方梦见他们的意义
+Dialogue: 2,3:06:13.31,3:06:19.22,辉英,,0,0,0,,I really don't think you can understate the significance of her seeing them in this space.
+Dialogue: 1,3:06:19.22,3:06:22.31,辉中,,0,0,0,,如果她单纯因为担心他们遇害而感到压力
+Dialogue: 2,3:06:19.22,3:06:22.31,辉英,,0,0,0,,If she was stressing out purely about them being killed,
+Dialogue: 1,3:06:22.31,3:06:28.85,辉中,,0,0,0,,那她大可只梦见回WLF基地的路上看到了他们的尸体
+Dialogue: 2,3:06:22.31,3:06:26.33,辉英,,0,0,0,,why wouldn't she just have a nightmare where she imagines coming across their bodies
+Dialogue: 2,3:06:26.33,3:06:28.85,辉英,,0,0,0,,as she was heading back to the WLF base.
+Dialogue: 1,3:06:28.85,3:06:32.90,辉中,,0,0,0,,所以她这样的梦境发生在那所医院内是非常重要的
+Dialogue: 2,3:06:28.85,3:06:32.90,辉英,,0,0,0,,The fact that she has this dream and it set in the hospital is significant,
+Dialogue: 1,3:06:32.90,3:06:38.63,辉中,,0,0,0,,我认为这体现出她自己有着超乎自己想象的 与这两个孩子的情感上的联系
+Dialogue: 2,3:06:32.90,3:06:38.63,辉英,,0,0,0,,and I think it shows that she has a much deeper bond with these kids than even she realizes.
+Dialogue: 1,3:06:38.63,3:06:44.12,辉中,,0,0,0,,所以这样的梦过后 她决定亲自回去看看 确保他们还安全
+Dialogue: 2,3:06:38.63,3:06:44.12,辉英,,0,0,0,,So after this dream she decides that she needs to go and make sure that they're okay.
+Dialogue: 1,3:06:44.12,3:06:47.95,辉中,,0,0,0,,没错 她正式决定要去帮助那两个疤脸帮了
+Dialogue: 2,3:06:44.12,3:06:47.95,辉英,,0,0,0,,Yeah, she's actually going to go and help Scars.
+Dialogue: 1,3:06:47.95,3:06:52.88,辉中,,0,0,0,,就像其他WLF士兵一样困惑
+Dialogue: 2,3:06:47.95,3:06:52.88,辉英,,0,0,0,,She's just as baffled as any other WLF member would be,
+Dialogue: 1,3:06:52.88,3:06:58.49,辉中,,0,0,0,,她似乎也发现 之前欧文在这样的场景也是同样的感受
+Dialogue: 2,3:06:52.88,3:06:58.49,辉英,,0,0,0,,and it seems that she's coming to the realization that Owen also came to.
+Dialogue: 1,3:06:58.49,3:07:00.83,辉中,,0,0,0,,她也干腻了
+Dialogue: 2,3:06:58.49,3:07:00.83,辉英,,0,0,0,,She's done with all of it.
+Dialogue: 0,3:07:00.55,3:07:02.45,辉中 西雅图标题,,0,180,300,,西雅图 第2天
+Dialogue: 1,3:07:00.83,3:07:02.81,辉中,,0,0,0,,「西雅图 第2天」
+Dialogue: 2,3:07:00.83,3:07:02.81,辉英,,0,0,0,,Seattle Day 2.
+Dialogue: 1,3:07:02.81,3:07:05.84,辉中,,0,0,0,,埃比一醒来就回到了船厂的方向
+Dialogue: 2,3:07:02.81,3:07:05.84,辉英,,0,0,0,,So after Abby wakes up she rushes back to the shipping yard
+Dialogue: 1,3:07:05.84,3:07:07.76,辉中,,0,0,0,,想要找到雅拉和勒弗
+Dialogue: 2,3:07:05.84,3:07:07.76,辉英,,0,0,0,,to try and find Yara and Lev.
+Dialogue: 1,3:07:07.76,3:07:11.00,辉中,,0,0,0,,她遇到了大量的疤脸帮 其中还有几个野蛮人
+Dialogue: 2,3:07:07.76,3:07:11.00,辉英,,0,0,0,,She encounters a ton of Scars, including several Brutes,
+Dialogue: 1,3:07:11.00,3:07:13.91,辉中,,0,0,0,,让战斗更加有趣
+Dialogue: 2,3:07:11.00,3:07:13.91,辉英,,0,0,0,,which leads to a fairly interesting combat encounter.
+Dialogue: 1,3:07:13.91,3:07:16.82,辉中,,0,0,0,,解决掉他们后 埃比回到了拖车上小屋
+Dialogue: 2,3:07:13.91,3:07:16.82,辉英,,0,0,0,,After clearing them out, Abby heads back into the office trailer,
+Dialogue: 1,3:07:16.82,3:07:20.15,辉中,,0,0,0,,发现雅拉的状况真的很糟糕
+Dialogue: 2,3:07:16.82,3:07:20.15,辉英,,0,0,0,,and she finds Yara in really bad shape.
 Dialogue: 1,3:07:20.15,3:07:22.31,辉中,,0,0,0,,她的胳膊肿的像猴屁股一样
 Dialogue: 2,3:07:20.15,3:07:22.31,辉英,,0,0,0,,Her arm looks like a cherry laffey taffy,
-Dialogue: 1,3:07:22.31,3:07:27.11,辉中,,0,0,0,,and it's clear that it's going to need some… let's just say "severe treatment".
-Dialogue: 1,3:07:27.11,3:07:32.78,辉中,,0,0,0,,So she picks Yara up and she brings her to the aquarium with Lev trailing close behind.
-Dialogue: 1,3:07:32.78,3:07:38.33,辉中,,0,0,0,,Her plan is basically to have a Mel treat Yara's arm in whatever capacity that may take.
-Dialogue: 1,3:07:38.33,3:07:41.30,辉中,,0,0,0,,Needless to say, this is a pretty big gamble.
-Dialogue: 1,3:07:41.30,3:07:46.97,辉中,,0,0,0,,Because of Abby has found out and ratted out to Isaac and the other WLF members,
-Dialogue: 1,3:07:46.97,3:07:52.16,辉中,,0,0,0,,she's likely going to end up either completely ostracized from the group,
-Dialogue: 1,3:07:52.16,3:07:55.49,辉中,,0,0,0,,or downright executed for helping out their prime enemy.
-Dialogue: 1,3:07:55.49,3:07:59.88,辉中,,0,0,0,,Sure, you could say that they are former members of the group now
-Dialogue: 1,3:07:59.88,3:08:03.53,辉中,,0,0,0,,and that they should be helped because they are apostate from the group.
-Dialogue: 1,3:08:03.53,3:08:05.24,辉中,,0,0,0,,But it doesn't really matter.
-Dialogue: 1,3:08:05.24,3:08:10.10,辉中,,0,0,0,,In this type of situation, the enemy of the enemy is your friend.
-Dialogue: 1,3:08:10.10,3:08:14.60,辉中,,0,0,0,,In this case, the enemy of the enemy is not actually your friend.
-Dialogue: 1,3:08:14.60,3:08:17.56,辉中,,0,0,0,,It's just somebody that you should ostracize and kill
-Dialogue: 1,3:08:17.56,3:08:22.25,辉中,,0,0,0,,because complicated moral and ethical quandaries aren't worth the trouble.
-Dialogue: 1,3:08:22.25,3:08:24.11,辉中,,0,0,0,,in a post apocalyptic world.
-Dialogue: 1,3:08:24.11,3:08:28.04,辉中,,0,0,0,,Regardless after taking a look and not initially freaking out,
-Dialogue: 1,3:08:28.04,3:08:33.32,辉中,,0,0,0,,Mel determines that the bone is completely shattered and that the arm has to come off
-Dialogue: 1,3:08:33.32,3:08:35.39,辉中,,0,0,0,,if she has any chance of surviving.
-Dialogue: 1,3:08:35.39,3:08:38.39,辉中,,0,0,0,,Mel then explains what she needs for this operation.
-Dialogue: 1,3:08:38.39,3:08:42.74,辉中,,0,0,0,,She could just take a knife and hack at it and try to cauterize the wound with fire,
-Dialogue: 1,3:08:42.74,3:08:44.39,辉中,,0,0,0,,as Owen points out.
-Dialogue: 1,3:08:44.39,3:08:47.63,辉中,,0,0,0,,But this would likely lead to infection very quickly.
-Dialogue: 1,3:08:47.63,3:08:50.30,辉中,,0,0,0,,If they're going to do this, they might as well do it right.
-Dialogue: 1,3:08:50.30,3:08:53.54,辉中,,0,0,0,,So Mel requests to saw and some other surgical equipment.
-Dialogue: 1,3:08:53.54,3:08:56.18,辉中,,0,0,0,,Abby, says that she could get it from the hospital.
-Dialogue: 1,3:08:56.18,3:09:00.77,辉中,,0,0,0,,Problem being that the hospital, according to the WLF routes that are in place right now,
-Dialogue: 1,3:09:00.77,3:09:07.19,辉中,,0,0,0,,is gonna take roughly a day to reach and then a day to return from, far too long for Yara.
-Dialogue: 1,3:09:07.19,3:09:09.05,辉中,,0,0,0,,It's at this point that Lev offers help
-Dialogue: 1,3:09:09.05,3:09:12.12,辉中,,0,0,0,,by giving access to the bridge system that the Scars used
-Dialogue: 1,3:09:12.12,3:09:14.36,辉中,,0,0,0,,to navigate the city from the rooftops.
-Dialogue: 1,3:09:14.36,3:09:18.77,辉中,,0,0,0,,It's not clear exactly what this is going to be or what form it's going to take.
-Dialogue: 1,3:09:19.01,3:09:23.36,辉中,,0,0,0,,It also, it's a little strange to me that the WLF member, such as Owen and Abby,
-Dialogue: 1,3:09:23.36,3:09:27.50,辉中,,0,0,0,,don't seem to be aware of this bridge system whatsoever.
-Dialogue: 1,3:09:27.50,3:09:31.11,辉中,,0,0,0,,They are aware that the Scars are able to navigate the city very quickly
-Dialogue: 1,3:09:31.11,3:09:34.42,辉中,,0,0,0,,so quickly that it seems almost supernatural
-Dialogue: 1,3:09:34.42,3:09:36.33,辉中,,0,0,0,,but apparently never occurred to them that
-Dialogue: 1,3:09:36.33,3:09:41.69,辉中,,0,0,0,,they might be using bridge systems above the city by using the rooftops.
-Dialogue: 1,3:09:41.69,3:09:46.52,辉中,,0,0,0,,The point is that Lev offers to give them access to this bridge system.
-Dialogue: 1,3:09:46.52,3:09:49.28,辉中,,0,0,0,,Lev knows these routes very well and says that
-Dialogue: 1,3:09:49.28,3:09:54.83,辉中,,0,0,0,,they should be able to reach the hospital in around 2 hours if they were to follow the route.
-Dialogue: 1,3:09:54.83,3:09:58.45,辉中,,0,0,0,,And so without much hesitation, Abby agrees and leaves.
-Dialogue: 1,3:09:58.45,3:10:02.12,辉中,,0,0,0,,As they're leaving the aquarium, Owen stops Abby and tries to talk,
-Dialogue: 1,3:10:02.12,3:10:07.49,辉中,,0,0,0,,but she is not interested in addressing what happened a night before with the sexy time.
-Dialogue: 1,3:10:07.49,3:10:11.18,辉中,,0,0,0,,And it seems that she's found her new family and obsession.
-Dialogue: 1,3:10:11.18,3:10:14.48,辉中,,0,0,0,,This is the first time that we've really seen her move past Owen
-Dialogue: 1,3:10:14.48,3:10:18.71,辉中,,0,0,0,,and behave in a way that doesn't seem completely obsessive towards him.
-Dialogue: 1,3:10:18.71,3:10:20.39,辉中,,0,0,0,,It's kind of refreshing to be honest.
-Dialogue: 1,3:10:20.39,3:10:23.81,辉中,,0,0,0,,Prior to this, it's very clear that Abby still has feelings for Owen.
-Dialogue: 1,3:10:23.81,3:10:27.86,辉中,,0,0,0,,And even in the first chapter when we originally met Abby and Owen
-Dialogue: 1,3:10:27.86,3:10:30.41,辉中,,0,0,0,,when their overlooking snow-crested Jackson,
-Dialogue: 1,3:10:30.41,3:10:35.18,辉中,,0,0,0,,We saw that Abby and Owen shared a strange tension.
-Dialogue: 1,3:10:35.18,3:10:39.32,辉中,,0,0,0,,Have you know one could never really get on the same page after her father died.
-Dialogue: 1,3:10:39.32,3:10:43.85,辉中,,0,0,0,,And quite obviously, since Joel's death, nothing has changed.
-Dialogue: 1,3:10:43.85,3:10:48.40,辉中,,0,0,0,,This is lead Owen sticking with Mel, even though they're pretty clearly not compatible
-Dialogue: 1,3:10:48.40,3:10:51.41,辉中,,0,0,0,,and even don't seem to particularly like each other.
-Dialogue: 1,3:10:51.41,3:10:54.02,辉中,,0,0,0,,I'm not entirely sure if this was intentional or not,
-Dialogue: 1,3:10:54.02,3:11:00.32,辉中,,0,0,0,,but the fact that there's zero chemistry between Owen and Mel seems pretty obvious to me.
-Dialogue: 1,3:11:00.32,3:11:05.00,辉中,,0,0,0,,And if the writers are even somewhat competent, as I believe they are over at Naughty Dog,
-Dialogue: 1,3:11:05.00,3:11:06.65,辉中,,0,0,0,,surely somebody noticed this.
-Dialogue: 1,3:11:06.65,3:11:11.80,辉中,,0,0,0,,So either it was masterful performance on the part of the actors and the writers to make sure that
-Dialogue: 1,3:11:11.80,3:11:17.90,辉中,,0,0,0,,these characters didn't seem to have that much in common didn't seem to get along particularly well,
-Dialogue: 1,3:11:17.90,3:11:21.89,辉中,,0,0,0,,and that they had an immense amount of tension brewing between them.
-Dialogue: 1,3:11:21.89,3:11:25.94,辉中,,0,0,0,,Either that was completely intentional or it was an accident,
-Dialogue: 1,3:11:25.94,3:11:28.22,辉中,,0,0,0,,and it was the result of a misfire and the writing.
-Dialogue: 1,3:11:28.22,3:11:30.11,辉中,,0,0,0,,I think it's the former personally.
-Dialogue: 1,3:11:30.11,3:11:34.97,辉中,,0,0,0,,I think that Mel and Owen are supposed to come off as a little strange.
-Dialogue: 1,3:11:34.97,3:11:38.93,辉中,,0,0,0,,Everyone else in the group seems to be aware that their relationship is a little bizarre
-Dialogue: 1,3:11:38.93,3:11:42.56,辉中,,0,0,0,,and that Owen and Abby seem to have feelings for each other
-Dialogue: 1,3:11:42.56,3:11:44.90,辉中,,0,0,0,,and they're confused as to why they are not just together.
-Dialogue: 1,3:11:44.90,3:11:49.68,辉中,,0,0,0,,But that tension will eventually be resolved, just… just wait.
-Dialogue: 1,3:11:49.68,3:11:52.63,辉中,,0,0,0,,After leaving the aquarium, Abby and Lev head to the tower
-Dialogue: 1,3:11:52.63,3:11:54.71,辉中,,0,0,0,,that they need to climb all the way to the top of
-Dialogue: 1,3:11:54.71,3:11:57.68,辉中,,0,0,0,,in order to gain access to the aforementioned "Bridge".
-Dialogue: 1,3:11:57.68,3:12:02.81,辉中,,0,0,0,,It's pretty damn high up there, and it happens to be covered by clouds and fog.
-Dialogue: 1,3:12:02.81,3:12:07.61,辉中,,0,0,0,,This is a nice and coincidentally thing because it adds to the tension of the situation.
-Dialogue: 1,3:12:07.61,3:12:13.11,辉中,,0,0,0,,But it doesn't answer the question as to how the WLF weren't aware of this bridge system.
-Dialogue: 1,3:12:13.11,3:12:17.09,辉中,,0,0,0,,Because chances are, it's not always cloudy and foggy
-Dialogue: 1,3:12:17.09,3:12:20.36,辉中,,0,0,0,,to the point where you can't see to the top of these skyscrapers.
-Dialogue: 1,3:12:20.36,3:12:24.35,辉中,,0,0,0,,Surely somebody saw these bridges when the sky was clear.
-Dialogue: 1,3:12:24.35,3:12:29.71,辉中,,0,0,0,,It seems bizarre to me that the WLF didn't feel the need to explore these bridge systems
-Dialogue: 1,3:12:29.71,3:12:35.48,辉中,,0,0,0,,that seemed to go perfectly between skyscrapers and buildings very high up,
-Dialogue: 1,3:12:35.48,3:12:38.27,辉中,,0,0,0,,especially when they would have been visible from the ground.
-Dialogue: 1,3:12:38.27,3:12:40.25,辉中,,0,0,0,,But I guess that's just me.
-Dialogue: 1,3:12:40.25,3:12:43.79,辉中,,0,0,0,,Now. as Abby and Lev are heading to the top of this tower,
-Dialogue: 1,3:12:43.79,3:12:47.51,辉中,,0,0,0,,they climbed through multiple buildings, explore some different areas,
-Dialogue: 1,3:12:47.51,3:12:50.57,辉中,,0,0,0,,and they share in a few interesting conversations.
-Dialogue: 1,3:12:50.57,3:12:53.87,辉中,,0,0,0,,Now there's nothing really crazy here, it's mostly awkward small talk,
-Dialogue: 1,3:12:53.87,3:12:57.92,辉中,,0,0,0,,but it mostly serves to show that they are growing more comfortable with each other.
-Dialogue: 1,3:12:57.92,3:13:01.13,辉中,,0,0,0,,My personal favorite moment is when they come across somebody's apartment,
-Dialogue: 1,3:13:01.13,3:13:03.95,辉中,,0,0,0,,who was clearly very into gaming.
-Dialogue: 1,3:13:03.95,3:13:06.60,辉中,,0,0,0,,In fact, they even still have their D&D game set up
-Dialogue: 1,3:13:06.60,3:13:09.95,辉中,,0,0,0,,and they have their Playstation gear scattered throughout the apartment.
-Dialogue: 1,3:13:09.95,3:13:11.09,辉中,,0,0,0,,It's kind of cool.
-Dialogue: 1,3:13:11.09,3:13:14.57,辉中,,0,0,0,,And personally, I would like to think that this whole apartment is modeled
-Dialogue: 1,3:13:14.57,3:13:16.55,辉中,,0,0,0,,after one of the developers apartments.
-Dialogue: 1,3:13:16.55,3:13:21.76,辉中,,0,0,0,,I've heard stories of developers from Bethesda and Rocksteady doing this type of thing
-Dialogue: 1,3:13:21.76,3:13:25.40,辉中,,0,0,0,,where they take an environment model it after their own personal environment
-Dialogue: 1,3:13:25.40,3:13:27.20,辉中,,0,0,0,,because after all, that's what they know.
-Dialogue: 1,3:13:27.20,3:13:30.83,辉中,,0,0,0,,It's a little piece of the real world in this imaginary world,
-Dialogue: 1,3:13:30.83,3:13:33.02,辉中,,0,0,0,,and I just think that it's super cool.
-Dialogue: 1,3:13:33.02,3:13:38.15,辉中,,0,0,0,,And I thought that this particular building was especially detailed.
-Dialogue: 1,3:13:38.15,3:13:40.64,辉中,,0,0,0,,The two travel through a plethora of buildings,
-Dialogue: 1,3:13:40.64,3:13:42.65,辉中,,0,0,0,,they push through some rapids,
-Dialogue: 1,3:13:42.65,3:13:46.70,辉中,,0,0,0,,and they eventually land on a construction site that's next to the target building.
-Dialogue: 1,3:13:46.70,3:13:48.87,辉中,,0,0,0,,Now it just so happens that in this construction site
-Dialogue: 1,3:13:48.87,3:13:52.64,辉中,,0,0,0,,is one of the most interesting combat arenas of the entire game.
-Dialogue: 1,3:13:52.64,3:13:57.40,辉中,,0,0,0,,There's a ton of verticality here and there's a lot of Seraphites scattered throughout.
-Dialogue: 1,3:13:57.40,3:14:00.53,辉中,,0,0,0,,Some of them are Brutes, some of them have short range weapons,
-Dialogue: 1,3:14:00.53,3:14:02.87,辉中,,0,0,0,,and some of them have long range weapons.
-Dialogue: 1,3:14:02.87,3:14:06.32,辉中,,0,0,0,,It's really interesting how they laid all of this out and on harder difficulties.
-Dialogue: 1,3:14:06.32,3:14:09.47,辉中,,0,0,0,,Let me just tell you it kicked my ass a few times.
-Dialogue: 1,3:14:09.47,3:14:11.96,辉中,,0,0,0,,But it's important to say that it felt fair.
-Dialogue: 1,3:14:11.96,3:14:17.16,辉中,,0,0,0,,It wasn't as though I was getting my ass handed to me, and I felt like I was being slighted
-Dialogue: 1,3:14:17.16,3:14:21.29,辉中,,0,0,0,,like a poorly designed boss that's able to clip through walls or something.
-Dialogue: 1,3:14:21.29,3:14:23.18,辉中,,0,0,0,,This level feels completely fair.
-Dialogue: 1,3:14:23.18,3:14:28.22,辉中,,0,0,0,,It just seems like a difficult situation where Lev and Abby have to work perfectly in tandem.
-Dialogue: 1,3:14:28.22,3:14:30.47,辉中,,0,0,0,,And when that happens, things work out.
-Dialogue: 1,3:14:30.47,3:14:32.45,辉中,,0,0,0,,But after clearing this area,
-Dialogue: 1,3:14:32.45,3:14:37.85,辉中,,0,0,0,,the two get into an industrial elevator that they can take all the way to the top to reach the bridge.
-Dialogue: 1,3:14:37.85,3:14:41.83,辉中,,0,0,0,,Now, if you remember from earlier Abby's worst nightmare is heights.
-Dialogue: 1,3:14:41.83,3:14:46.86,辉中,,0,0,0,,Here, Lev actually shares a bit of sweet advice to try and take out his mind off of the terror
-Dialogue: 1,3:14:46.86,3:14:50.36,辉中,,0,0,0,,that she feels due to the enormous and ever increasing heights.
+Dialogue: 1,3:07:22.31,3:07:27.11,辉中,,0,0,0,,很明显她需要一些……就说是“非常严重的治疗”吧
+Dialogue: 2,3:07:22.31,3:07:27.11,辉英,,0,0,0,,and it's clear that it's going to need some… let's just say "severe treatment".
+Dialogue: 1,3:07:27.11,3:07:32.78,辉中,,0,0,0,,所以埃比抱起雅拉 把她带回水族馆 勒弗一路跟随
+Dialogue: 2,3:07:27.11,3:07:32.78,辉英,,0,0,0,,So she picks Yara up and she brings her to the aquarium with Lev trailing close behind.
+Dialogue: 1,3:07:32.78,3:07:38.33,辉中,,0,0,0,,她的计划基本上是让梅尔尽一切手段治疗雅拉的手臂
+Dialogue: 2,3:07:32.78,3:07:38.33,辉英,,0,0,0,,Her plan is basically to have a Mel treat Yara's arm in whatever capacity that may take.
+Dialogue: 1,3:07:38.33,3:07:41.30,辉中,,0,0,0,,不用说也知道 这是一场豪赌
+Dialogue: 2,3:07:38.33,3:07:41.30,辉英,,0,0,0,,Needless to say, this is a pretty big gamble.
+Dialogue: 1,3:07:41.30,3:07:46.97,辉中,,0,0,0,,因为埃比相当于出卖了伊萨克和其他WLF成员
+Dialogue: 2,3:07:41.30,3:07:46.97,辉英,,0,0,0,,Because of Abby has found out and ratted out to Isaac and the other WLF members,
+Dialogue: 1,3:07:46.97,3:07:52.16,辉中,,0,0,0,,她最终很有可能会完全被组织排斥在外
+Dialogue: 2,3:07:46.97,3:07:52.16,辉英,,0,0,0,,she's likely going to end up either completely ostracized from the group,
+Dialogue: 1,3:07:52.16,3:07:55.49,辉中,,0,0,0,,或者因为帮助敌人而直接被处决
+Dialogue: 2,3:07:52.16,3:07:55.49,辉英,,0,0,0,,or downright executed for helping out their prime enemy.
+Dialogue: 1,3:07:55.49,3:07:59.88,辉中,,0,0,0,,诚然 你可以说这俩人是前疤脸帮成员
+Dialogue: 2,3:07:55.49,3:07:59.88,辉英,,0,0,0,,Sure, you could say that they are former members of the group now
+Dialogue: 1,3:07:59.88,3:08:03.53,辉中,,0,0,0,,他们背叛了疤脸帮 所以帮助他们也没什么问题
+Dialogue: 2,3:07:59.88,3:08:03.53,辉英,,0,0,0,,and that they should be helped because they are apostate from the group.
+Dialogue: 1,3:08:03.53,3:08:05.24,辉中,,0,0,0,,但我感觉这点并不重要
+Dialogue: 2,3:08:03.53,3:08:05.24,辉英,,0,0,0,,But it doesn't really matter.
+Dialogue: 1,3:08:05.24,3:08:10.10,辉中,,0,0,0,,通常情况下 敌人的敌人就是朋友
+Dialogue: 2,3:08:05.24,3:08:10.10,辉英,,0,0,0,,In this type of situation, the enemy of the enemy is your friend.
+Dialogue: 1,3:08:10.10,3:08:14.60,辉中,,0,0,0,,但在这个例子里 敌人的敌人还真不是你的朋友
+Dialogue: 2,3:08:10.10,3:08:14.60,辉英,,0,0,0,,In this case, the enemy of the enemy is not actually your friend.
+Dialogue: 1,3:08:14.60,3:08:17.56,辉中,,0,0,0,,他们都是你应该杀死的敌人罢了
+Dialogue: 2,3:08:14.60,3:08:17.56,辉英,,0,0,0,,It's just somebody that you should ostracize and kill
+Dialogue: 1,3:08:17.56,3:08:24.11,辉中,,0,0,0,,因为在这样一个末世 人们没工夫考虑那些复杂的道德与伦理难题
+Dialogue: 2,3:08:17.56,3:08:22.25,辉英,,0,0,0,,because complicated moral and ethical quandaries aren't worth the trouble
+Dialogue: 2,3:08:22.25,3:08:24.11,辉英,,0,0,0,,in a post apocalyptic world.
+Dialogue: 1,3:08:24.11,3:08:28.04,辉中,,0,0,0,,总之 梅尔在初次见面没被吓到过后
+Dialogue: 2,3:08:24.11,3:08:28.04,辉英,,0,0,0,,Regardless after taking a look and not initially freaking out,
+Dialogue: 1,3:08:28.04,3:08:35.39,辉中,,0,0,0,,诊断说是粉末性骨折 想活命就必须截肢
+Dialogue: 2,3:08:28.04,3:08:33.32,辉英,,0,0,0,,Mel determines that the bone is completely shattered and that the arm has to come off
+Dialogue: 2,3:08:33.32,3:08:35.39,辉英,,0,0,0,,if she has any chance of surviving.
+Dialogue: 1,3:08:35.39,3:08:38.39,辉中,,0,0,0,,随后梅尔列出了手术需要的工具列表
+Dialogue: 2,3:08:35.39,3:08:38.39,辉英,,0,0,0,,Mel then explains what she needs for this operation.
+Dialogue: 1,3:08:38.39,3:08:44.39,辉中,,0,0,0,,欧文说为啥不直接一刀下去然后用火药烧一下伤口呢
+Dialogue: 2,3:08:38.39,3:08:42.74,辉英,,0,0,0,,She could just take a knife and hack at it and try to cauterize the wound with fire,
+Dialogue: 2,3:08:42.74,3:08:44.39,辉英,,0,0,0,,as Owen points out.
+Dialogue: 1,3:08:44.39,3:08:47.63,辉中,,0,0,0,,但这样很容易导致感染
+Dialogue: 2,3:08:44.39,3:08:47.63,辉英,,0,0,0,,But this would likely lead to infection very quickly.
+Dialogue: 1,3:08:47.63,3:08:50.30,辉中,,0,0,0,,他们要帮人帮到底 送佛送到西
+Dialogue: 2,3:08:47.63,3:08:50.30,辉英,,0,0,0,,If they're going to do this, they might as well do it right.
+Dialogue: 1,3:08:50.30,3:08:53.54,辉中,,0,0,0,,所以梅尔说她需要一些手术器具
+Dialogue: 2,3:08:50.30,3:08:53.54,辉英,,0,0,0,,So Mel requests to saw and some other surgical equipment.
+Dialogue: 1,3:08:53.54,3:08:56.18,辉中,,0,0,0,,埃比说她可以回医院拿
+Dialogue: 2,3:08:53.54,3:08:56.18,辉英,,0,0,0,,Abby, says that she could get it from the hospital.
+Dialogue: 1,3:08:56.18,3:09:00.77,辉中,,0,0,0,,问题是按照WLF从水族馆到医院的正常路线
+Dialogue: 2,3:08:56.18,3:09:00.77,辉英,,0,0,0,,Problem being that the hospital, according to the WLF routes that are in place right now,
+Dialogue: 1,3:09:00.77,3:09:07.19,辉中,,0,0,0,,单程就要一天 来回需要两天 雅拉根本等不了那么久
+Dialogue: 2,3:09:00.77,3:09:07.19,辉英,,0,0,0,,is gonna take roughly a day to reach and then a day to return from, far too long for Yara.
+Dialogue: 1,3:09:07.19,3:09:12.12,辉中,,0,0,0,,这时勒弗提出他们可以走疤脸帮用的“桥”
+Dialogue: 2,3:09:07.19,3:09:09.05,辉英,,0,0,0,,It's at this point that Lev offers help
+Dialogue: 2,3:09:09.05,3:09:12.12,辉英,,0,0,0,,by giving access to the bridge system that the Scars used
+Dialogue: 1,3:09:12.12,3:09:14.36,辉中,,0,0,0,,这样就能在城市的楼顶上方穿行了
+Dialogue: 2,3:09:12.12,3:09:14.36,辉英,,0,0,0,,to navigate the city from the rooftops.
+Dialogue: 1,3:09:14.36,3:09:18.77,辉中,,0,0,0,,目前大家还不清楚具体是什么样的桥
+Dialogue: 2,3:09:14.36,3:09:18.77,辉英,,0,0,0,,It's not clear exactly what this is going to be or what form it's going to take.
+Dialogue: 1,3:09:19.01,3:09:23.36,辉中,,0,0,0,,另外 让我感觉有点奇怪的是 欧文和埃比这样的WLF成员
+Dialogue: 2,3:09:19.01,3:09:23.36,辉英,,0,0,0,,It also, it's a little strange to me that the WLF member, such as Owen and Abby,
+Dialogue: 1,3:09:23.36,3:09:27.50,辉中,,0,0,0,,竟然对他们所谓的“桥”毫不知情
+Dialogue: 2,3:09:23.36,3:09:27.50,辉英,,0,0,0,,don't seem to be aware of this bridge system whatsoever.
+Dialogue: 1,3:09:27.50,3:09:31.11,辉中,,0,0,0,,WLF的确知道疤脸帮能在城市里非常快速地移动
+Dialogue: 2,3:09:27.50,3:09:31.11,辉英,,0,0,0,,They are aware that the Scars are able to navigate the city very quickly
+Dialogue: 1,3:09:31.11,3:09:34.42,辉中,,0,0,0,,快到让人感觉像变魔术
+Dialogue: 2,3:09:31.11,3:09:34.42,辉英,,0,0,0,,so quickly that it seems almost supernatural
+Dialogue: 1,3:09:34.42,3:09:36.33,辉中,,0,0,0,,但显然他们从来就没想过
+Dialogue: 2,3:09:34.42,3:09:36.33,辉英,,0,0,0,,but apparently never occurred to them that
+Dialogue: 1,3:09:36.33,3:09:41.69,辉中,,0,0,0,,疤脸帮可能会利用房顶上的桥来在城市里旅行
+Dialogue: 2,3:09:36.33,3:09:41.69,辉英,,0,0,0,,they might be using bridge systems above the city by using the rooftops.
+Dialogue: 1,3:09:41.69,3:09:46.52,辉中,,0,0,0,,勒弗说可以带他们去疤脸帮的桥梁系统
+Dialogue: 2,3:09:41.69,3:09:46.52,辉英,,0,0,0,,The point is that Lev offers to give them access to this bridge system.
+Dialogue: 1,3:09:46.52,3:09:48.77,辉中,,0,0,0,,他非常熟悉路线
+Dialogue: 2,3:09:46.52,3:09:48.77,辉英,,0,0,0,,Lev knows these routes very well
+Dialogue: 1,3:09:48.77,3:09:54.83,辉中,,0,0,0,,并说按照他们的路线大概能在两小时内就能到达医院
+Dialogue: 2,3:09:48.77,3:09:54.83,辉英,,0,0,0,,and says that they should be able to reach the hospital in around 2 hours if they were to follow the route.
+Dialogue: 1,3:09:54.83,3:09:58.45,辉中,,0,0,0,,埃比没有过多犹豫 直接就出发了
+Dialogue: 2,3:09:54.83,3:09:58.45,辉英,,0,0,0,,And so without much hesitation, Abby agrees and leaves.
+Dialogue: 1,3:09:58.45,3:10:02.12,辉中,,0,0,0,,他们出门的时候 欧文拦下了埃比 想要和她谈谈
+Dialogue: 2,3:09:58.45,3:10:02.12,辉英,,0,0,0,,As they're leaving the aquarium, Owen stops Abby and tries to talk,
+Dialogue: 1,3:10:02.12,3:10:07.49,辉中,,0,0,0,,但她一点也不想聊昨晚的激情一夜
+Dialogue: 2,3:10:02.12,3:10:07.49,辉英,,0,0,0,,but she is not interested in addressing what happened a night before with the sexy time.
+Dialogue: 1,3:10:07.49,3:10:11.18,辉中,,0,0,0,,因为她好像找到了自己新的家庭上的归属
+Dialogue: 2,3:10:07.49,3:10:11.18,辉英,,0,0,0,,And it seems that she's found her new family and obsession.
+Dialogue: 1,3:10:11.18,3:10:14.48,辉中,,0,0,0,,我们看到她真的放下欧文了
+Dialogue: 2,3:10:11.18,3:10:14.48,辉英,,0,0,0,,This is the first time that we've really seen her move past Owen
+Dialogue: 1,3:10:14.48,3:10:18.71,辉中,,0,0,0,,而且行为上也不那么依赖他
+Dialogue: 2,3:10:14.48,3:10:18.71,辉英,,0,0,0,,and behave in a way that doesn't seem completely obsessive towards him.
+Dialogue: 1,3:10:18.71,3:10:20.39,辉中,,0,0,0,,给人一种刮目相看的感觉
+Dialogue: 2,3:10:18.71,3:10:20.39,辉英,,0,0,0,,It's kind of refreshing to be honest.
+Dialogue: 1,3:10:20.39,3:10:23.81,辉中,,0,0,0,,在此之前埃比很明显还对欧文有感情
+Dialogue: 2,3:10:20.39,3:10:23.81,辉英,,0,0,0,,Prior to this, it's very clear that Abby still has feelings for Owen.
+Dialogue: 1,3:10:23.81,3:10:30.41,辉中,,0,0,0,,即使是序章里我们第一次见到埃比和欧文鸟瞰雪中的杰克逊小镇时
+Dialogue: 2,3:10:23.81,3:10:27.86,辉英,,0,0,0,,And even in the first chapter when we originally met Abby and Owen
+Dialogue: 2,3:10:27.86,3:10:30.41,辉英,,0,0,0,,when their overlooking snow-crested Jackson,
+Dialogue: 1,3:10:30.41,3:10:35.18,辉中,,0,0,0,,我们可能已经感觉到埃比和欧文两人间弥漫的奇怪的紧张情绪
+Dialogue: 2,3:10:30.41,3:10:35.18,辉英,,0,0,0,,We saw that Abby and Owen shared a strange tension.
+Dialogue: 1,3:10:35.18,3:10:39.32,辉中,,0,0,0,,埃比在她父亲去世后从来就没和欧文真正走到一起去过
+Dialogue: 2,3:10:35.18,3:10:39.32,辉英,,0,0,0,,Abby and Owen can never really get on the same page after her father died.
+Dialogue: 1,3:10:39.32,3:10:43.85,辉中,,0,0,0,,而且显然 乔尔死了以后也没什么改变
+Dialogue: 2,3:10:39.32,3:10:43.85,辉英,,0,0,0,,And quite obviously, since Joel's death, nothing has changed.
+Dialogue: 1,3:10:43.85,3:10:48.40,辉中,,0,0,0,,所以欧文开始粘着梅尔 即使这俩人也不怎么对付
+Dialogue: 2,3:10:43.85,3:10:48.40,辉英,,0,0,0,,This is lead Owen sticking with Mel, even though they're pretty clearly not compatible
+Dialogue: 1,3:10:48.40,3:10:51.41,辉中,,0,0,0,,甚至看起来彼此不那么喜欢对方
+Dialogue: 2,3:10:48.40,3:10:51.41,辉英,,0,0,0,,and even don't seem to particularly like each other.
+Dialogue: 1,3:10:51.41,3:10:54.02,辉中,,0,0,0,,我不能完全确定这是否是故意安排的
+Dialogue: 2,3:10:51.41,3:10:54.02,辉英,,0,0,0,,I'm not entirely sure if this was intentional or not,
+Dialogue: 1,3:10:54.02,3:11:00.32,辉中,,0,0,0,,但对我来说欧文和梅尔之间完全没有化学反应是肯定的
+Dialogue: 2,3:10:54.02,3:11:00.32,辉英,,0,0,0,,but the fact that there's zero chemistry between Owen and Mel seems pretty obvious to me.
+Dialogue: 1,3:11:00.32,3:11:05.00,辉中,,0,0,0,,如果编剧想让玩家感觉到俩人有感情 那以顽皮狗的实力肯定是能做到的
+Dialogue: 2,3:11:00.32,3:11:05.00,辉英,,0,0,0,,And if the writers are even somewhat competent, as I believe they are over at Naughty Dog,
+Dialogue: 1,3:11:05.00,3:11:06.65,辉中,,0,0,0,,如果编剧想让玩家感觉到俩人有感情 那以顽皮狗的实力肯定是能做到的
+Dialogue: 2,3:11:05.00,3:11:06.65,辉英,,0,0,0,,surely somebody noticed this.
+Dialogue: 1,3:11:06.65,3:11:11.80,辉中,,0,0,0,,所以要么是演员的完美表演和编剧的刻意安排
+Dialogue: 2,3:11:06.65,3:11:11.80,辉英,,0,0,0,,So either it was masterful performance on the part of the actors and the writers to make sure that
+Dialogue: 1,3:11:11.80,3:11:17.90,辉中,,0,0,0,,让角色们看起来就是没有共同点 就是聊不到一起去
+Dialogue: 2,3:11:11.80,3:11:17.90,辉英,,0,0,0,,these characters didn't seem to have that much in common didn't seem to get along particularly well,
+Dialogue: 1,3:11:17.90,3:11:21.89,辉中,,0,0,0,,两人之间就是有很深的紧张情绪在里面发酵
+Dialogue: 2,3:11:17.90,3:11:21.89,辉英,,0,0,0,,and that they had an immense amount of tension brewing between them.
+Dialogue: 1,3:11:21.89,3:11:25.94,辉中,,0,0,0,,要么就完全是游戏制作上和编剧策划上的失误
+Dialogue: 2,3:11:21.89,3:11:25.94,辉英,,0,0,0,,Either that was completely intentional or it was an accident,
+Dialogue: 1,3:11:25.94,3:11:28.22,辉中,,0,0,0,,要么就完全是游戏制作上和编剧策划上的失误
+Dialogue: 2,3:11:25.94,3:11:28.22,辉英,,0,0,0,,and it was the result of a misfire and the writing.
+Dialogue: 1,3:11:28.22,3:11:30.11,辉中,,0,0,0,,我个人倾向于前一种
+Dialogue: 2,3:11:28.22,3:11:30.11,辉英,,0,0,0,,I think it's the former personally.
+Dialogue: 1,3:11:30.11,3:11:34.97,辉中,,0,0,0,,我认为梅尔和欧文就是要给人一种怪怪的感觉
+Dialogue: 2,3:11:30.11,3:11:34.97,辉英,,0,0,0,,I think that Mel and Owen are supposed to come off as a little strange.
+Dialogue: 1,3:11:34.97,3:11:38.93,辉中,,0,0,0,,队伍里其他人看起来都知道他们两人之间奇怪的氛围
+Dialogue: 2,3:11:34.97,3:11:38.93,辉英,,0,0,0,,Everyone else in the group seems to be aware that their relationship is a little bizarre
+Dialogue: 1,3:11:38.93,3:11:42.56,辉中,,0,0,0,,同时欧文和埃比看起来互相对对方有感觉
+Dialogue: 2,3:11:38.93,3:11:42.56,辉英,,0,0,0,,and that Owen and Abby seem to have feelings for each other
+Dialogue: 1,3:11:42.56,3:11:44.90,辉中,,0,0,0,,但玩家却不明白为何俩人没走到一起
+Dialogue: 2,3:11:42.56,3:11:44.90,辉英,,0,0,0,,and they're confused as to why they are not just together.
+Dialogue: 1,3:11:44.90,3:11:49.68,辉中,,0,0,0,,而这种紧张的情绪总会得到解决……等就好了
+Dialogue: 2,3:11:44.90,3:11:49.68,辉英,,0,0,0,,But that tension will eventually be resolved, just… just wait.
+Dialogue: 1,3:11:49.68,3:11:52.63,辉中,,0,0,0,,离开水族馆后 埃比和勒弗要前往一座大楼 爬到顶端
+Dialogue: 2,3:11:49.68,3:11:52.63,辉英,,0,0,0,,After leaving the aquarium, Abby and Lev head to the tower
+Dialogue: 1,3:11:52.63,3:11:54.71,辉中,,0,0,0,,离开水族馆后 埃比和勒弗要前往一座大楼 爬到顶端
+Dialogue: 2,3:11:52.63,3:11:54.71,辉英,,0,0,0,,that they need to climb all the way to the top of
+Dialogue: 1,3:11:54.71,3:11:57.68,辉中,,0,0,0,,才能登上勒弗之前说的“桥”
+Dialogue: 2,3:11:54.71,3:11:57.68,辉英,,0,0,0,,in order to gain access to the aforementioned "bridge".
+Dialogue: 1,3:11:57.68,3:12:02.81,辉中,,0,0,0,,真的老高了 而且刚好顶端还被云雾挡住了
+Dialogue: 2,3:11:57.68,3:12:02.81,辉英,,0,0,0,,It's pretty damn high up there, and it happens to be covered by clouds and fog.
+Dialogue: 1,3:12:02.81,3:12:07.61,辉中,,0,0,0,,这样的安排真的很巧妙 提升了这种场景下的紧张感
+Dialogue: 2,3:12:02.81,3:12:07.61,辉英,,0,0,0,,This is a nice and coincidentally thing because it adds to the tension of the situation.
+Dialogue: 1,3:12:07.61,3:12:13.11,辉中,,0,0,0,,但这还是没有解释为什么WLF至今都没发现这座“桥”
+Dialogue: 2,3:12:07.61,3:12:13.11,辉英,,0,0,0,,But it doesn't answer the question as to how the WLF weren't aware of this bridge system.
+Dialogue: 1,3:12:13.11,3:12:17.09,辉中,,0,0,0,,因为西雅图总不可能天天都云雾缭绕的吧
+Dialogue: 2,3:12:13.11,3:12:17.09,辉英,,0,0,0,,Because chances are, it's not always cloudy and foggy
+Dialogue: 1,3:12:17.09,3:12:20.36,辉中,,0,0,0,,总不能天天都看不见高楼大厦的楼顶
+Dialogue: 2,3:12:17.09,3:12:20.36,辉英,,0,0,0,,to the point where you can't see to the top of these skyscrapers.
+Dialogue: 1,3:12:20.36,3:12:24.35,辉中,,0,0,0,,肯定会有人在天晴的时候看到楼顶有桥
+Dialogue: 2,3:12:20.36,3:12:24.35,辉英,,0,0,0,,Surely somebody saw these bridges when the sky was clear.
+Dialogue: 1,3:12:24.35,3:12:29.71,辉中,,0,0,0,,在我看来 WLF觉得没有必要去探索这种
+Dialogue: 2,3:12:24.35,3:12:29.71,辉英,,0,0,0,,It seems bizarre to me that the WLF didn't feel the need to explore these bridge systems
+Dialogue: 1,3:12:29.71,3:12:35.48,辉中,,0,0,0,,几乎能完美沟通几座摩天大楼的桥梁系统是很奇怪的
+Dialogue: 2,3:12:29.71,3:12:35.48,辉英,,0,0,0,,that seemed to go perfectly between skyscrapers and buildings very high up,
+Dialogue: 1,3:12:35.48,3:12:38.27,辉中,,0,0,0,,尤其是在地面上你都能看到
+Dialogue: 2,3:12:35.48,3:12:38.27,辉英,,0,0,0,,especially when they would have been visible from the ground.
+Dialogue: 1,3:12:38.27,3:12:40.25,辉中,,0,0,0,,但或许只有我会这么较真吧
+Dialogue: 2,3:12:38.27,3:12:40.25,辉英,,0,0,0,,But I guess that's just me.
+Dialogue: 1,3:12:40.25,3:12:43.79,辉中,,0,0,0,,现在 埃比和勒弗一点点向那座高楼推进
+Dialogue: 2,3:12:40.25,3:12:43.79,辉英,,0,0,0,,Now, as Abby and Lev are heading to the top of this tower,
+Dialogue: 1,3:12:43.79,3:12:47.51,辉中,,0,0,0,,爬上几栋建筑 探索了很多区域
+Dialogue: 2,3:12:43.79,3:12:47.51,辉英,,0,0,0,,they climbed through multiple buildings, explore some different areas,
+Dialogue: 1,3:12:47.51,3:12:50.57,辉中,,0,0,0,,还聊了很多有趣的东西
+Dialogue: 2,3:12:47.51,3:12:50.57,辉英,,0,0,0,,and they share in a few interesting conversations.
+Dialogue: 1,3:12:50.57,3:12:53.87,辉中,,0,0,0,,没什么特别的事情 多数都是有一搭没一搭地闲聊
+Dialogue: 2,3:12:50.57,3:12:53.87,辉英,,0,0,0,,Now there's nothing really crazy here, it's mostly awkward small talk,
+Dialogue: 1,3:12:53.87,3:12:57.92,辉中,,0,0,0,,但主要是为了表现他们两人彼此越来越融洽
+Dialogue: 2,3:12:53.87,3:12:57.92,辉英,,0,0,0,,but it mostly serves to show that they are growing more comfortable with each other.
+Dialogue: 1,3:12:57.92,3:13:01.13,辉中,,0,0,0,,我最喜欢的时刻是偶然进到某间公寓里
+Dialogue: 2,3:12:57.92,3:13:01.13,辉英,,0,0,0,,My personal favorite moment is when they come across somebody's apartment,
+Dialogue: 1,3:13:01.13,3:13:03.95,辉中,,0,0,0,,公寓主人显然很喜欢玩游戏
+Dialogue: 2,3:13:01.13,3:13:03.95,辉英,,0,0,0,,who was clearly very into gaming.
+Dialogue: 1,3:13:03.95,3:13:06.60,辉中,,0,0,0,,桌面上甚至摆着《龙与地下城》的桌游
+Dialogue: 2,3:13:03.95,3:13:06.60,辉英,,0,0,0,,In fact, they even still have their D&D game set up
+Dialogue: 1,3:13:06.60,3:13:09.95,辉中,,0,0,0,,家里还摆着PlayStation的游戏机之类的设备
+Dialogue: 2,3:13:06.60,3:13:09.95,辉英,,0,0,0,,and they have their Playstation gear scattered throughout the apartment.
+Dialogue: 1,3:13:09.95,3:13:11.09,辉中,,0,0,0,,感觉挺酷的
+Dialogue: 2,3:13:09.95,3:13:11.09,辉英,,0,0,0,,It's kind of cool.
+Dialogue: 1,3:13:11.09,3:13:16.55,辉中,,0,0,0,,我个人认为这样的房子很可能就是根据某个开发者自己家建模的
+Dialogue: 2,3:13:11.09,3:13:14.57,辉英,,0,0,0,,And personally, I would like to think that this whole apartment is modeled
+Dialogue: 2,3:13:14.57,3:13:16.55,辉英,,0,0,0,,after one of the developers apartments.
+Dialogue: 1,3:13:16.55,3:13:25.40,辉注,,0,0,0,,贝塞斯达(Bethesda): 《辐射》《上古卷轴》系列制作商\N洛克斯代迪(Rocksteady): 《蝙蝠侠》系列制作商
+Dialogue: 1,3:13:16.55,3:13:21.76,辉中,,0,0,0,,我的确听说过贝塞斯达和洛克斯代迪做过类似的事情
+Dialogue: 2,3:13:16.55,3:13:21.76,辉英,,0,0,0,,I've heard stories of developers from Bethesda and Rocksteady doing this type of thing
+Dialogue: 1,3:13:21.76,3:13:25.40,辉中,,0,0,0,,他们把自家员工的工作环境建模成游戏里的场景
+Dialogue: 2,3:13:21.76,3:13:25.40,辉英,,0,0,0,,where they take an environment model it after their own personal environment
+Dialogue: 1,3:13:25.40,3:13:27.20,辉中,,0,0,0,,毕竟 这就是他们身边的事物
+Dialogue: 2,3:13:25.40,3:13:27.20,辉英,,0,0,0,,because after all, that's what they know.
+Dialogue: 1,3:13:27.20,3:13:30.83,辉中,,0,0,0,,这是游戏这个虚拟世界中来自真实世界的影子
+Dialogue: 2,3:13:27.20,3:13:30.83,辉英,,0,0,0,,It's a little piece of the real world in this imaginary world,
+Dialogue: 1,3:13:30.83,3:13:33.02,辉中,,0,0,0,,我觉得这太酷了
+Dialogue: 2,3:13:30.83,3:13:33.02,辉英,,0,0,0,,and I just think that it's super cool.
+Dialogue: 1,3:13:33.02,3:13:38.15,辉中,,0,0,0,,而且我觉得这个房间的细节也很丰富
+Dialogue: 2,3:13:33.02,3:13:38.15,辉英,,0,0,0,,And I thought that this particular building was especially detailed.
+Dialogue: 1,3:13:38.15,3:13:40.64,辉中,,0,0,0,,两人继续穿过很多建筑
+Dialogue: 2,3:13:38.15,3:13:40.64,辉英,,0,0,0,,The two travel through a plethora of buildings,
+Dialogue: 1,3:13:40.64,3:13:42.65,辉中,,0,0,0,,越过一些急流
+Dialogue: 2,3:13:40.64,3:13:42.65,辉英,,0,0,0,,they push through some rapids,
+Dialogue: 1,3:13:42.65,3:13:46.70,辉中,,0,0,0,,来到了目标大楼旁边的一处建筑工地
+Dialogue: 2,3:13:42.65,3:13:46.70,辉英,,0,0,0,,and they eventually land on a construction site that's next to the target building.
+Dialogue: 1,3:13:46.70,3:13:48.87,辉中,,0,0,0,,这个建筑工地是我认为整个游戏里最有趣的战斗场景之一
+Dialogue: 2,3:13:46.70,3:13:48.87,辉英,,0,0,0,,Now it just so happens that in this construction site
+Dialogue: 1,3:13:48.87,3:13:52.64,辉中,,0,0,0,,这个建筑工地是我认为整个游戏里最有趣的战斗场景之一
+Dialogue: 2,3:13:48.87,3:13:52.64,辉英,,0,0,0,,is one of the most interesting combat arenas of the entire game.
+Dialogue: 1,3:13:52.64,3:13:57.40,辉中,,0,0,0,,有大范围的垂直空间 到处都有赛拉菲特帮
+Dialogue: 2,3:13:52.64,3:13:57.40,辉英,,0,0,0,,There's a ton of verticality here and there's a lot of Seraphites scattered throughout.
+Dialogue: 1,3:13:57.40,3:14:00.53,辉中,,0,0,0,,有野蛮人 有些拿近战武器
+Dialogue: 2,3:13:57.40,3:14:00.53,辉英,,0,0,0,,Some of them are Brutes, some of them have short range weapons,
+Dialogue: 1,3:14:00.53,3:14:02.87,辉中,,0,0,0,,还有些拿远程武器的
+Dialogue: 2,3:14:00.53,3:14:02.87,辉英,,0,0,0,,and some of them have long range weapons.
+Dialogue: 1,3:14:02.87,3:14:06.32,辉中,,0,0,0,,在较高难度下这些敌人的布局真的很有意思
+Dialogue: 2,3:14:02.87,3:14:06.32,辉英,,0,0,0,,It's really interesting how they laid all of this out and on harder difficulties.
+Dialogue: 1,3:14:06.32,3:14:09.47,辉中,,0,0,0,,我承认我玩的时候可被整惨了
+Dialogue: 2,3:14:06.32,3:14:09.47,辉英,,0,0,0,,Let me just tell you it kicked my ass a few times.
+Dialogue: 1,3:14:09.47,3:14:11.96,辉中,,0,0,0,,但重要的是 游戏这里仍然感觉很平衡
+Dialogue: 2,3:14:09.47,3:14:11.96,辉英,,0,0,0,,But it's important to say that it felt fair.
+Dialogue: 1,3:14:11.96,3:14:17.16,辉中,,0,0,0,,我没有感觉游戏在故意刁难人 或者说是在轻视玩家
+Dialogue: 2,3:14:11.96,3:14:17.16,辉英,,0,0,0,,It wasn't as though I was getting my ass handed to me, and I felt like I was being slighted
+Dialogue: 1,3:14:17.16,3:14:21.29,辉中,,0,0,0,,没有搞什么无脑设计的那种比如能穿墙的逆天boss
+Dialogue: 2,3:14:17.16,3:14:21.29,辉英,,0,0,0,,like a poorly designed boss that's able to clip through walls or something.
+Dialogue: 1,3:14:21.29,3:14:23.18,辉中,,0,0,0,,这段关卡平衡做的很好
+Dialogue: 2,3:14:21.29,3:14:23.18,辉英,,0,0,0,,This level feels completely fair.
+Dialogue: 1,3:14:23.18,3:14:28.22,辉中,,0,0,0,,这给人的感觉单纯是局面很困难 需要两人的配合
+Dialogue: 2,3:14:23.18,3:14:28.22,辉英,,0,0,0,,It just seems like a difficult situation where Lev and Abby have to work perfectly in tandem.
+Dialogue: 1,3:14:28.22,3:14:30.47,辉中,,0,0,0,,而俩人的配合上道了 事情就简单了
+Dialogue: 2,3:14:28.22,3:14:30.47,辉英,,0,0,0,,And when that happens, things work out.
+Dialogue: 1,3:14:30.47,3:14:32.45,辉中,,0,0,0,,清空这部分区域后
+Dialogue: 2,3:14:30.47,3:14:32.45,辉英,,0,0,0,,But after clearing this area,
+Dialogue: 1,3:14:32.45,3:14:37.85,辉中,,0,0,0,,两人登上工地用的电梯 送他们直接到大楼的顶端然后上桥
+Dialogue: 2,3:14:32.45,3:14:37.85,辉英,,0,0,0,,the two get into an industrial elevator that they can take all the way to the top to reach the bridge.
+Dialogue: 1,3:14:37.85,3:14:41.83,辉中,,0,0,0,,如果大家还记得的话 其实埃比特别恐高
+Dialogue: 2,3:14:37.85,3:14:41.83,辉英,,0,0,0,,Now, if you remember from earlier Abby's worst nightmare is heights.
+Dialogue: 1,3:14:41.83,3:14:46.86,辉中,,0,0,0,,而这里勒弗还给她分享了一下忘掉恐惧的小建议
+Dialogue: 2,3:14:41.83,3:14:46.86,辉英,,0,0,0,,Here, Lev actually shares a bit of sweet advice to try and take out his mind off of the terror
+Dialogue: 1,3:14:46.86,3:14:50.36,辉中,,0,0,0,,让她能把注意力从位置变高带来的恐惧中转移出来
+Dialogue: 2,3:14:46.86,3:14:50.36,辉英,,0,0,0,,that she feels due to the enormous and ever increasing heights.
 Dialogue: 1,3:14:50.78,3:14:53.25,辉中 Script,,0,0,0,,勒弗：能给你一些建议吗？
 Dialogue: 1,3:14:52.25,3:14:55.25,辉中 Script,,0,0,0,,埃比：天哪……
 Dialogue: 1,3:14:54.99,3:14:58.11,辉中 Script,,0,0,0,,勒弗：就……想想关于恐惧的好的一面。
@@ -5572,37 +5800,74 @@ Dialogue: 1,3:15:09.98,3:15:12.78,辉中 Script,,0,0,0,,手心冒汗，心跳加
 Dialogue: 1,3:15:13.21,3:15:15.38,辉中 Script,,0,0,0,,都是你变得更强的信号。
 Dialogue: 1,3:15:17.81,3:15:22.81,辉中 Script,,0,0,0,,所以当你感到害怕时，你应该想想你的身体\N是如何为即将到来的事情做好准备。
 Dialogue: 1,3:15:23.98,3:15:26.98,辉中 Script,,0,0,0,,“虚弱时我们才会发现自己真正的力量。”
-Dialogue: 1,3:15:29.09,3:15:32.18,辉中,,0,0,0,,Now, at the top of the skyscraper, they begin crossing the bridge,
-Dialogue: 1,3:15:32.18,3:15:35.60,辉中,,0,0,0,,which is actually just a partially collapsed crane.
-Dialogue: 1,3:15:35.60,3:15:41.67,辉中,,0,0,0,,This again reaffirms the point that the WLF probably should have seen this crane on a clear day
-Dialogue: 1,3:15:41.67,3:15:44.15,辉中,,0,0,0,,and been intrigued enough to go and investigate it.
-Dialogue: 1,3:15:44.15,3:15:46.10,辉中,,0,0,0,,Maybe even claiming it for themselves.
-Dialogue: 1,3:15:46.10,3:15:50.69,辉中,,0,0,0,,Maybe there's a line or something that mentions why the WLF haven't used this bridge,
-Dialogue: 1,3:15:50.69,3:15:55.58,辉中,,0,0,0,,and I just missed it or I couldn't think of it or remember it when writing the script.
-Dialogue: 1,3:15:55.58,3:15:58.19,辉中,,0,0,0,,But either way, if there is something, let me know.
-Dialogue: 1,3:15:58.19,3:16:03.44,辉中,,0,0,0,,Now, understandably, Abby starts crossing the bridge and begins to completely freak out.
-Dialogue: 1,3:16:03.44,3:16:07.73,辉中,,0,0,0,,To be honest, any normal person would probably be freaking out at this point.
-Dialogue: 1,3:16:07.73,3:16:10.10,辉中,,0,0,0,,I don't think it's just people who are afraid of heights.
-Dialogue: 1,3:16:10.10,3:16:14.15,辉中,,0,0,0,,But the fact that Abby is completely and utterly petrified by heights,
-Dialogue: 1,3:16:14.15,3:16:17.78,辉中,,0,0,0,,I think just proves the point that this is not a good time for her.
-Dialogue: 1,3:16:17.78,3:16:20.63,辉中,,0,0,0,,And it's actually while crossing this makeshift bridge,
-Dialogue: 1,3:16:20.63,3:16:24.65,辉中,,0,0,0,,that Lev throws out one of the funniest lines of the entire game,
-Dialogue: 1,3:16:24.65,3:16:28.25,辉中,,0,0,0,,at least as far as I'm concerned, because it comes out of absolutely nowhere.
-Dialogue: 1,3:16:35.44,3:16:38.41,辉中,,0,0,0,,Hah… I love it!
-Dialogue: 1,3:16:38.41,3:16:40.00,辉中,,0,0,0,,Now after crossing the first bridge,
-Dialogue: 1,3:16:40.00,3:16:43.12,辉中,,0,0,0,,it seems as though they've finished and gotten through the hardest part.
-Dialogue: 1,3:16:43.12,3:16:44.65,辉中,,0,0,0,,But… NO.
-Dialogue: 1,3:16:52.57,3:16:54.68,辉中,,0,0,0,,Now this is one of the few times I really remember
-Dialogue: 1,3:16:54.68,3:16:58.36,辉中,,0,0,0,,being completely blown away by a set piece in this game.
-Dialogue: 1,3:16:58.36,3:17:03.34,辉中,,0,0,0,,The bridge is beautiful and yet creepy at the same time.
-Dialogue: 1,3:17:03.34,3:17:06.40,辉中,,0,0,0,,and the hospital in the distance is also all inspiring,
-Dialogue: 1,3:17:06.40,3:17:11.29,辉中,,0,0,0,,and serves its purpose very well in informing the player of where they are within Seattle.
-Dialogue: 1,3:17:11.29,3:17:13.40,辉中,,0,0,0,,I will say, though it was a little disappointing
-Dialogue: 1,3:17:13.40,3:17:17.20,辉中,,0,0,0,,because there was some artifacting in Z fighting on the textures when I first played,
-Dialogue: 1,3:17:17.20,3:17:19.09,辉中,,0,0,0,,but I can get over it.
-Dialogue: 1,3:17:19.09,3:17:22.54,辉中,,0,0,0,,It's pretty rare to see a graphical glitch like this in a Naughty Dog games
-Dialogue: 1,3:17:22.54,3:17:23.89,辉中,,0,0,0,,so I'm letting it slide.
-Dialogue: 1,3:17:23.89,3:17:26.96,辉中,,0,0,0,,但事实就是如此 埃比跨越了这座桥
+Dialogue: 1,3:15:29.09,3:15:32.18,辉中,,0,0,0,,来到大楼顶端 他们开始过桥了
+Dialogue: 2,3:15:29.09,3:15:32.18,辉英,,0,0,0,,Now, at the top of the skyscraper, they begin crossing the bridge,
+Dialogue: 1,3:15:32.18,3:15:35.60,辉中,,0,0,0,,而“桥”实际上只是一个倒塌的起重机
+Dialogue: 2,3:15:32.18,3:15:35.60,辉英,,0,0,0,,which is actually just a partially collapsed crane.
+Dialogue: 1,3:15:35.60,3:15:41.67,辉中,,0,0,0,,这还是证明了WLF应该是可以在晴天看到这架起重机的
+Dialogue: 2,3:15:35.60,3:15:41.67,辉英,,0,0,0,,This again reaffirms the point that the WLF probably should have seen this crane on a clear day
+Dialogue: 1,3:15:41.67,3:15:44.15,辉中,,0,0,0,,这足以让他们发现点什么 让他们去调查了
+Dialogue: 2,3:15:41.67,3:15:44.15,辉英,,0,0,0,,and been intrigued enough to go and investigate it.
+Dialogue: 1,3:15:44.15,3:15:46.10,辉中,,0,0,0,,甚至可以霸占为己有
+Dialogue: 2,3:15:44.15,3:15:46.10,辉英,,0,0,0,,Maybe even claiming it for themselves.
+Dialogue: 1,3:15:46.10,3:15:50.69,辉中,,0,0,0,,也许有一句话或其他东西提到了为什么WLF没有使用这座桥
+Dialogue: 2,3:15:46.10,3:15:50.69,辉英,,0,0,0,,Maybe there's a line or something that mentions why the WLF haven't used this bridge,
+Dialogue: 1,3:15:50.69,3:15:55.58,辉中,,0,0,0,,而我只是错过了 或者我在写脚本时想不起来或忘了
+Dialogue: 2,3:15:50.69,3:15:55.58,辉英,,0,0,0,,and I just missed it or I couldn't think of it or remember it when writing the script.
+Dialogue: 1,3:15:55.58,3:15:58.19,辉中,,0,0,0,,但总之如果有什么漏掉的 请告诉我
+Dialogue: 2,3:15:55.58,3:15:58.19,辉英,,0,0,0,,But either way, if there is something, let me know.
+Dialogue: 1,3:15:58.19,3:16:03.44,辉中,,0,0,0,,现在大家都能猜到 埃比过桥的时候人都吓懵了
+Dialogue: 2,3:15:58.19,3:16:03.44,辉英,,0,0,0,,Now, understandably, Abby starts crossing the bridge and begins to completely freak out.
+Dialogue: 1,3:16:03.44,3:16:07.73,辉中,,0,0,0,,而且说实话 这地方谁来谁都得腿软
+Dialogue: 2,3:16:03.44,3:16:07.73,辉英,,0,0,0,,To be honest, any normal person would probably be freaking out at this point,
+Dialogue: 1,3:16:07.73,3:16:10.10,辉中,,0,0,0,,我觉得这已经不是恐不恐高的问题了
+Dialogue: 2,3:16:07.73,3:16:10.10,辉英,,0,0,0,,I don't think it's just people who are afraid of heights.
+Dialogue: 1,3:16:10.10,3:16:17.78,辉中,,0,0,0,,埃比这时候被吓成这个德行也说明了她过这座桥有多么艰难
+Dialogue: 2,3:16:10.10,3:16:14.15,辉英,,0,0,0,,But the fact that Abby is completely and utterly petrified by heights,
+Dialogue: 2,3:16:14.15,3:16:17.78,辉英,,0,0,0,,I think just proves the point that this is not a good time for her.
+Dialogue: 1,3:16:17.78,3:16:20.63,辉中,,0,0,0,,而且实际上在过这座临时桥的时候
+Dialogue: 2,3:16:17.78,3:16:20.63,辉英,,0,0,0,,And it's actually while crossing this makeshift bridge,
+Dialogue: 1,3:16:20.63,3:16:24.65,辉中,,0,0,0,,勒弗讲出了全游戏最搞笑的一句话
+Dialogue: 2,3:16:20.63,3:16:24.65,辉英,,0,0,0,,that Lev throws out one of the funniest lines of the entire game,
+Dialogue: 1,3:16:24.65,3:16:28.25,辉中,,0,0,0,,至少我感觉太逗了 因为这句就这么凭空冒出来
+Dialogue: 2,3:16:24.65,3:16:28.25,辉英,,0,0,0,,at least as far as I'm concerned, because it comes out of absolutely nowhere.
+Dialogue: 0,3:16:28.85,3:16:31.38,辉中 Script,,0,0,0,,勒弗：你和你的朋友欧文怎么了？
+Dialogue: 0,3:16:31.68,3:16:33.48,辉中 Script,,0,0,0,,埃比：天哪，勒弗！！一定要现在说吗？
+Dialogue: 0,3:16:33.88,3:16:35.55,辉中 Script,,0,0,0,,勒弗：你们看起来真的很尴尬！
+Dialogue: 0,3:16:35.28,3:16:36.45,辉中 Script,,0,0,0,,埃比：赶紧走吧！
+Dialogue: 1,3:16:36.99,3:16:38.41,辉中,,0,0,0,,哈哈哈 可太逗了
+Dialogue: 2,3:16:36.99,3:16:38.41,辉英,,0,0,0,,Hah… I love it!
+Dialogue: 1,3:16:38.41,3:16:40.00,辉中,,0,0,0,,过完第一作桥后
+Dialogue: 2,3:16:38.41,3:16:40.00,辉英,,0,0,0,,Now after crossing the first bridge,
+Dialogue: 1,3:16:40.00,3:16:43.12,辉中,,0,0,0,,似乎他们终于通过了最困难的部分
+Dialogue: 2,3:16:40.00,3:16:43.12,辉英,,0,0,0,,it seems as though they've finished and gotten through the hardest part.
+Dialogue: 1,3:16:43.12,3:16:44.65,辉中,,0,0,0,,但……并没有
+Dialogue: 2,3:16:43.12,3:16:44.65,辉英,,0,0,0,,But… NO.
+Dialogue: 0,3:16:46.31,3:16:48.18,辉中 Script,,0,0,0,,埃比：天哪，勒弗！
+Dialogue: 0,3:16:48.88,3:16:50.98,辉中 Script,,0,0,0,,勒弗：你不会有事的。看着我。
+Dialogue: 0,3:16:51.11,3:16:52.38,辉中 Script,,0,0,0,,埃比：可恶。
+Dialogue: 1,3:16:52.57,3:16:54.68,辉中,,0,0,0,,这可能是少数我能记起的
+Dialogue: 2,3:16:52.57,3:16:54.68,辉英,,0,0,0,,Now this is one of the few times I really remember
+Dialogue: 1,3:16:54.68,3:16:58.36,辉中,,0,0,0,,被游戏的背景设定深深惊到的地方了
+Dialogue: 2,3:16:54.68,3:16:58.36,辉英,,0,0,0,,being completely blown away by a set piece in this game.
+Dialogue: 1,3:16:58.36,3:17:03.34,辉中,,0,0,0,,整座桥是那么优美 又危机四伏
+Dialogue: 2,3:16:58.36,3:17:03.34,辉英,,0,0,0,,The bridge is beautiful and yet creepy at the same time.
+Dialogue: 1,3:17:03.34,3:17:06.40,辉中,,0,0,0,,远处的医院又是那么催人向前 令人振奋
+Dialogue: 2,3:17:03.34,3:17:06.40,辉英,,0,0,0,,and the hospital in the distance is also all inspiring,
+Dialogue: 1,3:17:06.40,3:17:11.29,辉中,,0,0,0,,还能非常好地告诉玩家他们在西雅图的什么地方
+Dialogue: 2,3:17:06.40,3:17:11.29,辉英,,0,0,0,,and serves its purpose very well in informing the player of where they are within Seattle.
+Dialogue: 1,3:17:11.29,3:17:13.40,辉中,,0,0,0,,但我还是要说一个令人失望的点
+Dialogue: 2,3:17:11.29,3:17:13.40,辉英,,0,0,0,,I will say, though it was a little disappointing
+Dialogue: 1,3:17:13.40,3:17:17.20,辉注,,0,0,0,,Z-fighting是三维渲染时浮点精度不够时产生的贴图闪烁的bug
+Dialogue: 1,3:17:13.40,3:17:17.20,辉中,,0,0,0,,就是我第一次玩的时候发现远处模型贴图会出现Z-fighting的问题
+Dialogue: 2,3:17:13.40,3:17:17.20,辉英,,0,0,0,,because there was some artifacting in Z-fighting on the textures when I first played,
+Dialogue: 1,3:17:17.20,3:17:19.09,辉中,,0,0,0,,但我还算能接受
+Dialogue: 2,3:17:17.20,3:17:19.09,辉英,,0,0,0,,but I can get over it.
+Dialogue: 1,3:17:19.09,3:17:22.54,辉中,,0,0,0,,顽皮狗这种秀贴图狂魔会出现这样的图像bug实在少见
+Dialogue: 2,3:17:19.09,3:17:22.54,辉英,,0,0,0,,It's pretty rare to see a graphical glitch like this in a Naughty Dog games
+Dialogue: 1,3:17:22.54,3:17:23.89,辉中,,0,0,0,,我就不追究了
+Dialogue: 2,3:17:22.54,3:17:23.89,辉英,,0,0,0,,so I'm letting it slide.
+Dialogue: 1,3:17:23.89,3:17:26.96,辉中,,0,0,0,,而事实就是如此 埃比跨越了这座桥
 Dialogue: 2,3:17:23.89,3:17:26.96,辉英,,0,0,0,,But just like that, Abby crosses the bridge.
 Dialogue: 1,3:17:26.96,3:17:29.76,辉中,,0,0,0,,她在勒弗的帮助下战胜了恐惧
 Dialogue: 2,3:17:26.96,3:17:29.76,辉英,,0,0,0,,She's conquered her fears with the Lev's help.
@@ -5612,142 +5877,268 @@ Dialogue: 1,3:17:33.94,3:17:36.43,辉中,,0,0,0,,成功跨越了这座巨大的�
 Dialogue: 2,3:17:33.94,3:17:36.43,辉英,,0,0,0,,that she could cross this grand expanse…
 Dialogue: 1,3:17:36.43,3:17:37.66,辉中,,0,0,0,,我勒个去她摔下来了！
 Dialogue: 2,3:17:36.43,3:17:37.66,辉英,,0,0,0,,… Oh, my God! She fell!
-Dialogue: 1,3:18:02.62,3:18:04.74,辉中,,0,0,0,,So, yeah, she… she falls.
-Dialogue: 1,3:18:04.74,3:18:06.42,辉中,,0,0,0,,Good thing there is a penthouse pool right?
-Dialogue: 1,3:18:06.42,3:18:08.48,辉中,,0,0,0,,Now the new dynamic duo decides
-Dialogue: 1,3:18:08.48,3:18:11.52,辉中,,0,0,0,,to work their way to the bottom of the tower now that they've crossed
-Dialogue: 1,3:18:11.52,3:18:15.78,辉中,,0,0,0,,Once at the base, they are going to be able to head straight for the hospital.
-Dialogue: 1,3:18:15.78,3:18:20.59,辉中,,0,0,0,,Throughout the descent, there's a few hordes that you fight through of infected.
-Dialogue: 1,3:18:20.59,3:18:26.20,辉中,,0,0,0,,Abby also finds a flame thrower, which is probably the best hoard weapon in the entire game.
-Dialogue: 1,3:18:26.20,3:18:27.97,辉中,,0,0,0,,Because it has such a widespread.
-Dialogue: 1,3:18:27.97,3:18:31.90,辉中,,0,0,0,,It makes it really easy to handle crowds and large numbers of infected.
-Dialogue: 1,3:18:31.90,3:18:34.09,辉中,,0,0,0,,But I will say that ammo is so limited.
-Dialogue: 1,3:18:34.09,3:18:39.04,辉中,,0,0,0,,It makes it really hard to use it in any sort of consistent way.
-Dialogue: 1,3:18:39.04,3:18:41.92,辉中,,0,0,0,,I'll also say that this tower actually excited me.
-Dialogue: 1,3:18:41.92,3:18:44.75,辉中,,0,0,0,,I thought there would be some really cool opportunities for
-Dialogue: 1,3:18:44.75,3:18:48.10,辉中,,0,0,0,,different combat sequences with a lot of verticality.
-Dialogue: 1,3:18:48.10,3:18:53.38,辉中,,0,0,0,,And maybe some platforming with the rope mechanic… some thing,
-Dialogue: 1,3:18:53.38,3:18:55.30,辉中,,0,0,0,,but really there's not much here.
-Dialogue: 1,3:18:55.30,3:18:58.30,辉中,,0,0,0,,You just kind of make your way to the bottom of the tower, and that's it.
-Dialogue: 1,3:18:58.30,3:19:03.25,辉中,,0,0,0,,After fighting through a few rooms of infected, seems like a missed opportunity.
-Dialogue: 1,3:19:03.25,3:19:06.94,辉中,,0,0,0,,But regardless, they get to the bottom, and they come out right by the hospital.
-Dialogue: 1,3:19:06.94,3:19:11.18,辉中,,0,0,0,,And this is actually the same exact area that Ellie entered the hospital earlier
-Dialogue: 1,3:19:11.18,3:19:14.44,辉中,,0,0,0,,or in continuity I guess after this.
-Dialogue: 1,3:19:14.44,3:19:20.05,辉中,,0,0,0,,Then this is probably a good time to bring up the fact that there are a lot of reused areas in the game.
-Dialogue: 1,3:19:20.05,3:19:22.42,辉中,,0,0,0,,This has been something that a lot of people have criticized.
-Dialogue: 1,3:19:22.42,3:19:27.46,辉中,,0,0,0,,That Naughty Dog seems to just be recycling the same maps and levels with different characters,
-Dialogue: 1,3:19:27.46,3:19:30.61,辉中,,0,0,0,,or in this case just between Abby and Ellie.
-Dialogue: 1,3:19:30.61,3:19:35.26,辉中,,0,0,0,,But I don't think it's actually fair to criticise them purely because they reuse levels.
-Dialogue: 1,3:19:35.26,3:19:39.97,辉中,,0,0,0,,A level in a video game at least seems to be, in my estimation,
-Dialogue: 1,3:19:39.97,3:19:43.08,辉中,,0,0,0,,a collection of different items, a lay out of a map,
-Dialogue: 1,3:19:43.08,3:19:46.33,辉中,,0,0,0,,and in general, a pool of possibilities.
-Dialogue: 1,3:19:46.33,3:19:51.43,辉中,,0,0,0,,Different things that the player can do to interact with that level to achieve a set goal.
-Dialogue: 1,3:19:51.43,3:19:54.52,辉中,,0,0,0,,A really simple level would just be a room with a door.
-Dialogue: 1,3:19:54.52,3:19:59.08,辉中,,0,0,0,,You walked to the door, open it and leave, you've completed the level.
-Dialogue: 1,3:19:59.08,3:20:04.06,辉中,,0,0,0,,However, a complicated level would be one in which you have a complicated goal,
-Dialogue: 1,3:20:04.06,3:20:07.53,辉中,,0,0,0,,such as making it out of this area alive.
-Dialogue: 1,3:20:07.53,3:20:11.17,辉中,,0,0,0,,And then the developer complicates the achieving of that goal
-Dialogue: 1,3:20:11.17,3:20:16.33,辉中,,0,0,0,,by introducing many different enemies that you could fight complicated traversal,
-Dialogue: 1,3:20:16.33,3:20:20.29,辉中,,0,0,0,,or maybe even a puzzle that you have to solve in order to get through the door.
-Dialogue: 1,3:20:20.29,3:20:23.94,辉中,,0,0,0,,This is how you take a level from something as simple as walking through a door
-Dialogue: 1,3:20:23.94,3:20:26.83,辉中,,0,0,0,,into something more complicated and engaging for the player.
-Dialogue: 1,3:20:26.83,3:20:27.55,辉中,,0,0,0,,For this reason,
-Dialogue: 1,3:20:27.55,3:20:32.65,辉中,,0,0,0,,I don't think it's completely fair to say that Naughty Dog is purely reusing levels here.
-Dialogue: 1,3:20:32.65,3:20:38.71,辉中,,0,0,0,,Because Abby and Ellie interact with these levels in completely different ways.
-Dialogue: 1,3:20:38.71,3:20:42.52,辉中,,0,0,0,,When Abby's walking through the hospital here and eventually finds Nora,
-Dialogue: 1,3:20:42.52,3:20:45.64,辉中,,0,0,0,,she's not actually fighting these people.
-Dialogue: 1,3:20:45.64,3:20:47.08,辉中,,0,0,0,,She's not shooting them,
-Dialogue: 1,3:20:47.08,3:20:50.20,辉中,,0,0,0,,she's not throwing bombs and molotovs on them.
-Dialogue: 1,3:20:50.20,3:20:52.42,辉中,,0,0,0,,She's just walking and talking,
-Dialogue: 1,3:20:52.42,3:20:56.62,辉中,,0,0,0,,not to mention that you also go to areas of the hospital that were unseen by Ellie.
-Dialogue: 1,3:20:56.62,3:20:59.35,辉中,,0,0,0,,And when you compare this to Ellie traverse this level,
-Dialogue: 1,3:20:59.35,3:21:01.25,辉中,,0,0,0,,well, it's pretty different.
-Dialogue: 1,3:21:01.25,3:21:05.95,辉中,,0,0,0,,Now if your point is that they are clearly taking short cuts in terms of development
-Dialogue: 1,3:21:05.95,3:21:10.84,辉中,,0,0,0,,by putting these characters in the same levels and structuring the story in that way,
-Dialogue: 1,3:21:10.84,3:21:14.89,辉中,,0,0,0,,I think you can make that point, and perhaps that's fair.
-Dialogue: 1,3:21:14.89,3:21:20.64,辉中,,0,0,0,,I don't see the inherent problem with reusing a level if it makes sense in the story
-Dialogue: 1,3:21:20.64,3:21:24.54,辉中,,0,0,0,,or if you write the story in a way where that makes sense
-Dialogue: 1,3:21:24.54,3:21:29.86,辉中,,0,0,0,,because a quality game can be set in something as small as a couple of hallways.
-Dialogue: 1,3:21:29.86,3:21:33.70,辉中,,0,0,0,,Look at something like PT, which was technically just a playable teaser,
-Dialogue: 1,3:21:33.70,3:21:36.85,辉中,,0,0,0,,but even that was considered to be wildly successful,
-Dialogue: 1,3:21:36.85,3:21:43.65,辉中,,0,0,0,,and it only really took place in two hallways, a back room and a bathroom I suppose.
-Dialogue: 1,3:21:43.65,3:21:47.17,辉中,,0,0,0,,That's really all there was to it, and yet it was phenomenal.
-Dialogue: 1,3:21:47.17,3:21:49.41,辉中,,0,0,0,,You can knit pick something as simple as
-Dialogue: 1,3:21:49.41,3:21:53.11,辉中,,0,0,0,,how many times a particular mesh is used throughout a game,
-Dialogue: 1,3:21:53.11,3:21:57.76,辉中,,0,0,0,,or you can argue your point based on how the game uses that asset.
-Dialogue: 1,3:21:57.76,3:22:01.78,辉中,,0,0,0,,I think the latter is much more reasonable and much more defensible.
-Dialogue: 1,3:22:01.78,3:22:03.19,辉中,,0,0,0,,But I digress.
-Dialogue: 1,3:22:03.19,3:22:07.81,辉中,,0,0,0,,Abby heads into the hospital alone, leaving Lev behind because quite obviously,
-Dialogue: 1,3:22:07.81,3:22:12.55,辉中,,0,0,0,,if Lev were seen anywhere near the hospital, we wouldn't survive for very long.
-Dialogue: 1,3:22:12.55,3:22:15.43,辉中,,0,0,0,,Abby plays it cool with all of the WLF members.
-Dialogue: 1,3:22:15.43,3:22:20.29,辉中,,0,0,0,,But it's only a matter of time before everybody finds out that Abby's disobeyed Isaac's orders.
-Dialogue: 1,3:22:20.29,3:22:23.74,辉中,,0,0,0,,I think Abby knows this, which is why she's moving through the level pretty quickly,
-Dialogue: 1,3:22:23.74,3:22:26.62,辉中,,0,0,0,,trying to find the materials that she needs and leave.
-Dialogue: 1,3:22:26.62,3:22:30.56,辉中,,0,0,0,,I mean not to mention also that the girl that she's getting the materials for
-Dialogue: 1,3:22:30.56,3:22:33.64,辉中,,0,0,0,,is on death's door that probably motivates her,
-Dialogue: 1,3:22:33.64,3:22:37.01,辉中,,0,0,0,,her rushing a little bit, but by who am I to say.
-Dialogue: 1,3:22:37.01,3:22:40.63,辉中,,0,0,0,,You walk through here, talking a few people and… oh look!
-Dialogue: 1,3:22:40.63,3:22:47.35,辉中,,0,0,0,,It's the Vita girl that Ellie stabbed and crap out of earlier, or I guess later,
-Dialogue: 1,3:22:47.35,3:22:50.24,辉中,,0,0,0,,because he or she is still alive, that's… that's funny.
-Dialogue: 1,3:22:50.24,3:22:53.06,辉中,,0,0,0,,Now Abby doesn't make it far into the hospital though.
-Dialogue: 1,3:22:53.06,3:22:55.33,辉中,,0,0,0,,She's arrested once they check in with Isaac
-Dialogue: 1,3:22:55.33,3:22:58.57,辉中,,0,0,0,,and find out that she has actually been AWOL since the day before,
-Dialogue: 1,3:22:58.57,3:23:01.21,辉中,,0,0,0,,so she's locked up in the elevator.
-Dialogue: 1,3:23:01.21,3:23:06.85,辉中,,0,0,0,,She's basically gonna held until they transport everything back to the front base with Isaac,
-Dialogue: 1,3:23:06.85,3:23:08.09,辉中,,0,0,0,,where she'll be dealt with.
-Dialogue: 1,3:23:08.09,3:23:10.53,辉中,,0,0,0,,Again this is something that was mentioned several times,
-Dialogue: 1,3:23:10.53,3:23:14.86,辉中,,0,0,0,,not just to Abby, but also that Ellie overheard there is something going on with WLF
-Dialogue: 1,3:23:14.86,3:23:17.86,辉中,,0,0,0,,where they need all of their supplies at the front base.
-Dialogue: 1,3:23:17.86,3:23:22.51,辉中,,0,0,0,,And they're also collecting all of the WLF members to that same front base.
+Dialogue: 1,3:18:02.62,3:18:04.74,辉中,,0,0,0,,没错 她……掉下来了
+Dialogue: 2,3:18:02.62,3:18:04.74,辉英,,0,0,0,,So, yeah, she… she falls.
+Dialogue: 1,3:18:04.74,3:18:06.42,辉中,,0,0,0,,还好下面有个楼顶泳池
+Dialogue: 2,3:18:04.74,3:18:06.42,辉英,,0,0,0,,Good thing there is a penthouse pool right?
+Dialogue: 1,3:18:06.42,3:18:08.48,辉中,,0,0,0,,现在两人决定
+Dialogue: 2,3:18:06.42,3:18:08.48,辉英,,0,0,0,,Now the new dynamic duo decides
+Dialogue: 1,3:18:08.48,3:18:11.52,辉中,,0,0,0,,想办法到达大楼的底层
+Dialogue: 2,3:18:08.48,3:18:11.52,辉英,,0,0,0,,to work their way to the bottom of the tower now that they've crossed
+Dialogue: 1,3:18:11.52,3:18:15.78,辉中,,0,0,0,,等到了地面 他们就能直奔医院了
+Dialogue: 2,3:18:11.52,3:18:15.78,辉英,,0,0,0,,Once at the base, they are going to be able to head straight for the hospital.
+Dialogue: 1,3:18:15.78,3:18:20.59,辉中,,0,0,0,,在下楼过程中 你要面对大量的感染者
+Dialogue: 2,3:18:15.78,3:18:20.59,辉英,,0,0,0,,Throughout the descent, there's a few hordes that you fight through of infected.
+Dialogue: 1,3:18:20.59,3:18:26.20,辉中,,0,0,0,,埃比还会在这里找到喷火器 可能是游戏里最好用的范围武器
+Dialogue: 2,3:18:20.59,3:18:26.20,辉英,,0,0,0,,Abby also finds a flame thrower, which is probably the best hoard weapon in the entire game.
+Dialogue: 1,3:18:26.20,3:18:27.97,辉中,,0,0,0,,因为它喷射范围广
+Dialogue: 2,3:18:26.20,3:18:27.97,辉英,,0,0,0,,Because it has such a widespread.
+Dialogue: 1,3:18:27.97,3:18:31.90,辉中,,0,0,0,,很容易用来处理大量的人群和感染者
+Dialogue: 2,3:18:27.97,3:18:31.90,辉英,,0,0,0,,It makes it really easy to handle crowds and large numbers of infected.
+Dialogue: 1,3:18:31.90,3:18:34.09,辉中,,0,0,0,,但我不得不说这玩意燃料太稀缺了
+Dialogue: 2,3:18:31.90,3:18:34.09,辉英,,0,0,0,,But I will say that ammo is so limited.
+Dialogue: 1,3:18:34.09,3:18:39.04,辉中,,0,0,0,,很难长时间持续使用
+Dialogue: 2,3:18:34.09,3:18:39.04,辉英,,0,0,0,,It makes it really hard to use it in any sort of consistent way.
+Dialogue: 1,3:18:39.04,3:18:41.92,辉中,,0,0,0,,另外 我感觉这座大楼的关卡让我很兴奋
+Dialogue: 2,3:18:39.04,3:18:41.92,辉英,,0,0,0,,I'll also say that this tower actually excited me.
+Dialogue: 1,3:18:41.92,3:18:48.10,辉中,,0,0,0,,我本来以为这样的环境是设计包含垂直空间的战斗的大好机会
+Dialogue: 2,3:18:41.92,3:18:44.75,辉英,,0,0,0,,I thought there would be some really cool opportunities for
+Dialogue: 2,3:18:44.75,3:18:48.10,辉英,,0,0,0,,different combat sequences with a lot of verticality.
+Dialogue: 1,3:18:48.10,3:18:53.38,辉中,,0,0,0,,有些平台可能还会有一些用到绳索的元素
+Dialogue: 2,3:18:48.10,3:18:53.38,辉英,,0,0,0,,And maybe some platforming with the rope mechanic… some thing,
+Dialogue: 1,3:18:53.38,3:18:55.30,辉中,,0,0,0,,但其实这些内容真的不多
+Dialogue: 2,3:18:53.38,3:18:55.30,辉英,,0,0,0,,but really there's not much here.
+Dialogue: 1,3:18:55.30,3:18:58.30,辉中,,0,0,0,,玩家其实单纯是在找路下楼 仅此而已
+Dialogue: 2,3:18:55.30,3:18:58.30,辉英,,0,0,0,,You just kind of make your way to the bottom of the tower, and that's it.
+Dialogue: 1,3:18:58.30,3:19:03.25,辉中,,0,0,0,,在杀了几波感染者之后 总感觉这样大好机会就错过了
+Dialogue: 2,3:18:58.30,3:19:03.25,辉英,,0,0,0,,After fighting through a few rooms of infected, seems like a missed opportunity.
+Dialogue: 1,3:19:03.25,3:19:06.94,辉中,,0,0,0,,但总之 他们成功回到地面 出来后发现就在医院旁边
+Dialogue: 2,3:19:03.25,3:19:06.94,辉英,,0,0,0,,But regardless, they get to the bottom, and they come out right by the hospital.
+Dialogue: 1,3:19:06.94,3:19:11.18,辉中,,0,0,0,,而这也正是艾莉来到医院后到达的相同区域
+Dialogue: 2,3:19:06.94,3:19:11.18,辉英,,0,0,0,,And this is actually the same exact area that Ellie entered the hospital earlier
+Dialogue: 1,3:19:11.18,3:19:14.44,辉中,,0,0,0,,或者应该说是埃比先来 艾莉后来的
+Dialogue: 2,3:19:11.18,3:19:14.44,辉英,,0,0,0,,or in continuity I guess after this.
+Dialogue: 1,3:19:14.44,3:19:20.05,辉中,,0,0,0,,借着这个机会 我们可以聊聊游戏里大量使用重复区域这件事
+Dialogue: 2,3:19:14.44,3:19:20.05,辉英,,0,0,0,,Then this is probably a good time to bring up the fact that there are a lot of reused areas in the game.
+Dialogue: 1,3:19:20.05,3:19:22.42,辉中,,0,0,0,,很多人批评过这一点
+Dialogue: 2,3:19:20.05,3:19:22.42,辉英,,0,0,0,,This has been something that a lot of people have criticized.
+Dialogue: 1,3:19:22.42,3:19:27.46,辉中,,0,0,0,,他们认为顽皮狗只是在用不同角色重复使用相同的地图关卡
+Dialogue: 2,3:19:22.42,3:19:27.46,辉英,,0,0,0,,That Naughty Dog seems to just be recycling the same maps and levels with different characters,
+Dialogue: 1,3:19:27.46,3:19:30.61,辉中,,0,0,0,,在这个例子里就是埃比和艾莉
+Dialogue: 2,3:19:27.46,3:19:30.61,辉英,,0,0,0,,or in this case just between Abby and Ellie.
+Dialogue: 1,3:19:30.61,3:19:35.26,辉中,,0,0,0,,但我觉得单纯因为顽皮狗复用了关卡就批评他们是不公平的
+Dialogue: 2,3:19:30.61,3:19:35.26,辉英,,0,0,0,,But I don't think it's actually fair to criticize them purely because they reuse levels.
+Dialogue: 1,3:19:35.26,3:19:39.97,辉中,,0,0,0,,在我看来 游戏里的一个关卡至少应该是
+Dialogue: 2,3:19:35.26,3:19:39.97,辉英,,0,0,0,,A level in a video game at least seems to be, in my estimation,
+Dialogue: 1,3:19:39.97,3:19:43.08,辉中,,0,0,0,,一组不同物品的集合、一种布局的地图
+Dialogue: 2,3:19:39.97,3:19:43.08,辉英,,0,0,0,,a collection of different items, a lay out of a map,
+Dialogue: 1,3:19:43.08,3:19:46.33,辉中,,0,0,0,,以及一般来讲的各种可能性的组合
+Dialogue: 2,3:19:43.08,3:19:46.33,辉英,,0,0,0,,and in general, a pool of possibilities.
+Dialogue: 1,3:19:46.33,3:19:51.43,辉中,,0,0,0,,玩家可以做很多不同的事情来与这个关卡进行互动
+Dialogue: 2,3:19:46.33,3:19:51.43,辉英,,0,0,0,,Different things that the player can do to interact with that level to achieve a set goal.
+Dialogue: 1,3:19:51.43,3:19:54.52,辉中,,0,0,0,,一个简单的关卡可能就是一个带门的房间
+Dialogue: 2,3:19:51.43,3:19:54.52,辉英,,0,0,0,,A really simple level would just be a room with a door.
+Dialogue: 1,3:19:54.52,3:19:59.08,辉中,,0,0,0,,你走向门 开门 出去 你就完成这个关卡了
+Dialogue: 2,3:19:54.52,3:19:59.08,辉英,,0,0,0,,You walked to the door, open it and leave, you've completed the level.
+Dialogue: 1,3:19:59.08,3:20:04.06,辉中,,0,0,0,,但一个复杂的关卡可以有一个很复杂的目标
+Dialogue: 2,3:19:59.08,3:20:04.06,辉英,,0,0,0,,However, a complicated level would be one in which you have a complicated goal,
+Dialogue: 1,3:20:04.06,3:20:07.53,辉中,,0,0,0,,比如活着离开这片区域
+Dialogue: 2,3:20:04.06,3:20:07.53,辉英,,0,0,0,,such as making it out of this area alive.
+Dialogue: 1,3:20:07.53,3:20:11.17,辉中,,0,0,0,,然后制作者再让实现这个目标的过程复杂化
+Dialogue: 2,3:20:07.53,3:20:11.17,辉英,,0,0,0,,And then the developer complicates the achieving of that goal
+Dialogue: 1,3:20:11.17,3:20:16.33,辉中,,0,0,0,,比如引入许多不同的敌人 你必须解决他们才行
+Dialogue: 2,3:20:11.17,3:20:16.33,辉英,,0,0,0,,by introducing many different enemies that you could fight complicated traversal,
+Dialogue: 1,3:20:16.33,3:20:20.29,辉中,,0,0,0,,或者甚至设计一个谜题 你必须解决它 打开这扇门才行
+Dialogue: 2,3:20:16.33,3:20:20.29,辉英,,0,0,0,,or maybe even a puzzle that you have to solve in order to get through the door.
+Dialogue: 1,3:20:20.29,3:20:23.94,辉中,,0,0,0,,这就是你如何把一个关卡从走过一扇门这样简单的事情
+Dialogue: 2,3:20:20.29,3:20:23.94,辉英,,0,0,0,,This is how you take a level from something as simple as walking through a door
+Dialogue: 1,3:20:23.94,3:20:26.83,辉中,,0,0,0,,变成更复杂、吸引玩家的事情
+Dialogue: 2,3:20:23.94,3:20:26.83,辉英,,0,0,0,,into something more complicated and engaging for the player.
+Dialogue: 1,3:20:26.83,3:20:27.55,辉中,,0,0,0,,因此
+Dialogue: 2,3:20:26.83,3:20:27.55,辉英,,0,0,0,,For this reason,
+Dialogue: 1,3:20:27.55,3:20:32.65,辉中,,0,0,0,,我认为说顽皮狗在这里完全是在复用关卡是不公平的
+Dialogue: 2,3:20:27.55,3:20:32.65,辉英,,0,0,0,,I don't think it's completely fair to say that Naughty Dog is purely reusing levels here.
+Dialogue: 1,3:20:32.65,3:20:38.71,辉中,,0,0,0,,因为埃比和艾莉是在用完全不同的方式与这个关卡进行互动
+Dialogue: 2,3:20:32.65,3:20:38.71,辉英,,0,0,0,,Because Abby and Ellie interact with these levels in completely different ways.
+Dialogue: 1,3:20:38.71,3:20:42.52,辉中,,0,0,0,,埃比走进医院最终找到诺拉的过程中
+Dialogue: 2,3:20:38.71,3:20:42.52,辉英,,0,0,0,,When Abby's walking through the hospital here and eventually finds Nora,
+Dialogue: 1,3:20:42.52,3:20:45.64,辉中,,0,0,0,,她并没有这这些人进行战斗
+Dialogue: 2,3:20:42.52,3:20:45.64,辉英,,0,0,0,,she's not actually fighting these people.
+Dialogue: 1,3:20:45.64,3:20:47.08,辉中,,0,0,0,,她不会向他们开枪
+Dialogue: 2,3:20:45.64,3:20:47.08,辉英,,0,0,0,,She's not shooting them,
+Dialogue: 1,3:20:47.08,3:20:50.20,辉中,,0,0,0,,不会向他们扔炸弹 扔燃烧瓶
+Dialogue: 2,3:20:47.08,3:20:50.20,辉英,,0,0,0,,she's not throwing bombs and molotovs on them.
+Dialogue: 1,3:20:50.20,3:20:52.42,辉中,,0,0,0,,她只是路过 和路人们唠嗑
+Dialogue: 2,3:20:50.20,3:20:52.42,辉英,,0,0,0,,She's just walking and talking,
+Dialogue: 1,3:20:52.42,3:20:56.62,辉中,,0,0,0,,更不用说你还进了医院 看到了很多艾莉没看到的地方
+Dialogue: 2,3:20:52.42,3:20:56.62,辉英,,0,0,0,,not to mention that you also go to areas of the hospital that were unseen by Ellie.
+Dialogue: 1,3:20:56.62,3:20:59.35,辉中,,0,0,0,,拿这和艾莉在这部分的关卡相比的话
+Dialogue: 2,3:20:56.62,3:20:59.35,辉英,,0,0,0,,And when you compare this to Ellie traverse this level,
+Dialogue: 1,3:20:59.35,3:21:01.25,辉中,,0,0,0,,区别大了去了
+Dialogue: 2,3:20:59.35,3:21:01.25,辉英,,0,0,0,,well, it's pretty different.
+Dialogue: 1,3:21:01.25,3:21:05.95,辉中,,0,0,0,,如果你的观点是 制作者在游戏开发上走捷径
+Dialogue: 2,3:21:01.25,3:21:05.95,辉英,,0,0,0,,Now if your point is that they are clearly taking short cuts in terms of development
+Dialogue: 1,3:21:05.95,3:21:10.84,辉中,,0,0,0,,他们把这些角色放在相同的关卡场景内 然后以这种方式安排故事
+Dialogue: 2,3:21:05.95,3:21:10.84,辉英,,0,0,0,,by putting these characters in the same levels and structuring the story in that way,
+Dialogue: 1,3:21:10.84,3:21:14.89,辉中,,0,0,0,,那我觉得这样的观点是合理的
+Dialogue: 2,3:21:10.84,3:21:14.89,辉英,,0,0,0,,I think you can make that point, and perhaps that's fair.
+Dialogue: 1,3:21:14.89,3:21:20.64,辉中,,0,0,0,,如果这个场景在故事中是有意义的 或者安排的故事是有意义的
+Dialogue: 2,3:21:14.89,3:21:20.64,辉英,,0,0,0,,I don't see the inherent problem with reusing a level if it makes sense in the story
+Dialogue: 1,3:21:20.64,3:21:24.54,辉中,,0,0,0,,那我不觉得重复使用一个关卡有什么原则上的问题
+Dialogue: 2,3:21:20.64,3:21:24.54,辉英,,0,0,0,,or if you write the story in a way where that makes sense
+Dialogue: 1,3:21:24.54,3:21:29.86,辉中,,0,0,0,,因为一个高质量的游戏完全可以把所有场景设置在几条走廊这样小的地方
+Dialogue: 2,3:21:24.54,3:21:29.86,辉英,,0,0,0,,because a quality game can be set in something as small as a couple of hallways.
+Dialogue: 1,3:21:29.86,3:21:33.70,辉中,,0,0,0,,比如《P.T.》这款游戏 它只是一款试玩版游戏
+Dialogue: 2,3:21:29.86,3:21:33.70,辉英,,0,0,0,,Look at something like P.T., which was technically just a playable teaser,
+Dialogue: 1,3:21:33.70,3:21:36.85,辉中,,0,0,0,,但却能获得如此巨大的成功
+Dialogue: 2,3:21:33.70,3:21:36.85,辉英,,0,0,0,,but even that was considered to be wildly successful,
+Dialogue: 1,3:21:36.85,3:21:43.65,辉中,,0,0,0,,而它所有的场景只有两条走廊 一个里屋 一个浴室
+Dialogue: 2,3:21:36.85,3:21:43.65,辉英,,0,0,0,,and it only really took place in two hallways, a back room and a bathroom I suppose.
+Dialogue: 1,3:21:43.65,3:21:47.17,辉中,,0,0,0,,它全部内容就这些 但它的品质却是惊人的高
+Dialogue: 2,3:21:43.65,3:21:47.17,辉英,,0,0,0,,That's really all there was to it, and yet it was phenomenal.
+Dialogue: 1,3:21:47.17,3:21:49.41,辉中,,0,0,0,,你可以找一些简单的东西
+Dialogue: 2,3:21:47.17,3:21:49.41,辉英,,0,0,0,,You can knit pick something as simple as
+Dialogue: 1,3:21:49.41,3:21:53.11,辉中,,0,0,0,,比如一个模型在整个游戏里用了多少次
+Dialogue: 2,3:21:49.41,3:21:53.11,辉英,,0,0,0,,how many times a particular mesh is used throughout a game,
+Dialogue: 1,3:21:53.11,3:21:57.76,辉中,,0,0,0,,或者根据游戏如何使用这些资源来论证你的观点
+Dialogue: 2,3:21:53.11,3:21:57.76,辉英,,0,0,0,,or you can argue your point based on how the game uses that asset.
+Dialogue: 1,3:21:57.76,3:22:01.78,辉中,,0,0,0,,我认为后者听上去更合情合理一些
+Dialogue: 2,3:21:57.76,3:22:01.78,辉英,,0,0,0,,I think the latter is much more reasonable and much more defensible.
+Dialogue: 1,3:22:01.78,3:22:03.19,辉中,,0,0,0,,但我扯远了
+Dialogue: 2,3:22:01.78,3:22:03.19,辉英,,0,0,0,,But I digress.
+Dialogue: 1,3:22:03.19,3:22:06.41,辉中,,0,0,0,,埃比自己进了医院 留下勒弗在外面等着
+Dialogue: 2,3:22:03.19,3:22:06.41,辉英,,0,0,0,,Abby heads into the hospital alone, leaving Lev behind
+Dialogue: 1,3:22:06.41,3:22:12.55,辉中,,0,0,0,,原因很显然 要是有人在医院附近看到勒弗 那咱谁也甭想活了
+Dialogue: 2,3:22:06.41,3:22:12.55,辉英,,0,0,0,,because quite obviously, if Lev were seen anywhere near the hospital, we wouldn't survive for very long.
+Dialogue: 1,3:22:12.55,3:22:15.43,辉中,,0,0,0,,埃比和WLF的成员很聊得来
+Dialogue: 2,3:22:12.55,3:22:15.43,辉英,,0,0,0,,Abby plays it cool with all of the WLF members.
+Dialogue: 1,3:22:15.43,3:22:20.29,辉中,,0,0,0,,但大家发现埃比违抗了伊萨克的命令只是时间问题
+Dialogue: 2,3:22:15.43,3:22:20.29,辉英,,0,0,0,,But it's only a matter of time before everybody finds out that Abby's disobeyed Isaac's orders.
+Dialogue: 1,3:22:20.29,3:22:23.74,辉中,,0,0,0,,我觉得埃比自己是清楚的 所以她在这关才表现得如此着急
+Dialogue: 2,3:22:20.29,3:22:23.74,辉英,,0,0,0,,I think Abby knows this, which is why she's moving through the level pretty quickly,
+Dialogue: 1,3:22:23.74,3:22:26.62,辉中,,0,0,0,,想赶紧找到所需物资然后马上跑路
+Dialogue: 2,3:22:23.74,3:22:26.62,辉英,,0,0,0,,trying to find the materials that she needs and leave.
+Dialogue: 1,3:22:26.62,3:22:30.56,辉中,,0,0,0,,我的意思是 当然还有一部分原因是她要救的那个女孩
+Dialogue: 2,3:22:26.62,3:22:30.56,辉英,,0,0,0,,I mean not to mention also that the girl that she's getting the materials for
+Dialogue: 1,3:22:30.56,3:22:33.64,辉中,,0,0,0,,现在还在鬼门关呢 这可能对她也有鼓励
+Dialogue: 2,3:22:30.56,3:22:33.64,辉英,,0,0,0,,is on death's door that probably motivates her,
+Dialogue: 1,3:22:33.64,3:22:37.01,辉中,,0,0,0,,让她想动作快点 但……你们懂的
+Dialogue: 2,3:22:33.64,3:22:37.01,辉英,,0,0,0,,her rushing a little bit, but by who am I to say.
+Dialogue: 1,3:22:37.01,3:22:40.63,辉中,,0,0,0,,你进入医院 和几个人聊天 然后……哎呦这不巧了吗！
+Dialogue: 2,3:22:37.01,3:22:40.63,辉英,,0,0,0,,You walk through here, talking a few people and… oh look!
+Dialogue: 1,3:22:40.63,3:22:45.03,辉中,,0,0,0,,这不是之前艾莉捅死的玩PSV摸鱼的女孩吗？
+Dialogue: 2,3:22:40.63,3:22:45.03,辉英,,0,0,0,,It's the Vita girl that Ellie stabbed and crap out of earlier,
+Dialogue: 1,3:22:45.03,3:22:50.24,辉中,,0,0,0,,或者应该叫“之后”？因为她现在还活着 这可真……真奇妙
+Dialogue: 2,3:22:45.03,3:22:50.24,辉英,,0,0,0,,or I guess later, because he or she is still alive, that's… that's funny.
+Dialogue: 1,3:22:50.24,3:22:53.06,辉中,,0,0,0,,埃比进医院没蹦跶多久
+Dialogue: 2,3:22:50.24,3:22:53.06,辉英,,0,0,0,,Now Abby doesn't make it far into the hospital though.
+Dialogue: 1,3:22:53.06,3:22:58.57,辉中,,0,0,0,,有人向伊萨克报告后埃比就被人发现她从昨天开始一直在擅离职守
+Dialogue: 2,3:22:53.06,3:22:55.33,辉英,,0,0,0,,She's arrested once they check in with Isaac
+Dialogue: 2,3:22:55.33,3:22:58.57,辉英,,0,0,0,,and find out that she has actually been AWOL since the day before,
+Dialogue: 1,3:22:58.57,3:23:01.21,辉中,,0,0,0,,所以她就被锁在电梯栏杆上了
+Dialogue: 2,3:22:58.57,3:23:01.21,辉英,,0,0,0,,so she's locked up in the elevator.
+Dialogue: 1,3:23:01.21,3:23:06.85,辉中,,0,0,0,,她基本上会一直被关到所有人把东西搬回前线基地以后
+Dialogue: 2,3:23:01.21,3:23:06.85,辉英,,0,0,0,,She's basically gonna held until they transport everything back to the front base with Isaac,
+Dialogue: 1,3:23:06.85,3:23:08.09,辉中,,0,0,0,,到时候伊萨克再来处理她的事
+Dialogue: 2,3:23:06.85,3:23:08.09,辉英,,0,0,0,,where she'll be dealt with.
+Dialogue: 1,3:23:08.09,3:23:10.53,辉中,,0,0,0,,又是这件多次被提及的事情
+Dialogue: 2,3:23:08.09,3:23:10.53,辉英,,0,0,0,,Again this is something that was mentioned several times,
+Dialogue: 1,3:23:10.53,3:23:14.86,辉中,,0,0,0,,不止埃比听到过 艾莉也听说WLF有事情要发生
+Dialogue: 2,3:23:10.53,3:23:14.86,辉英,,0,0,0,,not just to Abby, but also that Ellie overheard there is something going on with WLF
+Dialogue: 1,3:23:14.86,3:23:17.86,辉中,,0,0,0,,他们在把所有物资运往前线基地
+Dialogue: 2,3:23:14.86,3:23:17.86,辉英,,0,0,0,,where they need all of their supplies at the front base.
+Dialogue: 1,3:23:17.86,3:23:22.51,辉中,,0,0,0,,他们还集结了所有的WLF士兵也前往前线基地
+Dialogue: 2,3:23:17.86,3:23:22.51,辉英,,0,0,0,,And they're also collecting all of the WLF members to that same front base.
 Dialogue: 1,3:23:22.51,3:23:26.58,辉中,,0,0,0,,感觉要发生什么事了 伊萨克在动员所有人
 Dialogue: 2,3:23:22.51,3:23:26.58,辉英,,0,0,0,,There's something happening, Isaac's mobilizing everybody.
 Dialogue: 1,3:23:26.58,3:23:28.09,辉中,,0,0,0,,大的要来了
 Dialogue: 2,3:23:26.58,3:23:28.09,辉英,,0,0,0,,Something's about to go down.
-Dialogue: 1,3:23:28.09,3:23:33.56,辉中,,0,0,0,,Isaac mentioned earlier that he's planning on doing one final push into the Seraphites' island
-Dialogue: 1,3:23:33.56,3:23:36.34,辉中,,0,0,0,,that they have to finish the war once and for all.
-Dialogue: 1,3:23:36.34,3:23:39.01,辉中,,0,0,0,,It's a pretty big deal because without a doubt,
-Dialogue: 1,3:23:39.01,3:23:43.27,辉中,,0,0,0,,many hundreds or even thousands of people are about to die.
-Dialogue: 1,3:23:43.27,3:23:46.39,辉中,,0,0,0,,I could have seen an alternative timeline or storyline
-Dialogue: 1,3:23:46.99,3:23:51.22,辉中,,0,0,0,,where Abby instead of going after just materials to save Yara
-Dialogue: 1,3:23:51.22,3:23:56.35,辉中,,0,0,0,,decides to go and try and stop this invasion to save all of the lives of the Seraphites
-Dialogue: 1,3:23:56.35,3:24:00.34,辉中,,0,0,0,,and the lives of the WLF that will be wasted in this endeavor.
-Dialogue: 1,3:24:00.34,3:24:04.27,辉中,,0,0,0,,But I understand that this is probably a little more relatable,
-Dialogue: 1,3:24:04.27,3:24:08.86,辉中,,0,0,0,,especially because when you can emotionally attached the player to one character,
-Dialogue: 1,3:24:08.86,3:24:12.70,辉中,,0,0,0,,in this case, Yara, and in another instance Lev.
-Dialogue: 1,3:24:12.70,3:24:16.13,辉中,,0,0,0,,You can do a lot more compared to if you are trying to make the player
-Dialogue: 1,3:24:16.13,3:24:19.80,辉中,,0,0,0,,feel emotionally engaged and attached to an organization
-Dialogue: 1,3:24:19.80,3:24:23.80,辉中,,0,0,0,,such as the WLF, or a cult, such as the Seraphites.
-Dialogue: 1,3:24:23.80,3:24:27.78,辉中,,0,0,0,,Now, while Abby's locked up in the elevator, Nora I just happened to come by.
-Dialogue: 1,3:24:27.78,3:24:30.43,辉中,,0,0,0,,And she comes in clutch, and let's Abby go.
-Dialogue: 1,3:24:30.43,3:24:33.04,辉中,,0,0,0,,This is actually why she was in trouble with the WLF members
-Dialogue: 1,3:24:33.04,3:24:36.10,辉中,,0,0,0,,back in Ellie section when she was climbing through the vent.
-Dialogue: 1,3:24:36.10,3:24:40.37,辉中,,0,0,0,,It's because they think that Nora let Abby go, because well, she did.
-Dialogue: 1,3:24:40.37,3:24:42.89,辉中,,0,0,0,,Again I think it's really cool to get a fresh understanding of
-Dialogue: 1,3:24:42.89,3:24:45.79,辉中,,0,0,0,,everything that was going on with this new perspective.
-Dialogue: 1,3:24:45.79,3:24:47.58,辉中,,0,0,0,,Yeah, you don't need to know everything
-Dialogue: 1,3:24:47.58,3:24:52.75,辉中,,0,0,0,,that was going on to have an enjoyable game, play experience or narrative experience.
-Dialogue: 1,3:24:52.75,3:24:57.64,辉中,,0,0,0,,There's plenty of examples of books that don't really explain much of anything of what's going on.
-Dialogue: 1,3:24:57.64,3:25:02.08,辉中,,0,0,0,,They just cannot leave it there and leave it for your personal interpretation.
-Dialogue: 1,3:25:02.08,3:25:05.11,辉中,,0,0,0,,In TLOU2, however, everything's been thought through,
-Dialogue: 1,3:25:05.11,3:25:10.30,辉中,,0,0,0,,at least to a certain extent such that you're able to go back through with this new perspective,
-Dialogue: 1,3:25:10.33,3:25:15.28,辉中,,0,0,0,,learn more and figure out why these characters were doing what they were doing.
-Dialogue: 1,3:25:15.28,3:25:20.80,辉中,,0,0,0,,They weren't just moving materials from one location to the other to be convenient for the game story.
-Dialogue: 1,3:25:20.80,3:25:24.22,辉中,,0,0,0,,But rather there is an overarching theme and idea behind it,
-Dialogue: 1,3:25:24.22,3:25:28.00,辉中,,0,0,0,,even though that invasion has nothing to do with Ellie
-Dialogue: 1,3:25:28.00,3:25:33.43,辉中,,0,0,0,,and really would never have been brought up if Ellie stories where the game ended.
-Dialogue: 1,3:25:33.43,3:25:38.26,辉中,,0,0,0,,Now, Nora leads Abby to the basement to let her collect the stuff that she needs for Yara's arm.
-Dialogue: 1,3:25:38.26,3:25:42.46,辉中,,0,0,0,,She doesn't know exactly who she's helping out or why she needs everything that she needs.
-Dialogue: 1,3:25:42.46,3:25:45.45,辉中,,0,0,0,,But what she does know is that these surgical materials
-Dialogue: 1,3:25:45.45,3:25:49.93,辉中,,0,0,0,,are probably going to be used for the betterment of somebody's life.
-Dialogue: 1,3:25:49.93,3:25:54.96,辉中,,0,0,0,,And she knows also that all of the other materials in the rest of the hospital have been picked clean
-Dialogue: 1,3:25:54.96,3:25:58.33,辉中,,0,0,0,,and are being brought to the forward base where Isaac wants them.
-Dialogue: 1,3:25:58.33,3:26:02.89,辉中,,0,0,0,,And so the only place that's left for Abby to collect these items would be the basement.
-Dialogue: 1,3:26:02.89,3:26:09.79,辉中,,0,0,0,,Problem being, when the outbreak initially happened in 2013, on outbreak day,
-Dialogue: 1,3:26:09.79,3:26:12.08,辉中,,0,0,0,,everybody was brought to the hospital.
-Dialogue: 1,3:26:12.08,3:26:17.22,辉中,,0,0,0,,With this obviously, there was a massive outbreak within the hospital itself
-Dialogue: 1,3:26:17.22,3:26:20.02,辉中,,0,0,0,,and eventually everything was quarantined off.
-Dialogue: 1,3:26:20.02,3:26:25.75,辉中,,0,0,0,,The doors were locked and the stairs destroyed such that the infected couldn't reach the upper levels
-Dialogue: 1,3:26:25.75,3:26:28.75,辉中,,0,0,0,,and would be trapped in the basement indefinitely.
+Dialogue: 1,3:23:28.09,3:23:33.56,辉中,,0,0,0,,伊萨克之前提到要对赛拉菲特岛屿发起总攻
+Dialogue: 2,3:23:28.09,3:23:33.56,辉英,,0,0,0,,Isaac mentioned earlier that he's planning on doing one final push into the Seraphites' island
+Dialogue: 1,3:23:33.56,3:23:36.34,辉中,,0,0,0,,让这场战争做个了结
+Dialogue: 2,3:23:33.56,3:23:36.34,辉英,,0,0,0,,that they have to finish the war once and for all.
+Dialogue: 1,3:23:36.34,3:23:43.27,辉中,,0,0,0,,这不是个小事 因为这显然会牺牲成百上千条生命
+Dialogue: 2,3:23:36.34,3:23:39.01,辉英,,0,0,0,,It's a pretty big deal because without a doubt,
+Dialogue: 2,3:23:39.01,3:23:43.27,辉英,,0,0,0,,many hundreds or even thousands of people are about to die.
+Dialogue: 1,3:23:43.27,3:23:46.39,辉中,,0,0,0,,我甚至能想象到在另一个平行世界里
+Dialogue: 2,3:23:43.27,3:23:46.39,辉英,,0,0,0,,I could have seen an alternative timeline or storyline
+Dialogue: 1,3:23:46.39,3:23:51.22,辉中,,0,0,0,,埃比到这里没有继续为雅拉寻找救命的材料
+Dialogue: 2,3:23:46.39,3:23:51.22,辉英,,0,0,0,,where Abby instead of going after just materials to save Yara
+Dialogue: 1,3:23:51.22,3:23:56.35,辉中,,0,0,0,,而是决定去阻止这次侵略行动 拯救无数在这场战争中丧命的
+Dialogue: 2,3:23:51.22,3:23:56.35,辉英,,0,0,0,,decides to go and try and stop this invasion to save all of the lives of the Seraphites
+Dialogue: 1,3:23:56.35,3:24:00.34,辉中,,0,0,0,,赛拉菲特帮和WLF士兵的生命
+Dialogue: 2,3:23:56.35,3:24:00.34,辉英,,0,0,0,,and the lives of the WLF that will be wasted in this endeavor.
+Dialogue: 1,3:24:00.34,3:24:04.27,辉中,,0,0,0,,但我明白当前的剧情可能更有亲和力
+Dialogue: 2,3:24:00.34,3:24:04.27,辉英,,0,0,0,,But I understand that this is probably a little more relatable,
+Dialogue: 1,3:24:04.27,3:24:08.86,辉中,,0,0,0,,特别是当玩家能在情感上与一个角色产生联系的时候
+Dialogue: 2,3:24:04.27,3:24:08.86,辉英,,0,0,0,,especially because when you can emotionally attached the player to one character,
+Dialogue: 1,3:24:08.86,3:24:12.70,辉中,,0,0,0,,在这个例子里是雅拉 在另一个例子里是勒弗
+Dialogue: 2,3:24:08.86,3:24:12.70,辉英,,0,0,0,,in this case, Yara, and in another instance Lev.
+Dialogue: 1,3:24:12.70,3:24:16.13,辉中,,0,0,0,,相比于让玩家在情感上与WLF或赛拉菲特那样的邪教产生联系
+Dialogue: 2,3:24:12.70,3:24:16.13,辉英,,0,0,0,,You can do a lot more compared to if you are trying to make the player
+Dialogue: 1,3:24:16.13,3:24:19.80,辉中,,0,0,0,,相比于让玩家在情感上与WLF或赛拉菲特那样的邪教产生联系
+Dialogue: 2,3:24:16.13,3:24:19.80,辉英,,0,0,0,,feel emotionally engaged and attached to an organization
+Dialogue: 1,3:24:19.80,3:24:23.80,辉中,,0,0,0,,这样的安排能让编剧有更好的发挥空间
+Dialogue: 2,3:24:19.80,3:24:23.80,辉英,,0,0,0,,such as the WLF, or a cult, such as the Seraphites.
+Dialogue: 1,3:24:23.80,3:24:27.78,辉中,,0,0,0,,在埃比被锁在电梯栏杆上时 诺拉刚好经过
+Dialogue: 2,3:24:23.80,3:24:27.78,辉英,,0,0,0,,Now, while Abby's locked up in the elevator, Nora I just happened to come by.
+Dialogue: 1,3:24:27.78,3:24:30.43,辉中,,0,0,0,,她来的正是时候 把埃比放了
+Dialogue: 2,3:24:27.78,3:24:30.43,辉英,,0,0,0,,And she comes in clutch, and let's Abby go.
+Dialogue: 1,3:24:30.43,3:24:36.10,辉中,,0,0,0,,这也是之前艾莉爬通风管道的时候她与WLF成员发生小冲突的时候
+Dialogue: 2,3:24:30.43,3:24:33.04,辉英,,0,0,0,,This is actually why she was in trouble with the WLF members
+Dialogue: 2,3:24:33.04,3:24:36.10,辉英,,0,0,0,,back in Ellie section when she was climbing through the vent.
+Dialogue: 1,3:24:36.10,3:24:40.37,辉中,,0,0,0,,因为他们认为是诺拉把埃比放走的 因为的确是她干的
+Dialogue: 2,3:24:36.10,3:24:40.37,辉英,,0,0,0,,It's because they think that Nora let Abby go, because well, she did.
+Dialogue: 1,3:24:40.37,3:24:45.79,辉中,,0,0,0,,我真的感觉站在另一个视角明白一切发生了什么是一件很酷的事情
+Dialogue: 2,3:24:40.37,3:24:42.89,辉英,,0,0,0,,Again I think it's really cool to get a fresh understanding of
+Dialogue: 2,3:24:42.89,3:24:45.79,辉英,,0,0,0,,everything that was going on with this new perspective.
+Dialogue: 1,3:24:45.79,3:24:52.75,辉中,,0,0,0,,诚然 玩家不需要知道一切就能有很好的游戏体验或叙事体验
+Dialogue: 2,3:24:45.79,3:24:47.58,辉英,,0,0,0,,Yeah, you don't need to know everything
+Dialogue: 2,3:24:47.58,3:24:52.75,辉英,,0,0,0,,that was going on to have an enjoyable game, play experience or narrative experience.
+Dialogue: 1,3:24:52.75,3:24:57.64,辉中,,0,0,0,,很多小说中的故事都没有完全解释到底发生了什么
+Dialogue: 2,3:24:52.75,3:24:57.64,辉英,,0,0,0,,There's plenty of examples of books that don't really explain much of anything of what's going on.
+Dialogue: 1,3:24:57.64,3:25:02.08,辉中,,0,0,0,,它们只是可以选择留白 给读者无限的想象空间
+Dialogue: 2,3:24:57.64,3:25:02.08,辉英,,0,0,0,,They just cannot leave it there and leave it for your personal interpretation.
+Dialogue: 1,3:25:02.08,3:25:05.11,辉中,,0,0,0,,然而在TLOU2里 一切都是深思熟虑的
+Dialogue: 2,3:25:02.08,3:25:05.11,辉英,,0,0,0,,In TLOU2, however, everything's been thought through,
+Dialogue: 1,3:25:05.11,3:25:10.30,辉中,,0,0,0,,至少在某种程度上 你能够以这种新的视角回到过去
+Dialogue: 2,3:25:05.11,3:25:10.30,辉英,,0,0,0,,at least to a certain extent such that you're able to go back through with this new perspective,
+Dialogue: 1,3:25:10.33,3:25:15.28,辉中,,0,0,0,,了解更多东西 弄清楚为什么这些角色当时会这样做
+Dialogue: 2,3:25:10.33,3:25:15.28,辉英,,0,0,0,,learn more and figure out why these characters were doing what they were doing.
+Dialogue: 1,3:25:15.28,3:25:20.80,辉中,,0,0,0,,WLF不是为了游戏故事方便才一拍脑门决定把物资转移到别的地方
+Dialogue: 2,3:25:15.28,3:25:20.80,辉英,,0,0,0,,They weren't just moving materials from one location to the other to be convenient for the game story.
+Dialogue: 1,3:25:20.80,3:25:24.22,辉中,,0,0,0,,而是背后有一个宏大的侵略计划
+Dialogue: 2,3:25:20.80,3:25:24.22,辉英,,0,0,0,,But rather there is an overarching theme and idea behind it,
+Dialogue: 1,3:25:24.22,3:25:28.00,辉中,,0,0,0,,即使伊萨克的这个侵略与艾莉完全无关
+Dialogue: 2,3:25:24.22,3:25:28.00,辉英,,0,0,0,,even though that invasion has nothing to do with Ellie
+Dialogue: 1,3:25:28.00,3:25:33.43,辉中,,0,0,0,,即使就算艾莉的故事结束她也不知道有这样一回事
+Dialogue: 2,3:25:28.00,3:25:33.43,辉英,,0,0,0,,and really would never have been brought up if Ellie's story is where the game ended.
+Dialogue: 1,3:25:33.43,3:25:38.26,辉中,,0,0,0,,现在 诺拉领埃比去地下室收集雅拉胳膊手术需要的东西
+Dialogue: 2,3:25:33.43,3:25:38.26,辉英,,0,0,0,,Now, Nora leads Abby to the basement to let her collect the stuff that she needs for Yara's arm.
+Dialogue: 1,3:25:38.26,3:25:42.46,辉中,,0,0,0,,她不知道埃比在帮谁 也不知道她为什么需要这些东西
+Dialogue: 2,3:25:38.26,3:25:42.46,辉英,,0,0,0,,She doesn't know exactly who she's helping out or why she needs everything that she needs.
+Dialogue: 1,3:25:42.46,3:25:45.45,辉中,,0,0,0,,但她知道这些手术器具
+Dialogue: 2,3:25:42.46,3:25:45.45,辉英,,0,0,0,,But what she does know is that these surgical materials
+Dialogue: 1,3:25:45.45,3:25:49.93,辉中,,0,0,0,,很可能会用来救死扶伤
+Dialogue: 2,3:25:45.45,3:25:49.93,辉英,,0,0,0,,are probably going to be used for the betterment of somebody's life.
+Dialogue: 1,3:25:49.93,3:25:54.96,辉中,,0,0,0,,她还知道医院里其他地方所有物资都已经被清理走了
+Dialogue: 2,3:25:49.93,3:25:54.96,辉英,,0,0,0,,And she knows also that all of the other materials in the rest of the hospital have been picked clean
+Dialogue: 1,3:25:54.96,3:25:58.33,辉中,,0,0,0,,全都按照伊萨克的要求送到前线基地去了
+Dialogue: 2,3:25:54.96,3:25:58.33,辉英,,0,0,0,,and are being brought to the forward base where Isaac wants them.
+Dialogue: 1,3:25:58.33,3:26:02.89,辉中,,0,0,0,,所以埃比还能搜刮这些东西的地方只剩没清理的地下室了
+Dialogue: 2,3:25:58.33,3:26:02.89,辉英,,0,0,0,,And so the only place that's left for Abby to collect these items would be the basement.
+Dialogue: 1,3:26:02.89,3:26:09.79,辉中,,0,0,0,,问题是 疫情最初在2013年爆发的那一天
+Dialogue: 2,3:26:02.89,3:26:09.79,辉英,,0,0,0,,Problem being, when the outbreak initially happened in 2013, on outbreak day,
+Dialogue: 1,3:26:09.79,3:26:12.08,辉中,,0,0,0,,很多人都涌入了医院
+Dialogue: 2,3:26:09.79,3:26:12.08,辉英,,0,0,0,,everybody was brought to the hospital.
+Dialogue: 1,3:26:12.08,3:26:17.22,辉中,,0,0,0,,因此 当时在医院院内肯定会有相当大规模的传染
+Dialogue: 2,3:26:12.08,3:26:17.22,辉英,,0,0,0,,With this obviously, there was a massive outbreak within the hospital itself
+Dialogue: 1,3:26:17.22,3:26:20.02,辉中,,0,0,0,,直到最后整个医院都被隔离
+Dialogue: 2,3:26:17.22,3:26:20.02,辉英,,0,0,0,,and eventually everything was quarantined off.
+Dialogue: 1,3:26:20.02,3:26:25.75,辉中,,0,0,0,,锁上所有门 破坏掉所有楼梯 让感染者都上不来
+Dialogue: 2,3:26:20.02,3:26:25.75,辉英,,0,0,0,,The doors were locked and the stairs destroyed such that the infected couldn't reach the upper levels
+Dialogue: 1,3:26:25.75,3:26:28.75,辉中,,0,0,0,,把它们永久困在地下室里
+Dialogue: 2,3:26:25.75,3:26:28.75,辉英,,0,0,0,,and would be trapped in the basement indefinitely.
 Dialogue: 1,3:26:28.75,3:26:30.37,辉中,,0,0,0,,如果你玩过初代的TLOU
 Dialogue: 2,3:26:28.75,3:26:30.37,辉英,,0,0,0,,Now, if you played the original TLOU,
 Dialogue: 1,3:26:30.37,3:26:34.66,辉中,,0,0,0,,你就知道感染者不是葡萄酒越陈越香
@@ -5819,7 +6210,7 @@ Dialogue: 1,3:28:34.51,3:28:35.71,辉中,,0,0,0,,这一坨感染者出现了
 Dialogue: 2,3:28:34.51,3:28:35.71,辉英,,0,0,0,,this guy comes along.
 Dialogue: 1,3:28:47.98,3:28:48.65,辉中 Script,,0,0,0,,埃比：来吧！
 Dialogue: 1,3:28:50.18,3:28:51.95,辉中 Script,,0,0,0,,快打开，你这个破玩意！
-Dialogue: 1,3:28:57.28,3:29:03.22,辉中,,0,0,0,,没错 这个超级吓人的感染者的出现带领玩家进入到了下一场boss战
+Dialogue: 1,3:28:57.28,3:29:03.22,辉中,,0,0,0,,没错 这个超级吓人的感染者的出现带领玩家进入到了下一场Boss战
 Dialogue: 2,3:28:57.28,3:29:03.22,辉英,,0,0,0,,Yeah, this horrific monstrosity comes out and poses the next boss fight to the player.
 Dialogue: 1,3:29:03.22,3:29:07.33,辉中,,0,0,0,,它长得就跟一群感染者循声者紧急集合一样
 Dialogue: 2,3:29:03.22,3:29:07.33,辉英,,0,0,0,,It's a coagulation of multiple infected and Clickers,
@@ -5875,7 +6266,7 @@ Dialogue: 1,3:30:35.77,3:30:39.13,辉中,,0,0,0,,可拉倒吧！ 这游戏里的
 Dialogue: 2,3:30:35.77,3:30:39.13,辉英,,0,0,0,,Except totally not! That's not how anything in this game works.
 Dialogue: 1,3:30:39.13,3:30:40.48,辉中,,0,0,0,,玩家心里应该早就清楚了
 Dialogue: 2,3:30:39.13,3:30:40.48,辉英,,0,0,0,,You should have known that by now.
-Dialogue: 1,3:30:40.48,3:30:45.40,辉中,,0,0,0,,但是在西雅图 第2天结束后 画面给到了埃比又一个梦境的闪回
+Dialogue: 1,3:30:40.48,3:30:45.40,辉中,,0,0,0,,但是在「西雅图 第2天」结束后 画面给到了埃比又一个梦境的闪回
 Dialogue: 2,3:30:40.48,3:30:45.40,辉英,,0,0,0,,But of course, to finish out Seattle Day 2 there's another flashback slashed dream
 Dialogue: 1,3:30:45.40,3:30:48.33,辉中,,0,0,0,,埃比又一次来到她父亲遇害的医院
 Dialogue: 2,3:30:45.40,3:30:48.33,辉英,,0,0,0,,where Abby is in the hospital where her father died
@@ -5955,9 +6346,10 @@ Dialogue: 1,3:33:03.97,3:33:06.10,辉中,,0,0,0,,前往圣塔芭芭拉
 Dialogue: 2,3:33:03.97,3:33:06.10,辉英,,0,0,0,,and head off to Santa Barbara.
 Dialogue: 1,3:33:06.10,3:33:09.04,辉中,,0,0,0,,看起来真的要有一个美满的结局了
 Dialogue: 2,3:33:06.10,3:33:09.04,辉英,,0,0,0,,It really does seem as though we're going to have a happy ending.
-Dialogue: 1,3:33:09.04,3:33:12.25,辉中,,0,0,0,,这样 西雅图 第2天 结束了
+Dialogue: 1,3:33:09.04,3:33:12.25,辉中,,0,0,0,,这样 「西雅图 第2天」结束了
 Dialogue: 2,3:33:09.04,3:33:12.25,辉英,,0,0,0,,And with that, Seattle Day 2, ends.
-Dialogue: 1,3:33:12.25,3:33:16.03,辉中,,0,0,0,,西雅图 第3天 剧情从埃比睡觉醒来开始
+Dialogue: 1,3:33:12.25,3:33:16.03,辉中,,0,0,0,,「西雅图 第3天」 剧情从埃比睡觉醒来开始
+Dialogue: 0,3:33:12.15,3:33:13.90,辉中 西雅图标题,,0,180,300,,西雅图 第3天
 Dialogue: 2,3:33:12.25,3:33:16.03,辉英,,0,0,0,,Seattle Day 3, Abby wakes up to drama brewing.
 Dialogue: 1,3:33:16.03,3:33:18.67,辉中,,0,0,0,,她睡得挺好 但梅尔生气了
 Dialogue: 2,3:33:16.03,3:33:18.67,辉英,,0,0,0,,She slept well, but Mel is pissed.
@@ -6848,7 +7240,7 @@ Dialogue: 1,4:04:19.17,4:04:21.76,辉中,,0,0,0,,对于手握操控权的玩家�
 Dialogue: 2,4:04:19.17,4:04:21.76,辉英,,0,0,0,,to resolve this dispute peacefully.
 Dialogue: 1,4:04:21.76,4:04:25.90,辉中,,0,0,0,,但对于像这样的线性叙事游戏来说 这种处理并不合适
 Dialogue: 2,4:04:21.76,4:04:25.90,辉英,,0,0,0,,But with a linear narrative game such as this, that doesn't really work too well.
-Dialogue: 1,4:04:25.90,4:04:29.30,辉中,,0,0,0,,于是 你只能去打这样boss战
+Dialogue: 1,4:04:25.90,4:04:29.30,辉中,,0,0,0,,于是 你只能去打这样Boss战
 Dialogue: 2,4:04:25.90,4:04:29.30,辉英,,0,0,0,,And so, you're forced to engage in this boss fight,
 Dialogue: 1,4:04:29.30,4:04:32.02,辉中,,0,0,0,,埃比当前作为主角
 Dialogue: 2,4:04:29.30,4:04:32.02,辉英,,0,0,0,,where Abby, the protagonist in this instance,
@@ -6905,7 +7297,7 @@ Dialogue: 1,4:05:57.85,4:06:00.44,辉中,,0,0,0,,这样玩家在操控埃比游�
 Dialogue: 2,4:05:57.85,4:06:00.44,辉英,,0,0,0,,Likely the player playing as Abby in this case
 Dialogue: 1,4:06:00.44,4:06:05.68,辉中,,0,0,0,,可能会感觉追杀艾莉会更加有合理性
 Dialogue: 2,4:06:00.44,4:06:05.68,辉英,,0,0,0,,would feel much more justified in chasing down Ellie if this had happened.
-Dialogue: 1,4:06:05.68,4:06:08.94,辉中,,0,0,0,,总之 埃比还是在boss战中追杀艾莉
+Dialogue: 1,4:06:05.68,4:06:08.94,辉中,,0,0,0,,总之 埃比还是在Boss战中追杀艾莉
 Dialogue: 2,4:06:05.68,4:06:08.94,辉英,,0,0,0,,But nonetheless, Abby hunts Ellie down in a boss fight
 Dialogue: 1,4:06:08.94,4:06:16.39,辉中,,0,0,0,,这场战斗与第一部中冬季篇结束时对抗大家最喜欢的食人魔王的战斗基本相同
 Dialogue: 2,4:06:08.94,4:06:13.43,辉英,,0,0,0,,that's basically identical to the one that ended the winter chapter in the first game
@@ -6916,9 +7308,8 @@ Dialogue: 1,4:06:19.03,4:06:24.13,辉中,,0,0,0,,还是本身就是想让你模�
 Dialogue: 2,4:06:19.03,4:06:24.13,辉英,,0,0,0,,or if this is meant to be an actual reversal and similarly in and of itself.
 Dialogue: 1,4:06:24.13,4:06:25.12,辉中,,0,0,0,,我不清楚
 Dialogue: 2,4:06:24.13,4:06:25.12,辉英,,0,0,0,,I don't know.
-Dialogue: 1,4:06:25.12,4:06:28.97,辉中,,0,0,0,,但从它的布局和这场boss战的结构来看 两者确实惊人地相似
+Dialogue: 1,4:06:25.12,4:06:31.27,辉中,,0,0,0,,但从它的布局和这场Boss战的结构来看 两者确实惊人地相似
 Dialogue: 2,4:06:25.12,4:06:28.97,辉英,,0,0,0,,But it does seem shockingly similar in terms of how it's laid out
-Dialogue: 1,4:06:28.97,4:06:31.27,辉中,,0,0,0,,但从它的布局和这场boss战的结构来看 两者确实惊人地相似
 Dialogue: 2,4:06:28.97,4:06:31.27,辉英,,0,0,0,,and the structure of this boss fight.
 Dialogue: 1,4:06:31.27,4:06:35.68,辉中,,0,0,0,,也许是巧合 也许是刻意为之 我不确定
 Dialogue: 2,4:06:31.27,4:06:35.68,辉英,,0,0,0,,Maybe it's a coincidence, maybe it's something very intentional, I'm not sure.
@@ -7648,7 +8039,7 @@ Dialogue: 2,4:29:21.34,4:29:22.54,辉英,,0,0,0,,And as the game goes on,
 Dialogue: 1,4:29:22.54,4:29:28.06,辉中,,0,0,0,,你也会随着自己开始同情埃比和她的伙伴而开始慢慢失去这样的动力
 Dialogue: 2,4:29:22.54,4:29:28.06,辉英,,0,0,0,,you also start to lose that motivation once you start to sympathize with Abby and her crew.
 Dialogue: 1,4:29:27.16,4:29:29.66,辉中 Script,,0,0,0,,对，就是她。
-Dialogue: 1,4:29:28.06,4:29:31.15,辉中,,0,0,0,,所以在那场boss战中你会感觉内心非常矛盾
+Dialogue: 1,4:29:28.06,4:29:31.15,辉中,,0,0,0,,所以在那场Boss战中你会感觉内心非常矛盾
 Dialogue: 2,4:29:28.06,4:29:31.15,辉英,,0,0,0,,So you end up very conflicted in that final boss fight
 Dialogue: 1,4:29:31.15,4:29:34.66,辉中,,0,0,0,,你什么都不想做 哪个角色也不想伤害
 Dialogue: 2,4:29:31.15,4:29:34.66,辉英,,0,0,0,,where you don't want to do anything or hurt either one of these characters.
@@ -8028,7 +8419,7 @@ Dialogue: 1,4:48:07.12,4:48:09.46,辉中,,0,0,0,,同时还有一些其他游戏�
 Dialogue: 2,4:48:07.12,4:48:09.46,辉英,,0,0,0,,But even so, there're some gameplay pacing issues,
 Dialogue: 1,4:48:09.46,4:48:14.39,辉中,,0,0,0,,比如游戏高潮内容的构建
 Dialogue: 2,4:48:09.46,4:48:14.39,辉英,,0,0,0,,such as having problems with climax building
-Dialogue: 1,4:48:14.39,4:48:19.87,辉中,,0,0,0,,最终boss战的沉浸感和有趣程度的方面是有问题的
+Dialogue: 1,4:48:14.39,4:48:19.87,辉中,,0,0,0,,最终Boss战的沉浸感和有趣程度的方面是有问题的
 Dialogue: 2,4:48:14.39,4:48:19.87,辉英,,0,0,0,,and making sure that the final boss fights are really intriguing and interesting, and things like that.
 Dialogue: 1,4:48:19.87,4:48:25.37,辉中,,0,0,0,,但对于游玩部分来讲 它仍然是个好游戏
 Dialogue: 2,4:48:19.87,4:48:25.37,辉英,,0,0,0,,But all told, as far as the game is concerned, it's very well done as a game,
