@@ -16,9 +16,9 @@ Video File: Q:/给没组/tlou2.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 7267
-Active Line: 7273
-Video Position: 887108
+Scroll Position: 822
+Active Line: 826
+Video Position: 98595
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -861,7 +861,7 @@ Dialogue: 1,0:27:16.80,0:27:19.29,辉中,,0,0,0,,就比如《绝命毒师》里�
 Dialogue: 2,0:27:16.80,0:27:19.29,辉英,,0,0,0,,I mean, look at that scene from Breaking Bad.
 Dialogue: 1,0:27:19.29,0:27:23.25,辉中,,0,0,0,,简的父亲在酒吧遇到沃尔特
 Dialogue: 2,0:27:19.29,0:27:23.25,辉英,,0,0,0,,Where Jane's father runs into Walt at a bar.
-Dialogue: 1,0:27:23.25,0:27:27.90,辉中,,0,0,0,,他们简单聊了聊为父之道和孩子们
+Dialogue: 1,0:27:23.25,0:27:27.90,辉中,,0,0,0,,他们简单聊了聊为父之道、聊了聊孩子
 Dialogue: 2,0:27:23.25,0:27:27.90,辉英,,0,0,0,,They share a short conversation about fatherhood, about kids,
 Dialogue: 1,0:27:27.90,0:27:33.87,辉中,,0,0,0,,而他们完全不会想到他们聊的两个角色
 Dialogue: 2,0:27:27.90,0:27:33.87,辉英,,0,0,0,,and they don't realize that they're talking about two characters, in this case, Jesse and Jane,
@@ -2084,6 +2084,8 @@ Dialogue: 1,1:06:16.98,1:06:19.14,辉中,,0,0,0,,感觉有点……YUE
 Dialogue: 2,1:06:16.98,1:06:19.14,辉英,,0,0,0,,It's just kind of… blaaaah.
 Dialogue: 1,1:06:19.14,1:06:20.67,辉中,,0,0,0,,不过不急 我们稍后会提到
 Dialogue: 2,1:06:19.14,1:06:20.67,辉英,,0,0,0,,But don't worry, we're going to get into it.
+Dialogue: 0,1:06:20.58,1:06:24.31,辉中 西雅图标题,,0,530,300,,{\fade(120,40,255,0,1500,10000,0)}西雅图
+Dialogue: 0,1:06:22.83,1:06:24.31,辉中 西雅图标题,,0,180,300,,{\fade(255,70,255,0,1000,10000,0)}第1天
 Dialogue: 1,1:06:20.67,1:06:24.46,辉中,,0,0,0,,就这样 我们来到了「西雅图 第1天」
 Dialogue: 2,1:06:20.67,1:06:24.46,辉英,,0,0,0,,And with that we move to Seattle Day 1.
 Dialogue: 1,1:06:24.46,1:06:28.24,辉中,,0,0,0,,来西雅图的第一天 主要元素是“大门”
