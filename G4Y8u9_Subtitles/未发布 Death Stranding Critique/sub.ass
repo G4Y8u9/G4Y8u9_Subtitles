@@ -15,7 +15,10 @@ Audio File: ../../../../../Video/给没组/DS/RAW.mkv
 Video File: ../../../../../Video/给没组/DS/RAW.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
+Video Zoom Percent: 0.750000
+Scroll Position: 579
+Active Line: 586
+Video Position: 65535
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -23,7 +26,7 @@ Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 Style: 辉中,文泉驿微米黑,65,&H00FFFFFF,&H000019FF,&H00704012,&H00000000,-1,0,0,0,100,100,0.5,0,1,3,0.2,2,0,0,45,1
 Style: 辉英,PragmataPro,35,&H00FFFFFF,&H000019FF,&H003B3C3D,&H00000000,0,0,0,0,100,100,1,0,1,2.8,0.2,2,0,0,10,1
 Style: 辉注,文泉驿微米黑,50,&H00000000,&H000019FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,1,0,1,3,0.7,9,10,10,10,1
-Style: 辉中 Script,文泉驿微米黑,65,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0.5,0,1,1,0.2,2,0,0,160,1
+Style: 辉中 Script,文泉驿微米黑,50,&H00FFFFD2,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0.5,0,1,0,2,2,0,0,135,1
 Style: 辉英 Script,PragmataPro,30,&H00BBD3D2,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,1,0.2,2,0,0,125,1
 
 [Events]
@@ -549,111 +552,73 @@ Dialogue: 0,0:32:00.45,0:32:03.97,辉中,,0,0,0,,that the game isn't that which 
 Dialogue: 0,0:32:03.97,0:32:08.13,辉中,,0,0,0,,Of course fans of Kojima's work were going to be interested regardless.
 Dialogue: 0,0:32:08.13,0:32:11.26,辉中,,0,0,0,,They were going to play it all the way through no matter what.
 Dialogue: 0,0:32:11.26,0:32:16.06,辉中,,0,0,0,,And this is reflected in the pole that I took of players of Death Stranding.
-Dialogue: 0,0:32:16.06,0:32:18.98,辉中,,0,0,0,,But new players have to be convinced of its
-Dialogue: 0,0:32:18.98,0:32:21.20,辉中,,0,0,0,,Worth and I don't even think this is a
-Dialogue: 0,0:32:21.20,0:32:23.27,辉中,,0,0,0,,controversial thing to say but I'm sure
-Dialogue: 0,0:32:23.27,0:32:24.86,辉中,,0,0,0,,there will be some disagreeing in the
-Dialogue: 0,0:32:24.86,0:32:26.84,辉中,,0,0,0,,comments but at least hear me out
-Dialogue: 0,0:32:26.84,0:32:28.79,辉中,,0,0,0,,specifically what I mean is that death
-Dialogue: 0,0:32:28.79,0:32:31.40,辉中,,0,0,0,,stranding has to prove that for one it
-Dialogue: 0,0:32:31.40,0:32:33.68,辉中,,0,0,0,,has a rewarding and worthwhile gameplay
-Dialogue: 0,0:32:33.68,0:32:36.20,辉中,,0,0,0,,loop and for two the narrative makes
-Dialogue: 0,0:32:36.20,0:32:38.00,辉中,,0,0,0,,sense and has been thought through
-Dialogue: 0,0:32:38.00,0:32:40.16,辉中,,0,0,0,,specifically number one because this was
-Dialogue: 0,0:32:40.16,0:32:43.10,辉中,,0,0,0,,referred to as a walking simulator by
-Dialogue: 0,0:32:43.10,0:32:45.77,辉中,,0,0,0,,many before launch which I actually
-Dialogue: 0,0:32:45.77,0:32:48.05,辉中,,0,0,0,,disagree with but again I'll discuss
-Dialogue: 0,0:32:48.05,0:32:49.43,辉中,,0,0,0,,that later I know I've said that a
-Dialogue: 0,0:32:49.43,0:32:51.80,辉中,,0,0,0,,thousand times but I will the point is
-Dialogue: 0,0:32:51.80,0:32:54.02,辉中,,0,0,0,,for new players coming in such as myself
-Dialogue: 0,0:32:54.02,0:32:56.90,辉中,,0,0,0,,having had no major experience to Kojima
-Dialogue: 0,0:32:56.90,0:32:59.45,辉中,,0,0,0,,other than with PT and smaller projects
-Dialogue: 0,0:32:59.45,0:33:01.94,辉中,,0,0,0,,they are going to have this in mind from
-Dialogue: 0,0:33:01.94,0:33:04.22,辉中,,0,0,0,,the very beginning they're going to be
-Dialogue: 0,0:33:04.22,0:33:06.29,辉中,,0,0,0,,approaching Death Stranding with the
-Dialogue: 0,0:33:06.29,0:33:09.62,辉中,,0,0,0,,preconceived idea that it is a walking
-Dialogue: 0,0:33:09.62,0:33:11.86,辉中,,0,0,0,,simulator with gameplay that's
-Dialogue: 0,0:33:11.86,0:33:14.96,辉中,,0,0,0,,unsatisfying and boring all Kojima would
-Dialogue: 0,0:33:14.96,0:33:17.60,辉中,,0,0,0,,have to do is create the opening hours
-Dialogue: 0,0:33:17.60,0:33:19.46,辉中,,0,0,0,,of Death Stranding in such a way that
-Dialogue: 0,0:33:19.46,0:33:21.23,辉中,,0,0,0,,players would be convinced that there
-Dialogue: 0,0:33:21.23,0:33:23.36,辉中,,0,0,0,,was more to this gameplay system than
-Dialogue: 0,0:33:23.36,0:33:25.55,辉中,,0,0,0,,initially seemed present Kojima could
-Dialogue: 0,0:33:25.55,0:33:27.32,辉中,,0,0,0,,have done this in a plethora of ways for
-Dialogue: 0,0:33:27.32,0:33:28.40,辉中,,0,0,0,,one he could have started the game with
-Dialogue: 0,0:33:28.40,0:33:28.72,辉中,,0,0,0,,him
-Dialogue: 0,0:33:28.72,0:33:31.57,辉中,,0,0,0,,Beetee battle not just a cutscene of it
-Dialogue: 0,0:33:31.57,0:33:34.66,辉中,,0,0,0,,but an actual gameplay system showing
-Dialogue: 0,0:33:34.66,0:33:36.52,辉中,,0,0,0,,how you can fight these things as you do
-Dialogue: 0,0:33:36.52,0:33:39.07,辉中,,0,0,0,,later on or he could have kept the large
-Dialogue: 0,0:33:39.07,0:33:41.53,辉中,,0,0,0,,cutscene that shows off these be teased
-Dialogue: 0,0:33:41.53,0:33:43.87,辉中,,0,0,0,,in the first couple of hours and just
-Dialogue: 0,0:33:43.87,0:33:45.97,辉中,,0,0,0,,added some interactive parts to it
-Dialogue: 0,0:33:45.97,0:33:48.10,辉中,,0,0,0,,QuickTime events in effect same thing
-Dialogue: 0,0:33:48.10,0:33:49.72,辉中,,0,0,0,,that Naughty Dog does with all of their
-Dialogue: 0,0:33:49.72,0:33:52.57,辉中,,0,0,0,,games again nobody was skeptical of the
-Dialogue: 0,0:33:52.57,0:33:54.88,辉中,,0,0,0,,fact that kojima had a really beautiful
-Dialogue: 0,0:33:54.88,0:33:57.94,辉中,,0,0,0,,and bizarre world to play with in death
-Dialogue: 0,0:33:57.94,0:34:00.22,辉中,,0,0,0,,stranding what they doubted was the
-Dialogue: 0,0:34:00.22,0:34:03.16,辉中,,0,0,0,,gameplay that backed that story up now
-Dialogue: 0,0:34:03.16,0:34:04.54,辉中,,0,0,0,,some of you may think that all of these
-Dialogue: 0,0:34:04.54,0:34:06.76,辉中,,0,0,0,,things shouldn't be very important but
-Dialogue: 0,0:34:06.76,0:34:08.62,辉中,,0,0,0,,this is what is either going to hook
-Dialogue: 0,0:34:08.62,0:34:10.90,辉中,,0,0,0,,players into a 50 hour playthrough or
-Dialogue: 0,0:34:10.90,0:34:13.99,辉中,,0,0,0,,rappel players after a single hour of
-Dialogue: 0,0:34:13.99,0:34:15.97,辉中,,0,0,0,,playing and before the pedantic comment
-Dialogue: 0,0:34:15.97,0:34:17.50,辉中,,0,0,0,,comes along where somebody says that an
-Dialogue: 0,0:34:17.50,0:34:19.33,辉中,,0,0,0,,hour isn't enough time to determine if
-Dialogue: 0,0:34:19.33,0:34:21.55,辉中,,0,0,0,,the game is good or not I respectfully
-Dialogue: 0,0:34:21.55,0:34:25.57,辉中,,0,0,0,,disagree it should be enough an hour is
-Dialogue: 0,0:34:25.57,0:34:28.03,辉中,,0,0,0,,a long time after all though often the
-Dialogue: 0,0:34:28.03,0:34:30.25,辉中,,0,0,0,,pacing of a game can be so awful that
-Dialogue: 0,0:34:30.25,0:34:32.56,辉中,,0,0,0,,the first hour is terrible yet the later
-Dialogue: 0,0:34:32.56,0:34:35.38,辉中,,0,0,0,,sections are great but I will admit that
-Dialogue: 0,0:34:35.38,0:34:37.63,辉中,,0,0,0,,this is a personal preference some
-Dialogue: 0,0:34:37.63,0:34:39.04,辉中,,0,0,0,,people are willing to grind through
-Dialogue: 0,0:34:39.04,0:34:41.68,辉中,,0,0,0,,dozens upon dozens of hours of content
-Dialogue: 0,0:34:41.68,0:34:43.03,辉中,,0,0,0,,before they get to the meat of the game
-Dialogue: 0,0:34:43.03,0:34:45.67,辉中,,0,0,0,,while I personally think that that's
-Dialogue: 0,0:34:45.67,0:34:48.64,辉中,,0,0,0,,unacceptable regardless this all should
-Dialogue: 0,0:34:48.64,0:34:50.65,辉中,,0,0,0,,be easy enough to do
-Dialogue: 0,0:34:50.65,0:34:53.95,辉中,,0,0,0,,right Kojima should be able to create an
-Dialogue: 0,0:34:53.95,0:34:56.47,辉中,,0,0,0,,opening sequence that pulls people in he
-Dialogue: 0,0:34:56.47,0:34:58.45,辉中,,0,0,0,,just would have had to show players some
-Dialogue: 0,0:34:58.45,0:35:00.91,辉中,,0,0,0,,flashy gameplay and hook them with an
-Dialogue: 0,0:35:00.91,0:35:03.34,辉中,,0,0,0,,intriguing narrative mechanism but no
-Dialogue: 0,0:35:03.34,0:35:07.03,辉中,,0,0,0,,Kojima completely fails at this and I
-Dialogue: 0,0:35:07.03,0:35:09.10,辉中,,0,0,0,,think I can convince you to do this I
-Dialogue: 0,0:35:09.10,0:35:10.81,辉中,,0,0,0,,want to go through the opening sequence
-Dialogue: 0,0:35:10.81,0:35:12.85,辉中,,0,0,0,,of the game and I'm actually going to
-Dialogue: 0,0:35:12.85,0:35:15.07,辉中,,0,0,0,,keep these two things that bethe
-Dialogue: 0,0:35:15.07,0:35:18.52,辉中,,0,0,0,,stranding has to prove up on screen that
-Dialogue: 0,0:35:18.52,0:35:20.32,辉中,,0,0,0,,way as we go through this you can
-Dialogue: 0,0:35:20.32,0:35:22.54,辉中,,0,0,0,,consistently ask yourself whether or not
-Dialogue: 0,0:35:22.54,0:35:25.42,辉中,,0,0,0,,these checks are being met because like
-Dialogue: 0,0:35:25.42,0:35:27.52,辉中,,0,0,0,,it or not this is the mental check that
-Dialogue: 0,0:35:27.52,0:35:29.95,辉中,,0,0,0,,players are going to be applying as they
-Dialogue: 0,0:35:29.95,0:35:31.33,辉中,,0,0,0,,go through the opening sequence
-Dialogue: 0,0:35:31.33,0:35:34.15,辉中,,0,0,0,,consciously or not deaths training opens
-Dialogue: 0,0:35:34.15,0:35:35.80,辉中,,0,0,0,,with what is presented as a profound
-Dialogue: 0,0:35:35.80,0:35:38.83,辉中,,0,0,0,,quote from Coble eBay's poem
-Dialogue: 0,0:35:38.83,0:35:41.77,辉中,,0,0,0,,I don't know if I'm pronouncing that
-Dialogue: 0,0:35:41.77,0:35:43.83,辉中,,0,0,0,,name right I'm gonna be perfect Kobo Abe
-Dialogue: 0,0:35:43.83,0:35:46.36,辉中,,0,0,0,,Kobo Abe I have no idea
-Dialogue: 0,0:35:46.36,0:35:48.37,辉中,,0,0,0,,regardless it's not that relevant at the
-Dialogue: 0,0:35:48.37,0:35:50.74,辉中,,0,0,0,,moment and even when it is explained and
-Dialogue: 0,0:35:50.74,0:35:53.26,辉中,,0,0,0,,tied back into the narrative it fails to
-Dialogue: 0,0:35:53.26,0:35:55.39,辉中,,0,0,0,,feel completely and truly profound
-Dialogue: 0,0:35:55.39,0:35:57.34,辉中,,0,0,0,,specifically when Deadman quotes it at
-Dialogue: 0,0:35:57.34,0:36:00.04,辉中,,0,0,0,,the very end of the game the President
-Dialogue: 0,0:36:00.04,0:36:03.06,辉中,,0,0,0,,must have known all of this would happen
-Dialogue: 0,0:36:03.06,0:36:06.28,辉中,,0,0,0,,ironic isn't it the gun that set this
-Dialogue: 0,0:36:06.28,0:36:10.00,辉中,,0,0,0,,whole mess in motion ends up being that
-Dialogue: 0,0:36:10.00,0:36:15.58,辉中,,0,0,0,,key to saving you Emily she said I had
-Dialogue: 0,0:36:15.58,0:36:19.57,辉中,,0,0,0,,another purpose not a weapon but a
-Dialogue: 0,0:36:19.57,0:36:23.94,辉中,,0,0,0,,lifeline a stick that became a rope I
-Dialogue: 0,0:36:23.94,0:36:28.23,辉中,,0,0,0,,suppose that's one way of putting it
-Dialogue: 0,0:36:29.76,0:36:32.65,辉中,,0,0,0,,after the excerpt is shown and plays off
+Dialogue: 0,0:32:16.06,0:32:19.80,辉中,,0,0,0,,But new players have to be convinced of its worth.
+Dialogue: 0,0:32:19.80,0:32:22.81,辉中,,0,0,0,,And I don't even think this is a controversial thing to say
+Dialogue: 0,0:32:22.81,0:32:25.41,辉中,,0,0,0,,but I'm sure there will be some disagreeing in the comments.
+Dialogue: 0,0:32:25.41,0:32:27.11,辉中,,0,0,0,,But at least hear me out.
+Dialogue: 0,0:32:27.11,0:32:30.38,辉中,,0,0,0,,Specifically what I mean is that Death Stranding has to prove that
+Dialogue: 0,0:32:30.38,0:32:34.26,辉中,,0,0,0,,for one, it has a rewarding and worthwhile gameplay loop;
+Dialogue: 0,0:32:34.26,0:32:38.26,辉中,,0,0,0,,and for two, the narrative makes sense and has been thought through.
+Dialogue: 0,0:32:38.26,0:32:42.90,辉中,,0,0,0,,Specifically number one because this was referred to as a walking simulator
+Dialogue: 0,0:32:42.90,0:32:45.16,辉中,,0,0,0,,by many before launch,
+Dialogue: 0,0:32:45.16,0:32:48.65,辉中,,0,0,0,,which I actually disagree with, but again I'll discuss that later.
+Dialogue: 0,0:32:48.65,0:32:51.23,辉中,,0,0,0,,I know I've said that a thousand times but I will.
+Dialogue: 0,0:32:51.23,0:32:54.35,辉中,,0,0,0,,The point is for new players coming in such as myself
+Dialogue: 0,0:32:54.35,0:32:59.70,辉中,,0,0,0,,having had no major experience to Kojima other than with PT and smaller projects,
+Dialogue: 0,0:32:59.70,0:33:03.51,辉中,,0,0,0,,they are going to have this in mind from the very beginning.
+Dialogue: 0,0:33:03.51,0:33:08.05,辉中,,0,0,0,,they're going to be approaching Death Stranding with the preconceived idea
+Dialogue: 0,0:33:08.05,0:33:13.92,辉中,,0,0,0,,that it is a walking simulator with gameplay that's unsatisfying and boring.
+Dialogue: 0,0:33:13.92,0:33:19.66,辉中,,0,0,0,,All Kojima would have to do is create the opening hours of Death Stranding in such a way
+Dialogue: 0,0:33:19.66,0:33:21.09,辉中,,0,0,0,,that players would be convinced that
+Dialogue: 0,0:33:21.09,0:33:24.98,辉中,,0,0,0,,there was more to this gameplay system than initially seemed present.
+Dialogue: 0,0:33:24.98,0:33:27.18,辉中,,0,0,0,,Kojima could have done this in a plethora of ways.
+Dialogue: 0,0:33:27.18,0:33:30.08,辉中,,0,0,0,,For one he could have started the game with a massive BT battle,
+Dialogue: 0,0:33:30.08,0:33:34.03,辉中,,0,0,0,,not just a cutscene of it, but an actual gameplay system
+Dialogue: 0,0:33:34.03,0:33:37.44,辉中,,0,0,0,,showing how you can fight these things as you do later on.
+Dialogue: 0,0:33:37.44,0:33:43.57,辉中,,0,0,0,,Or he could have kept the large cutscene that shows off these BTs in the first couple of hours
+Dialogue: 0,0:33:43.57,0:33:45.97,辉中,,0,0,0,,and just added some interactive parts to it,
+Dialogue: 0,0:33:45.97,0:33:50.33,辉中,,0,0,0,,quickTime events in effect, same thing that Naughty Dog does with all of their games.
+Dialogue: 0,0:33:50.33,0:33:52.92,辉中,,0,0,0,,Again nobody was skeptical of the fact
+Dialogue: 0,0:33:52.92,0:33:58.76,辉中,,0,0,0,,that Kojima had a really beautiful and bizarre world to play with in Death Stranding.
+Dialogue: 0,0:33:58.76,0:34:02.99,辉中,,0,0,0,,What they doubted was the gameplay that backed that story up.
+Dialogue: 0,0:34:02.99,0:34:06.66,辉中,,0,0,0,,Now some of you may think that all of these things shouldn't be very important.
+Dialogue: 0,0:34:06.66,0:34:10.90,辉中,,0,0,0,,But this is what is either going to hook players into a 50 hour playthrough
+Dialogue: 0,0:34:10.90,0:34:14.52,辉中,,0,0,0,,or rappel players after a single hour of playing.
+Dialogue: 0,0:34:14.52,0:34:17.26,辉中,,0,0,0,,And before the pedantic comment comes along where somebody says
+Dialogue: 0,0:34:17.26,0:34:20.61,辉中,,0,0,0,,that an hour isn't enough time to determine if the game is good or not,
+Dialogue: 0,0:34:20.61,0:34:24.86,辉中,,0,0,0,,I respectfully disagree it, should be enough.
+Dialogue: 0,0:34:24.86,0:34:27.01,辉中,,0,0,0,,An hour is a long time after all.
+Dialogue: 0,0:34:27.01,0:34:31.80,辉中,,0,0,0,,Though often the pacing of a game can be so awful that the first hour is terrible
+Dialogue: 0,0:34:31.80,0:34:34.41,辉中,,0,0,0,,yet the later sections are great.
+Dialogue: 0,0:34:34.41,0:34:37.37,辉中,,0,0,0,,But I will admit that this is a personal preference.
+Dialogue: 0,0:34:37.37,0:34:41.81,辉中,,0,0,0,,Some people are willing to grind through dozens upon dozens of hours of content
+Dialogue: 0,0:34:41.81,0:34:43.49,辉中,,0,0,0,,before they get to the meat of the game,
+Dialogue: 0,0:34:43.49,0:34:46.58,辉中,,0,0,0,,while I personally think that that's unacceptable.
+Dialogue: 0,0:34:46.58,0:34:51.20,辉中,,0,0,0,,Regardless this all should be easy enough to do, right?
+Dialogue: 0,0:34:51.20,0:34:56.34,辉中,,0,0,0,,Kojima should be able to create an opening sequence that pulls people in.
+Dialogue: 0,0:34:56.34,0:34:59.82,辉中,,0,0,0,,He just would have had to show players some flashy gameplay,
+Dialogue: 0,0:34:59.82,0:35:02.88,辉中,,0,0,0,,and hook them with an intriguing narrative mechanism.
+Dialogue: 0,0:35:02.88,0:35:08.32,辉中,,0,0,0,,But no, Kojima completely fails at this, and I think I can convince you.
+Dialogue: 0,0:35:08.32,0:35:12.08,辉中,,0,0,0,,To do this, I want to go through the opening sequence of the game.
+Dialogue: 0,0:35:12.08,0:35:18.25,辉中,,0,0,0,,And I'm actually going to keep these two things that Death Stranding has to prove up on screen.
+Dialogue: 0,0:35:18.25,0:35:20.11,辉中,,0,0,0,,That way as we go through this 
+Dialogue: 0,0:35:20.11,0:35:25.00,辉中,,0,0,0,,you can consistently ask yourself whether or not these checks are being met.
+Dialogue: 0,0:35:25.00,0:35:29.51,辉中,,0,0,0,,Because like it or not this is the mental check that players are going to be applying
+Dialogue: 0,0:35:29.51,0:35:33.06,辉中,,0,0,0,,as they go through the opening sequence consciously or not.
+Dialogue: 0,0:35:33.06,0:35:39.05,辉中,,0,0,0,,Death Stranding opens with what is presented as a profound quote from Kobo Abe's poem "Nawa" …
+Dialogue: 0,0:35:39.05,0:35:42.35,辉中,,0,0,0,,I don't know if I'm pronouncing that name right …
+Dialogue: 0,0:35:42.35,0:35:46.36,辉中,,0,0,0,,I'm gonna be perfect Kobo Abe's … Kobo Abe … I have no idea.
+Dialogue: 0,0:35:46.36,0:35:48.83,辉中,,0,0,0,,Regardless it's not that relevant at the moment.
+Dialogue: 0,0:35:48.83,0:35:52.45,辉中,,0,0,0,,And even when it is explained and tied back into the narrative,
+Dialogue: 0,0:35:52.45,0:35:55.55,辉中,,0,0,0,,it fails to feel completely and truly profound,
+Dialogue: 0,0:35:55.55,0:35:59.11,辉中,,0,0,0,,specifically when Deadman quotes it at the very end of the game.
+Dialogue: 0,0:35:59.62,0:36:02.69,辉中 Script,,0,0,0,,总统一定知道会发生这样的事。
+Dialogue: 0,0:36:03.69,0:36:04.96,辉中 Script,,0,0,0,,很讽刺，不是吗？
+Dialogue: 0,0:36:05.33,0:36:12.47,辉中 Script,,0,0,0,,引发危机的这把枪，最后成为了拯救你的关键。
+Dialogue: 0,0:36:13.90,0:36:16.84,辉中 Script,,0,0,0,,亚美莉……她说过这把枪有别的用处。
+Dialogue: 0,0:36:17.64,0:36:23.74,辉中 Script,,0,0,0,,它不是武器，是救生索，就像棍棒变成了绳子。
+Dialogue: 0,0:36:24.54,0:36:26.68,辉中 Script,,0,0,0,,我想可以这么说吧……
+Dialogue: 0,0:36:30.35,0:36:32.65,辉中,,0,0,0,,After the excerpt is shown and plays off
 Dialogue: 0,0:36:32.65,0:36:34.39,辉中,,0,0,0,,the credits rolling with a ton of
 Dialogue: 0,0:36:34.39,0:36:36.76,辉中,,0,0,0,,beautiful landscape shots and I don't
 Dialogue: 0,0:36:36.76,0:36:38.32,辉中,,0,0,0,,know about you but initially I thought
