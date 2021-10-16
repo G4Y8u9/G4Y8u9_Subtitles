@@ -11,14 +11,11 @@ PlayResY: 2160
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: RAW.mp4
-Video File: RAW.mp4
+Audio File: ../../../../../Video/给没组/jwst/RAW.mp4
+Video File: ../../../../../Video/给没组/jwst/RAW.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 216
-Active Line: 229
-Video Position: 54018
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,7 +25,7 @@ Style: 辉注,文泉驿微米黑,100,&H00000000,&H000019FF,&H00FFFFFF,&H00000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:01.30,辉中,,0,0,0,,这是我爹
+Dialogue: 0,0:00:00.00,0:00:01.30,辉中,,0,0,0,,这位是我爹
 Dialogue: 0,0:00:01.34,0:00:06.72,辉中,,0,0,0,,他就要完成他最近一直在忙的一项工作啦 就是 詹姆斯韦伯太空望远镜!
 Dialogue: 0,0:00:01.34,0:00:06.72,辉中,,0,0,0,,以下简称"JWST"
 Dialogue: 0,0:00:06.72,0:00:09.49,辉中,,0,0,0,,JWST的遮阳罩~
@@ -258,346 +255,228 @@ Dialogue: 0,0:14:53.01,0:14:54.29,辉中,,0,0,0,,这就是红移
 Dialogue: 0,0:14:54.29,0:14:56.10,辉中,,0,0,0,,而对于持续膨胀的宇宙来说
 Dialogue: 0,0:14:56.10,0:15:01.20,辉中,,0,0,0,,我们观测到的很多物体都在慢慢远离我们
 Dialogue: 0,0:15:01.20,0:15:04.45,辉中,,0,0,0,,因此观测红外波段是非常重要的
-Dialogue: 0,0:15:04.45,0:15:06.86,辉中,,0,0,0,,- So this is a giant tripod. There's three legs.
-Dialogue: 0,0:15:06.86,0:15:10.51,辉中,,0,0,0,,The hinge points here, here, here, here,
-Dialogue: 0,0:15:10.51,0:15:13.69,辉中,,0,0,0,,and this leg folds in half.
-Dialogue: 0,0:15:13.69,0:15:14.71,辉中,,0,0,0,,And here's a hinge point.
-Dialogue: 0,0:15:14.71,0:15:17.37,辉中,,0,0,0,,So to get this ready for launch
-Dialogue: 0,0:15:17.37,0:15:19.91,辉中,,0,0,0,,we pull this one out sideways.
-Dialogue: 0,0:15:19.91,0:15:22.78,辉中,,0,0,0,,So you can pull the mirror up here and the legs
-Dialogue: 0,0:15:22.78,0:15:26.09,辉中,,0,0,0,,actually fold around behind the observatory.
-Dialogue: 0,0:15:26.09,0:15:27.12,辉中,,0,0,0,,So it just fits.
-Dialogue: 0,0:15:27.12,0:15:29.90,辉中,,0,0,0,,- [Destin] You had a glimmer in your eye when you said that.
-Dialogue: 0,0:15:29.90,0:15:32.60,辉中,,0,0,0,,That's a big deal. - That's a big deal.
-Dialogue: 0,0:15:32.60,0:15:33.79,辉中,,0,0,0,,And it's one of many things
-Dialogue: 0,0:15:33.79,0:15:34.95,辉中,,0,0,0,,that have to work when you launch.
-Dialogue: 0,0:15:34.95,0:15:37.16,辉中,,0,0,0,,Of course, everything is folded up for launch.
-Dialogue: 0,0:15:37.16,0:15:40.21,辉中,,0,0,0,,Everything has to unfold and do the right thing out there.
-Dialogue: 0,0:15:40.21,0:15:42.25,辉中,,0,0,0,,So of course the big question everyone has is
-Dialogue: 0,0:15:42.25,0:15:43.81,辉中,,0,0,0,,are you sure it's going to work?
-Dialogue: 0,0:15:43.81,0:15:46.62,辉中,,0,0,0,,And the answer is, so of course you can't be sure.
-Dialogue: 0,0:15:46.62,0:15:49.65,辉中,,0,0,0,,But we are doing what we should be doing to make sure.
-Dialogue: 0,0:15:49.65,0:15:51.67,辉中,,0,0,0,,So what do you do?
-Dialogue: 0,0:15:51.67,0:15:53.51,辉中,,0,0,0,,Well, number one, you have two of everything
-Dialogue: 0,0:15:53.51,0:15:54.34,辉中,,0,0,0,,when you possibly can.
-Dialogue: 0,0:15:54.34,0:15:56.27,辉中,,0,0,0,,So you get two shots when you need them.
-Dialogue: 0,0:15:57.17,0:15:58.45,辉中,,0,0,0,,You rehearse everything.
-Dialogue: 0,0:15:58.45,0:16:00.40,辉中,,0,0,0,,You practice and practice and practice.
-Dialogue: 0,0:16:01.32,0:16:02.81,辉中,,0,0,0,,And you have grouchy people come to tell you
-Dialogue: 0,0:16:02.81,0:16:04.33,辉中,,0,0,0,,when you're not doing it right.
-Dialogue: 0,0:16:04.33,0:16:07.00,辉中,,0,0,0,,That's really important because we hate doing it wrong
-Dialogue: 0,0:16:07.00,0:16:09.01,辉中,,0,0,0,,even if we don't like being told.
-Dialogue: 0,0:16:09.01,0:16:09.84,辉中,,0,0,0,,- [Destin] What are those people?
-Dialogue: 0,0:16:09.84,0:16:11.23,辉中,,0,0,0,,The quality assurance officers?
-Dialogue: 0,0:16:11.23,0:16:14.56,辉中,,0,0,0,,- Those are review panels. We get peer reviews.
-Dialogue: 0,0:16:14.56,0:16:16.38,辉中,,0,0,0,,We get senior engineers that have done
-Dialogue: 0,0:16:16.38,0:16:18.33,辉中,,0,0,0,,something related before that have
-Dialogue: 0,0:16:18.33,0:16:19.56,辉中,,0,0,0,,a good instinct about these things.
-Dialogue: 0,0:16:19.56,0:16:22.90,辉中,,0,0,0,,They say, "No, don't do it like that. Do it some other way."
-Dialogue: 0,0:16:24.71,0:16:27.41,辉中,,0,0,0,,But the most important thing is you test and test and test.
-Dialogue: 0,0:16:27.41,0:16:29.95,辉中,,0,0,0,,Because there's no such thing as analyzing anything
-Dialogue: 0,0:16:29.95,0:16:31.62,辉中,,0,0,0,,well enough that you can be sure.
-Dialogue: 0,0:16:31.62,0:16:32.87,辉中,,0,0,0,,- [Destin] You know, you have destructive tests
-Dialogue: 0,0:16:32.87,0:16:34.53,辉中,,0,0,0,,and non-destructive tests.
-Dialogue: 0,0:16:34.53,0:16:36.18,辉中,,0,0,0,,So how do you perform a test
-Dialogue: 0,0:16:36.18,0:16:38.06,辉中,,0,0,0,,when you only have one test article?
-Dialogue: 0,0:16:38.06,0:16:40.34,辉中,,0,0,0,,- Well, we actually made several test articles.
-Dialogue: 0,0:16:40.34,0:16:42.36,辉中,,0,0,0,,We made a pathfinder for the telescope
-Dialogue: 0,0:16:42.36,0:16:46.95,辉中,,0,0,0,,with the carbon fiber framework and we put on
-Dialogue: 0,0:16:46.95,0:16:49.22,辉中,,0,0,0,,two of the mirrors or even finally three.
-Dialogue: 0,0:16:49.22,0:16:51.27,辉中,,0,0,0,,- And my camera overheated again.
-Dialogue: 0,0:16:51.27,0:16:52.83,辉中,,0,0,0,,At this point, I'm starting to get embarrassed,
-Dialogue: 0,0:16:52.83,0:16:55.14,辉中,,0,0,0,,but don't worry about it, this gives us an opportunity
-Dialogue: 0,0:16:55.14,0:16:56.81,辉中,,0,0,0,,as the camera cools off to get distracted
-Dialogue: 0,0:16:56.81,0:16:58.02,辉中,,0,0,0,,by cool things at NASA.
-Dialogue: 0,0:16:58.02,0:16:59.53,辉中,,0,0,0,,This interview took place at NASA's
-Dialogue: 0,0:16:59.53,0:17:02.13,辉中,,0,0,0,,Goddard Space Flight Center in Greenbelt, Maryland,
-Dialogue: 0,0:17:02.13,0:17:04.68,辉中,,0,0,0,,which is where they've been controlling
-Dialogue: 0,0:17:04.68,0:17:06.17,辉中,,0,0,0,,the Hubble Space Telescope for the last several decades.
-Dialogue: 0,0:17:06.17,0:17:07.81,辉中,,0,0,0,,I spoke to the Hubble operations manager
-Dialogue: 0,0:17:07.81,0:17:09.99,辉中,,0,0,0,,and got to see the actual control room.
-Dialogue: 0,0:17:09.99,0:17:11.06,辉中,,0,0,0,,That's a topic for another day,
-Dialogue: 0,0:17:11.06,0:17:13.60,辉中,,0,0,0,,but they do all kinds of awesome stuff here at Goddard.
-Dialogue: 0,0:17:13.60,0:17:15.52,辉中,,0,0,0,,So you're gonna make this Space Telescope
-Dialogue: 0,0:17:15.52,0:17:17.87,辉中,,0,0,0,,and you're gonna put it up into space, you don't want
-Dialogue: 0,0:17:17.87,0:17:21.99,辉中,,0,0,0,,the first time it sees a vacuum or near absolute zero
-Dialogue: 0,0:17:21.99,0:17:23.95,辉中,,0,0,0,,on the sensor side, you don't want that to happen
-Dialogue: 0,0:17:23.95,0:17:26.10,辉中,,0,0,0,,for the first time in space so you got to
-Dialogue: 0,0:17:26.10,0:17:28.25,辉中,,0,0,0,,try to simulate that on earth.
-Dialogue: 0,0:17:28.25,0:17:31.57,辉中,,0,0,0,,How do you do these incredibly physically challenging things
-Dialogue: 0,0:17:31.57,0:17:34.49,辉中,,0,0,0,,here on one atmosphere on the surface of earth?
-Dialogue: 0,0:17:34.49,0:17:37.52,辉中,,0,0,0,,The answer is a huge thermal vacuum that was built
-Dialogue: 0,0:17:37.52,0:17:39.64,辉中,,0,0,0,,at Goddard back in the 1960s.
-Dialogue: 0,0:17:39.64,0:17:41.10,辉中,,0,0,0,,And it's incredible.
-Dialogue: 0,0:17:41.10,0:17:42.04,辉中,,0,0,0,,- [Darryl] So basically a large vacuum
-Dialogue: 0,0:17:42.04,0:17:44.59,辉中,,0,0,0,,and they pump liquid nitrogen into it.
-Dialogue: 0,0:17:44.59,0:17:46.08,辉中,,0,0,0,,- [Destin] To make it cold?
-Dialogue: 0,0:17:46.08,0:17:47.43,辉中,,0,0,0,,- [Darryl] Make it cold, make it simulate
-Dialogue: 0,0:17:47.43,0:17:49.62,辉中,,0,0,0,,the environment of space.
-Dialogue: 0,0:17:49.62,0:17:51.37,辉中,,0,0,0,,- [Destin] That's crazy.
-Dialogue: 0,0:17:51.37,0:17:52.51,辉中,,0,0,0,,So this is how you simulate space on the ground.
-Dialogue: 0,0:17:52.51,0:17:55.79,辉中,,0,0,0,,- That's right. This is what it takes.
-Dialogue: 0,0:17:55.79,0:17:57.60,辉中,,0,0,0,,- [Destin] That's amazing.
-Dialogue: 0,0:17:57.60,0:17:59.48,辉中,,0,0,0,,- [Darryl] I love the legacy look of it.
-Dialogue: 0,0:17:59.48,0:18:02.41,辉中,,0,0,0,,- [Destin] It looks like a boiler, but backwards.
-Dialogue: 0,0:18:02.41,0:18:05.75,辉中,,0,0,0,,It's made to keep pressure out instead of contain pressure.
-Dialogue: 0,0:18:05.75,0:18:08.22,辉中,,0,0,0,,- [Darryl] All designed on paper back in the sixties.
-Dialogue: 0,0:18:08.22,0:18:10.27,辉中,,0,0,0,,Think about it, like, that's all analog.
-Dialogue: 0,0:18:11.72,0:18:13.29,辉中,,0,0,0,,- [Destin] Okay, so we're on the top floor now.
-Dialogue: 0,0:18:13.29,0:18:14.13,辉中,,0,0,0,,We are walking towards
-Dialogue: 0,0:18:14.13,0:18:16.44,辉中,,0,0,0,,the top of the thermal vacuum chamber.
-Dialogue: 0,0:18:16.44,0:18:19.20,辉中,,0,0,0,,That's cool. So do they actually put James Webb in there?
-Dialogue: 0,0:18:19.20,0:18:20.03,辉中,,0,0,0,,- Some of the components.
-Dialogue: 0,0:18:20.03,0:18:22.87,辉中,,0,0,0,,Before they assemble it they would take
-Dialogue: 0,0:18:22.87,0:18:24.70,辉中,,0,0,0,,some of the large components into this on.
-Dialogue: 0,0:18:24.70,0:18:26.47,辉中,,0,0,0,,And then we have much smaller ones over there.
-Dialogue: 0,0:18:26.47,0:18:28.92,辉中,,0,0,0,,They test everything all the way down to the nuts and bolts.
-Dialogue: 0,0:18:28.92,0:18:30.79,辉中,,0,0,0,,These are also thermal vacuum chambers, just smaller scale.
-Dialogue: 0,0:18:30.79,0:18:34.25,辉中,,0,0,0,,- [Destin] Oh, this is for component level stuff. Gotcha.
-Dialogue: 0,0:18:34.25,0:18:36.21,辉中,,0,0,0,,- [Darryl] Nuts and bolts.
-Dialogue: 0,0:18:36.21,0:18:37.05,辉中,,0,0,0,,- [Destin] Nuts and bolts.
-Dialogue: 0,0:18:37.05,0:18:39.05,辉中,,0,0,0,,- [Darryl] And smaller assembly parts.
-Dialogue: 0,0:18:39.05,0:18:40.15,辉中,,0,0,0,,- [Destin] Oh, that's cool.
-Dialogue: 0,0:18:40.15,0:18:42.06,辉中,,0,0,0,,They've got the hydraulic diagram integrated to the valves.
-Dialogue: 0,0:18:42.06,0:18:43.35,辉中,,0,0,0,,That's pretty neat.
-Dialogue: 0,0:18:43.35,0:18:45.15,辉中,,0,0,0,,- [Darryl] Where do you think that was printed? Do you know?
-Dialogue: 0,0:18:45.15,0:18:47.48,辉中,,0,0,0,,- Oh wow. My bad got a little bit distracted.
-Dialogue: 0,0:18:47.48,0:18:49.01,辉中,,0,0,0,,The next thing they want to test for
-Dialogue: 0,0:18:49.01,0:18:51.78,辉中,,0,0,0,,are the launch forces that happen on the rocket.
-Dialogue: 0,0:18:51.78,0:18:53.87,辉中,,0,0,0,,They have a huge centrifuge at Goddard
-Dialogue: 0,0:18:53.87,0:18:56.11,辉中,,0,0,0,,and they can place instruments on that and simulate
-Dialogue: 0,0:18:56.11,0:18:58.82,辉中,,0,0,0,,the G-forces that the telescope will see during launch.
-Dialogue: 0,0:18:58.82,0:19:00.06,辉中,,0,0,0,,It's pretty awesome.
-Dialogue: 0,0:19:00.06,0:19:01.90,辉中,,0,0,0,,And then there's the vibrations
-Dialogue: 0,0:19:01.90,0:19:02.73,辉中,,0,0,0,,that'll happen during launch.
-Dialogue: 0,0:19:02.73,0:19:03.66,辉中,,0,0,0,,This is the shaker table.
-Dialogue: 0,0:19:03.66,0:19:06.41,辉中,,0,0,0,,So the Aerion is gonna to shake violently.
-Dialogue: 0,0:19:06.41,0:19:09.06,辉中,,0,0,0,,What you have to do is you have to make sure
-Dialogue: 0,0:19:09.06,0:19:10.72,辉中,,0,0,0,,that the telescope isn't going to break during launch.
-Dialogue: 0,0:19:10.72,0:19:13.15,辉中,,0,0,0,,So here at Goddard Space Center, check it out.
-Dialogue: 0,0:19:13.15,0:19:15.10,辉中,,0,0,0,,It's a really cool area here.
-Dialogue: 0,0:19:15.10,0:19:17.00,辉中,,0,0,0,,This is the way they test that.
-Dialogue: 0,0:19:17.00,0:19:18.90,辉中,,0,0,0,,They'll put the telescope here,
-Dialogue: 0,0:19:18.90,0:19:20.12,辉中,,0,0,0,,they'll mount it in position.
-Dialogue: 0,0:19:20.12,0:19:22.20,辉中,,0,0,0,,And then they'll shake it violently to make sure
-Dialogue: 0,0:19:22.20,0:19:23.83,辉中,,0,0,0,,that nothing falls apart, nothing breaks.
-Dialogue: 0,0:19:23.83,0:19:25.85,辉中,,0,0,0,,Here's some B roll footage of them doing that.
-Dialogue: 0,0:19:25.85,0:19:29.10,辉中,,0,0,0,,The vibration testing. You can see the telescope shaking.
-Dialogue: 0,0:19:29.10,0:19:30.69,辉中,,0,0,0,,Okay, I'm in a really neat spot right now.
-Dialogue: 0,0:19:30.69,0:19:32.95,辉中,,0,0,0,,This is the tent that they move James Webb around with.
-Dialogue: 0,0:19:32.95,0:19:34.81,辉中,,0,0,0,,It's like a portable clean room.
-Dialogue: 0,0:19:34.81,0:19:36.84,辉中,,0,0,0,,And this is the sound chamber where
-Dialogue: 0,0:19:36.84,0:19:39.01,辉中,,0,0,0,,they're gonna acoustically load the thing.
-Dialogue: 0,0:19:39.01,0:19:40.34,辉中,,0,0,0,,What they're doing here is simulating
-Dialogue: 0,0:19:40.34,0:19:43.80,辉中,,0,0,0,,the roar of the rockets, which can get up over 140 decibels
-Dialogue: 0,0:19:43.80,0:19:45.00,辉中,,0,0,0,,and can be very destructive.
-Dialogue: 0,0:19:45.00,0:19:47.73,辉中,,0,0,0,,So they've got this big chamber with speakers in it,
-Dialogue: 0,0:19:47.73,0:19:49.88,辉中,,0,0,0,,with a massive subwoofer and other speakers
-Dialogue: 0,0:19:49.88,0:19:51.39,辉中,,0,0,0,,to blast it with sound.
-Dialogue: 0,0:19:51.39,0:19:52.75,辉中,,0,0,0,,That's a subwoofer up top?
-Dialogue: 0,0:19:52.75,0:19:55.05,辉中,,0,0,0,,- This is the largest subwoofer in the country
-Dialogue: 0,0:19:55.05,0:19:57.84,辉中,,0,0,0,,as far as I know, so if you really wanna drop the base
-Dialogue: 0,0:19:57.84,0:20:00.74,辉中,,0,0,0,,this is where you come. (Destin laughing)
-Dialogue: 0,0:20:00.74,0:20:03.06,辉中,,0,0,0,,- The cool thing about a sound chamber is that the sound
-Dialogue: 0,0:20:03.06,0:20:05.54,辉中,,0,0,0,,is different at different parts in the chamber
-Dialogue: 0,0:20:05.54,0:20:08.25,辉中,,0,0,0,,because you get reflections and echoes off the wall.
-Dialogue: 0,0:20:08.25,0:20:10.54,辉中,,0,0,0,,For example, if I have a sound wave going across
-Dialogue: 0,0:20:10.54,0:20:12.48,辉中,,0,0,0,,and bouncing off the wall, you might get
-Dialogue: 0,0:20:12.48,0:20:15.29,辉中,,0,0,0,,constructive interference, meaning you get a louder sound
-Dialogue: 0,0:20:15.29,0:20:18.54,辉中,,0,0,0,,at different points than you might get at quieter spots.
-Dialogue: 0,0:20:18.54,0:20:23.51,辉中,,0,0,0,,So in order to test that, you can see, they have microphones
-Dialogue: 0,0:20:23.51,0:20:25.66,辉中,,0,0,0,,hanging at different points in the chamber.
-Dialogue: 0,0:20:26.94,0:20:30.05,辉中,,0,0,0,,Wow. I'm gonna get back behind this.
-Dialogue: 0,0:20:30.05,0:20:33.19,辉中,,0,0,0,,Because I don't want to interfere with what they're doing.
-Dialogue: 0,0:20:34.28,0:20:38.56,辉中,,0,0,0,,These people are moving this tent by hand.
-Dialogue: 0,0:20:38.56,0:20:41.73,辉中,,0,0,0,,And the way they're doing that is on an air bearing.
-Dialogue: 0,0:20:41.73,0:20:46.73,辉中,,0,0,0,,They've got compressed air pumped to the feet of the tent
-Dialogue: 0,0:20:46.80,0:20:49.41,辉中,,0,0,0,,and a really flat surface floor and they're able
-Dialogue: 0,0:20:49.41,0:20:51.66,辉中,,0,0,0,,to move the whole thing by hand.
-Dialogue: 0,0:20:51.66,0:20:52.97,辉中,,0,0,0,,Here's a couple of really cool shots
-Dialogue: 0,0:20:52.97,0:20:54.82,辉中,,0,0,0,,where you can see people moving
-Dialogue: 0,0:20:54.82,0:20:57.80,辉中,,0,0,0,,the entire space telescope by hand
-Dialogue: 0,0:20:57.80,0:21:00.51,辉中,,0,0,0,,within the portable cleaning room on a cushion of air.
-Dialogue: 0,0:21:00.51,0:21:03.35,辉中,,0,0,0,,Can you imagine what you're thinking? This is so rad.
-Dialogue: 0,0:21:03.35,0:21:04.72,辉中,,0,0,0,,So my camera's overheating.
-Dialogue: 0,0:21:04.72,0:21:07.63,辉中,,0,0,0,,Is that a problem on the telescope? (laughs)
-Dialogue: 0,0:21:07.63,0:21:08.95,辉中,,0,0,0,,- No, the observatory doesn't overheat
-Dialogue: 0,0:21:08.95,0:21:11.35,辉中,,0,0,0,,because it's facing outer space.
-Dialogue: 0,0:21:11.35,0:21:13.65,辉中,,0,0,0,,The whole telescope is protected from the sunshine,
-Dialogue: 0,0:21:13.65,0:21:16.13,辉中,,0,0,0,,from the earth and from the moon all the time
-Dialogue: 0,0:21:16.13,0:21:17.52,辉中,,0,0,0,,by this giant sun shield.
-Dialogue: 0,0:21:18.73,0:21:20.87,辉中,,0,0,0,,And we chose the orbit specially so we could do that.
-Dialogue: 0,0:21:20.87,0:21:24.65,辉中,,0,0,0,,The Lagrange Point Two orbit that we choose is actually
-Dialogue: 0,0:21:24.65,0:21:28.18,辉中,,0,0,0,,the only place you can go where the single sided umbrella
-Dialogue: 0,0:21:28.18,0:21:31.77,辉中,,0,0,0,,that we build can protect the observatory completely
-Dialogue: 0,0:21:31.77,0:21:33.36,辉中,,0,0,0,,from all of those things at the same time.
-Dialogue: 0,0:21:33.36,0:21:35.49,辉中,,0,0,0,,- Lagrange points are special points in space where
-Dialogue: 0,0:21:35.49,0:21:38.51,辉中,,0,0,0,,when you have two orbital bodies interacting with each other
-Dialogue: 0,0:21:38.51,0:21:41.18,辉中,,0,0,0,,there's these little special spots where things
-Dialogue: 0,0:21:41.18,0:21:42.97,辉中,,0,0,0,,can kind of just balance.
-Dialogue: 0,0:21:42.97,0:21:45.69,辉中,,0,0,0,,They're right in the sweet spot where they're being pulled
-Dialogue: 0,0:21:45.69,0:21:47.68,辉中,,0,0,0,,in two different directions at the same time
-Dialogue: 0,0:21:47.68,0:21:49.86,辉中,,0,0,0,,and they just kind of hover there.
-Dialogue: 0,0:21:49.86,0:21:50.85,辉中,,0,0,0,,Lagrange points are fascinating.
-Dialogue: 0,0:21:50.85,0:21:52.51,辉中,,0,0,0,,There are five Lagrangian points
-Dialogue: 0,0:21:52.51,0:21:54.46,辉中,,0,0,0,,for any combination of two orbital bodies.
-Dialogue: 0,0:21:54.46,0:21:56.33,辉中,,0,0,0,,Since James Webb sensors could be affected
-Dialogue: 0,0:21:56.33,0:21:59.82,辉中,,0,0,0,,by earth shine and moon shine, L2 of the earth's sun system
-Dialogue: 0,0:21:59.82,0:22:01.58,辉中,,0,0,0,,is the optimum place for it to be
-Dialogue: 0,0:22:01.58,0:22:04.14,辉中,,0,0,0,,and Dr. Mather is about to explain why.
-Dialogue: 0,0:22:04.14,0:22:06.04,辉中,,0,0,0,,How are you going to communicate with it
-Dialogue: 0,0:22:06.04,0:22:06.87,辉中,,0,0,0,,if it's on the other side of the moon?
-Dialogue: 0,0:22:06.87,0:22:09.89,辉中,,0,0,0,,- Oh, it's not. We don't go to that exact spot.
-Dialogue: 0,0:22:10.74,0:22:12.82,辉中,,0,0,0,,And of course the moon orbits as well.
-Dialogue: 0,0:22:13.69,0:22:15.29,辉中,,0,0,0,,- [Destin] So are you orbiting a Lagrangian point?
-Dialogue: 0,0:22:15.29,0:22:18.33,辉中,,0,0,0,,- You orbit around a Lagrange point, we don't go to it.
-Dialogue: 0,0:22:19.29,0:22:21.96,辉中,,0,0,0,,Number one, it's easier to get there.
-Dialogue: 0,0:22:21.96,0:22:24.35,辉中,,0,0,0,,Number two, we want points in the shade.
-Dialogue: 0,0:22:24.35,0:22:26.99,辉中,,0,0,0,,It's actually right behind the earth.
-Dialogue: 0,0:22:26.99,0:22:28.83,辉中,,0,0,0,,And most of the sunshine is being blocked by the earth
-Dialogue: 0,0:22:28.83,0:22:31.20,辉中,,0,0,0,,at that spot so you don't want to go there.
-Dialogue: 0,0:22:31.20,0:22:32.62,辉中,,0,0,0,,- [Destin] Can you draw that for me on this piece of paper?
-Dialogue: 0,0:22:32.62,0:22:37.08,辉中,,0,0,0,,- Yeah, so, sure. Here's the sun over here.
-Dialogue: 0,0:22:40.91,0:22:43.48,辉中,,0,0,0,,Here's the earth over here.
-Dialogue: 0,0:22:43.48,0:22:46.70,辉中,,0,0,0,,And not to scale, but here is the Lagrange point.
-Dialogue: 0,0:22:48.81,0:22:50.70,辉中,,0,0,0,,And we are going to be orbiting
-Dialogue: 0,0:22:50.70,0:22:52.06,辉中,,0,0,0,,around a Lagrange point like that.
-Dialogue: 0,0:22:52.06,0:22:54.68,辉中,,0,0,0,,- [Destin] Just enough to get the sunshine around the earth?
-Dialogue: 0,0:22:55.68,0:22:57.19,辉中,,0,0,0,,Where's the moon?
-Dialogue: 0,0:22:57.19,0:22:59.04,辉中,,0,0,0,,- [John] The moon is a lot closer in.
-Dialogue: 0,0:23:00.93,0:23:03.44,辉中,,0,0,0,,My handwriting is not so good today.
-Dialogue: 0,0:23:03.44,0:23:05.72,辉中,,0,0,0,,But the Lagrange point's about four times
-Dialogue: 0,0:23:05.72,0:23:07.33,辉中,,0,0,0,,as far from the earth as the moon is.
-Dialogue: 0,0:23:07.33,0:23:08.90,辉中,,0,0,0,,- [Destin] Oh, I see.
-Dialogue: 0,0:23:08.90,0:23:10.96,辉中,,0,0,0,,- [John] So we never have a problem with that.
-Dialogue: 0,0:23:10.96,0:23:12.33,辉中,,0,0,0,,- [Destin] Gotcha.
-Dialogue: 0,0:23:12.33,0:23:14.29,辉中,,0,0,0,,I didn't realize that you were choosing the orbit.
-Dialogue: 0,0:23:14.29,0:23:17.77,辉中,,0,0,0,,I thought the whole point was to, yeah, I guess...
-Dialogue: 0,0:23:17.77,0:23:19.14,辉中,,0,0,0,,- We need the sunshine.
-Dialogue: 0,0:23:19.14,0:23:20.29,辉中,,0,0,0,,- [Destin] Why?
-Dialogue: 0,0:23:20.29,0:23:23.22,辉中,,0,0,0,,- We need solar power to run the observatory.
-Dialogue: 0,0:23:23.22,0:23:24.91,辉中,,0,0,0,,- [Destin] Okay, I see.
-Dialogue: 0,0:23:24.91,0:23:26.95,辉中,,0,0,0,,- We need the sunshine. It also takes more fuel to get to.
-Dialogue: 0,0:23:26.95,0:23:29.32,辉中,,0,0,0,,- [Destin] You don't have an RTG onboard?
-Dialogue: 0,0:23:29.32,0:23:31.86,辉中,,0,0,0,,- No, we don't. There's no need for it.
-Dialogue: 0,0:23:31.86,0:23:33.13,辉中,,0,0,0,,And that's hard to do.
-Dialogue: 0,0:23:34.06,0:23:39.06,辉中,,0,0,0,,So we need several kilowatts of electricity, so sunshine--
-Dialogue: 0,0:23:39.71,0:23:40.54,辉中,,0,0,0,,- [Destin] Where are the solar panels?
-Dialogue: 0,0:23:40.54,0:23:42.56,辉中,,0,0,0,,- Solar panels are hidden in this picture, but they are
-Dialogue: 0,0:23:42.56,0:23:46.78,辉中,,0,0,0,,obviously going to be on the sun side of the big sun shield.
-Dialogue: 0,0:23:46.78,0:23:49.26,辉中,,0,0,0,,But a few kilowatts is actually small
-Dialogue: 0,0:23:49.26,0:23:50.78,辉中,,0,0,0,,for a giant observatory.
-Dialogue: 0,0:23:50.78,0:23:51.63,辉中,,0,0,0,,- [Destin] It is.
-Dialogue: 0,0:23:52.50,0:23:54.04,辉中,,0,0,0,,- That's 'cause what's over here on this side
-Dialogue: 0,0:23:54.04,0:23:56.43,辉中,,0,0,0,,doesn't use anything much.
-Dialogue: 0,0:23:56.43,0:23:58.96,辉中,,0,0,0,,Only a little bit of energy to run the detectors.
-Dialogue: 0,0:23:58.96,0:24:00.79,辉中,,0,0,0,,- [Destin] I know you're excited
-Dialogue: 0,0:24:00.79,0:24:02.15,辉中,,0,0,0,,about what's gonna come out of the telescope.
-Dialogue: 0,0:24:02.15,0:24:02.99,辉中,,0,0,0,,- Yes, indeed.
-Dialogue: 0,0:24:02.99,0:24:05.30,辉中,,0,0,0,,Who knows what's out there that we've never guessed at?
-Dialogue: 0,0:24:05.30,0:24:07.03,辉中,,0,0,0,,We have wonderful way exciting things
-Dialogue: 0,0:24:07.03,0:24:08.82,辉中,,0,0,0,,to work on that we know about.
-Dialogue: 0,0:24:08.82,0:24:11.57,辉中,,0,0,0,,The first stars and galaxies, the first black holes,
-Dialogue: 0,0:24:11.57,0:24:14.73,辉中,,0,0,0,,how the galaxies grow, how stars are being born today
-Dialogue: 0,0:24:14.73,0:24:18.62,辉中,,0,0,0,,with planets around them and even planets around other stars
-Dialogue: 0,0:24:18.62,0:24:21.57,辉中,,0,0,0,,and the outer solar system, where we learn something
-Dialogue: 0,0:24:21.57,0:24:23.72,辉中,,0,0,0,,about how solar systems work and maybe even
-Dialogue: 0,0:24:23.72,0:24:25.52,辉中,,0,0,0,,how come the earth is special or not.
-Dialogue: 0,0:24:25.52,0:24:28.59,辉中,,0,0,0,,The web telescope will make beautiful pictures as well.
-Dialogue: 0,0:24:28.59,0:24:29.89,辉中,,0,0,0,,They will be different, of course,
-Dialogue: 0,0:24:29.89,0:24:31.38,辉中,,0,0,0,,because we pick up light at different wavelengths,
-Dialogue: 0,0:24:31.38,0:24:33.24,辉中,,0,0,0,,but those beautiful glowing gas clouds,
-Dialogue: 0,0:24:33.24,0:24:35.86,辉中,,0,0,0,,we'll see them too, just differently.
-Dialogue: 0,0:24:35.86,0:24:38.58,辉中,,0,0,0,,We are, among other things, trying to see through
-Dialogue: 0,0:24:38.58,0:24:40.65,辉中,,0,0,0,,those glowing clouds to see what's inside.
-Dialogue: 0,0:24:40.65,0:24:42.90,辉中,,0,0,0,,So the stars that are being born inside,
-Dialogue: 0,0:24:42.90,0:24:45.22,辉中,,0,0,0,,you can't see them directly right now because
-Dialogue: 0,0:24:45.22,0:24:48.07,辉中,,0,0,0,,that dust and gas is obscuring them.
-Dialogue: 0,0:24:48.07,0:24:50.03,辉中,,0,0,0,,Infrared light that we will pick up can go
-Dialogue: 0,0:24:50.03,0:24:52.26,辉中,,0,0,0,,right around those dust grains and see inside.
-Dialogue: 0,0:24:52.26,0:24:55.54,辉中,,0,0,0,,So our hope is that it'll look different and also beautiful.
-Dialogue: 0,0:24:55.54,0:24:57.85,辉中,,0,0,0,,- [Destin] So you're saying the infrared light
-Dialogue: 0,0:24:57.85,0:25:00.53,辉中,,0,0,0,,can go through those dust rings?
-Dialogue: 0,0:25:00.53,0:25:02.05,辉中,,0,0,0,,- [John] Yes, infrared light, well,
-Dialogue: 0,0:25:02.05,0:25:04.54,辉中,,0,0,0,,all light bounces off dust particles,
-Dialogue: 0,0:25:04.54,0:25:06.97,辉中,,0,0,0,,but the longer the wavelength, the less bounce.
-Dialogue: 0,0:25:06.97,0:25:07.82,辉中,,0,0,0,,- [Destin] I see.
-Dialogue: 0,0:25:08.66,0:25:11.51,辉中,,0,0,0,,- [John] So the infrared light can go through the clouds
-Dialogue: 0,0:25:11.51,0:25:14.12,辉中,,0,0,0,,that enables us to see things.
-Dialogue: 0,0:25:14.12,0:25:16.10,辉中,,0,0,0,,- [Destin] Oh, that's a big deal.
-Dialogue: 0,0:25:16.10,0:25:17.51,辉中,,0,0,0,,So what we'll probably be seeing
-Dialogue: 0,0:25:17.51,0:25:19.23,辉中,,0,0,0,,is we'll take infrared images and then
-Dialogue: 0,0:25:19.23,0:25:21.06,辉中,,0,0,0,,we'll false color them so people can see
-Dialogue: 0,0:25:21.06,0:25:23.63,辉中,,0,0,0,,these beautiful pictures that we've seen in the past.
-Dialogue: 0,0:25:23.63,0:25:24.71,辉中,,0,0,0,,That's exactly the plan? - Yeah.
-Dialogue: 0,0:25:24.71,0:25:27.01,辉中,,0,0,0,,- [Destin] That's fantastic. Last question.
-Dialogue: 0,0:25:27.01,0:25:28.81,辉中,,0,0,0,,What are you gonna do on launch day?
-Dialogue: 0,0:25:29.70,0:25:31.86,辉中,,0,0,0,,- I'll either be at the launch site to cheer,
-Dialogue: 0,0:25:31.86,0:25:34.31,辉中,,0,0,0,,or I'll be back here to talk to the public.
-Dialogue: 0,0:25:34.31,0:25:36.29,辉中,,0,0,0,,Don't know which one will be.
-Dialogue: 0,0:25:36.29,0:25:37.95,辉中,,0,0,0,,There's such a limited number of people can go
-Dialogue: 0,0:25:37.95,0:25:40.01,辉中,,0,0,0,,to the launch site that the people who really need
-Dialogue: 0,0:25:40.01,0:25:41.57,辉中,,0,0,0,,to be there should be there.
-Dialogue: 0,0:25:41.57,0:25:44.22,辉中,,0,0,0,,- Right, but are you, I mean, that's gotta be
-Dialogue: 0,0:25:44.22,0:25:46.97,辉中,,0,0,0,,a very anxious moment for you, I'm sure.
-Dialogue: 0,0:25:46.97,0:25:48.09,辉中,,0,0,0,,- No.
-Dialogue: 0,0:25:48.09,0:25:49.31,辉中,,0,0,0,,- [Destin] No?
-Dialogue: 0,0:25:49.31,0:25:52.44,辉中,,0,0,0,,- I don't get anxious about stuff I can't deal with.
-Dialogue: 0,0:25:52.44,0:25:54.97,辉中,,0,0,0,,- [Destin] Can you kind of tell me why?
-Dialogue: 0,0:25:54.97,0:25:57.27,辉中,,0,0,0,,- Yeah, so I'm not an anxious about things
-Dialogue: 0,0:25:57.27,0:25:59.15,辉中,,0,0,0,,because I know that we're doing the right thing
-Dialogue: 0,0:25:59.15,0:26:01.94,辉中,,0,0,0,,to make the best possible plan.
-Dialogue: 0,0:26:01.94,0:26:03.98,辉中,,0,0,0,,So when somebody says "We should worry about this,"
-Dialogue: 0,0:26:03.98,0:26:06.42,辉中,,0,0,0,,we worry about it and then we make a plan.
-Dialogue: 0,0:26:06.42,0:26:08.39,辉中,,0,0,0,,So when you're 70 years old,
-Dialogue: 0,0:26:08.39,0:26:09.68,辉中,,0,0,0,,you get tired of worrying about stuff.
-Dialogue: 0,0:26:09.68,0:26:11.29,辉中,,0,0,0,,You just say, "We'll make a plan."
-Dialogue: 0,0:26:11.29,0:26:13.33,辉中,,0,0,0,,- [Destin] I see. And you accept what happens.
-Dialogue: 0,0:26:13.33,0:26:14.36,辉中,,0,0,0,,- Yeah.
-Dialogue: 0,0:26:14.36,0:26:16.75,辉中,,0,0,0,,- That's interesting. That's interesting.
-Dialogue: 0,0:26:16.75,0:26:19.32,辉中,,0,0,0,,I really liked that. (laughs)
-Dialogue: 0,0:26:19.32,0:26:22.86,辉中,,0,0,0,,This is Dr. John Mather and I cannot thank you enough.
-Dialogue: 0,0:26:22.86,0:26:24.45,辉中,,0,0,0,,- Destin, a pleasure to talk with you
-Dialogue: 0,0:26:24.45,0:26:26.70,辉中,,0,0,0,,and look forward to seeing what you make.
-Dialogue: 0,0:26:26.70,0:26:29.95,辉中,,0,0,0,,- I thought this conversation was fascinating
-Dialogue: 0,0:26:29.95,0:26:31.12,辉中,,0,0,0,,on so many different levels.
-Dialogue: 0,0:26:31.12,0:26:33.61,辉中,,0,0,0,,I came into it expecting to learn about science
-Dialogue: 0,0:26:33.61,0:26:37.14,辉中,,0,0,0,,and astronomy and how different things work.
-Dialogue: 0,0:26:37.14,0:26:41.78,辉中,,0,0,0,,But I left with a sense of, it's like a nugget of wisdom
-Dialogue: 0,0:26:41.78,0:26:43.83,辉中,,0,0,0,,that Dr. Mather dropped on us there at the end.
-Dialogue: 0,0:26:43.83,0:26:44.74,辉中,,0,0,0,,Think about it.
-Dialogue: 0,0:26:44.74,0:26:47.03,辉中,,0,0,0,,This is one of the most complicated things
-Dialogue: 0,0:26:47.03,0:26:49.05,辉中,,0,0,0,,that humans have ever done.
-Dialogue: 0,0:26:49.05,0:26:50.94,辉中,,0,0,0,,There's a lot riding on this.
-Dialogue: 0,0:26:50.94,0:26:53.85,辉中,,0,0,0,,There is a tremendous amount of investment of time,
-Dialogue: 0,0:26:53.85,0:26:57.08,辉中,,0,0,0,,money, human lives, my family included.
-Dialogue: 0,0:26:57.08,0:26:58.57,辉中,,0,0,0,,There's a lot riding on this.
-Dialogue: 0,0:26:58.57,0:27:01.62,辉中,,0,0,0,,But when I asked him, "Well, aren't you worried?"
-Dialogue: 0,0:27:01.62,0:27:04.97,辉中,,0,0,0,,He said, "No, because I've made the best possible plan.
-Dialogue: 0,0:27:04.97,0:27:06.74,辉中,,0,0,0,,We've done our best."
-Dialogue: 0,0:27:06.74,0:27:08.41,辉中,,0,0,0,,And then he just releases it.
-Dialogue: 0,0:27:08.41,0:27:11.32,辉中,,0,0,0,,He's literally going to let it ride on a rocket.
-Dialogue: 0,0:27:11.32,0:27:13.40,辉中,,0,0,0,,There's some deep wisdom there
-Dialogue: 0,0:27:13.40,0:27:15.45,辉中,,0,0,0,,that I'm going to apply to my own life.
-Dialogue: 0,0:27:15.45,0:27:18.66,辉中,,0,0,0,,If the man that's over one of the most difficult
-Dialogue: 0,0:27:18.66,0:27:21.02,辉中,,0,0,0,,scientific endeavors that humans have ever done
-Dialogue: 0,0:27:21.02,0:27:23.78,辉中,,0,0,0,,can make the best possible plan and then not worry
-Dialogue: 0,0:27:23.78,0:27:26.33,辉中,,0,0,0,,and then emotionally release that to say,
-Dialogue: 0,0:27:26.33,0:27:28.11,辉中,,0,0,0,,"We did our best. Let's see what happens."
-Dialogue: 0,0:27:28.11,0:27:30.21,辉中,,0,0,0,,If he can do that with this project,
-Dialogue: 0,0:27:30.21,0:27:32.62,辉中,,0,0,0,,how can I apply that to my own life?
-Dialogue: 0,0:27:32.62,0:27:34.38,辉中,,0,0,0,,Anyway, I thought that was amazing.
-Dialogue: 0,0:27:34.38,0:27:36.10,辉中,,0,0,0,,I thought it was super deep wisdom.
-Dialogue: 0,0:27:36.10,0:27:39.46,辉中,,0,0,0,,And perhaps that would be helpful for you as it is for me.
-Dialogue: 0,0:29:13.94,0:29:15.91,辉中,,0,0,0,,In an upcoming video we're gonna learn more
-Dialogue: 0,0:29:15.91,0:29:18.37,辉中,,0,0,0,,about the James Webb Space Telescope from my dad,
-Dialogue: 0,0:29:18.37,0:29:20.39,辉中,,0,0,0,,who actually worked on the sun shield.
-Dialogue: 0,0:29:20.39,0:29:22.06,辉中,,0,0,0,,Very excited to share this with you.
-Dialogue: 0,0:29:22.06,0:29:25.60,辉中,,0,0,0,,It was exciting for me to be able to go to see my dad
-Dialogue: 0,0:29:25.60,0:29:28.29,辉中,,0,0,0,,do one of the coolest things that humans have done.
-Dialogue: 0,0:29:28.29,0:29:29.94,辉中,,0,0,0,,I don't know. And this is my dad, right?
-Dialogue: 0,0:29:29.94,0:29:31.23,辉中,,0,0,0,,I'm really excited about that.
-Dialogue: 0,0:29:31.23,0:29:33.84,辉中,,0,0,0,,So I'll share that with you in an upcoming video.
-Dialogue: 0,0:29:33.84,0:29:37.92,辉中,,0,0,0,,And I hope you enjoyed this interview with Dr. John Mather.
-Dialogue: 0,0:29:37.92,0:29:40.24,辉中,,0,0,0,,I'm Destin. You're getting smarter every day.
-Dialogue: 0,0:29:40.24,0:29:41.75,辉中,,0,0,0,,Have a good one. Bye.
+Dialogue: 0,0:15:04.45,0:15:10.51,辉中,,0,0,0,,主镜前面有个三脚架 三条腿在这些地方上有铰链结构
+Dialogue: 0,0:15:10.51,0:15:13.69,辉中,,0,0,0,,上面这条腿是从中间折叠的
+Dialogue: 0,0:15:13.69,0:15:14.71,辉中,,0,0,0,,然后这里也有个铰链结构
+Dialogue: 0,0:15:14.71,0:15:19.91,辉中,,0,0,0,,在发射前 三脚架的这条腿会向上折叠
+Dialogue: 0,0:15:19.91,0:15:26.09,辉中,,0,0,0,,下面两条腿会折上来 最上面的腿会翻到主镜背后
+Dialogue: 0,0:15:26.09,0:15:27.12,辉中,,0,0,0,,就算折叠好了
+Dialogue: 0,0:15:27.12,0:15:29.90,辉中,,0,0,0,,哇我感觉您向我介绍这个东西的时候两眼放光
+Dialogue: 0,0:15:29.90,0:15:32.60,辉中,,0,0,0,,-真不简单啊这东西 -是的 很了不起
+Dialogue: 0,0:15:32.60,0:15:34.95,辉中,,0,0,0,,而且这只是发射前要忙的千头万绪之一
+Dialogue: 0,0:15:34.95,0:15:37.16,辉中,,0,0,0,,当然了 几乎一切东西都要在发射前折叠起来
+Dialogue: 0,0:15:37.16,0:15:40.21,辉中,,0,0,0,,又要在外太空 在适当的时候正确展开
+Dialogue: 0,0:15:40.21,0:15:43.81,辉中,,0,0,0,,所以每个人都会问的问题就是:你能保证它能正常工作吗?
+Dialogue: 0,0:15:43.81,0:15:46.62,辉中,,0,0,0,,答案也很简单 保证不了
+Dialogue: 0,0:15:46.62,0:15:49.65,辉中,,0,0,0,,但我们做了所有应该做的事情来保证它能正常工作
+Dialogue: 0,0:15:49.65,0:15:51.67,辉中,,0,0,0,,那么我们都做了哪些工作呢?
+Dialogue: 0,0:15:51.67,0:15:56.27,辉中,,0,0,0,,首先 有条件的东西我们都造了两份 需要的时候可以再来一发
+Dialogue: 0,0:15:57.17,0:16:00.40,辉中,,0,0,0,,我们演练的全部的流程 经历过无数次的测试
+Dialogue: 0,0:16:00.73,0:16:04.33,辉中,,0,0,0,,而且如果你在哪里出问题 就会有人提刀来找你算账
+Dialogue: 0,0:16:04.33,0:16:09.01,辉中,,0,0,0,,这样的工作模式很重要 我们虽然不喜欢被人指指点点 但更不喜欢出问题
+Dialogue: 0,0:16:09.01,0:16:09.84,辉中,,0,0,0,,都是哪个单位的人啊?
+Dialogue: 0,0:16:09.84,0:16:11.23,辉中,,0,0,0,,质量监察员?
+Dialogue: 0,0:16:11.23,0:16:14.56,辉中,,0,0,0,,是审查小组 我们要得到同行的审查
+Dialogue: 0,0:16:14.56,0:16:19.56,辉中,,0,0,0,,我们有一些以前做过相关工作的高级工程师 他们对这些工作有很好的直觉
+Dialogue: 0,0:16:19.56,0:16:24.42,辉中,,0,0,0,,会直接说"别别别 别那么干 换一种方法"
+Dialogue: 0,0:16:24.71,0:16:27.41,辉中,,0,0,0,,但最重要的还是要做无数次测试
+Dialogue: 0,0:16:27.41,0:16:31.62,辉中,,0,0,0,,因为没有什么东西只靠分析设计就能达标 必须得经过测试
+Dialogue: 0,0:16:31.62,0:16:34.53,辉中,,0,0,0,,那你们既有破坏性测试 也有非破坏性测试
+Dialogue: 0,0:16:34.53,0:16:38.06,辉中,,0,0,0,,如果试验件只有一份的话还怎么执行测试?
+Dialogue: 0,0:16:38.06,0:16:40.34,辉中,,0,0,0,,我们都会做好几份试验件的
+Dialogue: 0,0:16:40.34,0:16:46.04,辉中,,0,0,0,,我们用碳纤维框架为望远镜做了一个"探路者"测试件
+Dialogue: 0,0:16:40.34,0:16:46.26,辉注,,0,0,0,,这里指的应该是"OTE Pathfinder" 专门给JWST测试用的测试件 
+Dialogue: 0,0:16:46.26,0:16:49.22,辉中,,0,0,0,,我们给它装上过两三个镜面做过测试
+Dialogue: 0,0:16:49.22,0:16:52.83,辉中,,0,0,0,,然后我相机又过热了 到这时候我已经感觉有点不好意思了
+Dialogue: 0,0:16:52.83,0:16:58.02,辉中,,0,0,0,,不过别急 刚好我们可以借此机会去看看NASA的一些好玩的东西
+Dialogue: 0,0:16:58.02,0:17:02.13,辉中,,0,0,0,,这段采访拍摄于马里兰州格林贝尔特的NASA戈达德太空飞行中心
+Dialogue: 0,0:17:02.13,0:17:06.17,辉中,,0,0,0,,过去几十年人们一直在这里控制哈勃望远镜
+Dialogue: 0,0:17:06.17,0:17:09.99,辉中,,0,0,0,,我和哈勃运营主管聊了聊 他带我来到了哈勃的任务控制室
+Dialogue: 0,0:17:09.99,0:17:11.06,辉中,,0,0,0,,以后专门出一期视频吧
+Dialogue: 0,0:17:11.06,0:17:13.60,辉中,,0,0,0,,他们在戈达德中心的工作真的很棒
+Dialogue: 0,0:17:13.60,0:17:17.12,辉中,,0,0,0,,现在的情况是 你要造一个望远镜 要把它送进太空
+Dialogue: 0,0:17:17.12,0:17:25.55,辉中,,0,0,0,,你肯定不希望这是它的传感器第一次来到真空环境 来到绝对零度环境
+Dialogue: 0,0:17:25.55,0:17:28.25,辉中,,0,0,0,,所以在这之前 在地球上要先模拟这样的环境
+Dialogue: 0,0:17:28.25,0:17:34.49,辉中,,0,0,0,,那这样极端的物理环境要怎样在充满大气的地球表面实现呢?
+Dialogue: 0,0:17:34.49,0:17:39.64,辉中,,0,0,0,,答案就在戈达德中心这台60年代建造的热真空室内
+Dialogue: 0,0:17:39.64,0:17:41.10,辉中,,0,0,0,,老牛逼了
+Dialogue: 0,0:17:41.10,0:17:44.59,辉中,,0,0,0,,基本上就是一个真空容器 然后往里加液氮
+Dialogue: 0,0:17:44.59,0:17:46.08,辉中,,0,0,0,,降温吗?
+Dialogue: 0,0:17:46.08,0:17:49.62,辉中,,0,0,0,,对 降温 模拟宇宙的环境
+Dialogue: 0,0:17:49.62,0:17:52.51,辉中,,0,0,0,,牛逼 所以在地面上就是这样模拟太空环境的?
+Dialogue: 0,0:17:52.51,0:17:55.79,辉中,,0,0,0,,没错 就靠这个了
+Dialogue: 0,0:17:55.79,0:17:57.60,辉中,,0,0,0,,好厉害
+Dialogue: 0,0:17:57.60,0:17:59.48,辉中,,0,0,0,,我特喜欢这种复古的造型
+Dialogue: 0,0:17:59.48,0:18:02.41,辉中,,0,0,0,,看起来像个大锅炉 只是反过来降温用的
+Dialogue: 0,0:18:02.41,0:18:05.75,辉中,,0,0,0,,而且它里面是真空 而不是高压
+Dialogue: 0,0:18:05.75,0:18:08.22,辉中,,0,0,0,,一切都是在六十年代用纸笔设计出来的
+Dialogue: 0,0:18:08.22,0:18:10.27,辉中,,0,0,0,,想想吧 那时候还全都是模拟信号呢
+Dialogue: 0,0:18:11.72,0:18:13.29,辉中,,0,0,0,,现在我们来到了顶楼
+Dialogue: 0,0:18:13.29,0:18:16.44,辉中,,0,0,0,,准备去热真空室的顶部
+Dialogue: 0,0:18:16.44,0:18:19.20,辉中,,0,0,0,,好帅 所以他们要把整个JWST放进去吗?
+Dialogue: 0,0:18:19.20,0:18:24.70,辉中,,0,0,0,,一部分零件 他们在总装前会把一部分大型零件放到这里做测试
+Dialogue: 0,0:18:24.70,0:18:26.47,辉中,,0,0,0,,更小的零件放到那边
+Dialogue: 0,0:18:26.47,0:18:30.79,辉中,,0,0,0,,一切零件 小到螺丝螺母都要进行热真空环境测试 只是用的热真空室要小一点
+Dialogue: 0,0:18:30.79,0:18:34.25,辉中,,0,0,0,,哦 所以这是给零件尺寸的做测试用的 明白了
+Dialogue: 0,0:18:34.25,0:18:38.21,辉中,,0,0,0,,螺丝螺母之类的 还有各种小的组装件
+Dialogue: 0,0:18:38.21,0:18:43.35,辉中,,0,0,0,,哇这个好帅 各种液压管线和阀门整合到图表上了
+Dialogue: 0,0:18:43.35,0:18:45.15,辉中,,0,0,0,,你猜这是在哪印出来的?
+Dialogue: 0,0:18:45.15,0:18:47.48,辉中,,0,0,0,,抱歉 到这之后溜号了
+Dialogue: 0,0:18:47.48,0:18:51.78,辉中,,0,0,0,,他们下一项测试是发射时火箭上的过载
+Dialogue: 0,0:18:51.78,0:18:53.87,辉中,,0,0,0,,戈达德中心有个巨型离心机
+Dialogue: 0,0:18:53.87,0:18:58.82,辉中,,0,0,0,,可以把设备放在上面 模拟望远镜发射时的G力过载
+Dialogue: 0,0:18:58.82,0:19:00.06,辉中,,0,0,0,,非常帅
+Dialogue: 0,0:19:00.06,0:19:02.73,辉中,,0,0,0,,然后是发射过程中的振动测试
+Dialogue: 0,0:19:02.73,0:19:03.66,辉中,,0,0,0,,这个东西叫振动台
+Dialogue: 0,0:19:03.66,0:19:06.41,辉中,,0,0,0,,阿丽亚娜火箭发射时振动非常大
+Dialogue: 0,0:19:06.41,0:19:10.72,辉中,,0,0,0,,所以要确保望远镜在发射的时候不会被震碎
+Dialogue: 0,0:19:10.72,0:19:15.10,辉中,,0,0,0,,所以在戈达德中心这 你们看 这里真的很酷
+Dialogue: 0,0:19:15.10,0:19:17.00,辉中,,0,0,0,,他们就是这样测试的
+Dialogue: 0,0:19:17.00,0:19:20.12,辉中,,0,0,0,,把望远镜放在这里 固定在上面
+Dialogue: 0,0:19:20.12,0:19:23.83,辉中,,0,0,0,,然后剧烈振动 保证望远镜不会散架 不会有损伤
+Dialogue: 0,0:19:23.83,0:19:29.10,辉中,,0,0,0,,这里有一些他们做振动测试的B roll画面 可以看到望远镜在一直振动
+Dialogue: 0,0:19:29.10,0:19:30.69,辉中,,0,0,0,,我现在在一个非常平整的地方
+Dialogue: 0,0:19:30.69,0:19:34.81,辉中,,0,0,0,,背后这个棚子就是用来运送JWST的 相当于一个便携的无尘室
+Dialogue: 0,0:19:34.81,0:19:39.01,辉中,,0,0,0,,这里是噪声室 用来给载荷施加噪声测试用
+Dialogue: 0,0:19:39.01,0:19:43.80,辉中,,0,0,0,,他们要做的是模拟火箭发射时的噪声 可以高达140分贝
+Dialogue: 0,0:19:43.80,0:19:45.00,辉中,,0,0,0,,可以有很强的破坏性
+Dialogue: 0,0:19:45.00,0:19:47.73,辉中,,0,0,0,,所以人们建造了这样一个房间 放了几个扬声器
+Dialogue: 0,0:19:47.73,0:19:51.39,辉中,,0,0,0,,有各种低音炮和扬声器的组合 制造噪声去折磨载荷
+Dialogue: 0,0:19:51.39,0:19:52.75,辉中,,0,0,0,,上面那个就是低音炮吗?
+Dialogue: 0,0:19:52.75,0:19:56.28,辉中,,0,0,0,,这是据我所知全国最大的低音炮了
+Dialogue: 0,0:19:56.28,0:20:00.74,辉中,,0,0,0,,所以想蹦迪的话来这准没错了
+Dialogue: 0,0:20:00.74,0:20:05.54,辉中,,0,0,0,,噪声室的一个有趣的地方在于 房间内不同地方的声强是不同的
+Dialogue: 0,0:20:05.54,0:20:08.25,辉中,,0,0,0,,因为声音会在四壁来回反射
+Dialogue: 0,0:20:08.25,0:20:13.80,辉中,,0,0,0,,比如如果一个声波发出来 经过墙壁反射 那可能发生相长干涉
+Dialogue: 0,0:20:13.80,0:20:18.54,辉中,,0,0,0,,导致空间内某点会得到过大的噪声
+Dialogue: 0,0:20:18.54,0:20:25.66,辉中,,0,0,0,,所以为了完成测试 大家可以看到噪声室内到处都有麦克风
+Dialogue: 0,0:20:26.94,0:20:33.19,辉中,,0,0,0,,哇 我得退到这后面 免得打扰他们干活
+Dialogue: 0,0:20:34.28,0:20:38.56,辉中,,0,0,0,,这些人是纯靠人力移动这个棚子的
+Dialogue: 0,0:20:38.56,0:20:41.73,辉中,,0,0,0,,而完成这一切靠的是空气轴承
+Dialogue: 0,0:20:41.73,0:20:48.79,辉中,,0,0,0,,压缩空气泵向棚子的底部 让棚子非常水平的厂区地面上移动
+Dialogue: 0,0:20:48.79,0:20:51.66,辉中,,0,0,0,,这样徒手就能挪动整个棚子了
+Dialogue: 0,0:20:51.66,0:20:57.80,辉中,,0,0,0,,我这有几段片段 可以看到人们徒手移动这大棚里的望远镜
+Dialogue: 0,0:20:57.80,0:21:00.51,辉中,,0,0,0,,只靠空气垫就能移动整个便携式无尘室
+Dialogue: 0,0:21:00.51,0:21:03.35,辉中,,0,0,0,,我感觉这太牛逼了
+Dialogue: 0,0:21:03.35,0:21:04.72,辉中,,0,0,0,,我的相机过热了
+Dialogue: 0,0:21:04.72,0:21:07.63,辉中,,0,0,0,,对于望远镜来说会有这样的问题吗?
+Dialogue: 0,0:21:07.63,0:21:11.35,辉中,,0,0,0,,不 望远镜不会有过热的问题 因为观测平台本身是背对太阳面向深空的
+Dialogue: 0,0:21:11.35,0:21:17.52,辉中,,0,0,0,,整个望远镜的观测部分会被巨大的遮阳罩挡住来自太阳地球月球的热量
+Dialogue: 0,0:21:18.73,0:21:20.87,辉中,,0,0,0,,我们选取了一个特定的轨道来实现这样的效果
+Dialogue: 0,0:21:20.87,0:21:28.18,辉中,,0,0,0,,第二拉格朗日点晕轨道是唯一能只单侧的遮阳罩
+Dialogue: 0,0:21:28.18,0:21:33.36,辉中,,0,0,0,,就能同时阻挡上述所有这些天体热量的轨道
+Dialogue: 0,0:21:33.36,0:21:38.51,辉中,,0,0,0,,拉格朗日点是当两个天体环绕运行时的几个特殊点
+Dialogue: 0,0:21:38.51,0:21:42.97,辉中,,0,0,0,,在这两个天体之间存在一些点 那里受到两个天体的力刚好会平衡
+Dialogue: 0,0:21:42.97,0:21:49.86,辉中,,0,0,0,,它们位于同时被两个天体拉向两个不同的方向的甜蜜点上 于是可以悬在那
+Dialogue: 0,0:21:49.86,0:21:50.85,辉中,,0,0,0,,拉格朗日点很有趣
+Dialogue: 0,0:21:50.85,0:21:54.46,辉中,,0,0,0,,对于任意两个天体 存在五个拉格朗日点
+Dialogue: 0,0:21:54.46,0:21:57.67,辉中,,0,0,0,,由于JWST还会被地球与月球反射的热量影响
+Dialogue: 0,0:21:57.67,0:22:04.14,辉中,,0,0,0,,所以第二拉格朗日点(L2)就是最理想的位置 马瑟博士会解释这点
+Dialogue: 0,0:22:04.14,0:22:06.87,辉中,,0,0,0,,如果航天器在月球另一面 我们怎么和它通信?
+Dialogue: 0,0:22:06.87,0:22:09.89,辉中,,0,0,0,,不会的 望远镜不会刚好飞到月球背面
+Dialogue: 0,0:22:10.74,0:22:12.82,辉中,,0,0,0,,而且当然 月球也是会绕地球转的
+Dialogue: 0,0:22:13.69,0:22:15.29,辉中,,0,0,0,,所以望远镜是绕着拉格朗日点转的?
+Dialogue: 0,0:22:15.29,0:22:18.33,辉中,,0,0,0,,是的 绕着L2点公转(晕轨道) 而不是停在L2点
+Dialogue: 0,0:22:19.29,0:22:21.96,辉中,,0,0,0,,首先 去晕轨道更容易
+Dialogue: 0,0:22:21.96,0:22:26.99,辉中,,0,0,0,,其次 L2点刚好在地球阴影中 太阳刚好被地球挡住
+Dialogue: 0,0:22:26.99,0:22:31.20,辉中,,0,0,0,,在那一点上大部分阳光会被地球挡住 我们并不想这样
+Dialogue: 0,0:22:31.20,0:22:32.62,辉中,,0,0,0,,您能在纸上给我简单画一下吗?
+Dialogue: 0,0:22:32.62,0:22:39.98,辉中,,0,0,0,,当然 这个是太阳
+Dialogue: 0,0:22:40.91,0:22:43.48,辉中,,0,0,0,,然后这边是地球
+Dialogue: 0,0:22:43.48,0:22:46.70,辉中,,0,0,0,,不是按比例画的 然后L2点在这里
+Dialogue: 0,0:22:48.08,0:22:51.94,辉中,,0,0,0,,我们的望远镜会这样绕着L2点公转
+Dialogue: 0,0:22:52.06,0:22:54.68,辉中,,0,0,0,,从望远镜的角度 刚好能看到地球一圈的阳光吗?
+Dialogue: 0,0:22:55.68,0:22:57.19,辉中,,0,0,0,,那月球在哪里?
+Dialogue: 0,0:22:57.19,0:22:59.04,辉中,,0,0,0,,月球更近一些
+Dialogue: 0,0:23:00.93,0:23:03.44,辉中,,0,0,0,,我画得实在不好
+Dialogue: 0,0:23:03.44,0:23:07.33,辉中,,0,0,0,,不过日地L2点大约是地月距离的四倍
+Dialogue: 0,0:23:07.33,0:23:08.90,辉中,,0,0,0,,哦 原来如此
+Dialogue: 0,0:23:08.90,0:23:10.96,辉中,,0,0,0,,所以不会有月球挡住通信挡住太阳的问题
+Dialogue: 0,0:23:10.96,0:23:12.33,辉中,,0,0,0,,明白了
+Dialogue: 0,0:23:12.33,0:23:14.29,辉中,,0,0,0,,我没想到您还会亲自参与轨道的选择
+Dialogue: 0,0:23:14.29,0:23:17.77,辉中,,0,0,0,,我以为整个望远镜就是停在那个点
+Dialogue: 0,0:23:17.77,0:23:19.14,辉中,,0,0,0,,因为我们仍然需要太阳光
+Dialogue: 0,0:23:19.14,0:23:20.29,辉中,,0,0,0,,为什么?
+Dialogue: 0,0:23:20.29,0:23:23.22,辉中,,0,0,0,,因为需要太阳能为观测平台供电
+Dialogue: 0,0:23:23.22,0:23:24.91,辉中,,0,0,0,,懂了
+Dialogue: 0,0:23:24.91,0:23:26.95,辉中,,0,0,0,,我们需要阳光 还需要更多燃料才能……(这里被打断没听清)
+Dialogue: 0,0:23:26.95,0:23:29.32,辉中,,0,0,0,,望远镜上有放射性同位素热电机吗?
+Dialogue: 0,0:23:29.32,0:23:31.86,辉中,,0,0,0,,没有 我们不需要
+Dialogue: 0,0:23:31.86,0:23:39.06,辉中,,0,0,0,,那个太难做了 我们需要几千瓦的电力 所以太阳能——
+Dialogue: 0,0:23:39.71,0:23:40.54,辉中,,0,0,0,,那太阳帆板在哪里?
+Dialogue: 0,0:23:40.54,0:23:46.78,辉中,,0,0,0,,这张图里看不见 但肯定是在望远镜遮阳罩面对太阳的那一侧
+Dialogue: 0,0:23:46.78,0:23:50.78,辉中,,0,0,0,,几千瓦的电力对于这样一个观测平台来说已经很低了
+Dialogue: 0,0:23:50.78,0:23:51.63,辉中,,0,0,0,,确实
+Dialogue: 0,0:23:52.50,0:23:58.96,辉中,,0,0,0,,因为观测平台这侧其实用不了太多电力 探测器本身功耗很低的
+Dialogue: 0,0:23:58.96,0:24:02.15,辉中,,0,0,0,,我感觉您肯定一想到望远镜的未来就很兴奋吧
+Dialogue: 0,0:24:02.15,0:24:02.99,辉中,,0,0,0,,那当然了
+Dialogue: 0,0:24:02.99,0:24:05.30,辉中,,0,0,0,,谁能知道遥远的太空还有哪些我们未曾设想的惊喜?
+Dialogue: 0,0:24:05.30,0:24:08.82,辉中,,0,0,0,,我们基于现有知识已经发现了如此多惊人的结果
+Dialogue: 0,0:24:08.82,0:24:11.57,辉中,,0,0,0,,远古的恒星与星系 远古的黑洞
+Dialogue: 0,0:24:11.57,0:24:19.85,辉中,,0,0,0,,星系的闪烁 恒星的诞生 以及环绕它们的行星 还有其他的太阳系
+Dialogue: 0,0:24:19.85,0:24:25.52,辉中,,0,0,0,,让我们更加了解我们的太阳系 了解地球是不是最特殊的那一个
+Dialogue: 0,0:24:25.52,0:24:28.59,辉中,,0,0,0,,JWST同样会为大家带来各种绚丽的图片
+Dialogue: 0,0:24:28.59,0:24:29.89,辉中,,0,0,0,,当然会比较特殊
+Dialogue: 0,0:24:29.89,0:24:31.38,辉中,,0,0,0,,因为我们是采集的其它波长的光
+Dialogue: 0,0:24:31.38,0:24:35.86,辉中,,0,0,0,,而JWST同样能以另一种形态看到宇宙中那些绚烂多彩的星云
+Dialogue: 0,0:24:35.86,0:24:40.65,辉中,,0,0,0,,在望远镜的诸多观测事项中 包括尝试透过那些发光的星云看到对面的东西
+Dialogue: 0,0:24:40.65,0:24:48.07,辉中,,0,0,0,,因此在星云里那些孕育中的恒星 原本是看不到的 因为被挡住了
+Dialogue: 0,0:24:48.07,0:24:52.26,辉中,,0,0,0,,而红外波段的光可以让我们洞察到星云内部
+Dialogue: 0,0:24:52.26,0:24:55.54,辉中,,0,0,0,,所以我希望到时候能看到与众不同而又同样精彩的观测结果
+Dialogue: 0,0:24:55.54,0:25:00.53,辉中,,0,0,0,,所以红外光是能穿透那些星际尘埃的吗?
+Dialogue: 0,0:25:00.53,0:25:04.11,辉中,,0,0,0,,是的 红外光能做到 其实所有光都会被星际尘埃反射
+Dialogue: 0,0:25:04.11,0:25:06.97,辉中,,0,0,0,,但更长的波长反射会更少 透射更多
+Dialogue: 0,0:25:06.97,0:25:07.82,辉中,,0,0,0,,原来如此
+Dialogue: 0,0:25:08.66,0:25:14.12,辉中,,0,0,0,,所以红外光看起来就是能穿过众多星云 看到对面的物体
+Dialogue: 0,0:25:14.12,0:25:16.10,辉中,,0,0,0,,那可真太棒了
+Dialogue: 0,0:25:16.10,0:25:19.23,辉中,,0,0,0,,所以我们可能打算拍摄红外波段的照片
+Dialogue: 0,0:25:19.23,0:25:23.63,辉中,,0,0,0,,然后人工给它们上色 就像以前那些图片一样
+Dialogue: 0,0:25:23.63,0:25:24.99,辉中,,0,0,0,,-真实计划就是这样的? -是的
+Dialogue: 0,0:25:24.99,0:25:27.01,辉中,,0,0,0,,太棒了 最后一个问题
+Dialogue: 0,0:25:27.01,0:25:28.81,辉中,,0,0,0,,发射当天您会做些什么?
+Dialogue: 0,0:25:29.70,0:25:31.86,辉中,,0,0,0,,我要么去发射场庆祝
+Dialogue: 0,0:25:31.86,0:25:34.31,辉中,,0,0,0,,要么在这里对公众作个发言
+Dialogue: 0,0:25:34.31,0:25:36.29,辉中,,0,0,0,,还不确定具体会怎样安排
+Dialogue: 0,0:25:36.29,0:25:41.57,辉中,,0,0,0,,发射场那边名额挺少的 只有真正需要在那边的人才能去
+Dialogue: 0,0:25:41.57,0:25:46.97,辉中,,0,0,0,,确实 但您……我觉得发射那天肯定会感到很焦虑吧?
+Dialogue: 0,0:25:46.97,0:25:49.31,辉中,,0,0,0,,-完全不 -不焦虑?
+Dialogue: 0,0:25:49.31,0:25:51.96,辉中,,0,0,0,,我不会为我不该操心的事而感到焦虑
+Dialogue: 0,0:25:51.96,0:25:54.97,辉中,,0,0,0,,您能详细讲讲为什么吗?
+Dialogue: 0,0:25:54.97,0:25:59.15,辉中,,0,0,0,,嗯……我不是那种爱操心这操心那的人 因为我清楚我们大家都在做正确的事情
+Dialogue: 0,0:25:59.15,0:26:01.94,辉中,,0,0,0,,大家都在努力向着完美而努力
+Dialogue: 0,0:26:01.94,0:26:03.98,辉中,,0,0,0,,如果有人说"我们需要考虑一下这个问题"
+Dialogue: 0,0:26:03.98,0:26:06.42,辉中,,0,0,0,,那我们就针对这个问题制定好计划
+Dialogue: 0,0:26:06.42,0:26:09.68,辉中,,0,0,0,,人步入古稀之年 就不会为那些无谓之事操心了
+Dialogue: 0,0:26:09.68,0:26:11.29,辉中,,0,0,0,,制定好计划就好了
+Dialogue: 0,0:26:11.29,0:26:13.33,辉中,,0,0,0,,我明白了 所以您完全接受任何结果
+Dialogue: 0,0:26:13.33,0:26:14.36,辉中,,0,0,0,,是的
+Dialogue: 0,0:26:14.36,0:26:19.32,辉中,,0,0,0,,太棒了 如沐春风 醍醐灌顶
+Dialogue: 0,0:26:19.32,0:26:22.86,辉中,,0,0,0,,这位是约翰·马瑟博士 真的万分感激
+Dialogue: 0,0:26:22.86,0:26:26.70,辉中,,0,0,0,,我也很高兴能和你聊天 也期待能看到你的视频
+Dialogue: 0,0:26:26.70,0:26:31.12,辉中,,0,0,0,,我觉得和博士的这段对话在各种意义上都太棒了
+Dialogue: 0,0:26:31.12,0:26:37.14,辉中,,0,0,0,,我本是抱着学习科学、宇宙学的知识来的 想要了解望远镜各处是如何工作的
+Dialogue: 0,0:26:37.14,0:26:43.83,辉中,,0,0,0,,但到了最后 我却深刻体会到了马瑟博士真正的大智慧
+Dialogue: 0,0:26:43.83,0:26:49.05,辉中,,0,0,0,,大家要知道 JWST是人类迄今为止制造的最复杂的物体之一
+Dialogue: 0,0:26:49.05,0:26:50.94,辉中,,0,0,0,,它背负了无数东西
+Dialogue: 0,0:26:50.94,0:26:57.08,辉中,,0,0,0,,无数人力 无数时间 甚至无数人的一生都奉献于此 包括我的家庭
+Dialogue: 0,0:26:57.08,0:26:58.57,辉中,,0,0,0,,它背负了太多太多
+Dialogue: 0,0:26:58.57,0:27:01.62,辉中,,0,0,0,,但当我问博士"您焦虑吗?"
+Dialogue: 0,0:27:01.62,0:27:06.74,辉中,,0,0,0,,他却轻描淡写道"不 因为我们制定了最接近完美的计划 我们已经尽全力了"
+Dialogue: 0,0:27:06.74,0:27:08.41,辉中,,0,0,0,,然后就彻底释怀了
+Dialogue: 0,0:27:08.41,0:27:11.32,辉中,,0,0,0,,他放心地把望远镜交给发射它的火箭
+Dialogue: 0,0:27:11.32,0:27:15.45,辉中,,0,0,0,,我觉得这背后的智慧会影响我的余生
+Dialogue: 0,0:27:15.45,0:27:22.74,辉中,,0,0,0,,如果人类有史以来最困难的科研项目的参与者能够制定出最接近完美的计划
+Dialogue: 0,0:27:22.74,0:27:28.11,辉中,,0,0,0,,然后完全释怀地说"我们尽全力了 剩下就看天意了"
+Dialogue: 0,0:27:28.11,0:27:32.62,辉中,,0,0,0,,如果他能在这个项目上做到这一点 那我如何将其应用于我的人生呢?
+Dialogue: 0,0:27:32.62,0:27:34.38,辉中,,0,0,0,,总之 我真的觉得受益匪浅
+Dialogue: 0,0:27:34.38,0:27:36.10,辉中,,0,0,0,,我觉得这里有非常深刻的智慧
+Dialogue: 0,0:27:36.10,0:27:39.46,辉中,,0,0,0,,希望能为屏幕前的大家带来启发
+Dialogue: 0,0:27:39.46,0:27:42.38,辉中,,0,0,0,,恰饭环节 跳转29:13
+Dialogue: 0,0:29:13.94,0:29:18.37,辉中,,0,0,0,,下期视频我们将和家父一起了解JWST
+Dialogue: 0,0:29:18.37,0:29:20.39,辉中,,0,0,0,,他做的是遮阳罩方面的工作
+Dialogue: 0,0:29:20.39,0:29:22.06,辉中,,0,0,0,,很期待能分享给大家
+Dialogue: 0,0:29:22.06,0:29:28.29,辉中,,0,0,0,,一想到我亲爹竟然参与了人类最牛逼的太空项目就超兴奋
+Dialogue: 0,0:29:28.29,0:29:31.23,辉中,,0,0,0,,那可是我亲爹啊 对吧 我好兴奋
+Dialogue: 0,0:29:31.23,0:29:33.84,辉中,,0,0,0,,我将在下期视频为大家分享这些内容
+Dialogue: 0,0:29:33.84,0:29:37.92,辉中,,0,0,0,,也希望大家能喜欢这次我对约翰·马瑟博士的采访
+Dialogue: 0,0:29:37.92,0:29:41.75,辉中,,0,0,0,,我是Destin 祝大家天天大聪明 拜拜~
