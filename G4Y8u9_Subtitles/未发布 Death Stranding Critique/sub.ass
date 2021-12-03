@@ -15,10 +15,10 @@ Audio File: ../../../../../Video/给没组/DS/RAW.mkv
 Video File: ../../../../../Video/给没组/DS/RAW.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 579
-Active Line: 586
-Video Position: 65535
+Video Zoom Percent: 0.625000
+Scroll Position: 638
+Active Line: 643
+Video Position: 71979
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -601,7 +601,7 @@ Dialogue: 0,0:34:59.82,0:35:02.88,辉中,,0,0,0,,and hook them with an intriguin
 Dialogue: 0,0:35:02.88,0:35:08.32,辉中,,0,0,0,,But no, Kojima completely fails at this, and I think I can convince you.
 Dialogue: 0,0:35:08.32,0:35:12.08,辉中,,0,0,0,,To do this, I want to go through the opening sequence of the game.
 Dialogue: 0,0:35:12.08,0:35:18.25,辉中,,0,0,0,,And I'm actually going to keep these two things that Death Stranding has to prove up on screen.
-Dialogue: 0,0:35:18.25,0:35:20.11,辉中,,0,0,0,,That way as we go through this 
+Dialogue: 0,0:35:18.25,0:35:20.11,辉中,,0,0,0,,That way as we go through this
 Dialogue: 0,0:35:20.11,0:35:25.00,辉中,,0,0,0,,you can consistently ask yourself whether or not these checks are being met.
 Dialogue: 0,0:35:25.00,0:35:29.51,辉中,,0,0,0,,Because like it or not this is the mental check that players are going to be applying
 Dialogue: 0,0:35:29.51,0:35:33.06,辉中,,0,0,0,,as they go through the opening sequence consciously or not.
@@ -618,100 +618,64 @@ Dialogue: 0,0:36:05.33,0:36:12.47,辉中 Script,,0,0,0,,引发危机的这把枪
 Dialogue: 0,0:36:13.90,0:36:16.84,辉中 Script,,0,0,0,,亚美莉……她说过这把枪有别的用处。
 Dialogue: 0,0:36:17.64,0:36:23.74,辉中 Script,,0,0,0,,它不是武器，是救生索，就像棍棒变成了绳子。
 Dialogue: 0,0:36:24.54,0:36:26.68,辉中 Script,,0,0,0,,我想可以这么说吧……
-Dialogue: 0,0:36:30.35,0:36:32.65,辉中,,0,0,0,,After the excerpt is shown and plays off
-Dialogue: 0,0:36:32.65,0:36:34.39,辉中,,0,0,0,,the credits rolling with a ton of
-Dialogue: 0,0:36:34.39,0:36:36.76,辉中,,0,0,0,,beautiful landscape shots and I don't
-Dialogue: 0,0:36:36.76,0:36:38.32,辉中,,0,0,0,,know about you but initially I thought
-Dialogue: 0,0:36:38.32,0:36:40.54,辉中,,0,0,0,,these were all in engine or in-game
-Dialogue: 0,0:36:40.54,0:36:43.45,辉中,,0,0,0,,screenshots or clips to show us the
-Dialogue: 0,0:36:43.45,0:36:45.16,辉中,,0,0,0,,lands that we were going to be exploring
-Dialogue: 0,0:36:45.16,0:36:46.75,辉中,,0,0,0,,as we went through the game and I got
-Dialogue: 0,0:36:46.75,0:36:48.36,辉中,,0,0,0,,really excited however upon further
-Dialogue: 0,0:36:48.36,0:36:50.35,辉中,,0,0,0,,investigation it actually turns out
-Dialogue: 0,0:36:50.35,0:36:52.69,辉中,,0,0,0,,according to most people on the forums
-Dialogue: 0,0:36:52.69,0:36:55.12,辉中,,0,0,0,,I've read through the consensus seems to
-Dialogue: 0,0:36:55.12,0:36:56.74,辉中,,0,0,0,,be that these are actually the reference
-Dialogue: 0,0:36:56.74,0:36:59.29,辉中,,0,0,0,,photos that kijima productions took when
-Dialogue: 0,0:36:59.29,0:37:02.05,辉中,,0,0,0,,they did a company trip to Iceland to
-Dialogue: 0,0:37:02.05,0:37:04.27,辉中,,0,0,0,,get reference photos for the landscapes
-Dialogue: 0,0:37:04.27,0:37:05.80,辉中,,0,0,0,,within the game they put in some
-Dialogue: 0,0:37:05.80,0:37:07.75,辉中,,0,0,0,,references to the later games such as
-Dialogue: 0,0:37:07.75,0:37:10.27,辉中,,0,0,0,,the Karelian hands and things but there
-Dialogue: 0,0:37:10.27,0:37:12.25,辉中,,0,0,0,,really isn't much here it's just photos
-Dialogue: 0,0:37:12.25,0:37:14.32,辉中,,0,0,0,,of landscapes regardless it's pretty and
-Dialogue: 0,0:37:14.32,0:37:15.97,辉中,,0,0,0,,it shows you what they were trying to
-Dialogue: 0,0:37:15.97,0:37:18.10,辉中,,0,0,0,,mimic and the fact that it looks as
-Dialogue: 0,0:37:18.10,0:37:20.35,辉中,,0,0,0,,though it could be an engine says
-Dialogue: 0,0:37:20.35,0:37:22.78,辉中,,0,0,0,,everything it's really impressive that
-Dialogue: 0,0:37:22.78,0:37:24.49,辉中,,0,0,0,,the engine is able to push things that
-Dialogue: 0,0:37:24.49,0:37:26.17,辉中,,0,0,0,,could look this good
-Dialogue: 0,0:37:26.17,0:37:28.81,辉中,,0,0,0,,even if in effect and in practice when
-Dialogue: 0,0:37:28.81,0:37:30.34,辉中,,0,0,0,,you're playing through the game they
-Dialogue: 0,0:37:30.34,0:37:32.17,辉中,,0,0,0,,don't hold up to this standard after
-Dialogue: 0,0:37:32.17,0:37:33.94,辉中,,0,0,0,,these shots the game opens up with Sam
-Dialogue: 0,0:37:33.94,0:37:36.07,辉中,,0,0,0,,Porter riding a motorcycle across a lush
-Dialogue: 0,0:37:36.07,0:37:38.41,辉中,,0,0,0,,green rocky mountain side it's really
-Dialogue: 0,0:37:38.41,0:37:40.78,辉中,,0,0,0,,pretty and it shows just what kind of
-Dialogue: 0,0:37:40.78,0:37:42.76,辉中,,0,0,0,,cinematic experience you're in for it's
-Dialogue: 0,0:37:42.76,0:37:44.44,辉中,,0,0,0,,raining and this rain you'll come to
-Dialogue: 0,0:37:44.44,0:37:46.54,辉中,,0,0,0,,find out is known as time fall which
-Dialogue: 0,0:37:46.54,0:37:48.22,辉中,,0,0,0,,makes everything it touches age at an
-Dialogue: 0,0:37:48.22,0:37:51.01,辉中,,0,0,0,,extremely fast rate this has a ton of
-Dialogue: 0,0:37:51.01,0:37:52.54,辉中,,0,0,0,,implications on game
-Dialogue: 0,0:37:52.54,0:37:55.09,辉中,,0,0,0,,in addition to the story but again we'll
-Dialogue: 0,0:37:55.09,0:37:56.65,辉中,,0,0,0,,get to that later as he's writing you
-Dialogue: 0,0:37:56.65,0:37:58.06,辉中,,0,0,0,,see the time fall take effect on his
-Dialogue: 0,0:37:58.06,0:38:00.73,辉中,,0,0,0,,hair the grass the plants and of course
-Dialogue: 0,0:38:00.73,0:38:02.47,辉中,,0,0,0,,the animals that you see running across
-Dialogue: 0,0:38:02.47,0:38:04.21,辉中,,0,0,0,,the mountainside even though you're not
-Dialogue: 0,0:38:04.21,0:38:06.16,辉中,,0,0,0,,going to see hardly any of these things
-Dialogue: 0,0:38:06.16,0:38:08.86,辉中,,0,0,0,,later on it's still really cool and it
-Dialogue: 0,0:38:08.86,0:38:11.17,辉中,,0,0,0,,shows you just what this rain can do Sam
-Dialogue: 0,0:38:11.17,0:38:31.36,辉中,,0,0,0,,speeds off and then all of a sudden yeah
-Dialogue: 0,0:38:31.36,0:38:33.37,辉中,,0,0,0,,you seemingly run into her
-Dialogue: 0,0:38:33.37,0:38:35.17,辉中,,0,0,0,,turns out she can teleport away to a
-Dialogue: 0,0:38:35.17,0:38:37.45,辉中,,0,0,0,,beach which is this game world's
-Dialogue: 0,0:38:37.45,0:38:39.88,辉中,,0,0,0,,effective purgatory basically when
-Dialogue: 0,0:38:39.88,0:38:41.98,辉中,,0,0,0,,somebody dies they go to their own Beach
-Dialogue: 0,0:38:41.98,0:38:43.99,辉中,,0,0,0,,and this is the intermediate place
-Dialogue: 0,0:38:43.99,0:38:46.78,辉中,,0,0,0,,between this life and the afterlife some
-Dialogue: 0,0:38:46.78,0:38:48.40,辉中,,0,0,0,,people in this world can actually
-Dialogue: 0,0:38:48.40,0:38:50.80,辉中,,0,0,0,,interact freely with their beaches and
-Dialogue: 0,0:38:50.80,0:38:53.74,辉中,,0,0,0,,use it to teleport around or to even at
-Dialogue: 0,0:38:53.74,0:38:56.23,辉中,,0,0,0,,times come back from the dead which is
-Dialogue: 0,0:38:56.23,0:38:57.58,辉中,,0,0,0,,what is referred to in the game as
-Dialogue: 0,0:38:57.58,0:38:59.83,辉中,,0,0,0,,repatriates Sam being one of them which
-Dialogue: 0,0:38:59.83,0:39:02.02,辉中,,0,0,0,,is how the game explains how you can die
-Dialogue: 0,0:39:02.02,0:39:04.02,辉中,,0,0,0,,in game play and come back to life
-Dialogue: 0,0:39:04.02,0:39:06.46,辉中,,0,0,0,,regardless the bike goes over the side
-Dialogue: 0,0:39:06.46,0:39:08.65,辉中,,0,0,0,,of a cliff and is destroyed however if
-Dialogue: 0,0:39:08.65,0:39:10.15,辉中,,0,0,0,,you know anything about video games
-Dialogue: 0,0:39:10.15,0:39:11.80,辉中,,0,0,0,,you'll realize that you will eventually
-Dialogue: 0,0:39:11.80,0:39:14.35,辉中,,0,0,0,,get access to one of these soon enough
-Dialogue: 0,0:39:14.35,0:39:16.42,辉中,,0,0,0,,because why the hell not the developers
-Dialogue: 0,0:39:16.42,0:39:18.00,辉中,,0,0,0,,spent all this time making the bike
-Dialogue: 0,0:39:18.00,0:39:20.53,辉中,,0,0,0,,surely they would not just have done
-Dialogue: 0,0:39:20.53,0:39:22.60,辉中,,0,0,0,,that for a cutscene realizing that you
-Dialogue: 0,0:39:22.60,0:39:24.19,辉中,,0,0,0,,now have to travel on foot you collect
-Dialogue: 0,0:39:24.19,0:39:26.26,辉中,,0,0,0,,the packages that fell off and you start
-Dialogue: 0,0:39:26.26,0:39:28.48,辉中,,0,0,0,,walking you eventually stumble into a
-Dialogue: 0,0:39:28.48,0:39:30.13,辉中,,0,0,0,,cave and you talk with fragile love it
-Dialogue: 0,0:39:30.13,0:39:32.08,辉中,,0,0,0,,here it's explained that Sam cries
-Dialogue: 0,0:39:32.08,0:39:33.49,辉中,,0,0,0,,whenever he's exposed to something
-Dialogue: 0,0:39:33.49,0:39:36.10,辉中,,0,0,0,,called Karelian and fragile has the same
-Dialogue: 0,0:39:36.10,0:39:38.62,辉中,,0,0,0,,allergic reaction we also see our first
-Dialogue: 0,0:39:38.62,0:39:41.74,辉中,,0,0,0,,BT or beached thing yeah Kojima
-Dialogue: 0,0:39:41.74,0:39:44.41,辉中,,0,0,0,,loves his abbreviations as you'll see
-Dialogue: 0,0:39:44.41,0:39:45.97,辉中,,0,0,0,,now these don't make a lot of sense to
-Dialogue: 0,0:39:45.97,0:39:47.77,辉中,,0,0,0,,new players held maybe they don't even
-Dialogue: 0,0:39:47.77,0:39:49.30,辉中,,0,0,0,,make sense to late-game players but
-Dialogue: 0,0:39:49.30,0:39:52.69,辉中,,0,0,0,,mostly they don't try to explain these
-Dialogue: 0,0:39:52.69,0:39:56.17,辉中,,0,0,0,,things at all in the opening sections of
-Dialogue: 0,0:39:56.17,0:39:58.15,辉中,,0,0,0,,the game they leave it all up to the
-Dialogue: 0,0:39:58.15,0:39:59.98,辉中,,0,0,0,,imagination of the player and ask them
-Dialogue: 0,0:39:59.98,0:40:02.14,辉中,,0,0,0,,just to take it on blind faith that this
-Dialogue: 0,0:40:02.14,0:40:04.06,辉中,,0,0,0,,makes sense one would think that if a
-Dialogue: 0,0:40:04.06,0:40:06.22,辉中,,0,0,0,,story features monsters who
+Dialogue: 0,0:36:30.35,0:36:32.79,辉中,,0,0,0,,After the excerpt is shown and plays off,
+Dialogue: 0,0:36:32.79,0:36:36.36,辉中,,0,0,0,,the credits rolling with a ton of beautiful landscape shots,
+Dialogue: 0,0:36:36.36,0:36:37.49,辉中,,0,0,0,,and I don't know about you
+Dialogue: 0,0:36:37.49,0:36:42.61,辉中,,0,0,0,,but initially I thought these were all in engine or in-game screenshots or clips
+Dialogue: 0,0:36:42.61,0:36:46.38,辉中,,0,0,0,,to show us the lands that we were going to be exploring as we went through the game,
+Dialogue: 0,0:36:46.38,0:36:47.54,辉中,,0,0,0,,and I got really excited.
+Dialogue: 0,0:36:47.54,0:36:50.61,辉中,,0,0,0,,However upon further investigation it actually turns out
+Dialogue: 0,0:36:50.61,0:36:53.83,辉中,,0,0,0,,according to most people on the forums I've read through
+Dialogue: 0,0:36:53.83,0:36:57.48,辉中,,0,0,0,,the consensus seems to be that these are actually the reference photos
+Dialogue: 0,0:36:57.48,0:37:02.02,辉中,,0,0,0,,that Kojima Productions took when they did a company trip to Iceland
+Dialogue: 0,0:37:02.02,0:37:05.04,辉中,,0,0,0,,to get reference photos for the landscapes within the game.
+Dialogue: 0,0:37:05.04,0:37:09.51,辉中,,0,0,0,,They put in some references to the later games such as the Chiralium hands and things,
+Dialogue: 0,0:37:09.51,0:37:13.11,辉中,,0,0,0,,but … there really isn't much here, it's just photos of landscapes.
+Dialogue: 0,0:37:13.11,0:37:16.74,辉中,,0,0,0,,Regardless, it's pretty and it shows you what they were trying to mimic,
+Dialogue: 0,0:37:16.74,0:37:21.38,辉中,,0,0,0,,and the fact that it looks as though it could be in engine says everything.
+Dialogue: 0,0:37:21.38,0:37:26.17,辉中,,0,0,0,,It's really impressive that the engine is able to push things that could look this good.
+Dialogue: 0,0:37:26.17,0:37:30.12,辉中,,0,0,0,,Even if in effect and in practice when you're playing through the game,
+Dialogue: 0,0:37:30.12,0:37:31.82,辉中,,0,0,0,,they don't hold up to this standard.
+Dialogue: 0,0:37:31.82,0:37:35.47,辉中,,0,0,0,,After these shots, the game opens up with Sam Porter riding a motorcycle
+Dialogue: 0,0:37:35.47,0:37:37.98,辉中,,0,0,0,,across a lush green rocky mountain side.
+Dialogue: 0,0:37:37.98,0:37:42.57,辉中,,0,0,0,,It's really pretty, and it shows just what kind of cinematic experience you're in for.
+Dialogue: 0,0:37:42.57,0:37:46.41,辉中,,0,0,0,,It's raining, and this rain you'll come to find out is known as "Timefall",
+Dialogue: 0,0:37:46.41,0:37:50.14,辉中,,0,0,0,,which makes everything it touches age at an extremely fast rate.
+Dialogue: 0,0:37:50.14,0:37:54.35,辉中,,0,0,0,,This has a ton of implications on game play in addition to the story
+Dialogue: 0,0:37:54.35,0:37:55.97,辉中,,0,0,0,,but again we'll get to that later.
+Dialogue: 0,0:37:55.97,0:37:59.91,辉中,,0,0,0,,As he's riding you see the timefall take effect on his hair, the grass, the plants,
+Dialogue: 0,0:37:59.91,0:38:03.50,辉中,,0,0,0,,and of course the animals that you see running across the mountainside.
+Dialogue: 0,0:38:03.50,0:38:07.30,辉中,,0,0,0,,Even though you're not going to see hardly any of these things later on,
+Dialogue: 0,0:38:07.30,0:38:10.90,辉中,,0,0,0,,it's still really cool and it shows you just what this rain can do.
+Dialogue: 0,0:38:10.90,0:38:13.89,辉中,,0,0,0,,Sam speeds off and then all of a sudden …
+Dialogue: 0,0:38:30.90,0:38:33.37,辉中,,0,0,0,,Yeah, you seemingly run into her.
+Dialogue: 0,0:38:33.37,0:38:39.24,辉中,,0,0,0,,Turns out she can teleport away to a beach which is this game world's effective purgatory.
+Dialogue: 0,0:38:39.24,0:38:42.33,辉中,,0,0,0,,Basically when somebody dies they go to their own Beach,
+Dialogue: 0,0:38:42.33,0:38:46.47,辉中,,0,0,0,,and this is the intermediate place between this life and the afterlife.
+Dialogue: 0,0:38:46.47,0:38:50.67,辉中,,0,0,0,,Some people in this world can actually interact freely with their beaches
+Dialogue: 0,0:38:50.67,0:38:55.91,辉中,,0,0,0,,and use it to teleport around or to even at times come back from the dead
+Dialogue: 0,0:38:55.91,0:38:58.64,辉中,,0,0,0,,which is what is referred to in the game as "Repatriation",
+Dialogue: 0,0:38:58.64,0:39:01.21,辉中,,0,0,0,,Sam, being one of them which is how the game explains
+Dialogue: 0,0:39:01.21,0:39:04.35,辉中,,0,0,0,,how you can die in gameplay and come back to life.
+Dialogue: 0,0:39:04.35,0:39:08.15,辉中,,0,0,0,,Regardless the bike goes over the side of a cliff and is destroyed.
+Dialogue: 0,0:39:08.15,0:39:10.44,辉中,,0,0,0,,However if you know anything about video games,
+Dialogue: 0,0:39:10.44,0:39:14.43,辉中,,0,0,0,,you'll realize that you will eventually get access to one of these soon enough,
+Dialogue: 0,0:39:14.43,0:39:15.87,辉中,,0,0,0,,because why the hell not?
+Dialogue: 0,0:39:15.87,0:39:18.40,辉中,,0,0,0,,The developers spent all this time making the bike,
+Dialogue: 0,0:39:18.40,0:39:21.68,辉中,,0,0,0,,surely they would not just have done that for a cutscene.
+Dialogue: 0,0:39:21.68,0:39:23.78,辉中,,0,0,0,,Realizing that you now have to travel on foot,
+Dialogue: 0,0:39:23.78,0:39:27.24,辉中,,0,0,0,,you collect the packages that fell off and you start walking.
+Dialogue: 0,0:39:27.24,0:39:30.23,辉中,,0,0,0,,You eventually stumble into a cave and you talk with fragile of it.
+Dialogue: 0,0:39:30.23,0:39:34.69,辉中,,0,0,0,,Here it's explained that Sam cries whenever he's exposed to something called Chiralium,
+Dialogue: 0,0:39:34.69,0:39:37.62,辉中,,0,0,0,,and fragile has the same allergic reaction.
+Dialogue: 0,0:39:37.62,0:39:40.77,辉中,,0,0,0,,We also see our first "BT", or "Beached thing".
+Dialogue: 0,0:39:40.77,0:39:44.58,辉中,,0,0,0,,Yeah, Kojima loves his abbreviations as you'll see.
+Dialogue: 0,0:39:44.58,0:39:46.72,辉中,,0,0,0,,Now these don't make a lot of sense to new players … 
+Dialogue: 0,0:39:46.72,0:39:49.18,辉中,,0,0,0,,'hell maybe they don't even make sense to late-game players.
+Dialogue: 0,0:39:49.18,0:39:56.84,辉中,,0,0,0,,But mostly they don't try to explain these things at all in the opening sections of the game.
+Dialogue: 0,0:39:56.84,0:39:59.43,辉中,,0,0,0,,They leave it all up to the imagination of the player
+Dialogue: 0,0:39:59.43,0:40:03.01,辉中,,0,0,0,,and ask them just to take it on blind faith that this makes sense.
+Dialogue: 0,0:40:03.01,0:40:06.22,辉中,,0,0,0,,One would think that if a story features monsters who
 Dialogue: 0,0:40:06.22,0:40:08.65,辉中,,0,0,0,,invisible and apparently have hands as
 Dialogue: 0,0:40:08.65,0:40:13.29,辉中,,0,0,0,,feet and consents life-forces and
 Dialogue: 0,0:40:13.29,0:40:17.02,辉中,,0,0,0,,pastime with their touch that they would

@@ -1,6 +1,6 @@
 翻译主要取自游戏简体中文版、维基百科
 
-## 游戏内角色/组织/感染者
+## 游戏内角色/组织
 |FULLNAME|NAME|中文|备注|
 |:----|:----|:----|:----|
 |Samuel "Sam" Porter Bridges|Sam|山姆|主角|
@@ -21,8 +21,12 @@
 |FULLNAME|中文|备注|
 |:----|:----|:----|
 |Hideo Kojima|小岛秀夫|游戏制作人|
+|Kojima Productions|小岛制作|小岛秀夫手下的首席制作组|
 |Geoff Keighley|杰夫·基思利|电子游戏新闻工作和电视节目主持人|
 |Voidout|虚空噬灭|BT吃人之后引发的爆炸|
+|Chiralium|开罗尔物质|死亡搁浅发生后被发现的物质|
+|Timefall|时间雨|加速时间的流逝的雨|
+|Repatriation|遣返者|死后可以从冥滩边界返回生者的世界|
 |Porter|派送员|序章|
 |Bridget|布丽吉特|第1章|
 |Amelie|亚美莉|第2章|
