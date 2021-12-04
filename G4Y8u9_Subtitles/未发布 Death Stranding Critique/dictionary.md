@@ -21,12 +21,13 @@
 |FULLNAME|中文|备注|
 |:----|:----|:----|
 |Hideo Kojima|小岛秀夫|游戏制作人|
-|Kojima Productions|小岛制作|小岛秀夫手下的首席制作组|
+|Kojima Productions|小岛制作|小岛秀夫手下的首席制作组 翻译来自维基|
 |Geoff Keighley|杰夫·基思利|电子游戏新闻工作和电视节目主持人|
 |Voidout|虚空噬灭|BT吃人之后引发的爆炸|
 |Chiralium|开罗尔物质|死亡搁浅发生后被发现的物质|
 |Timefall|时间雨|加速时间的流逝的雨|
 |Repatriation|遣返者|死后可以从冥滩边界返回生者的世界|
+|Beached thing/BT|
 |Porter|派送员|序章|
 |Bridget|布丽吉特|第1章|
 |Amelie|亚美莉|第2章|
@@ -49,11 +50,13 @@
 |Léa Seydoux|蕾雅·赛杜|芙拉吉尔的演员|
 |Norman Reedus|诺曼·李杜斯|山姆的演员|
 |Horizon Zero Dawn|地平线 零之曙光|索尼发行的RPG游戏|
+|Guerrilla Games|游骑兵工作室|地平线 零之曙光的制作组|
 |Decima Engine|Decima引擎|死亡搁浅使用的游戏引擎|
 |Cyberpunk 2077|赛博朋克2077|2020年发售的做一半的游戏|
 |Fallout 4|辐射4|B社游戏|
 |Naughty Dog|顽皮狗|《神海》《TLOU》游戏制作组|
 |Uncharted: The Lost Legacy|神秘海域：失落的遗产|顽皮狗游戏|
+|Lost|迷失|美国电视连续剧|
 
 
 
@@ -132,7 +135,6 @@
 |Halley Gross|哈雷·格罗斯|游戏编剧之一|
 |Cordyceps Brain Infection/CBI|虫草菌脑部感染|游戏中感染者的疾病（翻译来自一代）|
 |spores|孢子|CBI传播途径之一|
-|Horizon Zero Dawn|地平线 零之曙光|索尼发行的RPG游戏|
 |Aloy|埃洛伊|地平线的主角|
 |Uncharted: The Lost Legacy|神秘海域：失落的遗产|顽皮狗另一个游戏|
 |The Legend of Zelda: Breath of the Wild|塞尔达传说 旷野之息|抄袭原神！（|
