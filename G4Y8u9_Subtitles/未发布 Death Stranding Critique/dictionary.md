@@ -4,6 +4,7 @@
 |FULLNAME|NAME|中文|备注|
 |:----|:----|:----|:----|
 |Samuel "Sam" Porter Bridges|Sam|山姆|主角|
+|Bridget Strand|Bridget|布丽吉特·斯特兰德|山姆他妈|
 |-|Fragile|芙拉吉尔||
 |Samantha America Strand|Amelie|亚美莉||
 |Målingen|Mama|玛玛||
@@ -12,6 +13,7 @@
 |-|Heartman|心人||
 |Higgs Monaghan|Higgs|希格斯|BOSS之一|
 |Clifford "Cliff" Unger|Clifford|克利福德||
+|-|MULEs|米尔人|美团外卖|
 
 ## 地名
 |NAME|中文|备注|
@@ -58,6 +60,7 @@
 |Uncharted: The Lost Legacy|神秘海域：失落的遗产|顽皮狗游戏|
 |Lost|迷失|美国电视连续剧|
 |Higgs boson|希格斯玻色子|物理里一种基本粒子 游戏boss希格斯名字的由来|
+|The Legend of Zelda: Breath of the Wild|塞尔达传说 旷野之息|抄袭原神！（|
 
 
 
@@ -138,7 +141,6 @@
 |spores|孢子|CBI传播途径之一|
 |Aloy|埃洛伊|地平线的主角|
 |Uncharted: The Lost Legacy|神秘海域：失落的遗产|顽皮狗另一个游戏|
-|The Legend of Zelda: Breath of the Wild|塞尔达传说 旷野之息|抄袭原神！（|
 |Red dead redemption 2|荒野大镖客：救赎2|Rockstar的游戏|
 |Arthur|亚瑟|RDR2的主角|
 |Rockstar|R星|RDR2的制作商|
