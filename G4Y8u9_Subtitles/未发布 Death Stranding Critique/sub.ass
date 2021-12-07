@@ -16,9 +16,9 @@ Video File: ../../../../../Video/给没组/DS/RAW.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 1195
-Active Line: 1199
-Video Position: 136409
+Scroll Position: 1353
+Active Line: 1362
+Video Position: 153474
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -644,7 +644,7 @@ Dialogue: 0,0:37:30.12,0:37:31.82,辉中,,0,0,0,,they don't hold up to this stan
 Dialogue: 0,0:37:31.82,0:37:35.47,辉中,,0,0,0,,After these shots, the game opens up with Sam Porter riding a motorcycle
 Dialogue: 0,0:37:35.47,0:37:37.98,辉中,,0,0,0,,across a lush green rocky mountain side.
 Dialogue: 0,0:37:37.98,0:37:42.57,辉中,,0,0,0,,It's really pretty, and it shows just what kind of cinematic experience you're in for.
-Dialogue: 0,0:37:42.57,0:37:46.41,辉中,,0,0,0,,It's raining, and this rain you'll come to find out is known as "Timefall",
+Dialogue: 0,0:37:42.57,0:37:46.41,辉中,,0,0,0,,It's raining, and this rain you'll come to find out is known as "timefall",
 Dialogue: 0,0:37:46.41,0:37:50.14,辉中,,0,0,0,,which makes everything it touches age at an extremely fast rate.
 Dialogue: 0,0:37:50.14,0:37:54.35,辉中,,0,0,0,,This has a ton of implications on game play in addition to the story
 Dialogue: 0,0:37:54.35,0:37:55.97,辉中,,0,0,0,,but again we'll get to that later.
@@ -860,7 +860,7 @@ Dialogue: 0,0:50:19.55,0:50:22.32,辉中,,0,0,0,,and how the gameplay could be e
 Dialogue: 0,0:50:22.32,0:50:25.18,辉中,,0,0,0,,But regardless I think this BT sequence is really pretty.
 Dialogue: 0,0:50:25.18,0:50:29.24,辉中,,0,0,0,,I think it serves a purpose and I really like it so … thumbs up!
 Dialogue: 0,0:50:29.24,0:50:32.00,辉中,,0,0,0,,You escape, make it back and you learned that you need to
-Dialogue: 0,0:50:32.00,0:50:37.75,辉中,,0,0,0,,quote unquote "expand the Chiral Network", to fulfill Bridget's vision for America.
+Dialogue: 0,0:50:32.00,0:50:37.75,辉中,,0,0,0,,quote-unquote "expand the Chiral Network", to fulfill Bridget's vision for America.
 Dialogue: 0,0:50:37.75,0:50:42.34,辉中,,0,0,0,,You're also introduced to Amelie which is a character that is … PAINFULLY unlikable
 Dialogue: 0,0:50:42.34,0:50:45.01,辉中,,0,0,0,,and has less charisma than a summer squash.
 Dialogue: 0,0:50:45.01,0:50:47.92,辉中,,0,0,0,,I know that this is probably more personal,
@@ -1036,7 +1036,7 @@ Dialogue: 0,1:03:28.36,1:03:33.02,辉中,,0,0,0,,and they don't understand the a
 Dialogue: 0,1:03:33.02,1:03:34.89,辉中,,0,0,0,,It doesn't make much sense to me.
 Dialogue: 0,1:03:34.89,1:03:37.86,辉中,,0,0,0,,Because having played, it it's pretty self-explanatory.
 Dialogue: 0,1:03:37.86,1:03:39.64,辉中,,0,0,0,,If you want to enjoy the world,
-Dialogue: 0,1:03:39.64,1:03:42.24,辉中,,0,0,0,,you have to be the one walking through it, 
+Dialogue: 0,1:03:39.64,1:03:42.24,辉中,,0,0,0,,you have to be the one walking through it,
 Dialogue: 0,1:03:42.24,1:03:45.51,辉中,,0,0,0,,building things in it, driving your motorcycle across it,
 Dialogue: 0,1:03:45.51,1:03:47.10,辉中,,0,0,0,,you have to do it.
 Dialogue: 0,1:03:47.10,1:03:51.04,辉中,,0,0,0,,But as to whether or not this is something that's going to appeal to everybody
@@ -1201,7 +1201,7 @@ Dialogue: 0,1:13:49.05,1:13:54.03,辉中,,0,0,0,,because it seems as though this
 Dialogue: 0,1:13:54.03,1:13:58.25,辉中,,0,0,0,,having their souls effectively destroyed in the incinerator.
 Dialogue: 0,1:13:58.25,1:14:02.81,辉中,,0,0,0,,Holding Lou, Sam walks out of the incinerator into the open air,
 Dialogue: 0,1:14:02.81,1:14:04.25,辉中,,0,0,0,,and it's actually raining,
-Dialogue: 0,1:14:04.25,1:14:08.53,辉中,,0,0,0,,although the Timefall doesn't seem to be having any sort of effect.
+Dialogue: 0,1:14:04.25,1:14:08.53,辉中,,0,0,0,,although the timefall doesn't seem to be having any sort of effect.
 Dialogue: 0,1:14:08.53,1:14:10.88,辉中,,0,0,0,,It's just normal rain.
 Dialogue: 0,1:14:10.88,1:14:16.09,辉中,,0,0,0,,Furthermore there is a full rainbow behind them which is extremely bright.
 Dialogue: 0,1:14:16.09,1:14:17.93,辉中,,0,0,0,,And also shows the color blue
@@ -1217,7 +1217,7 @@ Dialogue: 0,1:14:45.19,1:14:50.58,辉中,,0,0,0,,What I will say is that it's a 
 Dialogue: 0,1:14:50.58,1:14:53.87,辉中,,0,0,0,,even if I don't completely understand what's going on.
 Dialogue: 0,1:14:53.87,1:14:59.88,辉中,,0,0,0,,Why was BB able to be restored even though necrosisation was starting to set in.
 Dialogue: 0,1:14:59.88,1:15:03.10,辉中,,0,0,0,,BB was clearly dead, what brought her back?
-Dialogue: 0,1:15:03.10,1:15:06.37,辉中,,0,0,0,,Why does the Timefall all of a sudden end at this point?
+Dialogue: 0,1:15:03.10,1:15:06.37,辉中,,0,0,0,,Why does the timefall all of a sudden end at this point?
 Dialogue: 0,1:15:06.37,1:15:11.31,辉中,,0,0,0,,Why is blue all of a sudden present in the rainbow just because a baby came back to life?
 Dialogue: 0,1:15:11.31,1:15:13.73,辉中,,0,0,0,,I'm not … entirely sure …
 Dialogue: 0,1:15:13.73,1:15:16.51,辉中,,0,0,0,,But again that's probably not the point.
@@ -1231,266 +1231,170 @@ Dialogue: 0,1:15:35.13,1:15:38.14,辉中,,0,0,0,,and a quick reading that shows 
 Dialogue: 0,1:15:38.14,1:15:43.30,辉中,,0,0,0,,And this is what I meant earlier when I said that chapter 15 is basically indefinite.
 Dialogue: 0,1:15:43.30,1:15:48.38,辉中,,0,0,0,,It goes on forever even though it's just two weeks before the presidential inauguration.
 Dialogue: 0,1:15:48.38,1:15:51.49,辉中,,0,0,0,,This is effectively Death Stranding's endgame state.
-Dialogue: 0,1:15:51.49,1:15:54.30,辉中,,0,0,0,,It goes on forever and it will allow the player to continue making
-Dialogue: 0,1:15:54.30,1:15:56.91,辉中,,0,0,0,,deliveries five-star locations find and
-Dialogue: 0,1:15:56.91,1:15:58.56,辉中,,0,0,0,,hunt down all of the memory chips and
-Dialogue: 0,1:15:58.56,1:16:00.45,辉中,,0,0,0,,complete any other things that they
-Dialogue: 0,1:16:00.45,1:16:02.34,辉中,,0,0,0,,might have left undone now overall the
-Dialogue: 0,1:16:02.34,1:16:04.98,辉中,,0,0,0,,story while it is kind of bizarre and
-Dialogue: 0,1:16:04.98,1:16:08.16,辉中,,0,0,0,,crazy it is thought through and it does
-Dialogue: 0,1:16:08.16,1:16:10.59,辉中,,0,0,0,,have justifications and rules that
-Dialogue: 0,1:16:10.59,1:16:12.51,辉中,,0,0,0,,govern it which is what I said at the
-Dialogue: 0,1:16:12.51,1:16:14.70,辉中,,0,0,0,,beginning I was looking for however
-Dialogue: 0,1:16:14.70,1:16:16.47,辉中,,0,0,0,,there are a couple of missed
-Dialogue: 0,1:16:16.47,1:16:19.05,辉中,,0,0,0,,opportunities I can't help to wonder why
-Dialogue: 0,1:16:19.05,1:16:21.27,辉中,,0,0,0,,Kojima didn't explore more they might
-Dialogue: 0,1:16:21.27,1:16:22.89,辉中,,0,0,0,,have been that it just felt like it
-Dialogue: 0,1:16:22.89,1:16:25.17,辉中,,0,0,0,,wasn't focused or it might have been
-Dialogue: 0,1:16:25.17,1:16:26.76,辉中,,0,0,0,,something that never occurred to him I'm
-Dialogue: 0,1:16:26.76,1:16:28.89,辉中,,0,0,0,,not entirely sure specifically something
-Dialogue: 0,1:16:28.89,1:16:30.93,辉中,,0,0,0,,such as the discussion that has to do
-Dialogue: 0,1:16:30.93,1:16:33.63,辉中,,0,0,0,,with BB's and slavery this is briefly
-Dialogue: 0,1:16:33.63,1:16:34.98,辉中,,0,0,0,,touched on but it's not really
-Dialogue: 0,1:16:34.98,1:16:37.92,辉中,,0,0,0,,elaborated upon specifically babies come
-Dialogue: 0,1:16:37.92,1:16:39.66,辉中,,0,0,0,,from mothers who died while pregnant
-Dialogue: 0,1:16:39.66,1:16:41.46,辉中,,0,0,0,,which is why those mothers are called
-Dialogue: 0,1:16:41.46,1:16:43.65,辉中,,0,0,0,,still mothers there are also other times
-Dialogue: 0,1:16:43.65,1:16:45.93,辉中,,0,0,0,,that this concept is applied within the
-Dialogue: 0,1:16:45.93,1:16:47.76,辉中,,0,0,0,,world of Death Strandings such as with
-Dialogue: 0,1:16:47.76,1:16:50.13,辉中,,0,0,0,,mama who we know was to give birth but
-Dialogue: 0,1:16:50.13,1:16:52.35,辉中,,0,0,0,,was trapped in rubble after the death
-Dialogue: 0,1:16:52.35,1:16:54.06,辉中,,0,0,0,,stranding which resulted in the baby
-Dialogue: 0,1:16:54.06,1:16:56.40,辉中,,0,0,0,,becoming caught between the world of the
-Dialogue: 0,1:16:56.40,1:16:56.85,辉中,,0,0,0,,living
-Dialogue: 0,1:16:56.85,1:16:59.49,辉中,,0,0,0,,and the beach or the world of the dead
-Dialogue: 0,1:16:59.49,1:17:01.53,辉中,,0,0,0,,this is of course why babies are able to
-Dialogue: 0,1:17:01.53,1:17:05.13,辉中,,0,0,0,,detect BTS and can show them to the
-Dialogue: 0,1:17:05.13,1:17:07.44,辉中,,0,0,0,,operator that has them strapped to their
-Dialogue: 0,1:17:07.44,1:17:07.80,辉中,,0,0,0,,bellies
-Dialogue: 0,1:17:07.80,1:17:09.66,辉中,,0,0,0,,now while Kojima does have a lot of
-Dialogue: 0,1:17:09.66,1:17:11.22,辉中,,0,0,0,,writing in here that discusses the
-Dialogue: 0,1:17:11.22,1:17:14.01,辉中,,0,0,0,,inherent value of human life even as a
-Dialogue: 0,1:17:14.01,1:17:16.71,辉中,,0,0,0,,baby he never really touches on the idea
-Dialogue: 0,1:17:16.71,1:17:18.36,辉中,,0,0,0,,that you are literally taking an
-Dialogue: 0,1:17:18.36,1:17:21.81,辉中,,0,0,0,,independent human as prisoner and you're
-Dialogue: 0,1:17:21.81,1:17:23.70,辉中,,0,0,0,,going to dispose of them once they're no
-Dialogue: 0,1:17:23.70,1:17:26.82,辉中,,0,0,0,,longer useful as Deadman says it's a
-Dialogue: 0,1:17:26.82,1:17:29.09,辉中,,0,0,0,,tool
-Dialogue: 0,1:17:30.10,1:17:36.62,辉中,,0,0,0,,that's cuz we're partners partners Sam a
-Dialogue: 0,1:17:36.62,1:17:39.67,辉中,,0,0,0,,B B's a tool not a human-being
-Dialogue: 0,1:17:39.67,1:17:43.97,辉中,,0,0,0,,bridge yes baby no and they don't really
-Dialogue: 0,1:17:43.97,1:17:46.19,辉中,,0,0,0,,explore this very much they do touch on
-Dialogue: 0,1:17:46.19,1:17:48.32,辉中,,0,0,0,,the idea pretty aggressively that the BB
-Dialogue: 0,1:17:48.32,1:17:50.57,辉中,,0,0,0,,is becoming sentient the 3b is becoming
-Dialogue: 0,1:17:50.57,1:17:53.03,辉中,,0,0,0,,human and it's going to start growing
-Dialogue: 0,1:17:53.03,1:17:55.28,辉中,,0,0,0,,like a regular human very soon this is
-Dialogue: 0,1:17:55.28,1:17:57.23,辉中,,0,0,0,,of course why Deadman has to take the BB
-Dialogue: 0,1:17:57.23,1:17:59.00,辉中,,0,0,0,,away from the player roughly halfway
-Dialogue: 0,1:17:59.00,1:18:00.47,辉中,,0,0,0,,through the game in order to perform an
-Dialogue: 0,1:18:00.47,1:18:02.51,辉中,,0,0,0,,operation to separate it from the
-Dialogue: 0,1:18:02.51,1:18:05.06,辉中,,0,0,0,,humanity that's pulling it out of the
-Dialogue: 0,1:18:05.06,1:18:06.92,辉中,,0,0,0,,world of the dead and closer to the
-Dialogue: 0,1:18:06.92,1:18:08.54,辉中,,0,0,0,,world of the living and this is what
-Dialogue: 0,1:18:08.54,1:18:10.34,辉中,,0,0,0,,partially makes me think that kojima had
-Dialogue: 0,1:18:10.34,1:18:12.32,辉中,,0,0,0,,thought of this and simply decided to
-Dialogue: 0,1:18:12.32,1:18:14.93,辉中,,0,0,0,,focus on the more pro-life discussion
-Dialogue: 0,1:18:14.93,1:18:17.30,辉中,,0,0,0,,having to do with the bb's the idea that
-Dialogue: 0,1:18:17.30,1:18:20.00,辉中,,0,0,0,,these infants still have value as human
-Dialogue: 0,1:18:20.00,1:18:22.76,辉中,,0,0,0,,life even though they're just infants
-Dialogue: 0,1:18:22.76,1:18:24.35,辉中,,0,0,0,,they're contained within a tank they
-Dialogue: 0,1:18:24.35,1:18:25.76,辉中,,0,0,0,,don't have much of anything by way of
-Dialogue: 0,1:18:25.76,1:18:28.52,辉中,,0,0,0,,autonomy but they still are valuable so
-Dialogue: 0,1:18:28.52,1:18:30.35,辉中,,0,0,0,,it could be that Kojima just decided
-Dialogue: 0,1:18:30.35,1:18:32.84,辉中,,0,0,0,,that the discussion on slavery would
-Dialogue: 0,1:18:32.84,1:18:34.88,辉中,,0,0,0,,have been too much and wasn't worth
-Dialogue: 0,1:18:34.88,1:18:37.22,辉中,,0,0,0,,pursuing or maybe he just didn't think
-Dialogue: 0,1:18:37.22,1:18:39.80,辉中,,0,0,0,,to add it in I'm not entirely sure
-Dialogue: 0,1:18:39.80,1:18:41.75,辉中,,0,0,0,,either way it could have been cool to
-Dialogue: 0,1:18:41.75,1:18:44.36,辉中,,0,0,0,,see him explore the idea of beb├ęs being
-Dialogue: 0,1:18:44.36,1:18:47.15,辉中,,0,0,0,,enslaved to a more powerful master and
-Dialogue: 0,1:18:47.15,1:18:49.88,辉中,,0,0,0,,not having any way of fighting it or
-Dialogue: 0,1:18:49.88,1:18:52.16,辉中,,0,0,0,,claiming their own independence I'm not
-Dialogue: 0,1:18:52.16,1:18:53.21,辉中,,0,0,0,,really sure let me know your thoughts
-Dialogue: 0,1:18:53.21,1:18:55.13,辉中,,0,0,0,,below another thing that struck me is
-Dialogue: 0,1:18:55.13,1:18:56.57,辉中,,0,0,0,,weird throughout the course of the story
-Dialogue: 0,1:18:56.57,1:18:58.22,辉中,,0,0,0,,is the fact that they break the fourth
-Dialogue: 0,1:18:58.22,1:19:00.92,辉中,,0,0,0,,wall all the time and I'm not entirely
-Dialogue: 0,1:19:00.92,1:19:03.02,辉中,,0,0,0,,sure why now of course you could say
-Dialogue: 0,1:19:03.02,1:19:04.97,辉中,,0,0,0,,that this is just Kojima style and
-Dialogue: 0,1:19:04.97,1:19:06.83,辉中,,0,0,0,,that's what he likes to do so to judge
-Dialogue: 0,1:19:06.83,1:19:09.50,辉中,,0,0,0,,it is simply unfair however as I
-Dialogue: 0,1:19:09.50,1:19:11.60,辉中,,0,0,0,,discussed earlier the world that death
-Dialogue: 0,1:19:11.60,1:19:13.34,辉中,,0,0,0,,straining is taking place within has to
-Dialogue: 0,1:19:13.34,1:19:15.26,辉中,,0,0,0,,be consistent and it has to live by its
-Dialogue: 0,1:19:15.26,1:19:18.65,辉中,,0,0,0,,own rules preferably at all times and
-Dialogue: 0,1:19:18.65,1:19:20.99,辉中,,0,0,0,,for the most part it succeeds in this
-Dialogue: 0,1:19:20.99,1:19:23.93,辉中,,0,0,0,,the game seems to want players to be
-Dialogue: 0,1:19:23.93,1:19:26.24,辉中,,0,0,0,,immersed at all times with the realistic
-Dialogue: 0,1:19:26.24,1:19:28.34,辉中,,0,0,0,,graphics and the traversal system being
-Dialogue: 0,1:19:28.34,1:19:30.92,辉中,,0,0,0,,very realistic but at the same time
-Dialogue: 0,1:19:30.92,1:19:33.59,辉中,,0,0,0,,Sam breaks the fourth wall constantly
-Dialogue: 0,1:19:33.59,1:19:35.78,辉中,,0,0,0,,though in fairness it is mostly
-Dialogue: 0,1:19:35.78,1:19:38.33,辉中,,0,0,0,,relegated to the private room it feels
-Dialogue: 0,1:19:38.33,1:19:41.77,辉中,,0,0,0,,weird ride with Norman Reedus AMC
-Dialogue: 0,1:19:41.77,1:19:44.47,辉中,,0,0,0,,as an ad on the bathroom while he poops
-Dialogue: 0,1:19:44.47,1:19:47.26,辉中,,0,0,0,,it's really weird and out of place I'm
-Dialogue: 0,1:19:47.26,1:19:49.33,辉中,,0,0,0,,not really sure why it's here plus if
-Dialogue: 0,1:19:49.33,1:19:50.74,辉中,,0,0,0,,you leave the camera sitting on him too
-Dialogue: 0,1:19:50.74,1:19:52.78,辉中,,0,0,0,,long he'll gesture at you and he'll
-Dialogue: 0,1:19:52.78,1:19:54.43,辉中,,0,0,0,,stare at you make funny faces at you
-Dialogue: 0,1:19:54.43,1:19:58.69,辉中,,0,0,0,,it's fun but it's weird if I were
-Dialogue: 0,1:19:58.69,1:20:00.61,辉中,,0,0,0,,directing the game I would have cut all
-Dialogue: 0,1:20:00.61,1:20:02.32,辉中,,0,0,0,,of this because in my opinion it's not
-Dialogue: 0,1:20:02.32,1:20:04.24,辉中,,0,0,0,,worth the trouble it pulls the player
-Dialogue: 0,1:20:04.24,1:20:06.40,辉中,,0,0,0,,out of the game and while you are in a
-Dialogue: 0,1:20:06.40,1:20:08.26,辉中,,0,0,0,,private room when these things happen I
-Dialogue: 0,1:20:08.26,1:20:10.21,辉中,,0,0,0,,don't think that that's an excuse though
-Dialogue: 0,1:20:10.21,1:20:12.22,辉中,,0,0,0,,I will admit that this is probably a
-Dialogue: 0,1:20:12.22,1:20:13.78,辉中,,0,0,0,,matter of personal preference
-Dialogue: 0,1:20:13.78,1:20:15.61,辉中,,0,0,0,,some people will mind it such as myself
-Dialogue: 0,1:20:15.61,1:20:17.89,辉中,,0,0,0,,others don't mind that at all and some
-Dialogue: 0,1:20:17.89,1:20:20.02,辉中,,0,0,0,,I'm sure really enjoy it now of course
-Dialogue: 0,1:20:20.02,1:20:22.27,辉中,,0,0,0,,these fourth wall breaks and these think
-Dialogue: 0,1:20:22.27,1:20:24.25,辉中,,0,0,0,,outside the box mechanics are nothing
-Dialogue: 0,1:20:24.25,1:20:27.04,辉中,,0,0,0,,new to Kojima as somebody sent me on
-Dialogue: 0,1:20:27.04,1:20:29.65,辉中,,0,0,0,,Twitter Metal Gear Solid has a sequence
-Dialogue: 0,1:20:29.65,1:20:31.84,辉中,,0,0,0,,like this when snake is fighting mantis
-Dialogue: 0,1:20:31.84,1:20:33.97,辉中,,0,0,0,,you actually have to change the port
-Dialogue: 0,1:20:33.97,1:20:36.25,辉中,,0,0,0,,that the controller is connected into in
-Dialogue: 0,1:20:36.25,1:20:38.41,辉中,,0,0,0,,order to complete the game and continue
-Dialogue: 0,1:20:38.41,1:20:40.93,辉中,,0,0,0,,on which is kind of funny imagine doing
-Dialogue: 0,1:20:40.93,1:20:43.09,辉中,,0,0,0,,that today it's weird because Kojima
-Dialogue: 0,1:20:43.09,1:20:45.40,辉中,,0,0,0,,talks about being an artistic purist and
-Dialogue: 0,1:20:45.40,1:20:47.68,辉中,,0,0,0,,describes how he thinks Americans don't
-Dialogue: 0,1:20:47.68,1:20:50.08,辉中,,0,0,0,,have artistic sensibilities but he's the
-Dialogue: 0,1:20:50.08,1:20:52.39,辉中,,0,0,0,,one putting paid product placement in
-Dialogue: 0,1:20:52.39,1:20:54.76,辉中,,0,0,0,,his games with the monster energy drinks
-Dialogue: 0,1:20:54.76,1:20:58.33,辉中,,0,0,0,,and the AMC ads can you imagine what
-Dialogue: 0,1:20:58.33,1:21:00.49,辉中,,0,0,0,,people would say if Todd Howard started
-Dialogue: 0,1:21:00.49,1:21:03.61,辉中,,0,0,0,,putting Tesla ads and fallout or elder
-Dialogue: 0,1:21:03.61,1:21:06.82,辉中,,0,0,0,,scrolls people would rightly lose their
-Dialogue: 0,1:21:06.82,1:21:07.90,辉中,,0,0,0,,minds
-Dialogue: 0,1:21:07.90,1:21:10.54,辉中,,0,0,0,,the only reason Kojima gets a break is
-Dialogue: 0,1:21:10.54,1:21:13.48,辉中,,0,0,0,,again Kojima syndrome now don't get me
-Dialogue: 0,1:21:13.48,1:21:15.34,辉中,,0,0,0,,wrong fourth wall breaks can be done
-Dialogue: 0,1:21:15.34,1:21:17.47,辉中,,0,0,0,,well even in narrative focused games
-Dialogue: 0,1:21:17.47,1:21:20.32,辉中,,0,0,0,,look at the lost legacy tower sequence
-Dialogue: 0,1:21:20.32,1:21:22.39,辉中,,0,0,0,,for instance here there's a tower you
-Dialogue: 0,1:21:22.39,1:21:24.61,辉中,,0,0,0,,can find and there's a very narrow route
-Dialogue: 0,1:21:24.61,1:21:26.95,辉中,,0,0,0,,that you can climb up optionally and if
-Dialogue: 0,1:21:26.95,1:21:28.54,辉中,,0,0,0,,you get to the top of it and you hang
-Dialogue: 0,1:21:28.54,1:21:30.01,辉中,,0,0,0,,out there for an extended period of time
-Dialogue: 0,1:21:30.01,1:21:32.71,辉中,,0,0,0,,Chloe will start to tease you and will
-Dialogue: 0,1:21:32.71,1:21:34.30,辉中,,0,0,0,,actually break the fourth wall however
-Dialogue: 0,1:21:34.30,1:21:36.52,辉中,,0,0,0,,things like the otter hat that you get
-Dialogue: 0,1:21:36.52,1:21:38.20,辉中,,0,0,0,,from Conan O'Brien with in death
-Dialogue: 0,1:21:38.20,1:21:40.66,辉中,,0,0,0,,stranding are somehow both weird and
-Dialogue: 0,1:21:40.66,1:21:43.87,辉中,,0,0,0,,perfectly in place it's really bizarre
-Dialogue: 0,1:21:43.87,1:21:45.94,辉中,,0,0,0,,but you can't help but feel as though
-Dialogue: 0,1:21:45.94,1:21:47.95,辉中,,0,0,0,,Kojima didn't take all of this very
-Dialogue: 0,1:21:47.95,1:21:50.89,辉中,,0,0,0,,seriously which I also to appreciate I
-Dialogue: 0,1:21:50.89,1:21:52.66,辉中,,0,0,0,,mean their video games and all
-Dialogue: 0,1:21:52.66,1:21:54.88,辉中,,0,0,0,,customization is like this from changing
-Dialogue: 0,1:21:54.88,1:21:55.46,辉中,,0,0,0,,paints
-Dialogue: 0,1:21:55.46,1:21:57.86,辉中,,0,0,0,,two glasses two otter hoods it's all fun
-Dialogue: 0,1:21:57.86,1:21:59.60,辉中,,0,0,0,,and though it doesn't mean much in the
-Dialogue: 0,1:21:59.60,1:22:01.82,辉中,,0,0,0,,story it's a welcome addition even if it
-Dialogue: 0,1:22:01.82,1:22:04.37,辉中,,0,0,0,,doesn't make sense in terms of bridges
-Dialogue: 0,1:22:04.37,1:22:06.53,辉中,,0,0,0,,having standardized uniforms that
-Dialogue: 0,1:22:06.53,1:22:08.78,辉中,,0,0,0,,everybody is expected to wear but the
-Dialogue: 0,1:22:08.78,1:22:10.43,辉中,,0,0,0,,point is while the fourth wall breaks
-Dialogue: 0,1:22:10.43,1:22:13.04,辉中,,0,0,0,,may bug me I can understand why they
-Dialogue: 0,1:22:13.04,1:22:15.44,辉中,,0,0,0,,might not bother other people I think it
-Dialogue: 0,1:22:15.44,1:22:17.30,辉中,,0,0,0,,is a matter of personal preference it
-Dialogue: 0,1:22:17.30,1:22:19.22,辉中,,0,0,0,,just bothers me though it might not
-Dialogue: 0,1:22:19.22,1:22:21.26,辉中,,0,0,0,,bother you but with all of that let's
-Dialogue: 0,1:22:21.26,1:22:23.21,辉中,,0,0,0,,discuss the gameplay and the systems
-Dialogue: 0,1:22:23.21,1:22:24.86,辉中,,0,0,0,,that make Death Stranding work so
-Dialogue: 0,1:22:24.86,1:22:26.54,辉中,,0,0,0,,obviously a lot of people have said that
-Dialogue: 0,1:22:26.54,1:22:28.46,辉中,,0,0,0,,Death Strandings gameplay loop is
-Dialogue: 0,1:22:28.46,1:22:31.25,辉中,,0,0,0,,quote-unquote boring to determine if
-Dialogue: 0,1:22:31.25,1:22:33.05,辉中,,0,0,0,,this is true let's look at what your
-Dialogue: 0,1:22:33.05,1:22:35.06,辉中,,0,0,0,,average mission is going to be comprised
-Dialogue: 0,1:22:35.06,1:22:37.46,辉中,,0,0,0,,of let's start with story missions in
-Dialogue: 0,1:22:37.46,1:22:38.60,辉中,,0,0,0,,this case we're going to look at a
-Dialogue: 0,1:22:38.60,1:22:40.70,辉中,,0,0,0,,random order in the mid game now in this
-Dialogue: 0,1:22:40.70,1:22:42.41,辉中,,0,0,0,,order we have 60 minutes to collect
-Dialogue: 0,1:22:42.41,1:22:44.45,辉中,,0,0,0,,medical devices from one character in
-Dialogue: 0,1:22:44.45,1:22:46.19,辉中,,0,0,0,,the mountainous area and then deliver
-Dialogue: 0,1:22:46.19,1:22:48.20,辉中,,0,0,0,,them back to the area where we accepted
-Dialogue: 0,1:22:48.20,1:22:50.42,辉中,,0,0,0,,the order in other words a fetch quest
-Dialogue: 0,1:22:50.42,1:22:52.10,辉中,,0,0,0,,now this is actually one of the more
-Dialogue: 0,1:22:52.10,1:22:53.99,辉中,,0,0,0,,elaborate order types that you can get
-Dialogue: 0,1:22:53.99,1:22:55.58,辉中,,0,0,0,,because it involves multiple stops
-Dialogue: 0,1:22:55.58,1:22:58.40,辉中,,0,0,0,,simpler orders just give you items with
-Dialogue: 0,1:22:58.40,1:23:00.53,辉中,,0,0,0,,the destination so you accept the order
-Dialogue: 0,1:23:00.53,1:23:02.12,辉中,,0,0,0,,and get told that you need to deliver
-Dialogue: 0,1:23:02.12,1:23:04.07,辉中,,0,0,0,,the items quickly and furthermore that
-Dialogue: 0,1:23:04.07,1:23:05.51,辉中,,0,0,0,,the items that you're picking up are
-Dialogue: 0,1:23:05.51,1:23:07.82,辉中,,0,0,0,,classified as fragile which means that
-Dialogue: 0,1:23:07.82,1:23:10.07,辉中,,0,0,0,,you can't drop the packages often you
-Dialogue: 0,1:23:10.07,1:23:12.77,辉中,,0,0,0,,can't go in water etc basically you have
-Dialogue: 0,1:23:12.77,1:23:15.05,辉中,,0,0,0,,to be extra careful you select your gear
-Dialogue: 0,1:23:15.05,1:23:17.72,辉中,,0,0,0,,and load Sam up with any ladders pcc's
-Dialogue: 0,1:23:17.72,1:23:19.97,辉中,,0,0,0,,climbing anchors extra boots or weapons
-Dialogue: 0,1:23:19.97,1:23:22.13,辉中,,0,0,0,,that you may need then you set out and
-Dialogue: 0,1:23:22.13,1:23:23.96,辉中,,0,0,0,,you begin hiking in this case I'm not
-Dialogue: 0,1:23:23.96,1:23:25.82,辉中,,0,0,0,,going to use any vehicles because we're
-Dialogue: 0,1:23:25.82,1:23:27.23,辉中,,0,0,0,,going through a mountainous area and
-Dialogue: 0,1:23:27.23,1:23:29.78,辉中,,0,0,0,,they aren't particularly useful in this
-Dialogue: 0,1:23:29.78,1:23:32.15,辉中,,0,0,0,,rocky snowy area this is what would
-Dialogue: 0,1:23:32.15,1:23:33.77,辉中,,0,0,0,,usually be considered a more difficult
-Dialogue: 0,1:23:33.77,1:23:36.32,辉中,,0,0,0,,mission specifically because it's in the
-Dialogue: 0,1:23:36.32,1:23:38.51,辉中,,0,0,0,,snowy mountainous area not once in my
-Dialogue: 0,1:23:38.51,1:23:40.91,辉中,,0,0,0,,over 100 hours with Death Stranding did
-Dialogue: 0,1:23:40.91,1:23:43.16,辉中,,0,0,0,,I encounter a mission where I failed the
-Dialogue: 0,1:23:43.16,1:23:44.18,辉中,,0,0,0,,time limit
-Dialogue: 0,1:23:44.18,1:23:46.07,辉中,,0,0,0,,the only time I had any difficulty was
-Dialogue: 0,1:23:46.07,1:23:48.44,辉中,,0,0,0,,when the items were fragile or when I
-Dialogue: 0,1:23:48.44,1:23:50.78,辉中,,0,0,0,,was completing multiple orders all at
-Dialogue: 0,1:23:50.78,1:23:53.00,辉中,,0,0,0,,once loading up with four or five orders
-Dialogue: 0,1:23:53.00,1:23:55.70,辉中,,0,0,0,,at a given time and so the way that the
-Dialogue: 0,1:23:55.70,1:23:57.77,辉中,,0,0,0,,game dynamically alters the difficulty
-Dialogue: 0,1:23:57.77,1:23:59.51,辉中,,0,0,0,,is with the routes that they'll have you
-Dialogue: 0,1:23:59.51,1:24:01.91,辉中,,0,0,0,,do this is why long routes tend to
-Dialogue: 0,1:24:01.91,1:24:04.19,辉中,,0,0,0,,reward you with more likes and routes
-Dialogue: 0,1:24:04.19,1:24:06.38,辉中,,0,0,0,,that go into the mountains also do the
-Dialogue: 0,1:24:06.38,1:24:08.27,辉中,,0,0,0,,same now you can unlock certain items
-Dialogue: 0,1:24:08.27,1:24:09.02,辉中,,0,0,0,,that makes
-Dialogue: 0,1:24:09.02,1:24:11.30,辉中,,0,0,0,,traversal and mountain traversal easier
-Dialogue: 0,1:24:11.30,1:24:13.43,辉中,,0,0,0,,for instance lots of ladders climbing
-Dialogue: 0,1:24:13.43,1:24:15.26,辉中,,0,0,0,,anchors that you can level up power
-Dialogue: 0,1:24:15.26,1:24:18.26,辉中,,0,0,0,,gloves the all-terrain exoskeleton and
-Dialogue: 0,1:24:18.26,1:24:19.91,辉中,,0,0,0,,of course the zip lines which you can
-Dialogue: 0,1:24:19.91,1:24:21.08,辉中,,0,0,0,,use to set up routes
-Dialogue: 0,1:24:21.08,1:24:23.57,辉中,,0,0,0,,after you've initially explored them so
-Dialogue: 0,1:24:23.57,1:24:25.82,辉中,,0,0,0,,with all this in mind I continued hiking
-Dialogue: 0,1:24:25.82,1:24:28.19,辉中,,0,0,0,,eventually I reached a cliff top where I
-Dialogue: 0,1:24:28.19,1:24:30.11,辉中,,0,0,0,,could have just dropped a ladder or a
-Dialogue: 0,1:24:30.11,1:24:31.85,辉中,,0,0,0,,climbing anchor to descend and then
-Dialogue: 0,1:24:31.85,1:24:33.83,辉中,,0,0,0,,cross by foot but I happen to know that
-Dialogue: 0,1:24:33.83,1:24:37.43,辉中,,0,0,0,,this area is infested with BTS so I
-Dialogue: 0,1:24:37.43,1:24:39.47,辉中,,0,0,0,,decided to build a zipline which allowed
-Dialogue: 0,1:24:39.47,1:24:42.02,辉中,,0,0,0,,me to completely skip this area which
-Dialogue: 0,1:24:42.02,1:24:44.75,辉中,,0,0,0,,effectively skips five to ten minutes of
-Dialogue: 0,1:24:44.75,1:24:47.21,辉中,,0,0,0,,navigation don't worry we're gonna go
-Dialogue: 0,1:24:47.21,1:24:48.89,辉中,,0,0,0,,into a lot of detail with these zip
-Dialogue: 0,1:24:48.89,1:24:50.72,辉中,,0,0,0,,lines in just a bit I reach to the
-Dialogue: 0,1:24:50.72,1:24:52.88,辉中,,0,0,0,,bottom and continue hiking eventually I
-Dialogue: 0,1:24:52.88,1:24:54.59,辉中,,0,0,0,,pick up the items and then the entire
-Dialogue: 0,1:24:54.59,1:24:56.24,辉中,,0,0,0,,process repeats as you're return
-Dialogue: 0,1:24:56.24,1:24:57.86,辉中,,0,0,0,,now when you drop off the items you are
-Dialogue: 0,1:24:57.86,1:24:59.78,辉中,,0,0,0,,graded on the condition that the
-Dialogue: 0,1:24:59.78,1:25:02.72,辉中,,0,0,0,,packages are in this can be both the
-Dialogue: 0,1:25:02.72,1:25:05.66,辉中,,0,0,0,,quality of the outside container in
-Dialogue: 0,1:25:05.66,1:25:08.51,辉中,,0,0,0,,addition to the quality of the internal
-Dialogue: 0,1:25:08.51,1:25:10.67,辉中,,0,0,0,,item which can experience damage if you
-Dialogue: 0,1:25:10.67,1:25:12.65,辉中,,0,0,0,,aren't careful for instance if you fall
-Dialogue: 0,1:25:12.65,1:25:15.23,辉中,,0,0,0,,off of a ladder you'll fall take damage
-Dialogue: 0,1:25:15.23,1:25:17.45,辉中,,0,0,0,,and the packages will be worth less when
-Dialogue: 0,1:25:17.45,1:25:19.01,辉中,,0,0,0,,they're eventually delivered there are
-Dialogue: 0,1:25:19.01,1:25:20.90,辉中,,0,0,0,,however ways to deal with this for
-Dialogue: 0,1:25:20.90,1:25:22.70,辉中,,0,0,0,,instance with the time fall shelters if
+Dialogue: 0,1:15:51.49,1:15:55.13,辉中,,0,0,0,,It goes on forever and it will allow the player to continue making deliveries,
+Dialogue: 0,1:15:55.13,1:15:58.56,辉中,,0,0,0,,five-star locations, find and hunt down all of the memory chips,
+Dialogue: 0,1:15:58.56,1:16:01.58,辉中,,0,0,0,,and complete any other things that they might have left undone.
+Dialogue: 0,1:16:01.58,1:16:06.10,辉中,,0,0,0,,Now overall the story while it is kind of bizarre and crazy,
+Dialogue: 0,1:16:06.10,1:16:11.23,辉中,,0,0,0,,it is thought through, and it does have justifications and rules that govern it,
+Dialogue: 0,1:16:11.23,1:16:14.48,辉中,,0,0,0,,which is what I said at the beginning I was looking for.
+Dialogue: 0,1:16:14.48,1:16:17.39,辉中,,0,0,0,,However there are a couple of missed opportunities
+Dialogue: 0,1:16:17.39,1:16:20.96,辉中,,0,0,0,,I can't help to wonder why Kojima didn't explore more.
+Dialogue: 0,1:16:20.96,1:16:24.16,辉中,,0,0,0,,They might have been that it just felt like it wasn't focused,
+Dialogue: 0,1:16:24.16,1:16:27.98,辉中,,0,0,0,,or it might have been something that never occurred to him, I'm not entirely sure.
+Dialogue: 0,1:16:27.98,1:16:32.90,辉中,,0,0,0,,Specifically something such as the discussion that has to do with BB's and slavery.
+Dialogue: 0,1:16:32.90,1:16:36.30,辉中,,0,0,0,,This is briefly touched on but it's not really elaborated upon.
+Dialogue: 0,1:16:36.30,1:16:39.66,辉中,,0,0,0,,Specifically, babies come from mothers who died while pregnant,
+Dialogue: 0,1:16:39.66,1:16:42.53,辉中,,0,0,0,,which is why those mothers are called still mothers.
+Dialogue: 0,1:16:42.53,1:16:47.27,辉中,,0,0,0,,There are also other times that this concept is applied within the world of Death Stranding,
+Dialogue: 0,1:16:47.27,1:16:49.99,辉中,,0,0,0,,such as with mama, who we know was to give birth
+Dialogue: 0,1:16:49.99,1:16:52.94,辉中,,0,0,0,,but was trapped in rubble after the Death Stranding
+Dialogue: 0,1:16:52.94,1:16:55.01,辉中,,0,0,0,,which resulted in the baby becoming caught
+Dialogue: 0,1:16:55.01,1:16:59.88,辉中,,0,0,0,,between the world of the living, and the beach or the world of the dead.
+Dialogue: 0,1:16:59.88,1:17:02.85,辉中,,0,0,0,,This is of course why BBs are able to detect BTs
+Dialogue: 0,1:17:02.85,1:17:08.08,辉中,,0,0,0,,and can show them to the operator that has them strapped to their bellies.
+Dialogue: 0,1:17:08.08,1:17:10.34,辉中,,0,0,0,,Now while Kojima does have a lot of writing in here,
+Dialogue: 0,1:17:10.34,1:17:15.04,辉中,,0,0,0,,that discusses the inherent value of human life even as a baby,
+Dialogue: 0,1:17:15.04,1:17:16.81,辉中,,0,0,0,,he never really touches on the idea
+Dialogue: 0,1:17:16.81,1:17:21.41,辉中,,0,0,0,,that you are literally taking an independent human as prisoner,
+Dialogue: 0,1:17:21.41,1:17:24.93,辉中,,0,0,0,,and you're going to dispose of them once they're no longer useful
+Dialogue: 0,1:17:24.93,1:17:27.33,辉中,,0,0,0,,As Deadman says, it's a tool.
+Dialogue: 0,1:17:43.30,1:17:45.50,辉中,,0,0,0,,And they don't really explore this very much.
+Dialogue: 0,1:17:45.50,1:17:47.79,辉中,,0,0,0,,They do touch on the idea pretty aggressively
+Dialogue: 0,1:17:47.79,1:17:51.39,辉中,,0,0,0,,that the BB is becoming sentient, the BB is becoming human.
+Dialogue: 0,1:17:51.39,1:17:55.05,辉中,,0,0,0,,And it's going to start growing like a regular human very soon.
+Dialogue: 0,1:17:55.05,1:17:58.33,辉中,,0,0,0,,This is of course why Deadman has to take the BB away from the player
+Dialogue: 0,1:17:58.33,1:18:01.39,辉中,,0,0,0,,roughly halfway through the game in order to perform an operation
+Dialogue: 0,1:18:01.39,1:18:03.65,辉中,,0,0,0,,to separate it from the humanity
+Dialogue: 0,1:18:03.65,1:18:07.96,辉中,,0,0,0,,that's pulling it out of the world of the dead and closer to the world of the living.
+Dialogue: 0,1:18:07.96,1:18:11.04,辉中,,0,0,0,,And this is what partially makes me think that kojima had thought of this
+Dialogue: 0,1:18:11.04,1:18:16.54,辉中,,0,0,0,,and simply decided to focus on the more pro-life discussion having to do with the BB's,
+Dialogue: 0,1:18:16.54,1:18:22.91,辉中,,0,0,0,,the idea that these infants still have value as human life even though they're just infants.
+Dialogue: 0,1:18:22.91,1:18:24.25,辉中,,0,0,0,,They're contained within a tank.
+Dialogue: 0,1:18:24.25,1:18:28.35,辉中,,0,0,0,,They don't have much of anything by way of autonomy, but they still are valuable.
+Dialogue: 0,1:18:28.35,1:18:30.53,辉中,,0,0,0,,So it could be that Kojima just decided
+Dialogue: 0,1:18:30.53,1:18:35.77,辉中,,0,0,0,,that the discussion on slavery would have been too much and wasn't worth pursuing.
+Dialogue: 0,1:18:35.77,1:18:40.22,辉中,,0,0,0,,Or maybe he just didn't think to add it in, I'm not entirely sure.
+Dialogue: 0,1:18:40.22,1:18:43.28,辉中,,0,0,0,,Either way, it could have been cool to see him explore the idea
+Dialogue: 0,1:18:43.28,1:18:47.45,辉中,,0,0,0,,of BBs being enslaved to a more powerful master,
+Dialogue: 0,1:18:47.45,1:18:51.86,辉中,,0,0,0,,and not having any way of fighting it or claiming their own independence.
+Dialogue: 0,1:18:51.86,1:18:53.90,辉中,,0,0,0,,I'm not really sure let, me know your thoughts below.
+Dialogue: 0,1:18:53.90,1:18:56.77,辉中,,0,0,0,,Another thing that struck me is weird throughout the course of the story
+Dialogue: 0,1:18:56.77,1:19:00.21,辉中,,0,0,0,,is the fact that they break the fourth wall all the time.
+Dialogue: 0,1:19:00.21,1:19:02.06,辉中,,0,0,0,,And I'm not entirely sure why.
+Dialogue: 0,1:19:02.06,1:19:06.17,辉中,,0,0,0,,Now of course you could say that this is just Kojima style and that's what he likes to do.
+Dialogue: 0,1:19:06.17,1:19:08.80,辉中,,0,0,0,,So to judge it is simply unfair.
+Dialogue: 0,1:19:08.80,1:19:13.03,辉中,,0,0,0,,However as I discussed earlier, the world that Death Stranding is taking place within
+Dialogue: 0,1:19:13.03,1:19:18.88,辉中,,0,0,0,,has to be consistent and it has to live by its own rules, preferably, at all times.
+Dialogue: 0,1:19:18.88,1:19:21.46,辉中,,0,0,0,,And for the most part it succeeds in this.
+Dialogue: 0,1:19:21.46,1:19:25.45,辉中,,0,0,0,,The game seems to want players to be immersed at all times
+Dialogue: 0,1:19:25.45,1:19:29.63,辉中,,0,0,0,,with the realistic graphics and the traversal system being very realistic.
+Dialogue: 0,1:19:29.63,1:19:33.85,辉中,,0,0,0,,But at the same time, Sam breaks the fourth wall constantly.
+Dialogue: 0,1:19:33.85,1:19:37.74,辉中,,0,0,0,,Though, in fairness, it is mostly relegated to the private room.
+Dialogue: 0,1:19:37.74,1:19:39.32,辉中,,0,0,0,,It feels weird.
+Dialogue: 0,1:19:39.32,1:19:44.67,辉中,,0,0,0,,Ride with Norman Reedus AMC as an ad on the bathroom while he poops,
+Dialogue: 0,1:19:44.67,1:19:48.96,辉中,,0,0,0,,it's really weird and out of place, I'm not really sure why it's here.
+Dialogue: 0,1:19:48.96,1:19:52.49,辉中,,0,0,0,,Plus if you leave the camera sitting on him too long, he'll gesture at you,
+Dialogue: 0,1:19:52.49,1:19:54.96,辉中,,0,0,0,,and he'll stare at you, make funny faces at you.
+Dialogue: 0,1:19:54.96,1:19:58.11,辉中,,0,0,0,,It's fun, but it's weird.
+Dialogue: 0,1:19:58.11,1:20:01.03,辉中,,0,0,0,,If I were directing the game, I would have cut all of this.
+Dialogue: 0,1:20:01.03,1:20:03.39,辉中,,0,0,0,,Because in my opinion, it's not worth the trouble.
+Dialogue: 0,1:20:03.39,1:20:05.21,辉中,,0,0,0,,It pulls the player out of the game.
+Dialogue: 0,1:20:05.21,1:20:08.16,辉中,,0,0,0,,And while you are in a private room when these things happen,
+Dialogue: 0,1:20:08.16,1:20:10.05,辉中,,0,0,0,,I don't think that that's an excuse.
+Dialogue: 0,1:20:10.05,1:20:13.78,辉中,,0,0,0,,Though I will admit that this is probably a matter of personal preference.
+Dialogue: 0,1:20:13.78,1:20:15.94,辉中,,0,0,0,,Some people will mind it such as myself,
+Dialogue: 0,1:20:15.94,1:20:19.72,辉中,,0,0,0,,others don't mind that at all and some I'm sure really enjoy it.
+Dialogue: 0,1:20:19.72,1:20:23.78,辉中,,0,0,0,,Now of course these fourth wall breaks and these think outside the box mechanics
+Dialogue: 0,1:20:23.78,1:20:25.77,辉中,,0,0,0,,are nothing new to Kojima.
+Dialogue: 0,1:20:25.77,1:20:27.92,辉中,,0,0,0,,As somebody sent me on Twitter,
+Dialogue: 0,1:20:27.92,1:20:32.01,辉中,,0,0,0,,Metal Gear Solid has a sequence like this when snake is fighting Mantis.
+Dialogue: 0,1:20:32.01,1:20:36.37,辉中,,0,0,0,,You actually have to change the port that the controller is connected into
+Dialogue: 0,1:20:36.37,1:20:41.76,辉中,,0,0,0,,in order to complete the game and continue on, which is kind of funny, imagine doing that today.
+Dialogue: 0,1:20:41.76,1:20:45.58,辉中,,0,0,0,,It's weird, because Kojima talks about being an artistic purist
+Dialogue: 0,1:20:45.58,1:20:49.30,辉中,,0,0,0,,and describes how he thinks Americans don't have artistic sensibilities.
+Dialogue: 0,1:20:49.30,1:20:53.42,辉中,,0,0,0,,But he's the one putting paid product placement in his games with
+Dialogue: 0,1:20:53.42,1:20:56.46,辉中,,0,0,0,,the monster energy drinks and the AMC ads.
+Dialogue: 0,1:20:56.46,1:20:59.25,辉中,,0,0,0,,Can you imagine what people would say
+Dialogue: 0,1:20:59.25,1:21:04.50,辉中,,0,0,0,,if Todd Howard started putting Tesla ads in Fallout or Elder Scrolls.
+Dialogue: 0,1:20:56.46,1:21:04.50,辉注,,0,0,0,,托德·霍华德：贝塞斯达游戏工作室总监和执行制片人
+Dialogue: 0,1:21:04.50,1:21:08.40,辉中,,0,0,0,,People would rightly lose their minds.
+Dialogue: 0,1:21:08.40,1:21:12.80,辉中,,0,0,0,,The only reason Kojima gets a break, is again, Kojima Syndrome.
+Dialogue: 0,1:21:12.80,1:21:17.73,辉中,,0,0,0,,Now don't get me wrong, fourth wall breaks can be done well, even in narrative focused games.
+Dialogue: 0,1:21:17.73,1:21:21.39,辉中,,0,0,0,,Look at The Lost Legacy tower sequence for instance.
+Dialogue: 0,1:21:21.39,1:21:22.86,辉中,,0,0,0,,Here there's a tower you can find
+Dialogue: 0,1:21:22.86,1:21:26.68,辉中,,0,0,0,,and there's a very narrow route that you can climb up optionally.
+Dialogue: 0,1:21:26.68,1:21:30.68,辉中,,0,0,0,,And if you get to the top of it and you hang out there for an extended period of time,
+Dialogue: 0,1:21:30.68,1:21:34.14,辉中,,0,0,0,,Chloe will start to tease you, and will actually break the fourth wall
+Dialogue: 0,1:21:34.14,1:21:44.28,辉注,,0,0,0,,柯南·奥布莱恩：美国脱口秀主持人、喜剧演员、\N作家、制作人、配音演员\N游戏中“角色扮演家”的演员
+Dialogue: 0,1:21:34.14,1:21:39.06,辉中,,0,0,0,,However, things like the otter hat that you get from Conan O'Brien within Death Stranding
+Dialogue: 0,1:21:39.06,1:21:44.28,辉中,,0,0,0,,are somehow both weird and perfectly in place, it's really bizarre.
+Dialogue: 0,1:21:44.28,1:21:48.81,辉中,,0,0,0,,But you can't help but feel as though Kojima didn't take all of this very seriously
+Dialogue: 0,1:21:48.81,1:21:52.35,辉中,,0,0,0,,which I also too appreciate, I mean their video games.
+Dialogue: 0,1:21:52.35,1:21:57.26,辉中,,0,0,0,,And all customization is like this from changing paints to glasses, to Otter Hoods.
+Dialogue: 0,1:21:57.26,1:21:58.24,辉中,,0,0,0,,It's all fun.
+Dialogue: 0,1:21:58.24,1:22:01.38,辉中,,0,0,0,,And though it doesn't mean much in the story it's a welcome addition
+Dialogue: 0,1:22:01.38,1:22:03.64,辉中,,0,0,0,,even if it doesn't make sense in terms of
+Dialogue: 0,1:22:03.64,1:22:08.53,辉中,,0,0,0,,Bridges having standardized uniforms that everybody is expected to wear.
+Dialogue: 0,1:22:08.53,1:22:11.64,辉中,,0,0,0,,But the point is, while the fourth wall breaks may bug me,
+Dialogue: 0,1:22:11.64,1:22:14.98,辉中,,0,0,0,,I can understand why they might not bother other people.
+Dialogue: 0,1:22:14.98,1:22:17.11,辉中,,0,0,0,,I think it is a matter of personal preference.
+Dialogue: 0,1:22:17.11,1:22:20.07,辉中,,0,0,0,,It just bothers me, though it might not bother you.
+Dialogue: 0,1:22:20.07,1:22:22.56,辉中,,0,0,0,,But with all of that, let's discuss the gameplay,
+Dialogue: 0,1:22:22.56,1:22:24.74,辉中,,0,0,0,,and the systems that make Death Stranding work.
+Dialogue: 0,1:22:24.74,1:22:28.35,辉中,,0,0,0,,so obviously a lot of people have said that Death Strandings gameplay loop
+Dialogue: 0,1:22:28.35,1:22:30.58,辉中,,0,0,0,,is quote-unquote "BORING".
+Dialogue: 0,1:22:30.58,1:22:32.04,辉中,,0,0,0,,To determine if this is true,
+Dialogue: 0,1:22:32.04,1:22:35.49,辉中,,0,0,0,,let's look at what your average mission is going to be comprised of.
+Dialogue: 0,1:22:35.49,1:22:37.32,辉中,,0,0,0,,Let's start with story missions.
+Dialogue: 0,1:22:37.32,1:22:40.25,辉中,,0,0,0,,In this case we're going to look at a random order in the mid game.
+Dialogue: 0,1:22:40.25,1:22:43.52,辉中,,0,0,0,,Now in this order we have 60 minutes to collect medical devices
+Dialogue: 0,1:22:43.52,1:22:45.60,辉中,,0,0,0,,from one character in the mountainous area
+Dialogue: 0,1:22:45.60,1:22:48.70,辉中,,0,0,0,,and then deliver them back to the area where we accepted the order.
+Dialogue: 0,1:22:48.70,1:22:50.72,辉中,,0,0,0,,In other words, a fetch quest.
+Dialogue: 0,1:22:50.72,1:22:54.04,辉中,,0,0,0,,Now this is actually one of the more elaborate order types that you can get
+Dialogue: 0,1:22:54.04,1:22:55.97,辉中,,0,0,0,,because it involves multiple stops.
+Dialogue: 0,1:22:55.97,1:22:59.41,辉中,,0,0,0,,Simpler orders just give you items with the destination.
+Dialogue: 0,1:22:59.41,1:23:03.28,辉中,,0,0,0,,So you accept the order and get told that you need to deliver the items quickly.
+Dialogue: 0,1:23:03.28,1:23:07.20,辉中,,0,0,0,,And furthermore that the items that you're picking up are classified as "fragile",
+Dialogue: 0,1:23:07.20,1:23:11.77,辉中,,0,0,0,,which means that you can't drop the packages, often you can't go in water, etc.
+Dialogue: 0,1:23:11.77,1:23:14.10,辉中,,0,0,0,,Basically you have to be extra careful.
+Dialogue: 0,1:23:14.10,1:23:16.11,辉中,,0,0,0,,You select your gear and load Sam up
+Dialogue: 0,1:23:16.11,1:23:20.96,辉中,,0,0,0,,with any ladders, PCCs, climbing anchors, extra boots or weapons that you may need.
+Dialogue: 0,1:23:20.96,1:23:23.21,辉中,,0,0,0,,Then you set out and you begin hiking.
+Dialogue: 0,1:23:23.21,1:23:27.13,辉中,,0,0,0,,In this case I'm not going to use any vehicles because we're going through a mountainous area
+Dialogue: 0,1:23:27.13,1:23:31.47,辉中,,0,0,0,,and they aren't particularly useful in this rocky snowy area.
+Dialogue: 0,1:23:31.47,1:23:34.78,辉中,,0,0,0,,This is what would usually be considered a more difficult mission.
+Dialogue: 0,1:23:34.78,1:23:37.72,辉中,,0,0,0,,Specifically because it's in the snowy mountainous area.
+Dialogue: 0,1:23:37.72,1:23:40.78,辉中,,0,0,0,,Not once in my over 100 hours with Death Stranding
+Dialogue: 0,1:23:40.78,1:23:44.18,辉中,,0,0,0,,did I encounter a mission where I failed the time limit.
+Dialogue: 0,1:23:44.18,1:23:47.62,辉中,,0,0,0,,The only time I had any difficulty was when the items were fragile,
+Dialogue: 0,1:23:47.62,1:23:51.31,辉中,,0,0,0,,or when I was completing multiple orders all at once,
+Dialogue: 0,1:23:51.31,1:23:54.37,辉中,,0,0,0,,loading up with four or five orders at a given time.
+Dialogue: 0,1:23:54.37,1:23:57.96,辉中,,0,0,0,,And so the way that the game dynamically alters the difficulty
+Dialogue: 0,1:23:57.96,1:24:00.17,辉中,,0,0,0,,is with the routes that they'll have you do.
+Dialogue: 0,1:24:00.17,1:24:03.71,辉中,,0,0,0,,This is why long routes tend to reward you with more likes
+Dialogue: 0,1:24:03.71,1:24:06.82,辉中,,0,0,0,,and routes that go into the mountains also do the same.
+Dialogue: 0,1:24:06.82,1:24:11.47,辉中,,0,0,0,,Now you can unlock certain items that makes node-traversal and mountain traversal easier,
+Dialogue: 0,1:24:11.47,1:24:15.01,辉中,,0,0,0,,for instance, lots of ladders, climbing anchors that you can level up,
+Dialogue: 0,1:24:15.01,1:24:18.13,辉中,,0,0,0,,power gloves, the all-terrain exoskeleton,
+Dialogue: 0,1:24:18.13,1:24:21.13,辉中,,0,0,0,,and of course the zip-lines which you can use to set up routes
+Dialogue: 0,1:24:21.13,1:24:23.40,辉中,,0,0,0,,after you've initially explored them.
+Dialogue: 0,1:24:23.40,1:24:27.89,辉中,,0,0,0,,So with all this in mind I continued hiking, eventually I reached a cliff top,
+Dialogue: 0,1:24:27.89,1:24:33.01,辉中,,0,0,0,,where I could have just dropped a ladder or a climbing anchor to descend and then cross by foot.
+Dialogue: 0,1:24:33.01,1:24:37.19,辉中,,0,0,0,,But I happen to know that this area is infested with BTs.
+Dialogue: 0,1:24:37.19,1:24:41.86,辉中,,0,0,0,,So I decided to build a zip-line which allowed me to completely skip this area,
+Dialogue: 0,1:24:41.86,1:24:45.85,辉中,,0,0,0,,which effectively skips five to ten minutes of navigation.
+Dialogue: 0,1:24:45.85,1:24:50.18,辉中,,0,0,0,,Don't worry, we're gonna go into a lot of detail with these zip-lines in just a bit.
+Dialogue: 0,1:24:50.18,1:24:52.31,辉中,,0,0,0,,I reach to the bottom and continue hiking.
+Dialogue: 0,1:24:52.31,1:24:56.24,辉中,,0,0,0,,Eventually I pick up the items, and then the entire process repeats as you're return.
+Dialogue: 0,1:24:56.24,1:25:01.46,辉中,,0,0,0,,Now when you drop off the items you are graded on the condition that the packages are in.
+Dialogue: 0,1:25:01.46,1:25:05.74,辉中,,0,0,0,,This can be both the quality of the outside container,
+Dialogue: 0,1:25:05.74,1:25:08.99,辉中,,0,0,0,,in addition to the quality of the internal item
+Dialogue: 0,1:25:08.99,1:25:11.58,辉中,,0,0,0,,which can experience damage if you aren't careful.
+Dialogue: 0,1:25:11.58,1:25:15.47,辉中,,0,0,0,,For instance, if you fall off of a ladder, you'll fall, take damage,
+Dialogue: 0,1:25:15.47,1:25:18.63,辉中,,0,0,0,,and the packages will be worth less when they're eventually delivered.
+Dialogue: 0,1:25:18.63,1:25:20.76,辉中,,0,0,0,,There are however ways to deal with this.
+Dialogue: 0,1:25:20.76,1:25:22.70,辉中,,0,0,0,,For instance with the time fall shelters if
 Dialogue: 0,1:25:22.70,1:25:24.41,辉中,,0,0,0,,you stay in them and especially once
 Dialogue: 0,1:25:24.41,1:25:26.45,辉中,,0,0,0,,they're upgraded they'll actually repair
 Dialogue: 0,1:25:26.45,1:25:28.64,辉中,,0,0,0,,your items as you stand underneath them

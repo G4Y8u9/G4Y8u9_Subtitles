@@ -15,6 +15,7 @@
 |Clifford "Cliff" Unger|Clifford|克利福德||
 |-|MULEs|米尔人|美团外卖|
 
+
 ## 地名
 |NAME|中文|备注|
 |:----|:----|:----|
@@ -23,7 +24,7 @@
 |FULLNAME|中文|备注|
 |:----|:----|:----|
 |Hideo Kojima|小岛秀夫|游戏制作人|
-|Kojima Productions|小岛制作|小岛秀夫手下的首席制作组 翻译来自维基|
+|Kojima Productions|小岛制作|小岛秀夫手下的首席制作组|
 |Geoff Keighley|杰夫·基思利|电子游戏新闻工作和电视节目主持人|
 |Voidout|虚空噬灭|BT吃人之后引发的爆炸|
 |Chiralium|开罗尔物质|死亡搁浅发生后被发现的物质|
@@ -54,15 +55,24 @@
 |Horizon Zero Dawn|地平线 零之曙光|索尼发行的RPG游戏|
 |Guerrilla Games|游骑兵工作室|地平线 零之曙光的制作组|
 |Decima Engine|Decima引擎|死亡搁浅使用的游戏引擎|
+|Metal Gear Solid|合金装备系列|小岛秀夫之前的作品|
+|Psycho Mantis|意念螳螂|合金装备boss之一|
 |Cyberpunk 2077|赛博朋克2077|2020年发售的做一半的游戏|
 |Fallout 4|辐射4|B社游戏|
+|Todd Howard|托德·霍华德|B社游戏总监|
+|The Elder Scrolls V: Skyrim|上古卷轴V：天际|2011年RPG|
 |Naughty Dog|顽皮狗|《神海》《TLOU》游戏制作组|
 |Uncharted: The Lost Legacy|神秘海域：失落的遗产|顽皮狗游戏|
 |Lost|迷失|美国电视连续剧|
 |Higgs boson|希格斯玻色子|物理里一种基本粒子 游戏boss希格斯名字的由来|
 |The Legend of Zelda: Breath of the Wild|塞尔达传说 旷野之息|抄袭原神！（|
+|Uncharted: The Lost Legacy|神秘海域：失落的遗产|顽皮狗另一个游戏|
+|Chloe Frazer|克罗伊|《神秘海域：失落的遗产》的主角|
+|Conan O'Brien|柯南·奥布莱恩|角色扮演家的演员 美国脱口秀主持人、喜剧表演员、作家、制作人、配音员|
 
-
+# 备忘
+1. Beach BB BT MULEs Kojima Syndrome 注意大小写
+2. 中文注意标点
 
 # 之前项目的字典 或许有用
 ## 游戏内角色/组织/感染者
