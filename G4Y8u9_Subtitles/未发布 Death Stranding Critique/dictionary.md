@@ -47,6 +47,7 @@
 |Sam Strand|山姆·斯特兰德|第13章|
 |Lou|洛|第14章|
 |Tomorrow is in your hands|未来在你手中|第15章|
+|Chiral bandwidth|开罗尔带宽|游戏中建筑建造的限制|
 |Zip-line||游戏中设施|
 |Generator|发电机|游戏中设施|
 |Mads Mikkelsen|麦斯·米科尔森|克利福德·昂格尔的演员|
@@ -59,6 +60,7 @@
 |Psycho Mantis|意念螳螂|合金装备boss之一|
 |Cyberpunk 2077|赛博朋克2077|2020年发售的做一半的游戏|
 |Fallout 4|辐射4|B社游戏|
+|Fallout: New Vegas|辐射：新维加斯|B社游戏|
 |Todd Howard|托德·霍华德|B社游戏总监|
 |The Elder Scrolls V: Skyrim|上古卷轴V：天际|2011年RPG|
 |Naughty Dog|顽皮狗|《神海》《TLOU》游戏制作组|
@@ -69,6 +71,10 @@
 |Uncharted: The Lost Legacy|神秘海域：失落的遗产|顽皮狗另一个游戏|
 |Chloe Frazer|克罗伊|《神秘海域：失落的遗产》的主角|
 |Conan O'Brien|柯南·奥布莱恩|角色扮演家的演员 美国脱口秀主持人、喜剧表演员、作家、制作人、配音员|
+|Red Dead Redemption 2|荒野大镖客：救赎2|Rockstar的游戏|
+|Arthur|亚瑟|RDR2的主角|
+|Rockstar|R星|RDR2的制作商|
+|The Witcher 3: Wild Hunt|巫师3：狂猎|CDPR的RPG游戏|
 
 # 备忘
 1. Beach BB BT MULEs Kojima Syndrome 注意大小写
@@ -151,9 +157,6 @@
 |spores|孢子|CBI传播途径之一|
 |Aloy|埃洛伊|地平线的主角|
 |Uncharted: The Lost Legacy|神秘海域：失落的遗产|顽皮狗另一个游戏|
-|Red dead redemption 2|荒野大镖客：救赎2|Rockstar的游戏|
-|Arthur|亚瑟|RDR2的主角|
-|Rockstar|R星|RDR2的制作商|
 |God of War|战神|2018年游戏|
 |Kratos|奎托斯|战神的老父亲|
 |Atreus|阿特柔斯|真正的战神|
