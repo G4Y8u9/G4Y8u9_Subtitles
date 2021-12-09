@@ -16,9 +16,9 @@ Video File: ../../../../../Video/给没组/DS/RAW.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 1587
-Active Line: 1596
-Video Position: 180007
+Scroll Position: 2210
+Active Line: 2221
+Video Position: 231378
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1394,7 +1394,7 @@ Dialogue: 0,1:25:08.99,1:25:11.58,辉中,,0,0,0,,which can experience damage if 
 Dialogue: 0,1:25:11.58,1:25:15.47,辉中,,0,0,0,,For instance, if you fall off of a ladder, you'll fall, take damage,
 Dialogue: 0,1:25:15.47,1:25:18.63,辉中,,0,0,0,,and the packages will be worth less when they're eventually delivered.
 Dialogue: 0,1:25:18.63,1:25:20.76,辉中,,0,0,0,,There are however ways to deal with this.
-Dialogue: 0,1:25:20.76,1:25:23.48,辉中,,0,0,0,,For instance with the time fall shelters if you stay in them
+Dialogue: 0,1:25:20.76,1:25:23.48,辉中,,0,0,0,,For instance with the timefall shelters if you stay in them
 Dialogue: 0,1:25:23.48,1:25:25.50,辉中,,0,0,0,,and especially once they're upgraded,
 Dialogue: 0,1:25:25.50,1:25:28.82,辉中,,0,0,0,,they'll actually repair your items as you stand underneath them.
 Dialogue: 0,1:25:28.82,1:25:32.49,辉中,,0,0,0,,There of course also the cargo repair sprays which you can carry on your back.
@@ -1628,318 +1628,196 @@ Dialogue: 0,1:39:52.02,1:39:55.80,辉中,,0,0,0,,I was driving this truck with a
 Dialogue: 0,1:39:55.80,1:39:57.80,辉中,,0,0,0,,I dropped by one location, I loaded it up,
 Dialogue: 0,1:39:57.80,1:40:00.68,辉中,,0,0,0,,fully charged it, and then head out onto the plains.
 Dialogue: 0,1:40:00.68,1:40:05.09,辉中,,0,0,0,,And this is a futuristic truck with a fully charged battery.
-Dialogue: 0,1:40:05.09,1:40:07.69,辉中,,0,0,0,,but this thing has an operating distance that is
-Dialogue: 0,1:40:07.69,1:40:09.87,辉中,,0,0,0,,so low it would make a first-generation
-Dialogue: 0,1:40:09.87,1:40:13.51,辉中,,0,0,0,,Tesla blush seriously this is where I
-Dialogue: 0,1:40:13.51,1:40:17.29,辉中,,0,0,0,,started and as I drive and drive and
-Dialogue: 0,1:40:17.29,1:40:20.94,辉中,,0,0,0,,drive and drive not even going very far
-Dialogue: 0,1:40:20.94,1:40:25.51,辉中,,0,0,0,,this is where the battery dies in the
-Dialogue: 0,1:40:25.51,1:40:29.74,辉中,,0,0,0,,middle of the stream the car immediately
-Dialogue: 0,1:40:29.74,1:40:32.26,辉中,,0,0,0,,starts freaking out it pushes me out and
-Dialogue: 0,1:40:32.26,1:40:35.86,辉中,,0,0,0,,then instantly the car disappears and
-Dialogue: 0,1:40:35.86,1:40:38.11,辉中,,0,0,0,,all of my cargo floats downstream and
-Dialogue: 0,1:40:38.11,1:40:40.57,辉中,,0,0,0,,this was so much cargo I couldn't
-Dialogue: 0,1:40:40.57,1:40:43.30,辉中,,0,0,0,,possibly load it up onto my back and it
-Dialogue: 0,1:40:43.30,1:40:45.88,辉中,,0,0,0,,all drifted out into the water and was
-Dialogue: 0,1:40:45.88,1:40:48.73,辉中,,0,0,0,,ruined this was well over a thousand
-Dialogue: 0,1:40:48.73,1:40:51.76,辉中,,0,0,0,,likes instantly lost and several
-Dialogue: 0,1:40:51.76,1:40:55.45,辉中,,0,0,0,,deliveries instantly failed due to a
-Dialogue: 0,1:40:55.45,1:40:59.08,辉中,,0,0,0,,stupid mechanism just designed to make
-Dialogue: 0,1:40:59.08,1:41:01.87,辉中,,0,0,0,,you engage in this tedious gameplay
-Dialogue: 0,1:41:01.87,1:41:04.09,辉中,,0,0,0,,cycle of building generators to charge
-Dialogue: 0,1:41:04.09,1:41:06.46,辉中,,0,0,0,,batteries to get to another generator to
-Dialogue: 0,1:41:06.46,1:41:08.26,辉中,,0,0,0,,charge your battery so you can move on
-Dialogue: 0,1:41:08.26,1:41:10.75,辉中,,0,0,0,,in no way is this realistic and that's
-Dialogue: 0,1:41:10.75,1:41:12.79,辉中,,0,0,0,,the other question if this world is
-Dialogue: 0,1:41:12.79,1:41:14.74,辉中,,0,0,0,,designed to be realistic and that's your
-Dialogue: 0,1:41:14.74,1:41:17.05,辉中,,0,0,0,,excuse as to why the world design is so
-Dialogue: 0,1:41:17.05,1:41:17.71,辉中,,0,0,0,,crappy
-Dialogue: 0,1:41:17.71,1:41:19.51,辉中,,0,0,0,,then why are batteries and things like
-Dialogue: 0,1:41:19.51,1:41:22.84,辉中,,0,0,0,,this so clearly gamified in order to
-Dialogue: 0,1:41:22.84,1:41:24.73,辉中,,0,0,0,,make you engage in the gameplay system
-Dialogue: 0,1:41:24.73,1:41:26.62,辉中,,0,0,0,,it's not consistent if you're going to
-Dialogue: 0,1:41:26.62,1:41:29.14,辉中,,0,0,0,,make the gameplay systems realistic and
-Dialogue: 0,1:41:29.14,1:41:32.20,辉中,,0,0,0,,lifelike do it don't do this half-assed
-Dialogue: 0,1:41:32.20,1:41:34.09,辉中,,0,0,0,,thing otherwise it just ends up being
-Dialogue: 0,1:41:34.09,1:41:36.31,辉中,,0,0,0,,frustrating and forcing the player to
-Dialogue: 0,1:41:36.31,1:41:38.68,辉中,,0,0,0,,wonder whether or not you had any idea
-Dialogue: 0,1:41:38.68,1:41:40.36,辉中,,0,0,0,,what you were doing now another feature
-Dialogue: 0,1:41:40.36,1:41:43.00,辉中,,0,0,0,,of the world are the memory chips there
-Dialogue: 0,1:41:43.00,1:41:44.89,辉中,,0,0,0,,are 56 of these and they're hidden in
-Dialogue: 0,1:41:44.89,1:41:47.62,辉中,,0,0,0,,very random places with almost no visual
-Dialogue: 0,1:41:47.62,1:41:49.27,辉中,,0,0,0,,cues now the first time you hear about
-Dialogue: 0,1:41:49.27,1:41:51.10,辉中,,0,0,0,,these is when you receive an email in
-Dialogue: 0,1:41:51.10,1:41:51.58,辉中,,0,0,0,,chapter
-Dialogue: 0,1:41:51.58,1:41:53.80,辉中,,0,0,0,,three from a character named Nick Easton
-Dialogue: 0,1:41:53.80,1:41:55.90,辉中,,0,0,0,,in it he describes a quote-unquote weird
-Dialogue: 0,1:41:55.90,1:41:58.12,辉中,,0,0,0,,glowing thing that he wants you to find
-Dialogue: 0,1:41:58.12,1:42:01.24,辉中,,0,0,0,,in capital not city's isolation ward and
-Dialogue: 0,1:42:01.24,1:42:03.01,辉中,,0,0,0,,these emails are actually the only thing
-Dialogue: 0,1:42:03.01,1:42:04.27,辉中,,0,0,0,,that pushed you towards finding these
-Dialogue: 0,1:42:04.27,1:42:06.61,辉中,,0,0,0,,chips it's not really a concern in the
-Dialogue: 0,1:42:06.61,1:42:08.62,辉中,,0,0,0,,main story now I ran around for hours
-Dialogue: 0,1:42:08.62,1:42:11.08,辉中,,0,0,0,,and hours collecting these even the one
-Dialogue: 0,1:42:11.08,1:42:13.69,辉中,,0,0,0,,in Higgs secret room that doesn't unlock
-Dialogue: 0,1:42:13.69,1:42:15.91,辉中,,0,0,0,,until after fragile deals with him on
-Dialogue: 0,1:42:15.91,1:42:18.28,辉中,,0,0,0,,the beach and the question is whether or
-Dialogue: 0,1:42:18.28,1:42:20.83,辉中,,0,0,0,,not these are busy work just designed to
-Dialogue: 0,1:42:20.83,1:42:24.01,辉中,,0,0,0,,pad out a platinum run or if these are
-Dialogue: 0,1:42:24.01,1:42:26.20,辉中,,0,0,0,,placed in the world as a reason for you
-Dialogue: 0,1:42:26.20,1:42:28.69,辉中,,0,0,0,,to explore it and to hike through trying
-Dialogue: 0,1:42:28.69,1:42:30.97,辉中,,0,0,0,,to find every single one of them now to
-Dialogue: 0,1:42:30.97,1:42:33.40,辉中,,0,0,0,,me it seems pretty clearly that it's the
-Dialogue: 0,1:42:33.40,1:42:35.62,辉中,,0,0,0,,former not the latter and to prove this
-Dialogue: 0,1:42:35.62,1:42:36.91,辉中,,0,0,0,,I'm going to show you some examples
-Dialogue: 0,1:42:36.91,1:42:38.50,辉中,,0,0,0,,these are some of the more commonly
-Dialogue: 0,1:42:38.50,1:42:40.54,辉中,,0,0,0,,collected ones so if you've yet to find
-Dialogue: 0,1:42:40.54,1:42:42.79,辉中,,0,0,0,,all of them don't worry you can still
-Dialogue: 0,1:42:42.79,1:42:44.95,辉中,,0,0,0,,hunt them down and have a good time for
-Dialogue: 0,1:42:44.95,1:42:46.15,辉中,,0,0,0,,what it's worth when you go to the
-Dialogue: 0,1:42:46.15,1:42:48.40,辉中,,0,0,0,,weather station there's one placed on a
-Dialogue: 0,1:42:48.40,1:42:50.92,辉中,,0,0,0,,concrete ledge okay you run past this
-Dialogue: 0,1:42:50.92,1:42:53.38,辉中,,0,0,0,,frequently enough I think I'm fine with
-Dialogue: 0,1:42:53.38,1:42:55.75,辉中,,0,0,0,,this one this one however is along the
-Dialogue: 0,1:42:55.75,1:42:58.75,辉中,,0,0,0,,red wall it's not an area you would ever
-Dialogue: 0,1:42:58.75,1:43:00.94,辉中,,0,0,0,,be running by there's no reason for you
-Dialogue: 0,1:43:00.94,1:43:03.67,辉中,,0,0,0,,to explore this area and even once you
-Dialogue: 0,1:43:03.67,1:43:06.58,辉中,,0,0,0,,get there it hides very very well it's
-Dialogue: 0,1:43:06.58,1:43:09.04,辉中,,0,0,0,,hidden in the truck bed of this area you
-Dialogue: 0,1:43:09.04,1:43:11.14,辉中,,0,0,0,,have no reason to go to this one I'm les
-Dialogue: 0,1:43:11.14,1:43:13.12,辉中,,0,0,0,,okay with and it doesn't seem as though
-Dialogue: 0,1:43:13.12,1:43:15.22,辉中,,0,0,0,,it's hidden in a way that encourages you
-Dialogue: 0,1:43:15.22,1:43:17.26,辉中,,0,0,0,,to explore the map it's hidden in a way
-Dialogue: 0,1:43:17.26,1:43:20.29,辉中,,0,0,0,,that encourages this busywork type of
-Dialogue: 0,1:43:20.29,1:43:22.00,辉中,,0,0,0,,gameplay this is another one that I'm
-Dialogue: 0,1:43:22.00,1:43:23.62,辉中,,0,0,0,,actually okay with it's hidden in an
-Dialogue: 0,1:43:23.62,1:43:25.96,辉中,,0,0,0,,underpass by Mama's base this is
-Dialogue: 0,1:43:25.96,1:43:27.40,辉中,,0,0,0,,something that I did stumble on too
-Dialogue: 0,1:43:27.40,1:43:29.26,辉中,,0,0,0,,while exploring I didn't have to read
-Dialogue: 0,1:43:29.26,1:43:31.78,辉中,,0,0,0,,any email cueing me to this area so
-Dialogue: 0,1:43:31.78,1:43:34.42,辉中,,0,0,0,,obviously I'm okay with this one this is
-Dialogue: 0,1:43:34.42,1:43:36.07,辉中,,0,0,0,,one I'm not okay with it's on the hood
-Dialogue: 0,1:43:36.07,1:43:38.23,辉中,,0,0,0,,of a semi Shore it's outside of an area
-Dialogue: 0,1:43:38.23,1:43:39.76,辉中,,0,0,0,,you're going to be trafficking fairly
-Dialogue: 0,1:43:39.76,1:43:41.86,辉中,,0,0,0,,frequently but you can't normally climb
-Dialogue: 0,1:43:41.86,1:43:44.05,辉中,,0,0,0,,onto vehicles you have no reason to ever
-Dialogue: 0,1:43:44.05,1:43:46.51,辉中,,0,0,0,,climb onto a vehicle so the only reason
-Dialogue: 0,1:43:46.51,1:43:48.31,辉中,,0,0,0,,you would hop up on this is if you
-Dialogue: 0,1:43:48.31,1:43:50.71,辉中,,0,0,0,,scanned it happen to spot it and jumped
-Dialogue: 0,1:43:50.71,1:43:52.72,辉中,,0,0,0,,up to grab it there's no reason for the
-Dialogue: 0,1:43:52.72,1:43:54.52,辉中,,0,0,0,,player to be looking up here or looking
-Dialogue: 0,1:43:54.52,1:43:56.80,辉中,,0,0,0,,for memory chips in this area this is
-Dialogue: 0,1:43:56.80,1:43:58.12,辉中,,0,0,0,,something that you would just stumble
-Dialogue: 0,1:43:58.12,1:44:00.76,辉中,,0,0,0,,onto or would find if you were cued on
-Dialogue: 0,1:44:00.76,1:44:02.44,辉中,,0,0,0,,to it there's this one in the back
-Dialogue: 0,1:44:02.44,1:44:04.53,辉中,,0,0,0,,corner of the loading zone room
-Dialogue: 0,1:44:04.53,1:44:06.96,辉中,,0,0,0,,it's just sitting on the floor now fair
-Dialogue: 0,1:44:06.96,1:44:08.46,辉中,,0,0,0,,enough if you go back here you're going
-Dialogue: 0,1:44:08.46,1:44:10.50,辉中,,0,0,0,,to spot it so it's fairly easy to find
-Dialogue: 0,1:44:10.50,1:44:13.86,辉中,,0,0,0,,however the player has no reason to ever
-Dialogue: 0,1:44:13.86,1:44:15.81,辉中,,0,0,0,,go back into one of these areas
-Dialogue: 0,1:44:15.81,1:44:18.27,辉中,,0,0,0,,it's just placed here and you're
-Dialogue: 0,1:44:18.27,1:44:21.12,辉中,,0,0,0,,expected to figure that out for reasons
-Dialogue: 0,1:44:21.12,1:44:23.22,辉中,,0,0,0,,even though there's never anything else
-Dialogue: 0,1:44:23.22,1:44:25.41,辉中,,0,0,0,,placed in these back corners in any of
-Dialogue: 0,1:44:25.41,1:44:27.36,辉中,,0,0,0,,the other loading zones there's this one
-Dialogue: 0,1:44:27.36,1:44:29.07,辉中,,0,0,0,,in the snow field just sitting on top of
-Dialogue: 0,1:44:29.07,1:44:31.02,辉中,,0,0,0,,a collapsed pillar this is one that you
-Dialogue: 0,1:44:31.02,1:44:32.61,辉中,,0,0,0,,would probably find during normal
-Dialogue: 0,1:44:32.61,1:44:35.04,辉中,,0,0,0,,gameplay especially because this is a BT
-Dialogue: 0,1:44:35.04,1:44:37.98,辉中,,0,0,0,,heavy area and this is zone where you're
-Dialogue: 0,1:44:37.98,1:44:39.48,辉中,,0,0,0,,going to be crouching and stealth in
-Dialogue: 0,1:44:39.48,1:44:41.40,辉中,,0,0,0,,your way through so I'm actually ok with
-Dialogue: 0,1:44:41.40,1:44:43.26,辉中,,0,0,0,,this one this one makes sense this one's
-Dialogue: 0,1:44:43.26,1:44:45.03,辉中,,0,0,0,,in a cave and this cave is actually
-Dialogue: 0,1:44:45.03,1:44:46.74,辉中,,0,0,0,,marked with a ton of signs as a time
-Dialogue: 0,1:44:46.74,1:44:49.11,辉中,,0,0,0,,fall shelter so it's also likely that
-Dialogue: 0,1:44:49.11,1:44:50.58,辉中,,0,0,0,,you would probably encounter this one
-Dialogue: 0,1:44:50.58,1:44:52.23,辉中,,0,0,0,,through regular gameplay even though I
-Dialogue: 0,1:44:52.23,1:44:55.11,辉中,,0,0,0,,didn't but the one I like by far the
-Dialogue: 0,1:44:55.11,1:44:57.48,辉中,,0,0,0,,most is the one hidden in hIG's his
-Dialogue: 0,1:44:57.48,1:44:59.76,辉中,,0,0,0,,secret room this is in the top right
-Dialogue: 0,1:44:59.76,1:45:01.47,辉中,,0,0,0,,corner of the central zone of the map
-Dialogue: 0,1:45:01.47,1:45:03.03,辉中,,0,0,0,,it's basically Higgs is center of
-Dialogue: 0,1:45:03.03,1:45:04.95,辉中,,0,0,0,,operations it's a really cool hidden
-Dialogue: 0,1:45:04.95,1:45:07.89,辉中,,0,0,0,,area that I like a lot this is really
-Dialogue: 0,1:45:07.89,1:45:09.84,辉中,,0,0,0,,cool that they included this here even
-Dialogue: 0,1:45:09.84,1:45:11.94,辉中,,0,0,0,,if some of the quotes scribbled on the
-Dialogue: 0,1:45:11.94,1:45:14.70,辉中,,0,0,0,,wall are kind of funny and weird I'll
-Dialogue: 0,1:45:14.70,1:45:17.58,辉中,,0,0,0,,just say it again I really like this and
-Dialogue: 0,1:45:17.58,1:45:19.56,辉中,,0,0,0,,I really wish there were more things
-Dialogue: 0,1:45:19.56,1:45:21.87,辉中,,0,0,0,,like this hidden and scattered
-Dialogue: 0,1:45:21.87,1:45:23.43,辉中,,0,0,0,,throughout the map if the map were
-Dialogue: 0,1:45:23.43,1:45:25.32,辉中,,0,0,0,,littered with things such as this the
-Dialogue: 0,1:45:25.32,1:45:27.51,辉中,,0,0,0,,player would have a reason and an excuse
-Dialogue: 0,1:45:27.51,1:45:29.46,辉中,,0,0,0,,to explore for the sake of exploring
-Dialogue: 0,1:45:29.46,1:45:31.29,辉中,,0,0,0,,without any deliveries strapped to their
-Dialogue: 0,1:45:31.29,1:45:32.85,辉中,,0,0,0,,back just going through the world for
-Dialogue: 0,1:45:32.85,1:45:35.13,辉中,,0,0,0,,the sake of interacting with it but alas
-Dialogue: 0,1:45:35.13,1:45:37.17,辉中,,0,0,0,,as far as I'm aware this is the only
-Dialogue: 0,1:45:37.17,1:45:38.85,辉中,,0,0,0,,thing like it in the game now it's
-Dialogue: 0,1:45:38.85,1:45:40.26,辉中,,0,0,0,,pretty clear to me that these are
-Dialogue: 0,1:45:40.26,1:45:42.81,辉中,,0,0,0,,supposed to be hunted down with emails
-Dialogue: 0,1:45:42.81,1:45:44.34,辉中,,0,0,0,,that you receive in the game which is
-Dialogue: 0,1:45:44.34,1:45:47.70,辉中,,0,0,0,,obviously true because many of these
-Dialogue: 0,1:45:47.70,1:45:50.28,辉中,,0,0,0,,chips won't actually spawn until you've
-Dialogue: 0,1:45:50.28,1:45:52.59,辉中,,0,0,0,,received a given email describing them
-Dialogue: 0,1:45:52.59,1:45:54.75,辉中,,0,0,0,,so clearly they want you to be
-Dialogue: 0,1:45:54.75,1:45:56.49,辉中,,0,0,0,,interacting with the emails and using
-Dialogue: 0,1:45:56.49,1:45:58.95,辉中,,0,0,0,,the emails to find them for example the
-Dialogue: 0,1:45:58.95,1:46:01.02,辉中,,0,0,0,,memory chip the walk doesn't actually
-Dialogue: 0,1:46:01.02,1:46:03.24,辉中,,0,0,0,,unlock until you've leveled up the first
-Dialogue: 0,1:46:03.24,1:46:05.24,辉中,,0,0,0,,prepper one of the most isolated
-Dialogue: 0,1:46:05.24,1:46:07.59,辉中,,0,0,0,,individuals in the entire game and
-Dialogue: 0,1:46:07.59,1:46:09.54,辉中,,0,0,0,,because you're supposed to rely on these
-Dialogue: 0,1:46:09.54,1:46:11.43,辉中,,0,0,0,,emails I think it's fair to say that
-Dialogue: 0,1:46:11.43,1:46:13.41,辉中,,0,0,0,,these are here to encourage you to read
-Dialogue: 0,1:46:13.41,1:46:16.02,辉中,,0,0,0,,through the emails not here to encourage
-Dialogue: 0,1:46:16.02,1:46:17.61,辉中,,0,0,0,,you to explore the world
-Dialogue: 0,1:46:17.61,1:46:18.87,辉中,,0,0,0,,last thing that I can think of that
-Dialogue: 0,1:46:18.87,1:46:20.37,辉中,,0,0,0,,would encourage you to explore the world
-Dialogue: 0,1:46:20.37,1:46:22.32,辉中,,0,0,0,,for the sake of exploring it would be
-Dialogue: 0,1:46:22.32,1:46:24.21,辉中,,0,0,0,,the hot springs these are something that
-Dialogue: 0,1:46:24.21,1:46:26.01,辉中,,0,0,0,,are briefly mentioned and they're kind
-Dialogue: 0,1:46:26.01,1:46:28.17,辉中,,0,0,0,,of cool basically there's six by my
-Dialogue: 0,1:46:28.17,1:46:30.72,辉中,,0,0,0,,count in the middle zone alone and they
-Dialogue: 0,1:46:30.72,1:46:32.52,辉中,,0,0,0,,allow you to hop in and there's
-Dialogue: 0,1:46:32.52,1:46:34.56,辉中,,0,0,0,,regenerative qualities to them and
-Dialogue: 0,1:46:34.56,1:46:37.26,辉中,,0,0,0,,though it is cute because you hop in and
-Dialogue: 0,1:46:37.26,1:46:39.54,辉中,,0,0,0,,you chill with your bb I never really
-Dialogue: 0,1:46:39.54,1:46:41.43,辉中,,0,0,0,,felt the need to use these or hunt them
-Dialogue: 0,1:46:41.43,1:46:43.26,辉中,,0,0,0,,down intentionally when I encountered
-Dialogue: 0,1:46:43.26,1:46:44.28,辉中,,0,0,0,,one I would hop in
-Dialogue: 0,1:46:44.28,1:46:46.26,辉中,,0,0,0,,but that was really the only time I ever
-Dialogue: 0,1:46:46.26,1:46:49.41,辉中,,0,0,0,,use them again I'm glad they're here but
-Dialogue: 0,1:46:49.41,1:46:51.96,辉中,,0,0,0,,this is by no means a reason to explore
-Dialogue: 0,1:46:51.96,1:46:55.41,辉中,,0,0,0,,the map it's just six things that sit on
-Dialogue: 0,1:46:55.41,1:46:57.69,辉中,,0,0,0,,the map that are kind of fun when you
-Dialogue: 0,1:46:57.69,1:46:59.43,辉中,,0,0,0,,find them but you'll forget about them
-Dialogue: 0,1:46:59.43,1:47:01.47,辉中,,0,0,0,,within 50 feet the point of all of this
-Dialogue: 0,1:47:01.47,1:47:03.78,辉中,,0,0,0,,is to say that the world design of death
-Dialogue: 0,1:47:03.78,1:47:07.05,辉中,,0,0,0,,stranding is so incomprehensibly bad I
-Dialogue: 0,1:47:07.05,1:47:09.42,辉中,,0,0,0,,don't really know how to explain it
-Dialogue: 0,1:47:09.42,1:47:12.69,辉中,,0,0,0,,other than pure laziness hell my degree
-Dialogue: 0,1:47:12.69,1:47:14.94,辉中,,0,0,0,,is in corporate finance I'm not a
-Dialogue: 0,1:47:14.94,1:47:18.00,辉中,,0,0,0,,specialist in game design but all of
-Dialogue: 0,1:47:18.00,1:47:20.52,辉中,,0,0,0,,this is pretty basic to me and the fact
-Dialogue: 0,1:47:20.52,1:47:22.50,辉中,,0,0,0,,that Kojima Productions can't manage to
-Dialogue: 0,1:47:22.50,1:47:25.32,辉中,,0,0,0,,follow any of the basic practices of
-Dialogue: 0,1:47:25.32,1:47:27.33,辉中,,0,0,0,,AAA open-world game development
-Dialogue: 0,1:47:27.33,1:47:30.15,辉中,,0,0,0,,it's completely baffling to me if you
-Dialogue: 0,1:47:30.15,1:47:31.74,辉中,,0,0,0,,have an explanation for it I would love
-Dialogue: 0,1:47:31.74,1:47:33.24,辉中,,0,0,0,,to hear it down in the comment section
-Dialogue: 0,1:47:33.24,1:47:33.51,辉中,,0,0,0,,below
-Dialogue: 0,1:47:33.51,1:47:35.55,辉中,,0,0,0,,regardless one of the other common
-Dialogue: 0,1:47:35.55,1:47:37.20,辉中,,0,0,0,,accusations that's levied against deaths
-Dialogue: 0,1:47:37.20,1:47:38.70,辉中,,0,0,0,,training is the idea that the gameplay
-Dialogue: 0,1:47:38.70,1:47:40.68,辉中,,0,0,0,,is purely repetitive and there's no
-Dialogue: 0,1:47:40.68,1:47:42.69,辉中,,0,0,0,,reason to engage with it because of its
-Dialogue: 0,1:47:42.69,1:47:44.67,辉中,,0,0,0,,repetitious nature and on the macro
-Dialogue: 0,1:47:44.67,1:47:46.29,辉中,,0,0,0,,level I think that is fair enough which
-Dialogue: 0,1:47:46.29,1:47:48.30,辉中,,0,0,0,,is why I ran through the basic outline
-Dialogue: 0,1:47:48.30,1:47:50.31,辉中,,0,0,0,,of a quest earlier in this section
-Dialogue: 0,1:47:50.31,1:47:52.80,辉中,,0,0,0,,however on the micro level is where I
-Dialogue: 0,1:47:52.80,1:47:55.23,辉中,,0,0,0,,would slightly disagree because while
-Dialogue: 0,1:47:55.23,1:47:57.03,辉中,,0,0,0,,you are going to be repeating the same
-Dialogue: 0,1:47:57.03,1:47:59.79,辉中,,0,0,0,,basic macro process of delivering items
-Dialogue: 0,1:47:59.79,1:48:01.68,辉中,,0,0,0,,from one location to the other you are
-Dialogue: 0,1:48:01.68,1:48:03.21,辉中,,0,0,0,,going to be using a plethora of
-Dialogue: 0,1:48:03.21,1:48:05.70,辉中,,0,0,0,,different tools in order to achieve this
-Dialogue: 0,1:48:05.70,1:48:07.58,辉中,,0,0,0,,end whether you're walking using
-Dialogue: 0,1:48:07.58,1:48:10.20,辉中,,0,0,0,,motorcycles or trucks ladders climbing
-Dialogue: 0,1:48:10.20,1:48:12.90,辉中,,0,0,0,,anchors bridges or zip lines pretty much
-Dialogue: 0,1:48:12.90,1:48:13.92,辉中,,0,0,0,,across the board you're going to be
-Dialogue: 0,1:48:13.92,1:48:16.17,辉中,,0,0,0,,using a plethora of different tools all
-Dialogue: 0,1:48:16.17,1:48:19.02,辉中,,0,0,0,,told it is repetitive in the purest
-Dialogue: 0,1:48:19.02,1:48:21.81,辉中,,0,0,0,,sense of the word but what game isn't in
-Dialogue: 0,1:48:21.81,1:48:23.52,辉中,,0,0,0,,Red Dead Redemption you're going to be
-Dialogue: 0,1:48:23.52,1:48:26.52,辉中,,0,0,0,,engaging in gun firefights and riding
-Dialogue: 0,1:48:26.52,1:48:28.71,辉中,,0,0,0,,your horse that's pretty much it in The
-Dialogue: 0,1:48:28.71,1:48:30.57,辉中,,0,0,0,,Witcher 3 you're going to be talking
-Dialogue: 0,1:48:30.57,1:48:31.20,辉中,,0,0,0,,with people
-Dialogue: 0,1:48:31.20,1:48:33.30,辉中,,0,0,0,,and sword-fighting sure occasionally
-Dialogue: 0,1:48:33.30,1:48:34.83,辉中,,0,0,0,,you're also going to be crafting things
-Dialogue: 0,1:48:34.83,1:48:36.63,辉中,,0,0,0,,but that's also true of Death Stranding
-Dialogue: 0,1:48:36.63,1:48:39.21,辉中,,0,0,0,,and even with Red Dead Redemption too
-Dialogue: 0,1:48:39.21,1:48:41.22,辉中,,0,0,0,,every game has a set of gameplay
-Dialogue: 0,1:48:41.22,1:48:42.78,辉中,,0,0,0,,mechanics that they're going to repeat
-Dialogue: 0,1:48:42.78,1:48:45.75,辉中,,0,0,0,,rinse repeat rinse repeat over and over
-Dialogue: 0,1:48:45.75,1:48:47.73,辉中,,0,0,0,,and over again after all it's kind of
-Dialogue: 0,1:48:47.73,1:48:50.01,辉中,,0,0,0,,the definition of a video game to me the
-Dialogue: 0,1:48:50.01,1:48:51.81,辉中,,0,0,0,,problem isn't with the fact that the
-Dialogue: 0,1:48:51.81,1:48:53.76,辉中,,0,0,0,,gameplay system is repetitious the
-Dialogue: 0,1:48:53.76,1:48:56.10,辉中,,0,0,0,,problem is that the orders while being
-Dialogue: 0,1:48:56.10,1:48:59.43,辉中,,0,0,0,,repetitious require you to go over areas
-Dialogue: 0,1:48:59.43,1:49:02.37,辉中,,0,0,0,,that you've traversed time and time and
-Dialogue: 0,1:49:02.37,1:49:05.64,辉中,,0,0,0,,time again it ceases to be interesting
-Dialogue: 0,1:49:05.64,1:49:07.02,辉中,,0,0,0,,after the first few times especially
-Dialogue: 0,1:49:07.02,1:49:09.48,辉中,,0,0,0,,once you've built items that help you
-Dialogue: 0,1:49:09.48,1:49:12.12,辉中,,0,0,0,,get over this such as ladders climbing
-Dialogue: 0,1:49:12.12,1:49:14.64,辉中,,0,0,0,,anchors bridges or zip lines they
-Dialogue: 0,1:49:14.64,1:49:16.20,辉中,,0,0,0,,completely negate the need to engage
-Dialogue: 0,1:49:16.20,1:49:18.18,辉中,,0,0,0,,with the other elements of the gameplay
-Dialogue: 0,1:49:18.18,1:49:20.19,辉中,,0,0,0,,loop and end up just turning this whole
-Dialogue: 0,1:49:20.19,1:49:22.95,辉中,,0,0,0,,process into a tedious one instead of
-Dialogue: 0,1:49:22.95,1:49:24.96,辉中,,0,0,0,,one of exploration and adventure
-Dialogue: 0,1:49:24.96,1:49:27.15,辉中,,0,0,0,,this is especially an issue because you
-Dialogue: 0,1:49:27.15,1:49:29.28,辉中,,0,0,0,,are encouraged to craft a ton of items
-Dialogue: 0,1:49:29.28,1:49:31.95,辉中,,0,0,0,,and to load up way more than you likely
-Dialogue: 0,1:49:31.95,1:49:33.96,辉中,,0,0,0,,need for a given mission I found myself
-Dialogue: 0,1:49:33.96,1:49:37.08,辉中,,0,0,0,,many many times trying to use all of my
-Dialogue: 0,1:49:37.08,1:49:38.82,辉中,,0,0,0,,ladders and climbing anchors that I
-Dialogue: 0,1:49:38.82,1:49:40.83,辉中,,0,0,0,,brought with me just because I had
-Dialogue: 0,1:49:40.83,1:49:43.11,辉中,,0,0,0,,crafted too many and I didn't want to
-Dialogue: 0,1:49:43.11,1:49:45.27,辉中,,0,0,0,,have a back fully-loaded of things that
-Dialogue: 0,1:49:45.27,1:49:47.37,辉中,,0,0,0,,I wasn't using so I would make sure that
-Dialogue: 0,1:49:47.37,1:49:49.05,辉中,,0,0,0,,I would drop all the ladders all the
-Dialogue: 0,1:49:49.05,1:49:50.40,辉中,,0,0,0,,climbing anchors and everything that I
-Dialogue: 0,1:49:50.40,1:49:52.20,辉中,,0,0,0,,had carried to make sure that they were
-Dialogue: 0,1:49:52.20,1:49:54.54,辉中,,0,0,0,,getting used if anything I ever built
-Dialogue: 0,1:49:54.54,1:49:56.67,辉中,,0,0,0,,was interfering with the kairel density
-Dialogue: 0,1:49:56.67,1:49:58.65,辉中,,0,0,0,,or was making it so that the Kairo
-Dialogue: 0,1:49:58.65,1:50:01.26,辉中,,0,0,0,,bandwidth was overloaded I would just
-Dialogue: 0,1:50:01.26,1:50:03.00,辉中,,0,0,0,,delete them and many times the game
-Dialogue: 0,1:50:03.00,1:50:05.13,辉中,,0,0,0,,actually does this for you which is why
-Dialogue: 0,1:50:05.13,1:50:06.99,辉中,,0,0,0,,the time fall is kind of a cool gameplay
-Dialogue: 0,1:50:06.99,1:50:09.51,辉中,,0,0,0,,mechanic because it's a reason in game
-Dialogue: 0,1:50:09.51,1:50:12.21,辉中,,0,0,0,,four items to deteriorate and get
-Dialogue: 0,1:50:12.21,1:50:14.22,辉中,,0,0,0,,deleted effectively after a certain
-Dialogue: 0,1:50:14.22,1:50:16.14,辉中,,0,0,0,,amount of time which forces you to go
-Dialogue: 0,1:50:16.14,1:50:18.66,辉中,,0,0,0,,back over those areas rebuild the things
-Dialogue: 0,1:50:18.66,1:50:20.46,辉中,,0,0,0,,that you had previously put there but I
-Dialogue: 0,1:50:20.46,1:50:22.77,辉中,,0,0,0,,don't think time fall degrades these
-Dialogue: 0,1:50:22.77,1:50:25.11,辉中,,0,0,0,,items fast enough for you to feel as
-Dialogue: 0,1:50:25.11,1:50:26.79,辉中,,0,0,0,,though you need to constantly be up
-Dialogue: 0,1:50:26.79,1:50:28.56,辉中,,0,0,0,,keeping on all of the things that you've
-Dialogue: 0,1:50:28.56,1:50:30.51,辉中,,0,0,0,,put into the world furthermore I was
-Dialogue: 0,1:50:30.51,1:50:33.12,辉中,,0,0,0,,almost never limited by resources when I
-Dialogue: 0,1:50:33.12,1:50:35.10,辉中,,0,0,0,,was crafting these things after all
-Dialogue: 0,1:50:35.10,1:50:36.78,辉中,,0,0,0,,resources tend to be stored in the
-Dialogue: 0,1:50:36.78,1:50:38.76,辉中,,0,0,0,,locations at which you're crafting items
-Dialogue: 0,1:50:38.76,1:50:41.85,辉中,,0,0,0,,so there's rarely ever a time where you
-Dialogue: 0,1:50:41.85,1:50:44.37,辉中,,0,0,0,,find yourself short only when building
-Dialogue: 0,1:50:44.37,1:50:45.03,辉中,,0,0,0,,Road
-Dialogue: 0,1:50:45.03,1:50:47.22,辉中,,0,0,0,,and bridges did I notice a need for
-Dialogue: 0,1:50:47.22,1:50:49.59,辉中,,0,0,0,,extra materials but after a few quick
-Dialogue: 0,1:50:49.59,1:50:51.78,辉中,,0,0,0,,trips to a mule camp and back to the
-Dialogue: 0,1:50:51.78,1:50:54.00,辉中,,0,0,0,,home base to extract materials all of
-Dialogue: 0,1:50:54.00,1:50:56.19,辉中,,0,0,0,,this was fixed I experimented with some
-Dialogue: 0,1:50:56.19,1:50:58.02,辉中,,0,0,0,,higher difficulty options to see if this
-Dialogue: 0,1:50:58.02,1:51:00.36,辉中,,0,0,0,,would make item spawns or material
-Dialogue: 0,1:51:00.36,1:51:02.79,辉中,,0,0,0,,spawns much lower to make this much more
-Dialogue: 0,1:51:02.79,1:51:04.38,辉中,,0,0,0,,involved to make it so you couldn't
-Dialogue: 0,1:51:04.38,1:51:07.08,辉中,,0,0,0,,craft for ladders to anchors to boots to
-Dialogue: 0,1:51:07.08,1:51:07.62,辉中,,0,0,0,,gloves
-Dialogue: 0,1:51:07.62,1:51:10.68,辉中,,0,0,0,,five guns and three vehicles all at the
-Dialogue: 0,1:51:10.68,1:51:12.27,辉中,,0,0,0,,same time without ever feeling the
-Dialogue: 0,1:51:12.27,1:51:14.97,辉中,,0,0,0,,impact of it and I'm sorry to report the
-Dialogue: 0,1:51:14.97,1:51:16.77,辉中,,0,0,0,,difficulty really only affects the
-Dialogue: 0,1:51:16.77,1:51:18.81,辉中,,0,0,0,,combat and the damage that you receive
-Dialogue: 0,1:51:18.81,1:51:21.39,辉中,,0,0,0,,and deal out it doesn't actually change
-Dialogue: 0,1:51:21.39,1:51:23.61,辉中,,0,0,0,,much of anything as far as I can tell in
-Dialogue: 0,1:51:23.61,1:51:26.01,辉中,,0,0,0,,terms of item spawns or anything like
-Dialogue: 0,1:51:26.01,1:51:27.87,辉中,,0,0,0,,that furthermore you can also repair
-Dialogue: 0,1:51:27.87,1:51:30.21,辉中,,0,0,0,,items and packaging if a road is
+Dialogue: 0,1:40:05.09,1:40:08.52,辉中,,0,0,0,,But this thing has an operating distance that is so low,
+Dialogue: 0,1:40:08.52,1:40:11.74,辉中,,0,0,0,,it would make a first-generation Tesla blush.
+Dialogue: 0,1:40:11.74,1:40:19.12,辉中,,0,0,0,,Seriously, this is where I started … and as I drive, and drive, and drive, and drive,
+Dialogue: 0,1:40:19.12,1:40:28.41,辉中,,0,0,0,,not even going very far … this is where the battery dies … in the middle of the stream.
+Dialogue: 0,1:40:28.83,1:40:32.15,辉中,,0,0,0,,The car immediately starts freaking out, it pushes me out,
+Dialogue: 0,1:40:32.15,1:40:38.28,辉中,,0,0,0,,and then, instantly, the car disappears and all of my cargo floats downstream.
+Dialogue: 0,1:40:38.28,1:40:43.01,辉中,,0,0,0,,And this was so much cargo I couldn't possibly load it up onto my back.
+Dialogue: 0,1:40:43.01,1:40:46.64,辉中,,0,0,0,,And it all drifted out into the water, and was ruined.
+Dialogue: 0,1:40:46.64,1:40:54.96,辉中,,0,0,0,,This was well over a thousand likes, instantly lost and several deliveries instantly failed,
+Dialogue: 0,1:40:54.96,1:41:02.36,辉中,,0,0,0,,due to a stupid mechanism just designed to make you engage in this tedious gameplay cycle
+Dialogue: 0,1:41:02.36,1:41:04.73,辉中,,0,0,0,,of building generators to charge batteries,
+Dialogue: 0,1:41:04.73,1:41:08.67,辉中,,0,0,0,,to get to another generator to charge your battery, so you can move on.
+Dialogue: 0,1:41:08.67,1:41:10.49,辉中,,0,0,0,,In no way is this realistic.
+Dialogue: 0,1:41:10.49,1:41:14.16,辉中,,0,0,0,,And that's the other question, if this world is designed to be realistic,
+Dialogue: 0,1:41:14.16,1:41:17.71,辉中,,0,0,0,,and that's your excuse as to why the world design is so crappy,
+Dialogue: 0,1:41:17.71,1:41:22.19,辉中,,0,0,0,,then why are batteries and things like this so clearly gamified
+Dialogue: 0,1:41:22.19,1:41:24.88,辉中,,0,0,0,,in order to make you engage in the gameplay system?
+Dialogue: 0,1:41:24.88,1:41:26.05,辉中,,0,0,0,,It's not consistent.
+Dialogue: 0,1:41:26.05,1:41:30.97,辉中,,0,0,0,,If you're going to make the gameplay systems realistic and lifelike, do it.
+Dialogue: 0,1:41:30.97,1:41:35.31,辉中,,0,0,0,,Don't do this half-assed thing, otherwise it just ends up being frustrating,
+Dialogue: 0,1:41:35.31,1:41:39.65,辉中,,0,0,0,,and forcing the player to wonder whether or not you had any idea what you were doing.
+Dialogue: 0,1:41:39.65,1:41:42.83,辉中,,0,0,0,,Now another feature of the world are the memory chips.
+Dialogue: 0,1:41:42.83,1:41:48.22,辉中,,0,0,0,,There are 56 of these and they're hidden in very random places with almost no visual cues.
+Dialogue: 0,1:41:48.22,1:41:49.67,辉中,,0,0,0,,Now the first time you hear about these
+Dialogue: 0,1:41:49.67,1:41:53.90,辉中,,0,0,0,,is when you receive an email in Chapter 3 from a character named Nick Easton.
+Dialogue: 0,1:41:53.90,1:41:57.15,辉中,,0,0,0,,In it he describes a quote-unquote "weird glowing thing"
+Dialogue: 0,1:41:57.15,1:42:01.24,辉中,,0,0,0,,that he wants you to find in Capital Knot City's isolation ward.
+Dialogue: 0,1:42:01.24,1:42:04.98,辉中,,0,0,0,,And these emails are actually the only thing that pushed you towards finding these chips.
+Dialogue: 0,1:42:04.98,1:42:07.35,辉中,,0,0,0,,It's not really a concern in the main story.
+Dialogue: 0,1:42:07.35,1:42:10.23,辉中,,0,0,0,,Now I ran around for hours and hours collecting these.
+Dialogue: 0,1:42:10.23,1:42:13.84,辉中,,0,0,0,,Even the one in Higgs' secret room that doesn't unlock
+Dialogue: 0,1:42:13.84,1:42:17.11,辉中,,0,0,0,,until after fragile deals with him … on the beach.
+Dialogue: 0,1:42:17.11,1:42:23.18,辉中,,0,0,0,,And the question is whether or not these are busy work just designed to pad out a platinum run
+Dialogue: 0,1:42:23.18,1:42:27.22,辉中,,0,0,0,,or if these are placed in the world as a reason for you to explore it,
+Dialogue: 0,1:42:27.22,1:42:30.68,辉中,,0,0,0,,and to hike through, trying to find every single one of them.
+Dialogue: 0,1:42:30.68,1:42:35.00,辉中,,0,0,0,,Now to me it seems pretty clearly that it's the former, not the latter.
+Dialogue: 0,1:42:35.00,1:42:37.21,辉中,,0,0,0,,And to prove this I'm going to show you some examples.
+Dialogue: 0,1:42:37.21,1:42:39.53,辉中,,0,0,0,,These are some of the more commonly collected ones.
+Dialogue: 0,1:42:39.53,1:42:42.11,辉中,,0,0,0,,So if you've yet to find all of them, don't worry,
+Dialogue: 0,1:42:42.11,1:42:45.63,辉中,,0,0,0,,you can still hunt them down and have a good time, for what it's worth.
+Dialogue: 0,1:42:45.63,1:42:49.68,辉中,,0,0,0,,When you go to the weather station, there's one, placed on a concrete ledge.
+Dialogue: 0,1:42:49.68,1:42:53.98,辉中,,0,0,0,,Okay you run past this, frequently enough, I think I'm fine with this one.
+Dialogue: 0,1:42:53.98,1:42:56.62,辉中,,0,0,0,,This one, however, is along the red wall.
+Dialogue: 0,1:42:56.62,1:42:59.95,辉中,,0,0,0,,It's not an area you would ever be running by.
+Dialogue: 0,1:42:59.95,1:43:02.57,辉中,,0,0,0,,There's no reason for you to explore this area.
+Dialogue: 0,1:43:02.57,1:43:06.41,辉中,,0,0,0,,And even once you get there, it hides very very well.
+Dialogue: 0,1:43:06.41,1:43:10.40,辉中,,0,0,0,,It's hidden in the truck bed, of this area, you have no reason to go to.
+Dialogue: 0,1:43:10.40,1:43:11.86,辉中,,0,0,0,,This one I'm less okay with.
+Dialogue: 0,1:43:11.86,1:43:16.19,辉中,,0,0,0,,And it doesn't seem as though it's hidden in a way that encourages you to explore the map.
+Dialogue: 0,1:43:16.19,1:43:21.01,辉中,,0,0,0,,It's hidden in a way, that encourages this busywork type of gameplay.
+Dialogue: 0,1:43:21.01,1:43:22.87,辉中,,0,0,0,,This is another one that I'm actually okay with.
+Dialogue: 0,1:43:22.87,1:43:25.55,辉中,,0,0,0,,It's hidden in an underpass by Mama's base.
+Dialogue: 0,1:43:25.55,1:43:28.30,辉中,,0,0,0,,This is something that I did stumble on too while exploring.
+Dialogue: 0,1:43:28.30,1:43:31.61,辉中,,0,0,0,,I didn't have to read any email cueing me to this area.
+Dialogue: 0,1:43:31.61,1:43:34.09,辉中,,0,0,0,,So obviously I'm okay with this one.
+Dialogue: 0,1:43:34.09,1:43:37.29,辉中,,0,0,0,,This is one I'm not okay with, it's on the hood of a semi Shore.
+Dialogue: 0,1:43:37.29,1:43:40.68,辉中,,0,0,0,,It's outside of an area you're going to be trafficking fairly frequently,
+Dialogue: 0,1:43:40.68,1:43:42.95,辉中,,0,0,0,,but you can't normally climb onto vehicles.
+Dialogue: 0,1:43:42.95,1:43:45.54,辉中,,0,0,0,,You have no reason to ever climb onto a vehicle.
+Dialogue: 0,1:43:45.54,1:43:49.07,辉中,,0,0,0,,so the only reason you would hop up on this is if you scanned it,
+Dialogue: 0,1:43:49.07,1:43:51.69,辉中,,0,0,0,,happen to spot it, and jumped up to grab it.
+Dialogue: 0,1:43:51.69,1:43:56.60,辉中,,0,0,0,,There's no reason for the player to be looking up here or looking for memory chips in this area.
+Dialogue: 0,1:43:56.60,1:44:01.48,辉中,,0,0,0,,This is something that you would just stumble onto, or would find if you were cued on to it.
+Dialogue: 0,1:44:01.48,1:44:04.53,辉中,,0,0,0,,There's this one in the back corner of the loading zone room.
+Dialogue: 0,1:44:04.53,1:44:06.43,辉中,,0,0,0,,It's just sitting on the floor.
+Dialogue: 0,1:44:06.43,1:44:10.69,辉中,,0,0,0,,Now fair enough, if you go back here, you're going to spot it, so it's fairly easy to find.
+Dialogue: 0,1:44:10.69,1:44:16.24,辉中,,0,0,0,,However, the player has no reason to ever go back into one of these areas.
+Dialogue: 0,1:44:16.24,1:44:21.43,辉中,,0,0,0,,It's just placed here, and you're expected to figure that out for reasons,
+Dialogue: 0,1:44:21.43,1:44:23.58,辉中,,0,0,0,,even though there's never anything else
+Dialogue: 0,1:44:23.58,1:44:26.73,辉中,,0,0,0,,placed in these back corners in any of the other loading zones.
+Dialogue: 0,1:44:26.73,1:44:30.19,辉中,,0,0,0,,There's this one in the snow field, just sitting on top of a collapsed pillar.
+Dialogue: 0,1:44:30.19,1:44:33.23,辉中,,0,0,0,,This is one that you would probably find during normal gameplay,
+Dialogue: 0,1:44:33.23,1:44:36.23,辉中,,0,0,0,,especially because this is a BT heavy area,
+Dialogue: 0,1:44:36.23,1:44:40.30,辉中,,0,0,0,,and this is a zone where you're going to be crouching and stealth in your way through.
+Dialogue: 0,1:44:40.30,1:44:42.84,辉中,,0,0,0,,So I'm actually ok with this one, this one makes sense.
+Dialogue: 0,1:44:42.84,1:44:47.79,辉中,,0,0,0,,This one's in a cave and this cave is actually marked with a ton of signs as a timefall shelter.
+Dialogue: 0,1:44:47.79,1:44:50.60,辉中,,0,0,0,,So it's also likely that you would probably encounter this one
+Dialogue: 0,1:44:50.60,1:44:53.07,辉中,,0,0,0,,through regular gameplay, even though I didn't.
+Dialogue: 0,1:44:53.07,1:44:58.61,辉中,,0,0,0,,But the one I like by far, the most, is the one hidden in Higgs' secret room.
+Dialogue: 0,1:44:58.61,1:45:01.56,辉中,,0,0,0,,This is in the top right corner of the central zone of the map.
+Dialogue: 0,1:45:01.56,1:45:03.91,辉中,,0,0,0,,It's basically Higgs' center of operations.
+Dialogue: 0,1:45:03.91,1:45:07.24,辉中,,0,0,0,,It's a really cool hidden area, that I like a lot.
+Dialogue: 0,1:45:07.24,1:45:09.45,辉中,,0,0,0,,This is really cool that they included this here,
+Dialogue: 0,1:45:09.45,1:45:14.70,辉中,,0,0,0,,even if some of the quotes scribbled on the wall are kind of … funny and … weird.
+Dialogue: 0,1:45:14.70,1:45:17.45,辉中,,0,0,0,,I'll just say it again, I really like this.
+Dialogue: 0,1:45:17.45,1:45:22.75,辉中,,0,0,0,,And I really wish there were more things like this, hidden and scattered throughout the map.
+Dialogue: 0,1:45:22.75,1:45:25.23,辉中,,0,0,0,,If the map were littered with things such as this,
+Dialogue: 0,1:45:25.23,1:45:29.50,辉中,,0,0,0,,the player would have a reason and an excuse to explore for the sake of exploring
+Dialogue: 0,1:45:29.50,1:45:31.65,辉中,,0,0,0,,without any deliveries strapped to their back.
+Dialogue: 0,1:45:31.65,1:45:34.72,辉中,,0,0,0,,Just going through the world for the sake of interacting with it.
+Dialogue: 0,1:45:34.72,1:45:38.60,辉中,,0,0,0,,But at last, as far as I'm aware, this is the only thing like it in the game.
+Dialogue: 0,1:45:38.60,1:45:42.11,辉中,,0,0,0,,Now it's pretty clear to me that these are supposed to be hunted down
+Dialogue: 0,1:45:42.11,1:45:46.35,辉中,,0,0,0,,with emails that you receive in the game, which is obviously true.
+Dialogue: 0,1:45:46.35,1:45:49.65,辉中,,0,0,0,,Because many of these chips won't actually spawn
+Dialogue: 0,1:45:49.65,1:45:52.67,辉中,,0,0,0,,until you've received a given email describing them.
+Dialogue: 0,1:45:52.67,1:45:57.92,辉中,,0,0,0,,So clearly they want you to be interacting with the emails, and using the emails to find them.
+Dialogue: 0,1:45:57.92,1:46:01.82,辉中,,0,0,0,,For example, the memory chip "The Walk" doesn't actually unlock
+Dialogue: 0,1:46:01.82,1:46:03.99,辉中,,0,0,0,,until you've leveled up the First Prepper,
+Dialogue: 0,1:46:03.99,1:46:07.56,辉中,,0,0,0,,one of the most isolated individuals in the entire game.
+Dialogue: 0,1:46:07.56,1:46:10.14,辉中,,0,0,0,,And because you're supposed to rely on these emails,
+Dialogue: 0,1:46:10.14,1:46:14.72,辉中,,0,0,0,,I think it's fair to say that these are here to encourage you to read through the emails,
+Dialogue: 0,1:46:14.72,1:46:17.44,辉中,,0,0,0,,not here to encourage you to explore the world.
+Dialogue: 0,1:46:17.44,1:46:19.61,辉中,,0,0,0,,The last thing that I can think of that would encourage you
+Dialogue: 0,1:46:19.61,1:46:23.45,辉中,,0,0,0,,to explore the world for the sake of exploring it would be the hot springs.
+Dialogue: 0,1:46:23.45,1:46:26.63,辉中,,0,0,0,,These are something that are briefly mentioned and they're kind of cool.
+Dialogue: 0,1:46:26.63,1:46:30.29,辉中,,0,0,0,,Basically there's six by my count in the middle zone alone.
+Dialogue: 0,1:46:30.29,1:46:31.87,辉中,,0,0,0,,And they allow you to hop in.
+Dialogue: 0,1:46:31.87,1:46:34.41,辉中,,0,0,0,,And there's regenerative qualities to them.
+Dialogue: 0,1:46:34.41,1:46:38.65,辉中,,0,0,0,,And … though it is cute because you hop in and you chill with your BB,
+Dialogue: 0,1:46:38.65,1:46:42.53,辉中,,0,0,0,,I never really felt the need to use these or hunt them down intentionally.
+Dialogue: 0,1:46:42.53,1:46:44.28,辉中,,0,0,0,,When I encountered one I would hop in,
+Dialogue: 0,1:46:44.28,1:46:47.17,辉中,,0,0,0,,but that was really the only time I ever use them.
+Dialogue: 0,1:46:47.17,1:46:52.91,辉中,,0,0,0,,Again, I'm glad they're, here but this is by no means a reason to explore the map.
+Dialogue: 0,1:46:52.91,1:46:58.28,辉中,,0,0,0,,It's just six things that sit on the map, that are kind of fun when you find them.
+Dialogue: 0,1:46:58.28,1:47:00.63,辉中,,0,0,0,,But you'll forget about them within 50 feet.
+Dialogue: 0,1:47:00.63,1:47:04.64,辉中,,0,0,0,,The point of all of this is to say that the world design of Death Stranding
+Dialogue: 0,1:47:04.64,1:47:07.25,辉中,,0,0,0,,is so incomprehensibly bad.
+Dialogue: 0,1:47:07.25,1:47:11.66,辉中,,0,0,0,,I don't really know how to explain it other than pure laziness.
+Dialogue: 0,1:47:11.66,1:47:14.52,辉中,,0,0,0,,Hell, my degree is in Corporate Finance.
+Dialogue: 0,1:47:14.52,1:47:19.99,辉中,,0,0,0,,I'm not a specialist in game design, but all of this is pretty basic to me.
+Dialogue: 0,1:47:19.99,1:47:22.86,辉中,,0,0,0,,And the fact that Kojima Productions can't manage to follow
+Dialogue: 0,1:47:22.86,1:47:27.45,辉中,,0,0,0,,any of the basic practices of AAA open-world game development.
+Dialogue: 0,1:47:27.45,1:47:29.84,辉中,,0,0,0,,It's completely baffling to me.
+Dialogue: 0,1:47:29.84,1:47:33.65,辉中,,0,0,0,,If you have an explanation for it, I would love to hear it down in the comment section below.
+Dialogue: 0,1:47:33.65,1:47:37.53,辉中,,0,0,0,,对《死亡搁浅》的另一常见批评之一是人们认为游戏玩法过于重复\NRegardless, one of the other common accusations that's levied against Death Stranding
+Dialogue: 0,1:47:37.53,1:47:40.29,辉中,,0,0,0,,对《死亡搁浅》的另一常见批评之一是人们认为游戏玩法过于重复\Nis the idea that the gameplay is purely repetitive
+Dialogue: 0,1:47:40.29,1:47:43.94,辉中,,0,0,0,,而游戏的这一特点会让玩家失去游玩动力\Nand there's no reason to engage with it because of its repetitious nature.
+Dialogue: 0,1:47:43.94,1:47:46.13,辉中,,0,0,0,,And on the macro level I think that is fair enough,
+Dialogue: 0,1:47:46.13,1:47:50.66,辉中,,0,0,0,,which is why I ran through the basic outline of a quest earlier in this section.
+Dialogue: 0,1:47:50.66,1:47:54.56,辉中,,0,0,0,,However, on the micro level, is where I would slightly disagree.
+Dialogue: 0,1:47:54.56,1:47:56.68,辉中,,0,0,0,,Because while you are going to be repeating
+Dialogue: 0,1:47:56.68,1:48:01.47,辉中,,0,0,0,,the same basic macro process of delivering items from one location to the other,
+Dialogue: 0,1:48:01.47,1:48:06.27,辉中,,0,0,0,,you are going to be using a plethora of different tools in order to achieve this end.
+Dialogue: 0,1:48:06.27,1:48:08.65,辉中,,0,0,0,,Whether you're walking, using motorcycles,
+Dialogue: 0,1:48:08.65,1:48:12.53,辉中,,0,0,0,,or trucks, ladders, climbing anchors, bridges, or zip-lines,
+Dialogue: 0,1:48:12.53,1:48:16.18,辉中,,0,0,0,,pretty much across the board you're going to be using a plethora of different tools.
+Dialogue: 0,1:48:16.18,1:48:21.80,辉中,,0,0,0,,All told it is repetitive in the purest sense of the word, but what game isn't.
+Dialogue: 0,1:48:21.80,1:48:27.06,辉中,,0,0,0,,In Red Dead Redemption you're going to be engaging in gun firefights and riding your horse.
+Dialogue: 0,1:48:27.06,1:48:28.52,辉中,,0,0,0,,That's pretty much it.
+Dialogue: 0,1:48:28.52,1:48:32.49,辉中,,0,0,0,,In The Witcher 3, you're going to be talking with people and sword-fighting.
+Dialogue: 0,1:48:32.49,1:48:35.05,辉中,,0,0,0,,Sure occasionally you're also going to be crafting things
+Dialogue: 0,1:48:35.05,1:48:39.46,辉中,,0,0,0,,but that's also true of Death Stranding and even with Red Dead Redemption 2.
+Dialogue: 0,1:48:39.46,1:48:43.67,辉中,,0,0,0,,Every game has a set of gameplay mechanics that they're going to repeat, rinse,
+Dialogue: 0,1:48:43.67,1:48:46.82,辉中,,0,0,0,,repeat, rinse, repeat, over and over and over again.
+Dialogue: 0,1:48:46.82,1:48:49.60,辉中,,0,0,0,,After all it's kind of the definition of a video game.
+Dialogue: 0,1:48:49.60,1:48:53.60,辉中,,0,0,0,,To me, the problem isn't with the fact that the gameplay system is repetitious.
+Dialogue: 0,1:48:53.60,1:48:57.99,辉中,,0,0,0,,The problem is that the orders while being repetitious require you
+Dialogue: 0,1:48:57.99,1:49:04.20,辉中,,0,0,0,,to go over areas that you've traversed time and time and time again.
+Dialogue: 0,1:49:04.20,1:49:06.82,辉中,,0,0,0,,It ceases to be interesting after the first few times,
+Dialogue: 0,1:49:06.82,1:49:10.54,辉中,,0,0,0,,especially once you've built items that help you get over this,
+Dialogue: 0,1:49:10.54,1:49:14.48,辉中,,0,0,0,,such as ladders, climbing anchors, bridges, or zip-lines.
+Dialogue: 0,1:49:14.48,1:49:18.59,辉中,,0,0,0,,They completely negate the need to engage with the other elements of the gameplay loop,
+Dialogue: 0,1:49:18.59,1:49:22.50,辉中,,0,0,0,,and end up just turning this whole process into a tedious one,
+Dialogue: 0,1:49:22.50,1:49:25.10,辉中,,0,0,0,,instead of one of exploration and adventure.
+Dialogue: 0,1:49:25.10,1:49:26.77,辉中,,0,0,0,,This is especially an issue
+Dialogue: 0,1:49:26.77,1:49:29.40,辉中,,0,0,0,,because you are encouraged to craft a ton of items
+Dialogue: 0,1:49:29.40,1:49:33.37,辉中,,0,0,0,,and to load up way more than you likely need for a given mission.
+Dialogue: 0,1:49:33.37,1:49:35.90,辉中,,0,0,0,,I found myself many many times
+Dialogue: 0,1:49:35.90,1:49:39.97,辉中,,0,0,0,,trying to use all of my ladders and climbing anchors that I brought with me,
+Dialogue: 0,1:49:39.97,1:49:42.05,辉中,,0,0,0,,just because I had crafted too many,
+Dialogue: 0,1:49:42.05,1:49:46.42,辉中,,0,0,0,,and I didn't want to have a back fully-loaded of things that I wasn't using.
+Dialogue: 0,1:49:46.42,1:49:49.08,辉中,,0,0,0,,So I would make sure that I would drop all the ladders,
+Dialogue: 0,1:49:49.08,1:49:51.25,辉中,,0,0,0,,all the climbing anchors, and everything that I had carried,
+Dialogue: 0,1:49:51.25,1:49:53.42,辉中,,0,0,0,,to make sure that they were getting used.
+Dialogue: 0,1:49:53.42,1:49:56.77,辉中,,0,0,0,,If anything I ever built was interfering with the Chiral density
+Dialogue: 0,1:49:56.77,1:50:02.02,辉中,,0,0,0,,or was making it so that the Chiral bandwidth was overloaded, I would just delete them.
+Dialogue: 0,1:50:02.02,1:50:04.59,辉中,,0,0,0,,And many times the game actually does this for you,
+Dialogue: 0,1:50:04.59,1:50:07.81,辉中,,0,0,0,,which is why the timefall is kind of a cool gameplay mechanic.
+Dialogue: 0,1:50:07.81,1:50:11.72,辉中,,0,0,0,,Because it's a reason in game for items to deteriorate,
+Dialogue: 0,1:50:11.72,1:50:15.08,辉中,,0,0,0,,and get deleted effectively after a certain amount of time,
+Dialogue: 0,1:50:15.08,1:50:17.57,辉中,,0,0,0,,which forces you to go back over those areas,
+Dialogue: 0,1:50:17.57,1:50:20.29,辉中,,0,0,0,,rebuild the things that you had previously put there.
+Dialogue: 0,1:50:20.29,1:50:24.14,辉中,,0,0,0,,But I don't think timefall degrades these items fast enough
+Dialogue: 0,1:50:24.14,1:50:28.33,辉中,,0,0,0,,for you to feel as though you need to constantly be up keeping on all of the things
+Dialogue: 0,1:50:28.33,1:50:29.78,辉中,,0,0,0,,that you've put into the world.
+Dialogue: 0,1:50:29.78,1:50:34.67,辉中,,0,0,0,,Furthermore I was almost never limited by resources when I was crafting these things.
+Dialogue: 0,1:50:34.67,1:50:39.32,辉中,,0,0,0,,After all, resources tend to be stored in the locations at which you're crafting items,
+Dialogue: 0,1:50:39.32,1:50:43.64,辉中,,0,0,0,,so there's rarely ever a time where you find yourself short.
+Dialogue: 0,1:50:43.64,1:50:48.54,辉中,,0,0,0,,Only when building Road and bridges did I notice a need for extra materials.
+Dialogue: 0,1:50:48.54,1:50:53.90,辉中,,0,0,0,,But after a few quick trips to a MULE-camp and back to the home base to extract materials,
+Dialogue: 0,1:50:53.90,1:50:55.27,辉中,,0,0,0,,all of this was fixed.
+Dialogue: 0,1:50:55.27,1:50:57.84,辉中,,0,0,0,,I experimented with some higher difficulty options to see
+Dialogue: 0,1:50:57.84,1:51:03.41,辉中,,0,0,0,,if this would make item spawns or material spawns much lower to make this much more involved,
+Dialogue: 0,1:51:03.41,1:51:10.09,辉中,,0,0,0,,to make it so you couldn't craft 4 ladders, 2 anchors, 2 boots, 2 gloves, 5 guns and 3 vehicles,
+Dialogue: 0,1:51:10.09,1:51:13.31,辉中,,0,0,0,,all at the same time without ever feeling the impact of it.
+Dialogue: 0,1:51:13.31,1:51:14.73,辉中,,0,0,0,,And I'm sorry to report,
+Dialogue: 0,1:51:14.73,1:51:20.38,辉中,,0,0,0,,the difficulty really only affects the combat and the damage that you receive and deal out.
+Dialogue: 0,1:51:20.38,1:51:23.73,辉中,,0,0,0,,It doesn't actually change much of anything as far as I can tell
+Dialogue: 0,1:51:23.73,1:51:26.48,辉中,,0,0,0,,in terms of item spawns or anything like that.
+Dialogue: 0,1:51:26.48,1:51:30.21,辉中,,0,0,0,,Furthermore you can also repair items and packaging if a road is
 Dialogue: 0,1:51:30.21,1:51:32.49,辉中,,0,0,0,,degrading or if a bridge is breaking
 Dialogue: 0,1:51:32.49,1:51:34.92,辉中,,0,0,0,,down you can just repair it with some
 Dialogue: 0,1:51:34.92,1:51:37.53,辉中,,0,0,0,,extra items though I will be honest I
@@ -2355,36 +2233,24 @@ Dialogue: 0,2:07:17.04,2:07:21.36,辉中,,0,0,0,,much bigger splash so in closin
 Dialogue: 0,2:07:21.36,2:07:24.63,辉中,,0,0,0,,stranding is an enigma it's a game that
 Dialogue: 0,2:07:24.63,2:07:26.76,辉中,,0,0,0,,I'm glad that I played the one that's
 Dialogue: 0,2:07:26.76,2:07:30.81,辉中,,0,0,0,,plagued with issues through and through
-Dialogue: 0,2:07:30.81,2:07:33.27,辉中,,0,0,0,,and while I'm glad that Kojima got to
-Dialogue: 0,2:07:33.27,2:07:35.34,辉中,,0,0,0,,pursue his passion project
-Dialogue: 0,2:07:35.34,2:07:38.28,辉中,,0,0,0,,I do hope that his next attempt is far
-Dialogue: 0,2:07:38.28,2:07:41.46,辉中,,0,0,0,,more coherent more polished and much
-Dialogue: 0,2:07:41.46,2:07:45.24,辉中,,0,0,0,,more fun but that's all from me thank
-Dialogue: 0,2:07:45.24,2:07:46.86,辉中,,0,0,0,,you so much for watching if you've made
-Dialogue: 0,2:07:46.86,2:07:48.48,辉中,,0,0,0,,it all the way to this point you are a
-Dialogue: 0,2:07:48.48,2:07:50.70,辉中,,0,0,0,,scholar and the Saint special thank you
-Dialogue: 0,2:07:50.70,2:07:52.98,辉中,,0,0,0,,again to the patrons that funded the
-Dialogue: 0,2:07:52.98,2:07:55.80,辉中,,0,0,0,,production of this video again it would
-Dialogue: 0,2:07:55.80,2:07:57.54,辉中,,0,0,0,,not have happened without the generosity
-Dialogue: 0,2:07:57.54,2:07:59.97,辉中,,0,0,0,,of these individuals and a very special
-Dialogue: 0,2:07:59.97,2:08:02.37,辉中,,0,0,0,,thank you to Zachary Johnson Mike
-Dialogue: 0,2:08:02.37,2:08:02.94,辉中,,0,0,0,,Holland
-Dialogue: 0,2:08:02.94,2:08:05.34,辉中,,0,0,0,,Christopher Scott and Paige Richardson
-Dialogue: 0,2:08:05.34,2:08:07.74,辉中,,0,0,0,,for their generosity let me know all of
-Dialogue: 0,2:08:07.74,2:08:09.21,辉中,,0,0,0,,your thoughts on Death Stranding below
-Dialogue: 0,2:08:09.21,2:08:11.61,辉中,,0,0,0,,and if you'd like to vote on and help
-Dialogue: 0,2:08:11.61,2:08:14.16,辉中,,0,0,0,,fund the next critique make sure you go
-Dialogue: 0,2:08:14.16,2:08:16.17,辉中,,0,0,0,,and check out my patreon page in
-Dialogue: 0,2:08:16.17,2:08:17.58,辉中,,0,0,0,,addition to getting all sorts of
-Dialogue: 0,2:08:17.58,2:08:19.41,辉中,,0,0,0,,behind-the-scenes peeks at the
-Dialogue: 0,2:08:19.41,2:08:21.42,辉中,,0,0,0,,development of these critiques helping
-Dialogue: 0,2:08:21.42,2:08:22.92,辉中,,0,0,0,,pick the thumbnails and much much more
-Dialogue: 0,2:08:22.92,2:08:26.58,辉中,,0,0,0,,you also get access to exclusive monthly
-Dialogue: 0,2:08:26.58,2:08:29.19,辉中,,0,0,0,,q A's free merchandise
-Dialogue: 0,2:08:29.19,2:08:31.29,辉中,,0,0,0,,early access to these critiques before
-Dialogue: 0,2:08:31.29,2:08:34.65,辉中,,0,0,0,,anybody else and exclusive videos just
-Dialogue: 0,2:08:34.65,2:08:36.75,辉中,,0,0,0,,for patrons but thank you all for
-Dialogue: 0,2:08:36.75,2:08:38.70,辉中,,0,0,0,,watching I love you all more than you
-Dialogue: 0,2:08:38.70,2:08:41.22,辉中,,0,0,0,,could possibly know and I'll see you in
-Dialogue: 0,2:08:41.22,2:08:42.97,辉中,,0,0,0,,the next video
-Dialogue: 0,2:08:42.97,2:08:55.97,辉中,,0,0,0,,[Music]
+Dialogue: 0,2:07:31.54,2:07:35.54,辉中,,0,0,0,,And while I'm glad that Kojima got to pursue his passion project,
+Dialogue: 0,2:07:35.54,2:07:40.89,辉中,,0,0,0,,I do hope that his next attempt is far more coherent, more polished,
+Dialogue: 0,2:07:40.89,2:07:43.63,辉中,,0,0,0,,and much more fun.
+Dialogue: 0,2:07:43.63,2:07:45.02,辉中,,0,0,0,,But that's all from me.
+Dialogue: 0,2:07:45.02,2:07:48.13,辉中,,0,0,0,,Thank you so much for watching if you've made it all the way to this point.
+Dialogue: 0,2:07:48.13,2:07:49.96,辉中,,0,0,0,,You are a scholar and the Saint.
+Dialogue: 0,2:07:49.96,2:07:54.74,辉中,,0,0,0,,Special thank you again to the patrons that funded the production of this video.
+Dialogue: 0,2:07:54.74,2:07:59.22,辉中,,0,0,0,,Again, it would not have happened without the generosity of these individuals.
+Dialogue: 0,2:07:59.22,2:08:03.08,辉中,,0,0,0,,And a very special thank you to Zachary Johnson, Mike Holland,
+Dialogue: 0,2:08:03.08,2:08:07.02,辉中,,0,0,0,,Christopher Scott and Paige Richardson, for their generosity.
+Dialogue: 0,2:08:07.02,2:08:09.52,辉中,,0,0,0,,Let me know all of your thoughts on Death Stranding below.
+Dialogue: 0,2:08:09.52,2:08:13.38,辉中,,0,0,0,,And if you'd like to vote on and help fund the next critique,
+Dialogue: 0,2:08:13.38,2:08:16.17,辉中,,0,0,0,,make sure you go and check out my patreon page.
+Dialogue: 0,2:08:16.17,2:08:21.04,辉中,,0,0,0,,In addition to getting all sorts of behind-the-scenes peeks at the development of these critiques,
+Dialogue: 0,2:08:21.04,2:08:23.58,辉中,,0,0,0,,helping pick the thumbnails and much much more,
+Dialogue: 0,2:08:23.58,2:08:29.04,辉中,,0,0,0,,you also get access to exclusive monthly Q&As, free merchandise,
+Dialogue: 0,2:08:29.04,2:08:32.54,辉中,,0,0,0,,early access to these critiques before anybody else,
+Dialogue: 0,2:08:32.54,2:08:35.76,辉中,,0,0,0,,and exclusive videos just for patrons.
+Dialogue: 0,2:08:35.76,2:08:37.53,辉中,,0,0,0,,But thank you all for watching,
+Dialogue: 0,2:08:37.53,2:08:40.28,辉中,,0,0,0,,I love you all more than you could possibly know,
+Dialogue: 0,2:08:40.28,2:08:42.98,辉中,,0,0,0,,and I'll see you in the next video.

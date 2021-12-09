@@ -19,6 +19,8 @@
 ## 地名
 |NAME|中文|备注|
 |:----|:----|:----|
+|Capital Knot City|首都节点城||
+|the First Prepper|第一位末日准备者||
 
 ## 其他
 |FULLNAME|中文|备注|
@@ -47,6 +49,8 @@
 |Sam Strand|山姆·斯特兰德|第13章|
 |Lou|洛|第14章|
 |Tomorrow is in your hands|未来在你手中|第15章|
+|memory chip|存储芯片|游戏中收集品|
+|"The Walk"|《云中行走》|存储芯片13|
 |Chiral bandwidth|开罗尔带宽|游戏中建筑建造的限制|
 |Zip-line||游戏中设施|
 |Generator|发电机|游戏中设施|
@@ -75,6 +79,7 @@
 |Arthur|亚瑟|RDR2的主角|
 |Rockstar|R星|RDR2的制作商|
 |The Witcher 3: Wild Hunt|巫师3：狂猎|CDPR的RPG游戏|
+|Corporate Finance|公司金融学|视频作者的大学学位|
 
 # 备忘
 1. Beach BB BT MULEs Kojima Syndrome 注意大小写
