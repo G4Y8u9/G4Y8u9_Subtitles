@@ -25,14 +25,18 @@
 ## 其他
 |FULLNAME|中文|备注|
 |:----|:----|:----|
+|Death Stranding|《死亡搁浅》|游戏名|
 |Hideo Kojima|小岛秀夫|游戏制作人|
 |Kojima Productions|小岛制作|小岛秀夫手下的首席制作组|
 |Geoff Keighley|杰夫·基思利|电子游戏新闻工作和电视节目主持人|
 |Voidout|虚空噬灭|BT吃人之后引发的爆炸|
 |Chiralium|开罗尔物质|死亡搁浅发生后被发现的物质|
+|Chiral Network|开罗尔网络||
 |Timefall|时间雨|加速时间的流逝的雨|
 |Repatriation|遣返者|死后可以从冥滩边界返回生者的世界|
-|Beached thing/BT|
+|Beached thing/BT|BT|游戏中的怪|
+|stamina||游戏中的系统数值|
+|health||游戏中的系统数值|
 |Porter|派送员|序章|
 |Bridget|布丽吉特|第1章|
 |Amelie|亚美莉|第2章|
@@ -57,33 +61,45 @@
 |Mads Mikkelsen|麦斯·米科尔森|克利福德·昂格尔的演员|
 |Léa Seydoux|蕾雅·赛杜|芙拉吉尔的演员|
 |Norman Reedus|诺曼·李杜斯|山姆的演员|
-|Horizon Zero Dawn|地平线 零之曙光|索尼发行的RPG游戏|
-|Guerrilla Games|游骑兵工作室|地平线 零之曙光的制作组|
+|Horizon Zero Dawn|《地平线 零之曙光》|索尼发行的RPG游戏|
+|Guerrilla Games|游骑兵工作室|《地平线 零之曙光》的制作组|
 |Decima Engine|Decima引擎|死亡搁浅使用的游戏引擎|
-|Metal Gear Solid|合金装备系列|小岛秀夫之前的作品|
+|Metal Gear Solid V|《合金装备V 幻痛》|小岛秀夫之前的作品|
+|Metal Gear Solid|《合金装备系列》|小岛秀夫之前的作品|
 |Psycho Mantis|意念螳螂|合金装备boss之一|
-|Cyberpunk 2077|赛博朋克2077|2020年发售的做一半的游戏|
-|Fallout 4|辐射4|B社游戏|
-|Fallout: New Vegas|辐射：新维加斯|B社游戏|
+|Cyberpunk 2077|《赛博朋克2077》|2020年发售的做一半的游戏|
+|Fallout 4|《辐射4》|B社游戏|
+|Fallout: New Vegas|《辐射：新维加斯》|B社游戏|
 |Todd Howard|托德·霍华德|B社游戏总监|
-|The Elder Scrolls V: Skyrim|上古卷轴V：天际|2011年RPG|
+|The Elder Scrolls V: Skyrim|《上古卷轴V：天际》|2011年RPG|
 |Naughty Dog|顽皮狗|《神海》《TLOU》游戏制作组|
-|Uncharted: The Lost Legacy|神秘海域：失落的遗产|顽皮狗游戏|
-|Lost|迷失|美国电视连续剧|
-|Higgs boson|希格斯玻色子|物理里一种基本粒子 游戏boss希格斯名字的由来|
-|The Legend of Zelda: Breath of the Wild|塞尔达传说 旷野之息|抄袭原神！（|
-|Uncharted: The Lost Legacy|神秘海域：失落的遗产|顽皮狗另一个游戏|
+|Uncharted: The Lost Legacy|《神秘海域：失落的遗产》|顽皮狗游戏|
+|Neil Druckmann|尼尔·德鲁克曼|《TLOU》游戏编剧之一|
+|The Last Of Us|《最后生还者》|顽皮狗游戏|
+|The Last Of Us Part II|《最后生还者 第II章》|顽皮狗游戏|
+|Uncharted: The Lost Legacy|《神秘海域：失落的遗产》|顽皮狗游戏|
 |Chloe Frazer|克罗伊|《神秘海域：失落的遗产》的主角|
+|Uncharted 4: A Thief's End|《神秘海域4：盗贼末路》|顽皮狗另一个游戏|
+|Lost|《迷失》|美国电视连续剧|
+|Higgs boson|希格斯玻色子|物理里一种基本粒子 游戏boss希格斯名字的由来|
+|The Legend of Zelda: Breath of the Wild|《塞尔达传说 旷野之息》|抄袭原神！（|
 |Conan O'Brien|柯南·奥布莱恩|角色扮演家的演员 美国脱口秀主持人、喜剧表演员、作家、制作人、配音员|
-|Red Dead Redemption 2|荒野大镖客：救赎2|Rockstar的游戏|
+|Grand Theft Auto V|《GTA5》|Rockstar的游戏|
+|Red Dead Redemption 2|《荒野大镖客：救赎2》|Rockstar的游戏|
 |Arthur|亚瑟|RDR2的主角|
 |Rockstar|R星|RDR2的制作商|
-|The Witcher 3: Wild Hunt|巫师3：狂猎|CDPR的RPG游戏|
+|The Witcher 3: Wild Hunt|《巫师3：狂猎》|CDPR的RPG游戏|
 |Corporate Finance|公司金融学|视频作者的大学学位|
+|Disco Elysium|《极乐迪斯科》|RPG游戏|
+|Assassin's Creed III|刺客信条III|育碧游戏|
+|Assassin's Creed Odyssey|《刺客信条：奥德赛》|育碧游戏|
+|Monster Energy|魔爪能量饮料|游戏中的广告|
+
 
 # 备忘
 1. Beach BB BT MULEs Kojima Syndrome 注意大小写
 2. 中文注意标点
+3. 视频说明中标注“痛批前两小时内容”的链接
 
 # 之前项目的字典 或许有用
 ## 游戏内角色/组织/感染者
