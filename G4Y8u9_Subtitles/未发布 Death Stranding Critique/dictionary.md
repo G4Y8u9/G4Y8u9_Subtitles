@@ -28,15 +28,33 @@
 |Death Stranding|《死亡搁浅》|游戏名|
 |Hideo Kojima|小岛秀夫|游戏制作人|
 |Kojima Productions|小岛制作|小岛秀夫手下的首席制作组|
-|Geoff Keighley|杰夫·基思利|电子游戏新闻工作和电视节目主持人|
 |Voidout|虚空噬灭|BT吃人之后引发的爆炸|
 |Chiralium|开罗尔物质|死亡搁浅发生后被发现的物质|
 |Chiral Network|开罗尔网络||
-|Timefall|时间雨|加速时间的流逝的雨|
+|Chiral bandwidth|开罗尔带宽|游戏中建筑建造的限制|
+|timefall|时间雨|加速时间的流逝的雨|
 |Repatriation|遣返者|死后可以从冥滩边界返回生者的世界|
 |Beached thing/BT|BT|游戏中的怪|
-|stamina||游戏中的系统数值|
-|health||游戏中的系统数值|
+|stamina|体力|游戏中的系统数值|
+|health|血量|游戏中的系统数值|
+|memory chip|存储芯片|游戏中收集品|
+|"The Walk"|《云中行走》|存储芯片13|
+|zip-line|高空滑索|游戏中设施|
+|generator|发电机||
+|bridge|桥梁||
+|postbox|寄存筒||
+|safehouse|安全屋||
+|timefall shelter|雨亭||
+|signs|指示牌||
+|PCC|搭建器|搭建上面设施的工具|
+|boot|靴子|游戏中装备|
+|power skeleton|力量骨架||
+|speed skeleton|加速骨架||
+|all-terrain skeleton|全地形骨架||
+|climbing anchor|攀爬柱||
+|ladder|梯子||
+|cargo repair spray|货物箱修复喷雾||
+|hologram|全息影像||
 |Porter|派送员|序章|
 |Bridget|布丽吉特|第1章|
 |Amelie|亚美莉|第2章|
@@ -53,14 +71,10 @@
 |Sam Strand|山姆·斯特兰德|第13章|
 |Lou|洛|第14章|
 |Tomorrow is in your hands|未来在你手中|第15章|
-|memory chip|存储芯片|游戏中收集品|
-|"The Walk"|《云中行走》|存储芯片13|
-|Chiral bandwidth|开罗尔带宽|游戏中建筑建造的限制|
-|Zip-line||游戏中设施|
-|Generator|发电机|游戏中设施|
 |Mads Mikkelsen|麦斯·米科尔森|克利福德·昂格尔的演员|
 |Léa Seydoux|蕾雅·赛杜|芙拉吉尔的演员|
 |Norman Reedus|诺曼·李杜斯|山姆的演员|
+|Geoff Keighley|杰夫·基思利|电子游戏新闻工作和电视节目主持人|
 |Horizon Zero Dawn|《地平线 零之曙光》|索尼发行的RPG游戏|
 |Guerrilla Games|游骑兵工作室|《地平线 零之曙光》的制作组|
 |Decima Engine|Decima引擎|死亡搁浅使用的游戏引擎|
