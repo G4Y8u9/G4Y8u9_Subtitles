@@ -16,9 +16,9 @@ Video File: ../../../../../Video/给没组/DS/RAW.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 45
-Active Line: 363
-Video Position: 40730
+Scroll Position: 1768
+Active Line: 1769
+Video Position: 201104
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,7 +28,7 @@ Style: 辉英,PragmataPro,35,&H00FFFFFF,&H000019FF,&H003B3C3D,&H00000000,0,0,0,0
 Style: 辉注,文泉驿微米黑,50,&H00000000,&H000019FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,1,0,1,3,0.7,9,10,10,10,1
 Style: 辉中 Script,文泉驿微米黑,55,&H00FFFFD2,&H000019FF,&H00000000,&H00000000,-1,0,0,0,100,100,0.5,0,1,0,2,2,0,0,135,1
 Style: 辉英 Script,PragmataPro,30,&H00BBD3D2,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,1,0.2,2,0,0,125,1
-Style: 辉中 顶端标题,黑体,45,&H00FFFFFF,&H000019FF,&H00704012,&H00000000,-1,0,0,0,100,100,0.5,0,1,0,3,8,0,0,120,1
+Style: 辉中 顶端标题,方正大黑_GBK,45,&H00FFFFFF,&H000019FF,&H00704012,&H00000000,-1,0,0,0,100,100,0.5,0,1,0,3,8,0,0,120,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -38,13 +38,13 @@ Dialogue: 0,0:00:10.80,0:00:15.72,辉中,,0,0,0,,我也曾强烈批评小岛秀�
 Dialogue: 0,0:00:15.72,0:00:19.97,辉中,,0,0,0,,简明扼要地阐明这到底是一款什么样的游戏\Nto concisely or even coherently define what {\i1}Death Stranding{\i0} was.
 Dialogue: 0,0:00:19.97,0:00:25.05,辉中,,0,0,0,,乍一看它就是一款完全靠“小岛秀夫”这名字为卖点的游戏\NIt seemed to be a game sold entirely on the name of its creator
 Dialogue: 0,0:00:25.05,0:00:28.33,辉中,,0,0,0,,这点实际上与他自己的信念相悖\Nwhich is actually antithetical to Kojima's own beliefs
-Dialogue: 0,0:00:28.33,0:00:33.61,辉中,,0,0,0,,至少是与他在2014年发布PT时的信念相悖\Nor at least the beliefs that he described in 2014 with PT.
-Dialogue: 0,0:00:33.61,0:00:38.68,辉中,,0,0,0,,当年他在PlayStation商店发布PT这款试玩版的时候\NYou see when he released the Playable Teaser onto the PlayStation Store as a free demo,
+Dialogue: 0,0:00:28.33,0:00:33.61,辉中,,0,0,0,,至少是与他在2014年发布PT时的信念相悖\Nor at least the beliefs that he described in 2014 with {\i1}PT{\i0}.
+Dialogue: 0,0:00:33.61,0:00:38.68,辉中,,0,0,0,,当年他在PlayStation商店发布PT这款试玩版的时候\NYou see when he released the {\i1}Playable Teaser{\i0} onto the PlayStation Store as a free demo,
 Dialogue: 0,0:00:38.68,0:00:43.64,辉中,,0,0,0,,他刻意隐去了他的姓名 他的工作室 他的发行商名称\Nhe intentionally hid his name, his studio and his publisher's branding
 Dialogue: 0,0:00:43.64,0:00:47.92,辉中,,0,0,0,,游戏本身的宣发材料中丝毫找不到他的踪迹\Nfrom every piece of the demo's promotional materials.
 Dialogue: 0,0:00:47.92,0:00:52.99,辉中,,0,0,0,,据他说 让玩家不知道游戏制作人是谁 玩家就可以不受任何预设的影响\NAnd according to him he did this so that players would be free of any presuppositions
 Dialogue: 0,0:00:52.99,0:00:56.98,辉中,,0,0,0,,据他说 让玩家不知道游戏制作人是谁 玩家就可以不受任何预设的影响\Nthey may have going into a title knowing who created it.
-Dialogue: 0,0:00:56.98,0:01:01.76,辉中,,0,0,0,,换句话说 他希望玩家能享受PT这个游戏本身\NIn other words, he wanted players to enjoy PT for what it was,
+Dialogue: 0,0:00:56.98,0:01:01.76,辉中,,0,0,0,,换句话说 他希望玩家能享受PT这个游戏本身\NIn other words, he wanted players to enjoy {\i1}PT{\i0} for what it was,
 Dialogue: 0,0:01:01.76,0:01:04.87,辉中,,0,0,0,,而不是冲着游戏制作人去的\Nnot for who it was created by.
 Dialogue: 0,0:01:04.87,0:01:08.01,辉中,,0,0,0,,但到了《死亡搁浅》这里情况就不一样了\NHowever this is not so for {\i1}Death Stranding{\i0}.
 Dialogue: 0,0:01:08.01,0:01:10.87,辉中,,0,0,0,,《死亡搁浅》完全就是以小岛秀夫的名字和他天才般的游戏制作能力为卖点的\N{\i1}Death Stranding{\i0} was sold entirely
@@ -65,8 +65,8 @@ Dialogue: 0,0:02:04.68,0:02:07.44,辉中,,0,0,0,,实际上我花了大概八小�
 Dialogue: 0,0:02:07.44,0:02:10.92,辉中,,0,0,0,,实际上我花了大概八小时才开始对游戏有一点点的喜欢\Nand for me to begin enjoying it even in the least.
 Dialogue: 0,0:02:10.92,0:02:15.52,辉中,,0,0,0,,我甚至做了一期视频痛批了游戏的前两小时内容\NI even made a video where I roasted the first 2 hours of the game,
 Dialogue: 0,0:02:15.52,0:02:18.23,辉中,,0,0,0,,弄得不少游戏粉丝不开心\Nmuch to the chagrin of the game's fans.
-Dialogue: 0,0:02:18.23,0:02:21.99,辉中,,0,0,0,,然而过了8小时候 也就是我玩到游戏中期的时候\NHowever after this 8 hour mark in other words once I got to the mid game,
-Dialogue: 0,0:02:21.99,0:02:25.71,辉中,,0,0,0,,我开始期待早点下班能玩到这个游戏了\NI started looking forward to playing the game when I got back from classes.
+Dialogue: 0,0:02:18.23,0:02:21.99,辉中,,0,0,0,,然而过了8小时候 也就是我玩到游戏中期的时候\NHowever after this 8 hour mark in other words once I got to the mid-game,
+Dialogue: 0,0:02:21.99,0:02:25.71,辉中,,0,0,0,,我开始期待能早点下课玩到这个游戏了\NI started looking forward to playing the game when I got back from classes.
 Dialogue: 0,0:02:25.71,0:02:28.88,辉中,,0,0,0,,游戏也开始变成了我的解压玩具\NAnd it actually became my relaxation outlet.
 Dialogue: 0,0:02:28.88,0:02:32.89,辉中,,0,0,0,,不停爬山送快递真的特别解压\NHiking and delivering packages was effectively stress-relief.
 Dialogue: 0,0:02:32.89,0:02:37.10,辉中,,0,0,0,,简单来说 《死亡搁浅》于我而言就像垃圾食品一样\NSimply put, {\i1}Death Stranding{\i0} for me is a junk-food game.
@@ -79,7 +79,7 @@ Dialogue: 0,0:02:55.28,0:02:58.02,辉中,,0,0,0,,的确存在着一些严重缺�
 Dialogue: 0,0:02:58.02,0:03:00.20,辉中,,0,0,0,,这期视频里我将非常诚恳地告诉大家\NNow I'm going to be very honest in this video,
 Dialogue: 0,0:03:00.20,0:03:04.47,辉中,,0,0,0,,我热爱这款游戏 我认为很多对其表示批评的人都有合理的观点\NI'm a fan of the game and I think most people who are critical of it have reasonable points
 Dialogue: 0,0:03:04.47,0:03:07.70,辉中,,0,0,0,,但《死亡搁浅》也有做得好的地方\Nbut there are also things that {\i1}Death Stranding{\i0} does well.
-Dialogue: 0,0:03:07.70,0:03:10.77,辉中,,0,0,0,,我们将在这期视频中讨论这些内容\NAnd we'll discuss all of these things in this video.
+Dialogue: 0,0:03:07.70,0:03:10.77,辉中,,0,0,0,,我们将在这期视频中讨论所有这些内容\NAnd we'll discuss all of these things in this video.
 Dialogue: 0,0:03:10.77,0:03:13.65,辉中,,0,0,0,,But the point is if we're not honest about the game's shortcomings
 Dialogue: 0,0:03:13.65,0:03:17.13,辉中,,0,0,0,,we can't help Kojima with whatever his next game is.
 Dialogue: 0,0:03:17.28,0:03:20.33,辉中,,0,0,0,,And if you've played {\i1}Death Stranding{\i0} for any length of time
@@ -563,9 +563,9 @@ Dialogue: 0,0:32:42.90,0:32:45.16,辉中,,0,0,0,,by many before launch,
 Dialogue: 0,0:32:45.16,0:32:48.65,辉中,,0,0,0,,which I actually disagree with, but again I'll discuss that later.
 Dialogue: 0,0:32:48.65,0:32:51.23,辉中,,0,0,0,,I know I've said that a thousand times but I will.
 Dialogue: 0,0:32:51.23,0:32:54.35,辉中,,0,0,0,,The point is for new players coming in such as myself
-Dialogue: 0,0:32:54.35,0:32:59.70,辉中,,0,0,0,,having had no major experience to Kojima other than with PT and smaller projects,
+Dialogue: 0,0:32:54.35,0:32:59.70,辉中,,0,0,0,,having had no major experience to Kojima other than with {\i1}PT{\i0} and smaller projects,
 Dialogue: 0,0:32:59.70,0:33:03.51,辉中,,0,0,0,,they are going to have this in mind from the very beginning.
-Dialogue: 0,0:33:03.51,0:33:08.05,辉中,,0,0,0,,they're going to be approaching {\i1}Death Stranding{\i0} with the preconceived idea
+Dialogue: 0,0:33:03.51,0:33:08.05,辉中,,0,0,0,,They're going to be approaching {\i1}Death Stranding{\i0} with the preconceived idea
 Dialogue: 0,0:33:08.05,0:33:13.92,辉中,,0,0,0,,that it is a walking simulator with gameplay that's unsatisfying and boring.
 Dialogue: 0,0:33:13.92,0:33:19.66,辉中,,0,0,0,,All Kojima would have to do is create the opening hours of {\i1}Death Stranding{\i0} in such a way
 Dialogue: 0,0:33:19.66,0:33:21.09,辉中,,0,0,0,,that players would be convinced that
@@ -812,7 +812,7 @@ Dialogue: 0,0:48:37.43,0:48:40.69,辉中,,0,0,0,,when they're like a character i
 Dialogue: 0,0:48:40.69,0:48:45.31,辉中,,0,0,0,,You meet with them and it just so happens during that like three-and-a-half minute time period
 Dialogue: 0,0:48:45.31,0:48:50.47,辉中,,0,0,0,,where you went and said hello, they died, because it's convenient for the story like …
 Dialogue: 0,0:48:50.47,0:48:55.08,辉中,,0,0,0,,Why isn't it that you leave, say goodbye, and then she has a heart attack.
-Dialogue: 0,0:48:55.08,0:48:56.77,辉中,,0,0,0,,and … I just … come on!
+Dialogue: 0,0:48:55.08,0:48:56.77,辉中,,0,0,0,,And … I just … come on!
 Dialogue: 0,0:48:56.88,0:49:00.22,辉中,,0,0,0,,Oh well … then again! Kojima Syndrome!
 Dialogue: 0,0:49:00.22,0:49:03.22,辉中,,0,0,0,,Check the comments I'm sure you'll see many people defending it
 Dialogue: 0,0:49:03.22,0:49:08.06,辉中,,0,0,0,,So she dies and after this you learned that you need to take her body to the incinerator
@@ -937,7 +937,7 @@ Dialogue: 0,0:58:24.10,0:58:29.26,辉中,,0,0,0,,Regardless, Sam agrees to help 
 Dialogue: 0,0:58:29.26,0:58:34.25,辉中,,0,0,0,,and the mid-game begins after a plethora of tutorial missions that introduce
 Dialogue: 0,0:58:34.25,0:58:40.26,辉中,,0,0,0,,to you crafting inventory and loadout management, course charting, and much much more.
 Dialogue: 0,0:58:40.26,0:58:43.28,辉中,,0,0,0,,It's slow but it's probably necessary to be perfectly honest
-Dialogue: 0,0:58:43.28,0:58:45.84,辉中,,0,0,0,,before releasing the players into the mid game.
+Dialogue: 0,0:58:43.28,0:58:45.84,辉中,,0,0,0,,before releasing the players into the mid-game.
 Dialogue: 0,0:58:45.84,0:58:48.69,辉中,,0,0,0,,And let me be clear, there's nothing wrong with a long intro.
 Dialogue: 0,0:58:48.69,0:58:51.78,辉中,,0,0,0,,Sure it can be frustrating especially during repeated playthroughs
 Dialogue: 0,0:58:51.78,0:58:53.87,辉中,,0,0,0,,but it isn't inherently bad.
@@ -964,7 +964,7 @@ Dialogue: 0,1:00:09.30,1:00:16.93,辉中,,0,0,0,,and over 1 in 4 people are unsu
 Dialogue: 0,1:00:16.93,1:00:22.52,辉中,,0,0,0,,Furthermore, the poll shows that over 36% of players who gave up on the game
 Dialogue: 0,1:00:22.52,1:00:25.04,辉中,,0,0,0,,had put less than five hours in,
 Dialogue: 0,1:00:25.04,1:00:30.28,辉中,,0,0,0,,and roughly 66% had played less than 10 hours before stopping.
-Dialogue: 0,1:00:30.28,1:00:33.26,辉中,,0,0,0,,sure you can argue that this game simply wasn't meant for them,
+Dialogue: 0,1:00:30.28,1:00:33.26,辉中,,0,0,0,,Sure you can argue that this game simply wasn't meant for them,
 Dialogue: 0,1:00:33.26,1:00:34.94,辉中,,0,0,0,,or they were never going to enjoy it
 Dialogue: 0,1:00:34.94,1:00:38.76,辉中,,0,0,0,,no matter how polished or how much they reworked the opening sequence.
 Dialogue: 0,1:00:38.76,1:00:41.28,辉中,,0,0,0,,But I think the fact that so many players
@@ -1136,7 +1136,7 @@ Dialogue: 0,1:10:38.33,1:10:43.63,辉中,,0,0,0,,And this is actually what those
 Dialogue: 0,1:10:43.63,1:10:46.97,辉中,,0,0,0,,We saw this in a trailer way back in the day a couple years ago
 Dialogue: 0,1:10:46.97,1:10:49.21,辉中,,0,0,0,,and it seemed as though it was an explicable
 Dialogue: 0,1:10:49.21,1:10:53.56,辉中,,0,0,0,,how they ever explained these people just floating over the ocean.
-Dialogue: 0,1:10:53.56,1:10:56.66,辉中,,0,0,0,,but they actually do explain it, and it's kind of cool.
+Dialogue: 0,1:10:53.56,1:10:56.66,辉中,,0,0,0,,But they actually do explain it, and it's kind of cool.
 Dialogue: 0,1:10:56.66,1:10:58.49,辉中,,0,0,0,,And after this, Sam is saved.
 Dialogue: 0,1:10:58.49,1:11:00.40,辉中,,0,0,0,,You're brought back to the world of the living.
 Dialogue: 0,1:11:00.40,1:11:05.65,辉中,,0,0,0,,You go to a presidential inauguration for Die-Hardman, and you get some more exposition.
@@ -1319,12 +1319,12 @@ Dialogue: 0,1:22:14.98,1:22:17.11,辉中,,0,0,0,,I think it is a matter of perso
 Dialogue: 0,1:22:17.11,1:22:20.07,辉中,,0,0,0,,It just bothers me, though it might not bother you.
 Dialogue: 0,1:22:20.07,1:22:22.56,辉中,,0,0,0,,But with all of that, let's discuss the gameplay,
 Dialogue: 0,1:22:22.56,1:22:24.74,辉中,,0,0,0,,and the systems that make {\i1}Death Stranding{\i0} work.
-Dialogue: 0,1:22:24.74,1:22:28.35,辉中,,0,0,0,,so obviously a lot of people have said that {\i1}Death Stranding{\i0}'s gameplay loop
+Dialogue: 0,1:22:24.74,1:22:28.35,辉中,,0,0,0,,So obviously a lot of people have said that {\i1}Death Stranding{\i0}'s gameplay loop
 Dialogue: 0,1:22:28.35,1:22:30.58,辉中,,0,0,0,,is quote-unquote "BORING".
 Dialogue: 0,1:22:30.58,1:22:32.04,辉中,,0,0,0,,To determine if this is true,
 Dialogue: 0,1:22:32.04,1:22:35.49,辉中,,0,0,0,,let's look at what your average mission is going to be comprised of.
 Dialogue: 0,1:22:35.49,1:22:37.32,辉中,,0,0,0,,Let's start with story missions.
-Dialogue: 0,1:22:37.32,1:22:40.25,辉中,,0,0,0,,In this case we're going to look at a random order in the mid game.
+Dialogue: 0,1:22:37.32,1:22:40.25,辉中,,0,0,0,,In this case we're going to look at a random order in the mid-game.
 Dialogue: 0,1:22:40.25,1:22:43.52,辉中,,0,0,0,,Now in this order we have 60 minutes to collect medical devices
 Dialogue: 0,1:22:43.52,1:22:45.60,辉中,,0,0,0,,from one character in the mountainous area
 Dialogue: 0,1:22:45.60,1:22:48.70,辉中,,0,0,0,,and then deliver them back to the area where we accepted the order.
@@ -1665,7 +1665,7 @@ Dialogue: 0,1:43:34.09,1:43:37.29,辉中,,0,0,0,,This is one I'm not okay with, 
 Dialogue: 0,1:43:37.29,1:43:40.68,辉中,,0,0,0,,It's outside of an area you're going to be trafficking fairly frequently,
 Dialogue: 0,1:43:40.68,1:43:42.95,辉中,,0,0,0,,but you can't normally climb onto vehicles.
 Dialogue: 0,1:43:42.95,1:43:45.54,辉中,,0,0,0,,You have no reason to ever climb onto a vehicle.
-Dialogue: 0,1:43:45.54,1:43:49.07,辉中,,0,0,0,,so the only reason you would hop up on this is if you scanned it,
+Dialogue: 0,1:43:45.54,1:43:49.07,辉中,,0,0,0,,So the only reason you would hop up on this is if you scanned it,
 Dialogue: 0,1:43:49.07,1:43:51.69,辉中,,0,0,0,,happen to spot it, and jumped up to grab it.
 Dialogue: 0,1:43:51.69,1:43:56.60,辉中,,0,0,0,,There's no reason for the player to be looking up here or looking for memory chips in this area.
 Dialogue: 0,1:43:56.60,1:44:01.48,辉中,,0,0,0,,This is something that you would just stumble onto, or would find if you were cued on to it.
@@ -1801,7 +1801,7 @@ Dialogue: 0,1:51:32.90,1:51:36.11,辉中,,0,0,0,,you can just repair it with som
 Dialogue: 0,1:51:36.11,1:51:41.42,辉中,,0,0,0,,Though I will be honest I never felt the need to do this in all my time with the game
 Dialogue: 0,1:51:41.42,1:51:44.46,辉中,,0,0,0,,because the crafting cost of a brand new one was so low.
 Dialogue: 0,1:51:44.46,1:51:50.14,辉中,,0,0,0,,But now we get to the point where {\i1}Death Stranding{\i0} starts to kind of undo itself and unravel.
-Dialogue: 0,1:51:50.14,1:51:53.01,辉中,,0,0,0,,and this is my biggest late-game problem with {\i1}Death Stranding{\i0}
+Dialogue: 0,1:51:50.14,1:51:53.01,辉中,,0,0,0,,And this is my biggest late-game problem with {\i1}Death Stranding{\i0}
 Dialogue: 0,1:51:53.01,1:51:55.16,辉中,,0,0,0,,in addition to the poor world design
 Dialogue: 0,1:51:55.16,1:51:59.51,辉中,,0,0,0,,and also the lack of any sort of emotional tied to the world you're trying to save.
 Dialogue: 0,1:51:59.51,1:52:03.86,辉中,,0,0,0,,You see the gameplay system is fairly sparse to begin with, which isn't inherently bad.
@@ -2022,7 +2022,7 @@ Dialogue: 0,2:05:16.34,2:05:19.10,辉中,,0,0,0,,I think it shows a certain amou
 Dialogue: 0,2:05:19.10,2:05:24.48,辉中,,0,0,0,,that he feels as though he can't communicate in as short a time as a lot of other writers could,
 Dialogue: 0,2:05:24.48,2:05:27.86,辉中,,0,0,0,,such as Neil Druckmann, who wrote {\i1}The Last Of Us{\i0}, {\i1}Uncharted 4{\i0},
 Dialogue: 0,2:05:27.86,2:05:31.45,辉中,,0,0,0,,and is currently writing and directing The Last Of Us Part II.
-Dialogue: 0,2:05:31.45,2:05:35.97,辉中,,0,0,0,,Now listen, I loved PT, and that was all Kojima.
+Dialogue: 0,2:05:31.45,2:05:35.97,辉中,,0,0,0,,Now listen, I loved {\i1}PT{\i0}, and that was all Kojima.
 Dialogue: 0,2:05:35.97,2:05:39.50,辉中,,0,0,0,,But it was a humble and confident Kojima.
 Dialogue: 0,2:05:39.50,2:05:43.75,辉中,,0,0,0,,It wasn't Kojima with something to prove having left to Konami.
 Dialogue: 0,2:05:43.75,2:05:48.42,辉中,,0,0,0,,And to be honest, I like humble Kojima more than this new one.
@@ -2040,7 +2040,7 @@ Dialogue: 0,2:06:22.30,2:06:25.24,辉中,,0,0,0,,He's an innovator, but not a ha
 Dialogue: 0,2:06:25.24,2:06:28.47,辉中,,0,0,0,,He presents the most unique ideas for world building and characters,
 Dialogue: 0,2:06:28.47,2:06:31.17,辉中,,0,0,0,,despite falling on rather generic writing tropes.
 Dialogue: 0,2:06:31.17,2:06:35.45,辉中,,0,0,0,,He's an excellent designer with ideas he doesn't know how to clearly express.
-Dialogue: 0,2:06:35.45,2:06:38.13,辉中,,0,0,0,,the very definition of an auteur.
+Dialogue: 0,2:06:35.45,2:06:38.13,辉中,,0,0,0,,The very definition of an auteur.
 Dialogue: 0,2:06:38.13,2:06:42.13,辉中,,0,0,0,,He's a great visionary and original storyteller but a weak writer.
 Dialogue: 0,2:06:42.13,2:06:46.30,辉中,,0,0,0,,And then 57 of you guys said he's kind of insane.
 Dialogue: 0,2:06:46.30,2:06:49.29,辉中,,0,0,0,,Now all of this seems to coalesce into a consensus
@@ -2052,7 +2052,7 @@ Dialogue: 0,2:07:06.40,2:07:10.39,辉中,,0,0,0,,despite being objectively bad a
 Dialogue: 0,2:07:10.39,2:07:13.97,辉中,,0,0,0,,And it's really too bad, because if {\i1}Death Stranding{\i0} were more lean,
 Dialogue: 0,2:07:13.97,2:07:18.90,辉中,,0,0,0,,it could have appealed to a lot more people, and it could have made a much bigger splash.
 Dialogue: 0,2:07:18.90,2:07:23.83,辉中,,0,0,0,,So, in closing, {\i1}Death Stranding{\i0} is an enigma.
-Dialogue: 0,2:07:23.83,2:07:26.19,辉中,,0,0,0,,It's a game that I'm glad that I played.
+Dialogue: 0,2:07:23.83,2:07:26.19,辉中,,0,0,0,,It's a game that I'm glad that I played,
 Dialogue: 0,2:07:26.19,2:07:31.50,辉中,,0,0,0,,the one that's plagued with issues through and through.
 Dialogue: 0,2:07:31.50,2:07:35.54,辉中,,0,0,0,,And while I'm glad that Kojima got to pursue his passion project,
 Dialogue: 0,2:07:35.54,2:07:40.89,辉中,,0,0,0,,I do hope that his next attempt is far more coherent, more polished,

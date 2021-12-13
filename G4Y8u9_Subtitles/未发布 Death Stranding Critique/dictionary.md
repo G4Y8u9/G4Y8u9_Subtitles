@@ -108,6 +108,7 @@
 |Assassin's Creed III|刺客信条III|育碧游戏|
 |Assassin's Creed Odyssey|《刺客信条：奥德赛》|育碧游戏|
 |Monster Energy|魔爪能量饮料|游戏中的广告|
+||水獭帽||
 
 
 # 备忘
