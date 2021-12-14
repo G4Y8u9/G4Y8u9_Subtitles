@@ -11,14 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: How a Formula 1 Race Car Works.mkv
-Video File: How a Formula 1 Race Car Works.mkv
+Audio File: RAW.mkv
+Video File: RAW.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 13
-Active Line: 18
-Video Position: 2
+Video Zoom Percent: 0.375000
+Scroll Position: 237
+Active Line: 245
+Video Position: 16804
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -55,6 +55,7 @@ Dialogue: 0,0:17:03.75,0:17:06.29,辉中 大标题,,0,1110,380,,{\fs170}安全�
 Dialogue: 0,0:17:51.91,0:17:54.20,辉中 大标题,,0,1250,690,,{\fs170}驾驶舱
 Dialogue: 0,0:19:17.91,0:19:20.33,辉中 大标题,,0,1250,550,,{\fs170}方向盘
 Dialogue: 0,0:22:11.09,0:22:12.52,辉中 大标题,,0,1250,800,,{\fs170}传感器
+Dialogue: 2,0:00:00.07,0:00:08.25,辉中 歌词,,0,0,110,,{\b1}Michael Masi Biss{\b0}
 Dialogue: 1,0:00:00.07,0:00:03.85,辉中,,0,0,0,,我是Animagraffs的作者Jacob O'Neal
 Dialogue: 2,0:00:00.07,0:00:03.85,辉英,,0,0,0,,I'm Jacob O'Neal creator of Animagraffs.
 Dialogue: 1,0:00:03.85,0:00:08.25,辉中,,0,0,0,,本期带大家了解F1赛车
@@ -81,7 +82,7 @@ Dialogue: 1,0:00:57.43,0:01:02.28,辉中,,0,0,0,,两边一打架就变成了螺�
 Dialogue: 2,0:00:57.43,0:01:02.28,辉英,,0,0,0,,the air crashes into itself, creating a spiraling vortex.
 Dialogue: 1,0:01:03.76,0:01:08.42,辉中,,0,0,0,,涡流会产生阻力 让赛车减速
 Dialogue: 2,0:01:03.76,0:01:08.42,辉英,,0,0,0,,Vortices cause drag which tugs at the car, slowing it down.
-Dialogue: 1,0:01:09.03,0:01:15.00,辉中,,0,0,0,,而前翼两侧的竖挡板能缓解涡流的形成 减小阻力
+Dialogue: 1,0:01:09.03,0:01:15.00,辉中,,0,0,0,,而前翼两侧的端板能缓解涡流的形成 减小阻力
 Dialogue: 2,0:01:09.03,0:01:15.00,辉英,,0,0,0,,A cap on the wingtip interrupts vortex formation for a less intense effect.
 Dialogue: 1,0:01:16.33,0:01:22.15,辉中,,0,0,0,,与之相反的是前翼内侧的弧形小翼
 Dialogue: 2,0:01:16.33,0:01:22.15,辉英,,0,0,0,,In contrast, the pointed curved in surfaces on the inside edge of the wing
@@ -278,6 +279,7 @@ Dialogue: 1,0:11:13.11,0:11:16.88,辉中,,0,0,0,,车轮是用一颗车轮螺母�
 Dialogue: 2,0:11:13.11,0:11:16.88,辉英,,0,0,0,,The wheels are secured to the hub with a single wheel nut.
 Dialogue: 1,0:11:17.59,0:11:20.96,辉中,,0,0,0,,金属固定销将螺母牢牢固定
 Dialogue: 2,0:11:17.59,0:11:20.96,辉英,,0,0,0,,Metal retention pins keep the nut securely in place.
+Dialogue: 3,0:11:22.83,0:11:23.58,辉中 歌词,,0,0,110,,@77 小心滑丝
 Dialogue: 1,0:11:21.59,0:11:26.33,辉中,,0,0,0,,拆卸螺母时 会用专门的气枪先把这些销钉推进去
 Dialogue: 2,0:11:21.59,0:11:26.33,辉英,,0,0,0,,A specially designed wheel gun pushes these pins down when removing the nut.
 Dialogue: 1,0:11:40.15,0:11:44.47,辉中,,0,0,0,,F1使用V6发动机
@@ -387,7 +389,7 @@ Dialogue: 1,0:16:43.51,0:16:47.90,辉中,,0,0,0,,八速变速箱 7个前进档 1
 Dialogue: 2,0:16:43.51,0:16:47.90,辉英,,0,0,0,,The eight-speed gearbox, seven forward plus one reverse,
 Dialogue: 1,0:16:48.16,0:16:51.99,辉中,,0,0,0,,位于发动机后面 在它自己的铝制外壳中
 Dialogue: 2,0:16:48.16,0:16:51.99,辉英,,0,0,0,,sits behind the engine in its own aluminum cartridge.
-Dialogue: 1,0:16:52.23,0:16:57.43,辉中,,0,0,0,,后差速器齿轮通过特殊的三脚架连接到后车桥
+Dialogue: 1,0:16:52.23,0:16:57.43,辉中,,0,0,0,,后差速器齿轮通过特殊的三球销式万向节连接到后车桥
 Dialogue: 2,0:16:52.23,0:16:57.43,辉英,,0,0,0,,The rear differential gears connect to rear axles with special tripod joints,
 Dialogue: 1,0:16:57.43,0:17:01.52,辉中,,0,0,0,,使旋转的车桥能够随着后悬挂的移动而倾斜
 Dialogue: 2,0:16:57.43,0:17:01.52,辉英,,0,0,0,,that allow spinning axles to tilt with the rear suspension movement.
@@ -432,7 +434,8 @@ Dialogue: 1,0:18:31.46,0:18:35.80,辉中,,0,0,0,,而肩膀的安全带让HANS能
 Dialogue: 2,0:18:31.46,0:18:35.80,辉英,,0,0,0,,and the shoulder harness straps keep the device pressed against the driver.
 Dialogue: 1,0:18:37.19,0:18:40.07,辉中,,0,0,0,,一根饮料管延伸到肩膀上
 Dialogue: 2,0:18:37.19,0:18:40.07,辉英,,0,0,0,,A drinks tube extends over the shoulder.
-Dialogue: 1,0:18:40.07,0:18:44.75,辉中,,0,0,0,,与一个小型储液器相连 保证车手能have the drink
+Dialogue: 3,0:18:42.75,0:18:44.45,辉中 歌词,,800,0,110,,@莱总
+Dialogue: 1,0:18:40.07,0:18:44.75,辉中,,0,0,0,,与一个小型储液器相连 保证车手能有水喝
 Dialogue: 2,0:18:40.07,0:18:44.75,辉英,,0,0,0,,It's connected to a small fluid reservoir to keep drivers hydrated while racing.
 Dialogue: 1,0:18:46.47,0:18:50.23,辉中,,0,0,0,,车手们还会有不同的头盔前部和后部扰流板设计
 Dialogue: 2,0:18:46.47,0:18:50.23,辉英,,0,0,0,,Drivers use different helmet front and rear spoiler designs
