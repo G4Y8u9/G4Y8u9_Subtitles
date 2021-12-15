@@ -7,4 +7,6 @@
 
 - 可以通过文件夹前的时间到我B站页面找到原视频
 
-[我的B站页面](https://space.bilibili.com/744058)
+- [我的B站页面](https://space.bilibili.com/744058)
+
+- [全部字幕Excel统计](https://docs.google.com/spreadsheets/d/1EJvB34SrzXTdagMdZqXBc8vHbBHQpa5t/edit?usp=sharing&ouid=102275685117162176730&rtpof=true&sd=true)
