@@ -16,9 +16,8 @@ Video File: RAW.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 125
-Active Line: 137
-Video Position: 34805
+Active Line: 4
+Video Position: 19
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -29,141 +28,278 @@ Style: 辉中 歌词,文泉驿等宽微米黑,80,&H00FFFFFF,&H000019FF,&H0041505
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 1,0:00:00.31,0:00:03.96,辉中,,0,0,0,,大家好 我是Savjee 是一名开发者\NHey there! My name is Savjee and as you might know I'm a developer.
-Dialogue: 1,0:00:03.96,0:00:06.41,辉中,,0,0,0,,同时还是个SpaceX的粉丝\NBut I'm also a huge SpaceX fan
-Dialogue: 1,0:00:06.41,0:00:13.15,辉中,,0,0,0,,所以我一直好奇 猎鹰九号、重型猎鹰和龙飞船上使用哪种硬件和软件?\Nand that got me thinking: what software and hardware powers the Falcon 9, Falcon Heavy and Dragon?
-Dialogue: 1,0:00:13.50,0:00:17.96,辉中,,0,0,0,,我们先了解一下航天器上的软硬件在飞行时要面临哪些问题\NLet's first take a look at what challenges the hardware and software of a spacecraft faces
-Dialogue: 1,0:00:17.96,0:00:20.45,辉中,,0,0,0,,我们先了解一下航天器上的软硬件在飞行时要面临哪些问题\Nwhen it is being launched into space.
-Dialogue: 1,0:00:20.45,0:00:24.94,辉中,,0,0,0,,首先 想要把东西送进地球轨道就是很难的\NFirst of all its very hard to get your craft into orbit around the earth.
-Dialogue: 1,0:00:24.94,0:00:28.02,辉中,,0,0,0,,火箭发射时震动很剧烈\NA launch on top of a rocket causes a lot of vibrations
-Dialogue: 1,0:00:28.02,0:00:33.53,辉中,,0,0,0,,所以飞船自身及其航电设备先要撑过发射的震动\Nand that means that the craft itself and the electronics have to be able to withstand that.
-Dialogue: 1,0:00:33.63,0:00:38.01,辉中,,0,0,0,,而进入太空以后 各种挑战就更多了\NAnd once you get in orbit, you are welcomed by even more challenges.
-Dialogue: 1,0:00:38.18,0:00:42.66,辉中,,0,0,0,,太阳直射时龙飞船要忍受阳面的热量\NDragon for instance has to be able to cope with intense heat when it's facing the sun
-Dialogue: 1,0:00:42.66,0:00:46.70,辉中,,0,0,0,,而到了地球背面则要忍受低温\Nbut also intense cold when sunlight is blocked by earth.
-Dialogue: 1,0:00:46.70,0:00:53.24,辉中,,0,0,0,,温度低至-150摄氏度 高至120摄氏度\NThese temperatures range from -150°C all the way up to 120°C
-Dialogue: 1,0:00:53.24,0:00:56.67,辉中,,0,0,0,,而对于航电设备来说 最大的问题来自于辐射\NBut the biggest problem for the electronics is radiation.
-Dialogue: 1,0:00:56.67,0:01:01.70,辉中,,0,0,0,,辐射可以来自于太阳发射的高能粒子\NThis radiation comes from high-energy particles that are ejected by our sun,
-Dialogue: 1,0:01:01.70,0:01:04.16,辉中,,0,0,0,,可以来自地球磁场中约束的粒子\Nparticles trapped in Earth's magnetic field
-Dialogue: 1,0:01:04.16,0:01:08.80,辉中,,0,0,0,,甚至还有来自太阳系外的宇宙粒子与射线\Nand even cosmic rays or particles from outside our solar system.
-Dialogue: 1,0:01:08.80,0:01:13.80,辉中,,0,0,0,,这些粒子会对飞船内的系统产生严重影响\NThese particles can have pretty severe effects on the systems inside a spacecraft.
-Dialogue: 1,0:01:13.80,0:01:17.35,辉中,,0,0,0,,其中最大的问题是比特反转\NOne of the biggest problems is whats called a bit flip.
-Dialogue: 1,0:01:17.35,0:01:23.20,辉中,,0,0,0,,一般发生在高能粒子击中飞船的内存或者处理器时\NThis occurs when a high energy particle hits the memory or the processor of the spacecraft.
-Dialogue: 1,0:01:23.37,0:01:30.22,辉中,,0,0,0,,击中内存 比如把0打成1了 就会让一部分内存崩溃\NIf it hits the memory it can cause a 0 to become a 1, essentially corrupting a part of the memory.
-Dialogue: 1,0:01:30.22,0:01:34.82,辉中,,0,0,0,,幸好SpaceX飞船上的软件能够侦测到这种比特反转\NLuckily though the software onboard SpaceX vehicles can detect these bit flips
-Dialogue: 1,0:01:34.82,0:01:38.29,辉中,,0,0,0,,并通过奇偶校验进行修正\Nand fix the corrupted memory by using parity bits.
-Dialogue: 1,0:01:38.29,0:01:39.67,辉中,,0,0,0,,这点问题不大\NNo big deal.
-Dialogue: 1,0:01:39.67,0:01:42.41,辉中,,0,0,0,,然而当处理器遭遇辐射\NHowever when the processor is hit with radiation
-Dialogue: 1,0:01:42.41,0:01:46.72,辉中,,0,0,0,,就会导致计算结果完全错误\Nit can cause the result of a calculation to be completely incorrect.
-Dialogue: 1,0:01:46.89,0:01:51.56,辉中,,0,0,0,,举个简单的例子 我们让处理器计算10+10\NTo demonstrate this, let's ask a processor to calculate 10+10.
-Dialogue: 1,0:01:51.56,0:01:57.30,辉中,,0,0,0,,二进制里是1010+1010=10100 换成十进制就是20 至此一切正常\NIn binary that would look like this and the result is obviously 20. No surprises there!
-Dialogue: 1,0:01:57.30,0:02:02.92,辉中,,0,0,0,,但如果计算过程中发生了比特反转 我们看看结果会如何\NBut let's now take a look at what happens when a bit flip occurs while performing this calculation.
-Dialogue: 1,0:02:03.17,0:02:06.57,辉中,,0,0,0,,还是让处理器计算10+10\NWe still ask the processor to calculate 10 + 10
-Dialogue: 1,0:02:06.57,0:02:11.87,辉中,,0,0,0,,由于处理器内发生了比特反转 计算的内容就完全不是那回事了\Nbut because of the bit flip the processor is actually calculating something completely different.
-Dialogue: 1,0:02:11.87,0:02:19.07,辉中,,0,0,0,,视频中就是比特反转导致处理器计算10+10=24的例子\NRight now it will say that 10 + 10 equals 24 because one of the bits flipped while running the calculations…
-Dialogue: 1,0:02:19.55,0:02:23.47,辉中,,0,0,0,,这种计算错误会对飞船造成极其严重的后果\NWrong calculations can have very severe effects on a spacecraft.
-Dialogue: 1,0:02:23.47,0:02:29.10,辉中,,0,0,0,,1996年阿丽亚娜五号火箭首飞\NThis was demonstrated by the maiden flight of the Ariane 5 rocket in 1996.
-Dialogue: 1,0:02:29.10,0:02:31.14,辉中,,0,0,0,,它虽然没有遇到比特反转\NIt didn't suffer from a bit flip,
-Dialogue: 1,0:02:31.14,0:02:39.13,辉中,,0,0,0,,但在飞行40秒时 箭载软件想把一个64位数字存进16位的地址中\Nbut 40 seconds into the flight, the rocket's software tried to put a 64 bit number into a 16 bit address,
-Dialogue: 1,0:02:39.13,0:02:42.74,辉中,,0,0,0,,导致数字被截断 得出完全不同的结果\Ncausing the number to be truncated and be completely different.
-Dialogue: 1,0:02:42.74,0:02:47.90,辉中,,0,0,0,,而火箭航电设备依然按照这个错误结果继续运算\NThe rocket's avionics then continued to perform their calculations with this wrong number
-Dialogue: 1,0:02:47.90,0:02:52.67,辉中,,0,0,0,,然后火箭半路突然改变航向 因为它以为自己飞错方向了\Nand performed an abrupt course correction because it thought it was going to wrong way.
-Dialogue: 1,0:02:52.67,0:02:57.59,辉中,,0,0,0,,最终火箭因承受不住过高的动压而解体\NThe vehicle eventually broke up because the aerodynamic stress was simply too high.
-Dialogue: 1,0:02:57.59,0:03:01.95,辉中,,0,0,0,,回到SpaceX上来 他们如何处理辐射问题呢?\NNow back to SpaceX: how do they handle the problem of radiation?
-Dialogue: 1,0:03:01.95,0:03:06.61,辉中,,0,0,0,,他们假设电子设备无法完全避免受到辐射\NWell they assume that you can't protect electronics completely from radiation
-Dialogue: 1,0:03:06.61,0:03:09.29,辉中,,0,0,0,,并在设计系统时时刻牢记此项假设\Nand they design their systems with this in mind.
 Dialogue: 5,0:03:09.29,0:03:15.74,辉中 歌词,,400,0,220,,radiation-hardened    off-the-shelf
-Dialogue: 1,0:03:09.29,0:03:15.74,辉中,,0,0,0,,他们不选昂贵的抗辐射零件 而是现成的零件\NInstead of using expensive, radiation-hardened parts, SpaceX uses off-the-shelf components.
-Dialogue: 1,0:03:15.74,0:03:17.55,辉中,,0,0,0,,先说龙飞船\NLet's look at Dragon first.
-Dialogue: 1,0:03:17.55,0:03:22.58,辉中,,0,0,0,,根据John Muratore 前SpaceX载具保障的描述\NAccording to John Muratore, previous director of SpaceX vehicle certification,
-Dialogue: 1,0:03:22.58,0:03:25.79,辉中,,0,0,0,,每一艘龙飞船有三台飞行计算机\Neach Dragon is equipped with three flight computers.
-Dialogue: 1,0:03:25.79,0:03:30.61,辉中,,0,0,0,,每台飞行计算机由一个双核x86处理器驱动\NEach of these flight computers is powered by a dual core x86 processor.
-Dialogue: 1,0:03:30.61,0:03:34.24,辉中,,0,0,0,,但计算机本身并不是多核运算的\NThe computers however don't use the multicore capability.
-Dialogue: 1,0:03:34.24,0:03:40.98,辉中,,0,0,0,,而是每项运算都在每台计算的每个核上独立进行 然后对比结果\NInstead they execute each calculation on the two cores individually and compare the results.
-Dialogue: 1,0:03:40.98,0:03:44.45,辉中,,0,0,0,,这样三台双核计算机\NSo three flight computer with each a dual core processor
-Dialogue: 1,0:03:44.45,0:03:49.95,辉中,,0,0,0,,进行六次独立的运算 并持续互相检查计算结果\Ncan be seen as 6 independent computers that are constantly checking each others calculations.
-Dialogue: 1,0:03:49.95,0:03:54.74,辉中,,0,0,0,,如果某台计算机遇到辐射 得出了错误结果\NIf one of the flight computers is hit with radiation and produces a wrong calculation,
-Dialogue: 1,0:03:54.74,0:03:56.54,辉中,,0,0,0,,其他的计算机就会发现\Nthe others will spot it.
-Dialogue: 1,0:03:56.54,0:04:02.50,辉中,,0,0,0,,此时 出错的计算机就会自动重启 防止出现更多错误\NWhen that happens the malfunctioning computer will be rebooted automatically to prevent further errors.
-Dialogue: 1,0:04:02.50,0:04:06.34,辉中,,0,0,0,,重启后 计算机要进行一次"再同步"\NAfter rebooting the computer has to perform whats called a re-sync.
-Dialogue: 1,0:04:06.34,0:04:09.34,辉中,,0,0,0,,让它跟上飞船当前的任务\NIt has to get up to speed with what the vehicle is doing,
-Dialogue: 1,0:04:09.34,0:04:13.96,辉中,,0,0,0,,所以会直接从另外两台计算机内存中复制内容然后继续跑相同的程序\Nso it copies the memory of the other two computers and runs the same programs.
-Dialogue: 1,0:04:13.96,0:04:19.37,辉中,,0,0,0,,有点像电脑上"重启后恢复所有窗口"那个选项\NA bit like rebooting your computer with the option to restore all your windows when you log back in.
-Dialogue: 1,0:04:19.89,0:04:26.15,辉中,,0,0,0,,龙飞船甚至有能力应付三台计算机同时遭遇辐射的情况\NDragon can even handle a situation where all three of its computers are hit by radiation at the same time
-Dialogue: 1,0:04:26.15,0:04:28.45,辉中,,0,0,0,,虽然这种情况发生概率极低\Nalthough thats very unlikely to happen.
-Dialogue: 1,0:04:28.45,0:04:32.62,辉中,,0,0,0,,除了这三台飞行计算机 龙飞船还有其余18套系统\NBesides 3 flight computers, Dragon has 18 other systems onboard
-Dialogue: 1,0:04:32.62,0:04:35.32,辉中,,0,0,0,,也都是三冗余设计\Nthat also use triple redundancy computers.
-Dialogue: 1,0:04:35.48,0:04:39.12,辉中,,0,0,0,,总处理器数量高达54\NThat brings the total amount of processors up to 54.
-Dialogue: 1,0:04:39.12,0:04:42.19,辉中,,0,0,0,,这还只是一艘龙飞船\NAnd that's just for a single Dragon capsule.
-Dialogue: 1,0:04:42.47,0:04:46.80,辉中,,0,0,0,,龙飞船下面的猎鹰九号火箭也有冗余系统\NBut Dragon isn't alone, also the Falcon 9 has redundant systems.
-Dialogue: 1,0:04:46.80,0:04:51.31,辉中,,0,0,0,,九台发动机 每台配三冗余的计算机 外加一套三冗余的飞行计算机\NIt has 3 computers for each engine (9 x 3) and triple-redundancy flight computer
-Dialogue: 1,0:04:51.31,0:04:54.62,辉中,,0,0,0,,总共就是三十个处理器\Nwhich means that it carries 30 processors.
-Dialogue: 1,0:04:54.62,0:04:57.42,辉中,,0,0,0,,至少在2012年是这样\NAt least that was the situation in 2012.
-Dialogue: 1,0:04:57.42,0:05:02.92,辉中,,0,0,0,,目前来看 猎鹰九号为了着陆可能还要装更多的处理器\NRight now it's possible that Falcon 9 has even more processors to handle the landing.
-Dialogue: 1,0:05:03.30,0:05:06.12,辉中,,0,0,0,,这时候你可能会问……\NNow at this point you might be thinking: hang on…
-Dialogue: 1,0:05:06.12,0:05:10.63,辉中,,0,0,0,,NASA真的允许SpaceX用普通规格的硬件设备吗?\NDoes NASA really allow SpaceX to use regular hardware components?
-Dialogue: 1,0:05:10.63,0:05:13.10,辉中,,0,0,0,,就是你我都能在网上买到的那种?\NThe ones you and I can buy on Amazon?
-Dialogue: 1,0:05:13.10,0:05:14.75,辉中,,0,0,0,,呃……还真就是!\NWell actually yes!
 Dialogue: 5,0:05:14.75,0:05:18.63,辉中 歌词,,1200,0,220,,radiation-hardened
-Dialogue: 1,0:05:14.75,0:05:18.63,辉中,,0,0,0,,NASA并不要求他们必须使用抗辐射设备\NNASA doesn't require the use of radiation-hardened components.
-Dialogue: 1,0:05:18.63,0:05:25.51,辉中,,0,0,0,,但是会要求SpaceX严格审查辐射对飞船的影响\NInstead they require SpaceX to do extensive research into what effects the radiation can have on their spacecrafts.
-Dialogue: 1,0:05:25.51,0:05:29.29,辉中,,0,0,0,,如果知晓了影响情况 就可以有相应的解决办法\NIf they know how they'll be affected, they can compensate for it.
 Dialogue: 6,0:05:29.29,0:05:36.19,辉中 歌词,,0,100,220,,radiation-tolerant  radiation-hardened
-Dialogue: 1,0:05:29.29,0:05:36.19,辉中,,0,0,0,,实际上这称为"耐辐射"设计 与"抗辐射"设计是不同的\NIn fact this is called a radiation-tolerant design and is different from a radiation-hardened design.
-Dialogue: 1,0:05:36.19,0:05:40.13,辉中,,0,0,0,,并且实际上 NASA自己都不会在所有地方都使用抗辐射的设备\NIn fact NASA itself doesn't use radiation-hardened parts everywhere.
-Dialogue: 1,0:05:40.13,0:05:44.89,辉中,,0,0,0,,国际空间站上目前就是各种类型设备混用\NThe International Space Station for instance uses a mix of radiation-hardened parts
-Dialogue: 1,0:05:44.89,0:05:48.53,辉中,,0,0,0,,一些控制甚至会使用日常的笔记本电脑\Nbut they also use regular laptops for some controls.
-Dialogue: 1,0:05:48.53,0:05:54.39,辉中,,0,0,0,,航天飞机上的一些设备也是耐辐射而不是抗辐射的\NEven some parts on the Space Shuttle were radiation-tolerant instead of radiation-hardened.
-Dialogue: 1,0:05:54.76,0:05:58.34,辉中,,0,0,0,,回到SpaceX 他们如何选购零件呢?\NBut back to SpaceX: how do they select their parts?
-Dialogue: 1,0:05:58.34,0:06:00.08,辉中,,0,0,0,,他们有两个条件\NWell, they have two conditions:
-Dialogue: 1,0:06:00.08,0:06:04.78,辉中,,0,0,0,,第一是要满足火箭、飞船的需求 这点自然不必多说\Nfirst of all the parts have to be capable enough to handle their tasks - pretty obvious
-Dialogue: 1,0:06:04.78,0:06:09.84,辉中,,0,0,0,,第二是要考虑相应的部件有哪些可用的开发工具\N - and secondly, they take into account what tooling is available for that particular part.
-Dialogue: 1,0:06:10.42,0:06:14.17,辉中,,0,0,0,,开发工具的选择决定了SpaceX能招到哪些人\NTooling determines what kind of people SpaceX can hire.
-Dialogue: 1,0:06:14.17,0:06:16.51,辉中,,0,0,0,,现成的硬件通用性强\NOff-the-shelf hardware is pretty generic
-Dialogue: 1,0:06:16.51,0:06:20.32,辉中,,0,0,0,,对应的软件与开发工具也会有很多开发者熟悉\Nand uses software and tooling that a lot of developers already know.
-Dialogue: 1,0:06:20.32,0:06:24.58,辉中,,0,0,0,,这让SpaceX更容易招到优秀的工程师\NAnd that means that SpaceX has less trouble finding great engineers.
-Dialogue: 1,0:06:24.80,0:06:30.76,辉中,,0,0,0,,而抗辐射设备会使用特殊的编程语言 懂的人也更少\NRadiation hardened parts however only work with special programming languages that few people know,
-Dialogue: 1,0:06:30.76,0:06:33.69,辉中,,0,0,0,,从而会限制SpaceX广纳贤才\N thus limiting the ability to hire new people.
-Dialogue: 1,0:06:33.86,0:06:39.55,辉中,,0,0,0,,现成的硬件价格还更低 便于SpaceX进行更大范围的系统测试\NOff-the-shelf hardware is also cheaper and that allows SpaceX to extensively test these systems.
-Dialogue: 1,0:06:39.76,0:06:44.02,辉中,,0,0,0,,John Muratore说 大家的工位上最多曾出现超过40台飞行计算机用于研发测试\NJohn Muratore said that at one point over 40 flight computers
-Dialogue: 1,0:06:44.02,0:06:47.49,辉中,,0,0,0,,John Muratore说 大家的工位上最多曾出现超过40台飞行计算机用于研发测试\Nwere sitting on people's desks for testing and development.
-Dialogue: 1,0:06:47.60,0:06:51.55,辉中,,0,0,0,,换又贵又难买到的芯片就没法这么搞\NYou simply cannot do that with expensive and hard to come by hardware.
-Dialogue: 1,0:06:51.55,0:06:55.68,辉中,,0,0,0,,硬件说得差不多了 那么控制它们的软件又如何呢?\NBut enough about all this hardware, what about the software that controls everything?
-Dialogue: 1,0:06:55.68,0:06:59.37,辉中,,0,0,0,,SpaceX选择的操作系统是Linux\NWell the operating system of choice at SpaceX is Linux.
-Dialogue: 1,0:06:59.55,0:07:03.33,辉中,,0,0,0,,工程师电脑上和火箭上都是Linux系统\NIt runs on the desktops of the engineers and powers its vehicles.
-Dialogue: 1,0:07:03.33,0:07:07.52,辉中,,0,0,0,,都使用Linux可以让开发流程流水线化\NUsing Linux everywhere allows them to streamline the development process
-Dialogue: 1,0:07:07.52,0:07:10.00,辉中,,0,0,0,,同时还有大量身经百战的开发工具\Nand use the robust tools that come with it.
-Dialogue: 1,0:07:10.31,0:07:15.45,辉中,,0,0,0,,编程语言用的是C++ 主要原因有二\NThe programming language of choice is C++ and they use it for two main reasons.
-Dialogue: 1,0:07:15.54,0:07:21.84,辉中,,0,0,0,,第一 C++这种语言还算相对热门 所以SpaceX可以广纳贤才\NFirst it allows SpaceX to hire a lot of brilliant people because the language is still relatively popular.
-Dialogue: 1,0:07:22.17,0:07:26.35,辉中,,0,0,0,,第二 C++的生态很棒\NSecondly, they benefits from the large C++ ecosystem.
-Dialogue: 1,0:07:26.35,0:07:28.40,辉中,,0,0,0,,不用费劲自己造轮子 好多像gcc、gdb的工具都是现成的\NNo need to create custom software
-Dialogue: 1,0:07:28.40,0:07:34.25,辉中,,0,0,0,,不用费劲自己造轮子 好多像gcc、gdb的工具都是现成的\Nwhen you can just use tools that developers already know like gcc, and gdb for instance.
-Dialogue: 1,0:07:34.25,0:07:37.56,辉中,,0,0,0,,不过操作系统也不只使用Linux\NBut Linux isn't the only platform that is being used.
-Dialogue: 1,0:07:37.56,0:07:42.68,辉中,,0,0,0,,他们还使用Windows平台的一个图形化编程工具 LabView\NThey also use LabView a graphical programming tool that runs on Windows.
-Dialogue: 1,0:07:42.68,0:07:48.37,辉中,,0,0,0,,可以在猎鹰九号或龙飞船飞行时可视化遥测数据\NIt is used to visualise telemetry that they get from a Falcon 9 or Dragon during flight.
-Dialogue: 1,0:07:48.37,0:07:52.42,辉中,,0,0,0,,地面小组用它来监测一些重要参数\NAnd ground teams use it to keep an eye on important metrics.
-Dialogue: 1,0:07:52.42,0:07:58.15,辉中,,0,0,0,,另外有趣的一点 SpaceX会尽量保持代码在不同发射载具间的通用性\NAnother interesting fact is that SpaceX tries to share as much code as possible between its vehicles.
-Dialogue: 1,0:07:58.15,0:08:01.94,辉中,,0,0,0,,带来的最大好处就是某个发射载具的bug修正后\NThe biggest advantage of this is that bug fixes for one vehicle
-Dialogue: 1,0:08:01.94,0:08:05.15,辉中,,0,0,0,,其他发射载具上代码的bug也会跟着修正\Nare automatically pushed to the other vehicles as well.
-Dialogue: 1,0:08:05.15,0:08:10.86,辉中,,0,0,0,,另外 游戏开发者通常很适合去SpaceX\NOh and another interesting fact is that game developers are usually a good fit for SpaceX
-Dialogue: 1,0:08:10.86,0:08:16.90,辉中,,0,0,0,,因为他们都要开发存储容量、计算性能受限环境下的程序\Nbecause they are used to writing code that runs in environments where memory and processing power are constrained.
-Dialogue: 1,0:08:17.27,0:08:22.27,辉中,,0,0,0,,最后说说SpaceX如何监测他们的软件和发射载具\NThe last thing we'll take a look at is how SpaceX monitors their software and vehicles.
-Dialogue: 1,0:08:22.60,0:08:26.61,辉中,,0,0,0,,工程师会在所有能想到的地方加入系统监测指标\NEngineers are encouraged to add Metrics to everything they can think about.
-Dialogue: 1,0:08:26.75,0:08:32.18,辉中,,0,0,0,,发射载具运行时会收集所有日志 然后会有程序分析它们\NWhen a vehicle is being used, all these logs are collected and analysed by programs
-Dialogue: 1,0:08:32.18,0:08:35.75,辉中,,0,0,0,,一旦哪项超过安全阈值就会报警\Nwho raise an alarm if something is not within the safety margins.
-Dialogue: 1,0:08:36.03,0:08:41.24,辉中,,0,0,0,,所有系统指标都和运行时的源代码保存在一起\NAll these metrics are stored together with the source code that was running at that time.
-Dialogue: 1,0:08:41.24,0:08:43.21,辉中,,0,0,0,,一旦发射载具出现问题\NIf something goes wrong with the vehicle,
-Dialogue: 1,0:08:43.21,0:08:48.45,辉中,,0,0,0,,SpaceX就能重现当时的情况 复现故障并修复\NSpaceX can recreate the exact environment to reproduce the problem and fix it.
-Dialogue: 1,0:08:48.93,0:08:51.62,辉中,,0,0,0,,最后 他们还使用"持续集成"\NAnd finally they are using continuous integration
-Dialogue: 1,0:08:51.62,0:08:56.00,辉中,,0,0,0,,自动化测试工程师提交的所有代码\Nto automatically test all the code that is being written by the engineers.
-Dialogue: 1,0:08:56.00,0:09:00.69,辉中,,0,0,0,,他们还会把猎鹰九号用的所有部件都连接上\NThey even have test stands with all the components of a Falcon 9 bolted on
-Dialogue: 1,0:09:00.69,0:09:05.33,辉中,,0,0,0,,模拟一次完整的飞行过程 发现潜在问题\Nso they can simulate a complete flight to discover potential problems.
-Dialogue: 1,0:09:05.67,0:09:10.29,辉中,,0,0,0,,软硬件方面的细节也就到此为止了\NMore details about the used hardware and software aren't really available
-Dialogue: 1,0:09:10.29,0:09:13.99,辉中,,0,0,0,,因为美国政府认为这些是机密内容\Nand that's because the United States government considers it classified.
-Dialogue: 1,0:09:14.31,0:09:18.84,辉中,,0,0,0,,猎鹰九号这样的火箭本质上就是能上太空的导弹\NA rocket like the Falcon 9 is basically a missile that goes to space.
-Dialogue: 1,0:09:18.84,0:09:23.45,辉中,,0,0,0,,落入坏蛋手中指不定闹出什么幺蛾子\NSo in the wrong hands, the technology could be misused and cause harm.
-Dialogue: 1,0:09:23.57,0:09:26.98,辉中,,0,0,0,,但即便如此 我们也大致了解了SpaceX使用的软硬件设备\NBut even with limited information we got a pretty good view
-Dialogue: 1,0:09:26.98,0:09:30.03,辉中,,0,0,0,,但即便如此 我们也大致了解了SpaceX使用的软硬件设备\Nat what software and hardware is being used at SpaceX
-Dialogue: 0,0:09:30.03,0:09:32.36,辉中,,0,0,0,,与团队面临的种种挑战\Nand what challenges the teams face.
-Dialogue: 1,0:09:32.77,0:09:34.32,辉中,,0,0,0,,本期视频就到这里\NThat was it for this video!
-Dialogue: 1,0:09:34.32,0:09:37.77,辉中,,0,0,0,,喜欢记得点赞 关注\NIf you liked it, hit the thumbs up button and consider subscribing.
-Dialogue: 1,0:09:37.77,0:09:43.27,辉中,,0,0,0,,欢迎关注YouTube频道"Simply Explained" Twitter@Savjee 感谢观看\NAlso follow me on Twitter for more updates, and as always: thank you so much for watching!
+Dialogue: 1,0:00:00.31,0:00:03.96,辉中,,0,0,0,,大家好 我是Savjee 是一名开发者
+Dialogue: 2,0:00:00.31,0:00:03.96,辉英,,0,0,0,,Hey there! My name is Savjee and as you might know I'm a developer.
+Dialogue: 1,0:00:03.96,0:00:06.41,辉中,,0,0,0,,同时还是个SpaceX的粉丝
+Dialogue: 2,0:00:03.96,0:00:06.41,辉英,,0,0,0,,But I'm also a huge SpaceX fan
+Dialogue: 1,0:00:06.41,0:00:13.15,辉中,,0,0,0,,所以我一直好奇 猎鹰九号、重型猎鹰和龙飞船上使用哪种硬件和软件?
+Dialogue: 2,0:00:06.41,0:00:13.15,辉英,,0,0,0,,and that got me thinking: what software and hardware powers the Falcon 9, Falcon Heavy and Dragon?
+Dialogue: 1,0:00:13.50,0:00:17.96,辉中,,0,0,0,,我们先了解一下航天器上的软硬件在飞行时要面临哪些问题
+Dialogue: 2,0:00:13.50,0:00:17.96,辉英,,0,0,0,,Let's first take a look at what challenges the hardware and software of a spacecraft faces
+Dialogue: 1,0:00:17.96,0:00:20.45,辉中,,0,0,0,,我们先了解一下航天器上的软硬件在飞行时要面临哪些问题
+Dialogue: 2,0:00:17.96,0:00:20.45,辉英,,0,0,0,,when it is being launched into space.
+Dialogue: 1,0:00:20.45,0:00:24.94,辉中,,0,0,0,,首先 想要把东西送进地球轨道就是很难的
+Dialogue: 2,0:00:20.45,0:00:24.94,辉英,,0,0,0,,First of all its very hard to get your craft into orbit around the earth.
+Dialogue: 1,0:00:24.94,0:00:28.02,辉中,,0,0,0,,火箭发射时震动很剧烈
+Dialogue: 2,0:00:24.94,0:00:28.02,辉英,,0,0,0,,A launch on top of a rocket causes a lot of vibrations
+Dialogue: 1,0:00:28.02,0:00:33.53,辉中,,0,0,0,,所以飞船自身及其航电设备先要撑过发射的震动
+Dialogue: 2,0:00:28.02,0:00:33.53,辉英,,0,0,0,,and that means that the craft itself and the electronics have to be able to withstand that.
+Dialogue: 1,0:00:33.63,0:00:38.01,辉中,,0,0,0,,而进入太空以后 各种挑战就更多了
+Dialogue: 2,0:00:33.63,0:00:38.01,辉英,,0,0,0,,And once you get in orbit, you are welcomed by even more challenges.
+Dialogue: 1,0:00:38.18,0:00:42.66,辉中,,0,0,0,,太阳直射时龙飞船要忍受阳面的热量
+Dialogue: 2,0:00:38.18,0:00:42.66,辉英,,0,0,0,,Dragon for instance has to be able to cope with intense heat when it's facing the sun
+Dialogue: 1,0:00:42.66,0:00:46.70,辉中,,0,0,0,,而到了地球背面则要忍受低温
+Dialogue: 2,0:00:42.66,0:00:46.70,辉英,,0,0,0,,but also intense cold when sunlight is blocked by earth.
+Dialogue: 1,0:00:46.70,0:00:53.24,辉中,,0,0,0,,温度低至-150摄氏度 高至120摄氏度
+Dialogue: 2,0:00:46.70,0:00:53.24,辉英,,0,0,0,,These temperatures range from -150°C all the way up to 120°C
+Dialogue: 1,0:00:53.24,0:00:56.67,辉中,,0,0,0,,而对于航电设备来说 最大的问题来自于辐射
+Dialogue: 2,0:00:53.24,0:00:56.67,辉英,,0,0,0,,But the biggest problem for the electronics is radiation.
+Dialogue: 1,0:00:56.67,0:01:01.70,辉中,,0,0,0,,辐射可以来自于太阳发射的高能粒子
+Dialogue: 2,0:00:56.67,0:01:01.70,辉英,,0,0,0,,This radiation comes from high-energy particles that are ejected by our sun,
+Dialogue: 1,0:01:01.70,0:01:04.16,辉中,,0,0,0,,可以来自地球磁场中约束的粒子
+Dialogue: 2,0:01:01.70,0:01:04.16,辉英,,0,0,0,,particles trapped in Earth's magnetic field
+Dialogue: 1,0:01:04.16,0:01:08.80,辉中,,0,0,0,,甚至还有来自太阳系外的宇宙粒子与射线
+Dialogue: 2,0:01:04.16,0:01:08.80,辉英,,0,0,0,,and even cosmic rays or particles from outside our solar system.
+Dialogue: 1,0:01:08.80,0:01:13.80,辉中,,0,0,0,,这些粒子会对飞船内的系统产生严重影响
+Dialogue: 2,0:01:08.80,0:01:13.80,辉英,,0,0,0,,These particles can have pretty severe effects on the systems inside a spacecraft.
+Dialogue: 1,0:01:13.80,0:01:17.35,辉中,,0,0,0,,其中最大的问题是比特反转
+Dialogue: 2,0:01:13.80,0:01:17.35,辉英,,0,0,0,,One of the biggest problems is whats called a bit flip.
+Dialogue: 1,0:01:17.35,0:01:23.20,辉中,,0,0,0,,一般发生在高能粒子击中飞船的内存或者处理器时
+Dialogue: 2,0:01:17.35,0:01:23.20,辉英,,0,0,0,,This occurs when a high energy particle hits the memory or the processor of the spacecraft.
+Dialogue: 1,0:01:23.37,0:01:30.22,辉中,,0,0,0,,击中内存 比如把0打成1了 就会让一部分内存崩溃
+Dialogue: 2,0:01:23.37,0:01:30.22,辉英,,0,0,0,,If it hits the memory it can cause a 0 to become a 1, essentially corrupting a part of the memory.
+Dialogue: 1,0:01:30.22,0:01:34.82,辉中,,0,0,0,,幸好SpaceX飞船上的软件能够侦测到这种比特反转
+Dialogue: 2,0:01:30.22,0:01:34.82,辉英,,0,0,0,,Luckily though the software onboard SpaceX vehicles can detect these bit flips
+Dialogue: 1,0:01:34.82,0:01:38.29,辉中,,0,0,0,,并通过奇偶校验进行修正
+Dialogue: 2,0:01:34.82,0:01:38.29,辉英,,0,0,0,,and fix the corrupted memory by using parity bits.
+Dialogue: 1,0:01:38.29,0:01:39.67,辉中,,0,0,0,,这点问题不大
+Dialogue: 2,0:01:38.29,0:01:39.67,辉英,,0,0,0,,No big deal.
+Dialogue: 1,0:01:39.67,0:01:42.41,辉中,,0,0,0,,然而当处理器遭遇辐射
+Dialogue: 2,0:01:39.67,0:01:42.41,辉英,,0,0,0,,However when the processor is hit with radiation
+Dialogue: 1,0:01:42.41,0:01:46.72,辉中,,0,0,0,,就会导致计算结果完全错误
+Dialogue: 2,0:01:42.41,0:01:46.72,辉英,,0,0,0,,it can cause the result of a calculation to be completely incorrect.
+Dialogue: 1,0:01:46.89,0:01:51.56,辉中,,0,0,0,,举个简单的例子 我们让处理器计算10+10
+Dialogue: 2,0:01:46.89,0:01:51.56,辉英,,0,0,0,,To demonstrate this, let's ask a processor to calculate 10+10.
+Dialogue: 1,0:01:51.56,0:01:57.30,辉中,,0,0,0,,二进制里是1010+1010=10100 换成十进制就是20 至此一切正常
+Dialogue: 2,0:01:51.56,0:01:57.30,辉英,,0,0,0,,In binary that would look like this and the result is obviously 20. No surprises there!
+Dialogue: 1,0:01:57.30,0:02:02.92,辉中,,0,0,0,,但如果计算过程中发生了比特反转 我们看看结果会如何
+Dialogue: 2,0:01:57.30,0:02:02.92,辉英,,0,0,0,,But let's now take a look at what happens when a bit flip occurs while performing this calculation.
+Dialogue: 1,0:02:03.17,0:02:06.57,辉中,,0,0,0,,还是让处理器计算10+10
+Dialogue: 2,0:02:03.17,0:02:06.57,辉英,,0,0,0,,We still ask the processor to calculate 10 + 10
+Dialogue: 1,0:02:06.57,0:02:11.87,辉中,,0,0,0,,由于处理器内发生了比特反转 计算的内容就完全不是那回事了
+Dialogue: 2,0:02:06.57,0:02:11.87,辉英,,0,0,0,,but because of the bit flip the processor is actually calculating something completely different.
+Dialogue: 1,0:02:11.87,0:02:19.07,辉中,,0,0,0,,视频中就是比特反转导致处理器计算10+10=24的例子
+Dialogue: 2,0:02:11.87,0:02:19.07,辉英,,0,0,0,,Right now it will say that 10 + 10 equals 24 because one of the bits flipped while running the calculations…
+Dialogue: 1,0:02:19.55,0:02:23.47,辉中,,0,0,0,,这种计算错误会对飞船造成极其严重的后果
+Dialogue: 2,0:02:19.55,0:02:23.47,辉英,,0,0,0,,Wrong calculations can have very severe effects on a spacecraft.
+Dialogue: 1,0:02:23.47,0:02:29.10,辉中,,0,0,0,,1996年阿丽亚娜五号火箭首飞
+Dialogue: 2,0:02:23.47,0:02:29.10,辉英,,0,0,0,,This was demonstrated by the maiden flight of the Ariane 5 rocket in 1996.
+Dialogue: 1,0:02:29.10,0:02:31.14,辉中,,0,0,0,,它虽然没有遇到比特反转
+Dialogue: 2,0:02:29.10,0:02:31.14,辉英,,0,0,0,,It didn't suffer from a bit flip,
+Dialogue: 1,0:02:31.14,0:02:39.13,辉中,,0,0,0,,但在飞行40秒时 箭载软件想把一个64位数字存进16位的地址中
+Dialogue: 2,0:02:31.14,0:02:39.13,辉英,,0,0,0,,but 40 seconds into the flight, the rocket's software tried to put a 64 bit number into a 16 bit address,
+Dialogue: 1,0:02:39.13,0:02:42.74,辉中,,0,0,0,,导致数字被截断 得出完全不同的结果
+Dialogue: 2,0:02:39.13,0:02:42.74,辉英,,0,0,0,,causing the number to be truncated and be completely different.
+Dialogue: 1,0:02:42.74,0:02:47.90,辉中,,0,0,0,,而火箭航电设备依然按照这个错误结果继续运算
+Dialogue: 2,0:02:42.74,0:02:47.90,辉英,,0,0,0,,The rocket's avionics then continued to perform their calculations with this wrong number
+Dialogue: 1,0:02:47.90,0:02:52.67,辉中,,0,0,0,,然后火箭半路突然改变航向 因为它以为自己飞错方向了
+Dialogue: 2,0:02:47.90,0:02:52.67,辉英,,0,0,0,,and performed an abrupt course correction because it thought it was going to wrong way.
+Dialogue: 1,0:02:52.67,0:02:57.59,辉中,,0,0,0,,最终火箭因承受不住过高的动压而解体
+Dialogue: 2,0:02:52.67,0:02:57.59,辉英,,0,0,0,,The vehicle eventually broke up because the aerodynamic stress was simply too high.
+Dialogue: 1,0:02:57.59,0:03:01.95,辉中,,0,0,0,,回到SpaceX上来 他们如何处理辐射问题呢?
+Dialogue: 2,0:02:57.59,0:03:01.95,辉英,,0,0,0,,Now back to SpaceX: how do they handle the problem of radiation?
+Dialogue: 1,0:03:01.95,0:03:06.61,辉中,,0,0,0,,他们假设电子设备无法完全避免受到辐射
+Dialogue: 2,0:03:01.95,0:03:06.61,辉英,,0,0,0,,Well they assume that you can't protect electronics completely from radiation
+Dialogue: 1,0:03:06.61,0:03:09.29,辉中,,0,0,0,,并在设计系统时时刻牢记此项假设
+Dialogue: 2,0:03:06.61,0:03:09.29,辉英,,0,0,0,,and they design their systems with this in mind.
+Dialogue: 1,0:03:09.29,0:03:15.74,辉中,,0,0,0,,他们不选昂贵的抗辐射零件 而是现成的零件
+Dialogue: 2,0:03:09.29,0:03:15.74,辉英,,0,0,0,,Instead of using expensive, radiation-hardened parts, SpaceX uses off-the-shelf components.
+Dialogue: 1,0:03:15.74,0:03:17.55,辉中,,0,0,0,,先说龙飞船
+Dialogue: 2,0:03:15.74,0:03:17.55,辉英,,0,0,0,,Let's look at Dragon first.
+Dialogue: 1,0:03:17.55,0:03:22.58,辉中,,0,0,0,,根据John Muratore 前SpaceX载具保障的描述
+Dialogue: 2,0:03:17.55,0:03:22.58,辉英,,0,0,0,,According to John Muratore, previous director of SpaceX vehicle certification,
+Dialogue: 1,0:03:22.58,0:03:25.79,辉中,,0,0,0,,每一艘龙飞船有三台飞行计算机
+Dialogue: 2,0:03:22.58,0:03:25.79,辉英,,0,0,0,,each Dragon is equipped with three flight computers.
+Dialogue: 1,0:03:25.79,0:03:30.61,辉中,,0,0,0,,每台飞行计算机由一个双核x86处理器驱动
+Dialogue: 2,0:03:25.79,0:03:30.61,辉英,,0,0,0,,Each of these flight computers is powered by a dual core x86 processor.
+Dialogue: 1,0:03:30.61,0:03:34.24,辉中,,0,0,0,,但计算机本身并不是多核运算的
+Dialogue: 2,0:03:30.61,0:03:34.24,辉英,,0,0,0,,The computers however don't use the multicore capability.
+Dialogue: 1,0:03:34.24,0:03:40.98,辉中,,0,0,0,,而是每项运算都在每台计算的每个核上独立进行 然后对比结果
+Dialogue: 2,0:03:34.24,0:03:40.98,辉英,,0,0,0,,Instead they execute each calculation on the two cores individually and compare the results.
+Dialogue: 1,0:03:40.98,0:03:44.45,辉中,,0,0,0,,这样三台双核计算机
+Dialogue: 2,0:03:40.98,0:03:44.45,辉英,,0,0,0,,So three flight computer with each a dual core processor
+Dialogue: 1,0:03:44.45,0:03:49.95,辉中,,0,0,0,,进行六次独立的运算 并持续互相检查计算结果
+Dialogue: 2,0:03:44.45,0:03:49.95,辉英,,0,0,0,,can be seen as 6 independent computers that are constantly checking each others calculations.
+Dialogue: 1,0:03:49.95,0:03:54.74,辉中,,0,0,0,,如果某台计算机遇到辐射 得出了错误结果
+Dialogue: 2,0:03:49.95,0:03:54.74,辉英,,0,0,0,,If one of the flight computers is hit with radiation and produces a wrong calculation,
+Dialogue: 1,0:03:54.74,0:03:56.54,辉中,,0,0,0,,其他的计算机就会发现
+Dialogue: 2,0:03:54.74,0:03:56.54,辉英,,0,0,0,,the others will spot it.
+Dialogue: 1,0:03:56.54,0:04:02.50,辉中,,0,0,0,,此时 出错的计算机就会自动重启 防止出现更多错误
+Dialogue: 2,0:03:56.54,0:04:02.50,辉英,,0,0,0,,When that happens the malfunctioning computer will be rebooted automatically to prevent further errors.
+Dialogue: 1,0:04:02.50,0:04:06.34,辉中,,0,0,0,,重启后 计算机要进行一次"再同步"
+Dialogue: 2,0:04:02.50,0:04:06.34,辉英,,0,0,0,,After rebooting the computer has to perform whats called a re-sync.
+Dialogue: 1,0:04:06.34,0:04:09.34,辉中,,0,0,0,,让它跟上飞船当前的任务
+Dialogue: 2,0:04:06.34,0:04:09.34,辉英,,0,0,0,,It has to get up to speed with what the vehicle is doing,
+Dialogue: 1,0:04:09.34,0:04:13.96,辉中,,0,0,0,,所以会直接从另外两台计算机内存中复制内容然后继续跑相同的程序
+Dialogue: 2,0:04:09.34,0:04:13.96,辉英,,0,0,0,,so it copies the memory of the other two computers and runs the same programs.
+Dialogue: 1,0:04:13.96,0:04:19.37,辉中,,0,0,0,,有点像电脑上"重启后恢复所有窗口"那个选项
+Dialogue: 2,0:04:13.96,0:04:19.37,辉英,,0,0,0,,A bit like rebooting your computer with the option to restore all your windows when you log back in.
+Dialogue: 1,0:04:19.89,0:04:26.15,辉中,,0,0,0,,龙飞船甚至有能力应付三台计算机同时遭遇辐射的情况
+Dialogue: 2,0:04:19.89,0:04:26.15,辉英,,0,0,0,,Dragon can even handle a situation where all three of its computers are hit by radiation at the same time
+Dialogue: 1,0:04:26.15,0:04:28.45,辉中,,0,0,0,,虽然这种情况发生概率极低
+Dialogue: 2,0:04:26.15,0:04:28.45,辉英,,0,0,0,,although thats very unlikely to happen.
+Dialogue: 1,0:04:28.45,0:04:32.62,辉中,,0,0,0,,除了这三台飞行计算机 龙飞船还有其余18套系统
+Dialogue: 2,0:04:28.45,0:04:32.62,辉英,,0,0,0,,Besides 3 flight computers, Dragon has 18 other systems onboard
+Dialogue: 1,0:04:32.62,0:04:35.32,辉中,,0,0,0,,也都是三冗余设计
+Dialogue: 2,0:04:32.62,0:04:35.32,辉英,,0,0,0,,that also use triple redundancy computers.
+Dialogue: 1,0:04:35.48,0:04:39.12,辉中,,0,0,0,,总处理器数量高达54
+Dialogue: 2,0:04:35.48,0:04:39.12,辉英,,0,0,0,,That brings the total amount of processors up to 54.
+Dialogue: 1,0:04:39.12,0:04:42.19,辉中,,0,0,0,,这还只是一艘龙飞船
+Dialogue: 2,0:04:39.12,0:04:42.19,辉英,,0,0,0,,And that's just for a single Dragon capsule.
+Dialogue: 1,0:04:42.47,0:04:46.80,辉中,,0,0,0,,龙飞船下面的猎鹰九号火箭也有冗余系统
+Dialogue: 2,0:04:42.47,0:04:46.80,辉英,,0,0,0,,But Dragon isn't alone, also the Falcon 9 has redundant systems.
+Dialogue: 1,0:04:46.80,0:04:51.31,辉中,,0,0,0,,九台发动机 每台配三冗余的计算机 外加一套三冗余的飞行计算机
+Dialogue: 2,0:04:46.80,0:04:51.31,辉英,,0,0,0,,It has 3 computers for each engine (9 x 3) and triple-redundancy flight computer
+Dialogue: 1,0:04:51.31,0:04:54.62,辉中,,0,0,0,,总共就是三十个处理器
+Dialogue: 2,0:04:51.31,0:04:54.62,辉英,,0,0,0,,which means that it carries 30 processors.
+Dialogue: 1,0:04:54.62,0:04:57.42,辉中,,0,0,0,,至少在2012年是这样
+Dialogue: 2,0:04:54.62,0:04:57.42,辉英,,0,0,0,,At least that was the situation in 2012.
+Dialogue: 1,0:04:57.42,0:05:02.92,辉中,,0,0,0,,目前来看 猎鹰九号为了着陆可能还要装更多的处理器
+Dialogue: 2,0:04:57.42,0:05:02.92,辉英,,0,0,0,,Right now it's possible that Falcon 9 has even more processors to handle the landing.
+Dialogue: 1,0:05:03.30,0:05:06.12,辉中,,0,0,0,,这时候你可能会问……
+Dialogue: 2,0:05:03.30,0:05:06.12,辉英,,0,0,0,,Now at this point you might be thinking: hang on…
+Dialogue: 1,0:05:06.12,0:05:10.63,辉中,,0,0,0,,NASA真的允许SpaceX用普通规格的硬件设备吗?
+Dialogue: 2,0:05:06.12,0:05:10.63,辉英,,0,0,0,,Does NASA really allow SpaceX to use regular hardware components?
+Dialogue: 1,0:05:10.63,0:05:13.10,辉中,,0,0,0,,就是你我都能在网上买到的那种?
+Dialogue: 2,0:05:10.63,0:05:13.10,辉英,,0,0,0,,The ones you and I can buy on Amazon?
+Dialogue: 1,0:05:13.10,0:05:14.75,辉中,,0,0,0,,呃……还真就是!
+Dialogue: 2,0:05:13.10,0:05:14.75,辉英,,0,0,0,,Well actually yes!
+Dialogue: 1,0:05:14.75,0:05:18.63,辉中,,0,0,0,,NASA并不要求他们必须使用抗辐射设备
+Dialogue: 2,0:05:14.75,0:05:18.63,辉英,,0,0,0,,NASA doesn't require the use of radiation-hardened components.
+Dialogue: 1,0:05:18.63,0:05:25.51,辉中,,0,0,0,,但是会要求SpaceX严格审查辐射对飞船的影响
+Dialogue: 2,0:05:18.63,0:05:21.75,辉英,,0,0,0,,Instead they require SpaceX to do extensive research
+Dialogue: 2,0:05:21.75,0:05:25.51,辉英,,0,0,0,,into what effects the radiation can have on their spacecrafts.
+Dialogue: 1,0:05:25.51,0:05:29.29,辉中,,0,0,0,,如果知晓了影响情况 就可以有相应的解决办法
+Dialogue: 2,0:05:25.51,0:05:29.29,辉英,,0,0,0,,If they know how they'll be affected, they can compensate for it.
+Dialogue: 1,0:05:29.29,0:05:36.19,辉中,,0,0,0,,实际上这称为"耐辐射"设计 与"抗辐射"设计是不同的
+Dialogue: 2,0:05:29.29,0:05:36.19,辉英,,0,0,0,,In fact this is called a radiation-tolerant design and is different from a radiation-hardened design.
+Dialogue: 1,0:05:36.19,0:05:40.13,辉中,,0,0,0,,并且实际上 NASA自己都不会在所有地方都使用抗辐射的设备
+Dialogue: 2,0:05:36.19,0:05:40.13,辉英,,0,0,0,,In fact NASA itself doesn't use radiation-hardened parts everywhere.
+Dialogue: 1,0:05:40.13,0:05:44.89,辉中,,0,0,0,,国际空间站上目前就是各种类型设备混用
+Dialogue: 2,0:05:40.13,0:05:44.89,辉英,,0,0,0,,The International Space Station for instance uses a mix of radiation-hardened parts
+Dialogue: 1,0:05:44.89,0:05:48.53,辉中,,0,0,0,,一些控制甚至会使用日常的笔记本电脑
+Dialogue: 2,0:05:44.89,0:05:48.53,辉英,,0,0,0,,but they also use regular laptops for some controls.
+Dialogue: 1,0:05:48.53,0:05:54.39,辉中,,0,0,0,,航天飞机上的一些设备也是耐辐射而不是抗辐射的
+Dialogue: 2,0:05:48.53,0:05:54.39,辉英,,0,0,0,,Even some parts on the Space Shuttle were radiation-tolerant instead of radiation-hardened.
+Dialogue: 1,0:05:54.76,0:05:58.34,辉中,,0,0,0,,回到SpaceX 他们如何选购零件呢?
+Dialogue: 2,0:05:54.76,0:05:58.34,辉英,,0,0,0,,But back to SpaceX: how do they select their parts?
+Dialogue: 1,0:05:58.34,0:06:00.08,辉中,,0,0,0,,他们有两个条件
+Dialogue: 2,0:05:58.34,0:06:00.08,辉英,,0,0,0,,Well, they have two conditions:
+Dialogue: 1,0:06:00.08,0:06:04.78,辉中,,0,0,0,,第一是要满足火箭、飞船的需求 这点自然不必多说
+Dialogue: 2,0:06:00.08,0:06:04.78,辉英,,0,0,0,,first of all the parts have to be capable enough to handle their tasks - pretty obvious
+Dialogue: 1,0:06:04.78,0:06:09.84,辉中,,0,0,0,,第二是要考虑相应的部件有哪些可用的开发工具
+Dialogue: 2,0:06:04.78,0:06:09.84,辉英,,0,0,0,, - and secondly, they take into account what tooling is available for that particular part.
+Dialogue: 1,0:06:10.42,0:06:14.17,辉中,,0,0,0,,开发工具的选择决定了SpaceX能招到哪些人
+Dialogue: 2,0:06:10.42,0:06:14.17,辉英,,0,0,0,,Tooling determines what kind of people SpaceX can hire.
+Dialogue: 1,0:06:14.17,0:06:16.51,辉中,,0,0,0,,现成的硬件通用性强
+Dialogue: 2,0:06:14.17,0:06:16.51,辉英,,0,0,0,,Off-the-shelf hardware is pretty generic
+Dialogue: 1,0:06:16.51,0:06:20.32,辉中,,0,0,0,,对应的软件与开发工具也会有很多开发者熟悉
+Dialogue: 2,0:06:16.51,0:06:20.32,辉英,,0,0,0,,and uses software and tooling that a lot of developers already know.
+Dialogue: 1,0:06:20.32,0:06:24.58,辉中,,0,0,0,,这让SpaceX更容易招到优秀的工程师
+Dialogue: 2,0:06:20.32,0:06:24.58,辉英,,0,0,0,,And that means that SpaceX has less trouble finding great engineers.
+Dialogue: 1,0:06:24.80,0:06:30.76,辉中,,0,0,0,,而抗辐射设备会使用特殊的编程语言 懂的人也更少
+Dialogue: 2,0:06:24.80,0:06:30.76,辉英,,0,0,0,,Radiation hardened parts however only work with special programming languages that few people know,
+Dialogue: 1,0:06:30.76,0:06:33.69,辉中,,0,0,0,,从而会限制SpaceX广纳贤才
+Dialogue: 2,0:06:30.76,0:06:33.69,辉英,,0,0,0,, thus limiting the ability to hire new people.
+Dialogue: 1,0:06:33.86,0:06:39.55,辉中,,0,0,0,,现成的硬件价格还更低 便于SpaceX进行更大范围的系统测试
+Dialogue: 2,0:06:33.86,0:06:39.55,辉英,,0,0,0,,Off-the-shelf hardware is also cheaper and that allows SpaceX to extensively test these systems.
+Dialogue: 1,0:06:39.76,0:06:44.02,辉中,,0,0,0,,John Muratore说 大家的工位上最多曾出现超过40台飞行计算机用于研发测试
+Dialogue: 2,0:06:39.76,0:06:44.02,辉英,,0,0,0,,John Muratore said that at one point over 40 flight computers
+Dialogue: 1,0:06:44.02,0:06:47.49,辉中,,0,0,0,,John Muratore说 大家的工位上最多曾出现超过40台飞行计算机用于研发测试
+Dialogue: 2,0:06:44.02,0:06:47.49,辉英,,0,0,0,,were sitting on people's desks for testing and development.
+Dialogue: 1,0:06:47.60,0:06:51.55,辉中,,0,0,0,,换又贵又难买到的芯片就没法这么搞
+Dialogue: 2,0:06:47.60,0:06:51.55,辉英,,0,0,0,,You simply cannot do that with expensive and hard to come by hardware.
+Dialogue: 1,0:06:51.55,0:06:55.68,辉中,,0,0,0,,硬件说得差不多了 那么控制它们的软件又如何呢?
+Dialogue: 2,0:06:51.55,0:06:55.68,辉英,,0,0,0,,But enough about all this hardware, what about the software that controls everything?
+Dialogue: 1,0:06:55.68,0:06:59.37,辉中,,0,0,0,,SpaceX选择的操作系统是Linux
+Dialogue: 2,0:06:55.68,0:06:59.37,辉英,,0,0,0,,Well the operating system of choice at SpaceX is Linux.
+Dialogue: 1,0:06:59.55,0:07:03.33,辉中,,0,0,0,,工程师电脑上和火箭上都是Linux系统
+Dialogue: 2,0:06:59.55,0:07:03.33,辉英,,0,0,0,,It runs on the desktops of the engineers and powers its vehicles.
+Dialogue: 1,0:07:03.33,0:07:07.52,辉中,,0,0,0,,都使用Linux可以让开发流程流水线化
+Dialogue: 2,0:07:03.33,0:07:07.52,辉英,,0,0,0,,Using Linux everywhere allows them to streamline the development process
+Dialogue: 1,0:07:07.52,0:07:10.00,辉中,,0,0,0,,同时还有大量身经百战的开发工具
+Dialogue: 2,0:07:07.52,0:07:10.00,辉英,,0,0,0,,and use the robust tools that come with it.
+Dialogue: 1,0:07:10.31,0:07:15.45,辉中,,0,0,0,,编程语言用的是C++ 主要原因有二
+Dialogue: 2,0:07:10.31,0:07:15.45,辉英,,0,0,0,,The programming language of choice is C++ and they use it for two main reasons.
+Dialogue: 1,0:07:15.54,0:07:21.84,辉中,,0,0,0,,第一 C++这种语言还算相对热门 所以SpaceX可以广纳贤才
+Dialogue: 2,0:07:15.54,0:07:21.84,辉英,,0,0,0,,First it allows SpaceX to hire a lot of brilliant people because the language is still relatively popular.
+Dialogue: 1,0:07:22.17,0:07:26.35,辉中,,0,0,0,,第二 C++的生态很棒
+Dialogue: 2,0:07:22.17,0:07:26.35,辉英,,0,0,0,,Secondly, they benefits from the large C++ ecosystem.
+Dialogue: 1,0:07:26.35,0:07:28.40,辉中,,0,0,0,,不用费劲自己造轮子 好多像gcc、gdb的工具都是现成的
+Dialogue: 2,0:07:26.35,0:07:28.40,辉英,,0,0,0,,No need to create custom software
+Dialogue: 1,0:07:28.40,0:07:34.25,辉中,,0,0,0,,不用费劲自己造轮子 好多像gcc、gdb的工具都是现成的
+Dialogue: 2,0:07:28.40,0:07:34.25,辉英,,0,0,0,,when you can just use tools that developers already know like gcc, and gdb for instance.
+Dialogue: 1,0:07:34.25,0:07:37.56,辉中,,0,0,0,,不过操作系统也不只使用Linux
+Dialogue: 2,0:07:34.25,0:07:37.56,辉英,,0,0,0,,But Linux isn't the only platform that is being used.
+Dialogue: 1,0:07:37.56,0:07:42.68,辉中,,0,0,0,,他们还使用Windows平台的一个图形化编程工具 LabView
+Dialogue: 2,0:07:37.56,0:07:42.68,辉英,,0,0,0,,They also use LabView a graphical programming tool that runs on Windows.
+Dialogue: 1,0:07:42.68,0:07:48.37,辉中,,0,0,0,,可以在猎鹰九号或龙飞船飞行时可视化遥测数据
+Dialogue: 2,0:07:42.68,0:07:48.37,辉英,,0,0,0,,It is used to visualise telemetry that they get from a Falcon 9 or Dragon during flight.
+Dialogue: 1,0:07:48.37,0:07:52.42,辉中,,0,0,0,,地面小组用它来监测一些重要参数
+Dialogue: 2,0:07:48.37,0:07:52.42,辉英,,0,0,0,,And ground teams use it to keep an eye on important metrics.
+Dialogue: 1,0:07:52.42,0:07:58.15,辉中,,0,0,0,,另外有趣的一点 SpaceX会尽量保持代码在不同发射载具间的通用性
+Dialogue: 2,0:07:52.42,0:07:58.15,辉英,,0,0,0,,Another interesting fact is that SpaceX tries to share as much code as possible between its vehicles.
+Dialogue: 1,0:07:58.15,0:08:01.94,辉中,,0,0,0,,带来的最大好处就是某个发射载具的bug修正后
+Dialogue: 2,0:07:58.15,0:08:01.94,辉英,,0,0,0,,The biggest advantage of this is that bug fixes for one vehicle
+Dialogue: 1,0:08:01.94,0:08:05.15,辉中,,0,0,0,,其他发射载具上代码的bug也会跟着修正
+Dialogue: 2,0:08:01.94,0:08:05.15,辉英,,0,0,0,,are automatically pushed to the other vehicles as well.
+Dialogue: 1,0:08:05.15,0:08:10.86,辉中,,0,0,0,,另外 游戏开发者通常很适合去SpaceX
+Dialogue: 2,0:08:05.15,0:08:10.86,辉英,,0,0,0,,Oh and another interesting fact is that game developers are usually a good fit for SpaceX
+Dialogue: 1,0:08:10.86,0:08:16.90,辉中,,0,0,0,,因为他们都要开发存储容量、计算性能受限环境下的程序
+Dialogue: 2,0:08:10.86,0:08:13.81,辉英,,0,0,0,,because they are used to writing code that runs in environments
+Dialogue: 2,0:08:13.81,0:08:16.90,辉英,,0,0,0,,where memory and processing power are constrained.
+Dialogue: 1,0:08:17.27,0:08:22.27,辉中,,0,0,0,,最后说说SpaceX如何监测他们的软件和发射载具
+Dialogue: 2,0:08:17.27,0:08:22.27,辉英,,0,0,0,,The last thing we'll take a look at is how SpaceX monitors their software and vehicles.
+Dialogue: 1,0:08:22.60,0:08:26.61,辉中,,0,0,0,,工程师会在所有能想到的地方加入系统监测指标
+Dialogue: 2,0:08:22.60,0:08:26.61,辉英,,0,0,0,,Engineers are encouraged to add Metrics to everything they can think about.
+Dialogue: 1,0:08:26.75,0:08:32.18,辉中,,0,0,0,,发射载具运行时会收集所有日志 然后会有程序分析它们
+Dialogue: 2,0:08:26.75,0:08:32.18,辉英,,0,0,0,,When a vehicle is being used, all these logs are collected and analysed by programs
+Dialogue: 1,0:08:32.18,0:08:35.75,辉中,,0,0,0,,一旦哪项超过安全阈值就会报警
+Dialogue: 2,0:08:32.18,0:08:35.75,辉英,,0,0,0,,who raise an alarm if something is not within the safety margins.
+Dialogue: 1,0:08:36.03,0:08:41.24,辉中,,0,0,0,,所有系统指标都和运行时的源代码保存在一起
+Dialogue: 2,0:08:36.03,0:08:41.24,辉英,,0,0,0,,All these metrics are stored together with the source code that was running at that time.
+Dialogue: 1,0:08:41.24,0:08:43.21,辉中,,0,0,0,,一旦发射载具出现问题
+Dialogue: 2,0:08:41.24,0:08:43.21,辉英,,0,0,0,,If something goes wrong with the vehicle,
+Dialogue: 1,0:08:43.21,0:08:48.45,辉中,,0,0,0,,SpaceX就能重现当时的情况 复现故障并修复
+Dialogue: 2,0:08:43.21,0:08:48.45,辉英,,0,0,0,,SpaceX can recreate the exact environment to reproduce the problem and fix it.
+Dialogue: 1,0:08:48.93,0:08:51.62,辉中,,0,0,0,,最后 他们还使用"持续集成"
+Dialogue: 2,0:08:48.93,0:08:51.62,辉英,,0,0,0,,And finally they are using continuous integration
+Dialogue: 1,0:08:51.62,0:08:56.00,辉中,,0,0,0,,自动化测试工程师提交的所有代码
+Dialogue: 2,0:08:51.62,0:08:56.00,辉英,,0,0,0,,to automatically test all the code that is being written by the engineers.
+Dialogue: 1,0:08:56.00,0:09:00.69,辉中,,0,0,0,,他们还会把猎鹰九号用的所有部件都连接上
+Dialogue: 2,0:08:56.00,0:09:00.69,辉英,,0,0,0,,They even have test stands with all the components of a Falcon 9 bolted on
+Dialogue: 1,0:09:00.69,0:09:05.33,辉中,,0,0,0,,模拟一次完整的飞行过程 发现潜在问题
+Dialogue: 2,0:09:00.69,0:09:05.33,辉英,,0,0,0,,so they can simulate a complete flight to discover potential problems.
+Dialogue: 1,0:09:05.67,0:09:10.29,辉中,,0,0,0,,软硬件方面的细节也就到此为止了
+Dialogue: 2,0:09:05.67,0:09:10.29,辉英,,0,0,0,,More details about the used hardware and software aren't really available
+Dialogue: 1,0:09:10.29,0:09:13.99,辉中,,0,0,0,,因为美国政府认为这些是机密内容
+Dialogue: 2,0:09:10.29,0:09:13.99,辉英,,0,0,0,,and that's because the United States government considers it classified.
+Dialogue: 1,0:09:14.31,0:09:18.84,辉中,,0,0,0,,猎鹰九号这样的火箭本质上就是能上太空的导弹
+Dialogue: 2,0:09:14.31,0:09:18.84,辉英,,0,0,0,,A rocket like the Falcon 9 is basically a missile that goes to space.
+Dialogue: 1,0:09:18.84,0:09:23.45,辉中,,0,0,0,,落入坏蛋手中指不定闹出什么幺蛾子
+Dialogue: 2,0:09:18.84,0:09:23.45,辉英,,0,0,0,,So in the wrong hands, the technology could be misused and cause harm.
+Dialogue: 1,0:09:23.57,0:09:26.98,辉中,,0,0,0,,但即便如此 我们也大致了解了SpaceX使用的软硬件设备
+Dialogue: 2,0:09:23.57,0:09:26.98,辉英,,0,0,0,,But even with limited information we got a pretty good view
+Dialogue: 1,0:09:26.98,0:09:30.03,辉中,,0,0,0,,但即便如此 我们也大致了解了SpaceX使用的软硬件设备
+Dialogue: 2,0:09:26.98,0:09:30.03,辉英,,0,0,0,,at what software and hardware is being used at SpaceX
+Dialogue: 1,0:09:30.03,0:09:32.36,辉中,,0,0,0,,与团队面临的种种挑战
+Dialogue: 2,0:09:30.03,0:09:32.36,辉英,,0,0,0,,and what challenges the teams face.
+Dialogue: 1,0:09:32.77,0:09:34.32,辉中,,0,0,0,,本期视频就到这里
+Dialogue: 2,0:09:32.77,0:09:34.32,辉英,,0,0,0,,That was it for this video!
+Dialogue: 1,0:09:34.32,0:09:37.77,辉中,,0,0,0,,喜欢记得点赞 关注
+Dialogue: 2,0:09:34.32,0:09:37.77,辉英,,0,0,0,,If you liked it, hit the thumbs up button and consider subscribing.
+Dialogue: 1,0:09:37.77,0:09:43.27,辉中,,0,0,0,,欢迎关注YouTube频道"Simply Explained" Twitter@Savjee 感谢观看
+Dialogue: 2,0:09:37.77,0:09:43.27,辉英,,0,0,0,,Also follow me on Twitter for more updates, and as always: thank you so much for watching!
