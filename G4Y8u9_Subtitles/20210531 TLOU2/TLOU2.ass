@@ -15,10 +15,10 @@ Audio File: Q:/给没组/tlou2.mp4
 Video File: Q:/给没组/tlou2.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 6931
-Active Line: 6941
-Video Position: 98595
+Video Zoom Percent: 0.625000
+Scroll Position: 8848
+Active Line: 8851
+Video Position: 1093608
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -67,9 +67,9 @@ Dialogue: 1,0:00:54.26,0:00:57.85,辉中 歌词,,0,0,0,,{\fade(300,300)}我们�
 Dialogue: 2,0:00:54.26,0:00:57.85,辉英,,0,0,0,,{\fade(300,300)}Our future days
 Dialogue: 1,0:00:58.75,0:01:01.98,辉中 歌词,,0,0,0,,{\fade(300,300)}有你与我作伴
 Dialogue: 2,0:00:58.75,0:01:01.98,辉英,,0,0,0,,{\fade(300,300)}Days of you and me
-Dialogue: 1,0:01:12.09,0:01:17.58,辉注,,0,0,0,,最后生还者 第II章（The Last of Us Part II）以下简称“TLOU2”
 Dialogue: 1,0:01:12.09,0:01:17.58,辉中,,0,0,0,,最后生还者 第II章以乔尔讲述第一部作品的结尾开场
-Dialogue: 2,0:01:12.09,0:01:17.58,辉英,,0,0,0,,So TLOU2 opens with Joel, discussing the ending events of the first game.
+Dialogue: 1,0:01:12.09,0:01:17.58,辉注,,0,0,0,,最后生还者 第II章（The Last of Us Part II）以下简称“TLOU2”
+Dialogue: 2,0:01:12.09,0:01:17.58,辉英,,0,0,0,,So {\i1}TLOU2{\i0} opens with Joel, discussing the ending events of the first game.
 Dialogue: 1,0:01:17.58,0:01:20.34,辉中,,0,0,0,,镜头聚焦在吉他的指板上
 Dialogue: 2,0:01:17.58,0:01:20.34,辉英,,0,0,0,,The cameras focused on the thread board of the guitar,
 Dialogue: 1,0:01:20.34,0:01:23.91,辉中,,0,0,0,,上面有个非常明显的标识 这在后来非常重要
@@ -243,7 +243,7 @@ Dialogue: 2,0:06:24.15,0:06:28.84,辉英,,0,0,0,,it's important to understand th
 Dialogue: 1,0:06:28.84,0:06:36.06,辉中,,0,0,0,,他们才在疫苗研发的前沿 他们最有希望能够拯救无数的生命
 Dialogue: 2,0:06:28.84,0:06:36.06,辉英,,0,0,0,,and were apparently on the cusp of developing a vaccine to save countless millions of lives.
 Dialogue: 1,0:06:36.06,0:06:40.84,辉中,,0,0,0,,同时 仍然是就TLOU2的故事情节而言
-Dialogue: 2,0:06:36.06,0:06:40.84,辉英,,0,0,0,,And once again, for the sake of this story, that's been told in TLOU2,
+Dialogue: 2,0:06:36.06,0:06:40.84,辉英,,0,0,0,,And once again, for the sake of this story, that's been told in {\i1}TLOU2{\i0},
 Dialogue: 1,0:06:40.84,0:06:43.52,辉中,,0,0,0,,乔尔才是告吹这件事的元凶
 Dialogue: 2,0:06:40.84,0:06:43.52,辉英,,0,0,0,,Joel is the one that undid that.
 Dialogue: 1,0:06:43.52,0:06:49.68,辉中,,0,0,0,,因为如果艾莉死在了手术刀下 那至少还会有出现疫苗的机会
@@ -344,8 +344,8 @@ Dialogue: 1,0:09:57.15,0:09:59.64,辉中,,0,0,0,,而艾莉也发现了这一点
 Dialogue: 2,0:09:57.15,0:09:59.64,辉英,,0,0,0,,and Ellie picks up on this as well.
 Dialogue: 1,0:09:59.64,0:10:01.71,辉中,,0,0,0,,所以气氛真的很紧张
 Dialogue: 2,0:09:59.64,0:10:01.71,辉英,,0,0,0,,The tension is really palpable.
-Dialogue: 1,0:10:01.71,0:10:05.94,辉注,,0,0,0,,一代游戏结尾圣玛莉医院位于犹他州盐湖城
 Dialogue: 1,0:10:01.71,0:10:05.94,辉中,,0,0,0,,他们都知道犹他州的问题还没有解决
+Dialogue: 1,0:10:01.71,0:10:05.94,辉注,,0,0,0,,一代游戏结尾圣玛莉医院位于犹他州盐湖城
 Dialogue: 2,0:10:01.71,0:10:05.94,辉英,,0,0,0,,They both know what happened in Utah hasn't been resolved,
 Dialogue: 1,0:10:05.94,0:10:08.16,辉中,,0,0,0,,但都不知道如何去展开这个话题
 Dialogue: 2,0:10:05.94,0:10:08.16,辉英,,0,0,0,,but neither knows how to broach the topic,
@@ -541,7 +541,7 @@ Dialogue: 2,0:16:46.47,0:16:51.90,辉英,,0,0,0,,I know it sounds weird because 
 Dialogue: 1,0:16:51.90,0:16:53.85,辉中,,0,0,0,,虽然说很多第三人称游戏和第一人称射击游戏都有这三个动作
 Dialogue: 2,0:16:51.90,0:16:53.85,辉英,,0,0,0,,that they're going to have those three stances.
 Dialogue: 1,0:16:53.85,0:16:59.25,辉中,,0,0,0,,但在TLOU2中 这三个动作会衍生出大量其他动作
-Dialogue: 2,0:16:53.85,0:16:59.25,辉英,,0,0,0,,But in TLOU2, there are multiple levels of movement associated with each.
+Dialogue: 2,0:16:53.85,0:16:59.25,辉英,,0,0,0,,But in {\i1}TLOU2{\i0}, there are multiple levels of movement associated with each.
 Dialogue: 1,0:16:59.25,0:17:00.48,辉中,,0,0,0,,这也正是我觉得奇怪的点
 Dialogue: 2,0:16:59.25,0:17:00.48,辉英,,0,0,0,,And that's more of my point.
 Dialogue: 1,0:17:00.48,0:17:05.58,辉中,,0,0,0,,这段游戏内容并没有充分介绍游戏角色的这三种动作
@@ -906,7 +906,7 @@ Dialogue: 2,0:28:41.61,0:28:44.73,辉英,,0,0,0,,It must have happened because t
 Dialogue: 1,0:28:44.73,0:28:46.20,辉中,,0,0,0,,老懒狗了
 Dialogue: 2,0:28:44.73,0:28:46.20,辉英,,0,0,0,,It's just lazy.
 Dialogue: 1,0:28:46.20,0:28:55.53,辉中,,0,0,0,,虽然我觉得TLOU2中的许多巧合无厘头到了犯罪的地步
-Dialogue: 2,0:28:46.20,0:28:50.79,辉英,,0,0,0,,And while I feel as though many of the instances of coincidences in TLOU2,
+Dialogue: 2,0:28:46.20,0:28:50.79,辉英,,0,0,0,,And while I feel as though many of the instances of coincidences in {\i1}TLOU2{\i0},
 Dialogue: 2,0:28:50.79,0:28:55.53,辉英,,0,0,0,,are not justifiable and are a grievous offences,
 Dialogue: 1,0:28:55.53,0:29:00.33,辉中,,0,0,0,,但我认为其他的事件还算说得通
 Dialogue: 2,0:28:55.53,0:29:00.33,辉英,,0,0,0,,I think that other instances are more justifiable and could be explained.
@@ -919,9 +919,9 @@ Dialogue: 2,0:29:09.21,0:29:13.17,辉英,,0,0,0,,and this was the fastest, clean
 Dialogue: 1,0:29:13.17,0:29:17.13,辉中,,0,0,0,,我在之前的一期YouTube上的NitGrit节目中
 Dialogue: 2,0:29:13.17,0:29:17.13,辉英,,0,0,0,,In a previous episode of NitGrit, a show that I do here on Youtube,
 Dialogue: 1,0:29:17.13,0:29:21.60,辉中,,0,0,0,,就讨论过了TLOU2里的叙事巧合
-Dialogue: 2,0:29:17.13,0:29:21.60,辉英,,0,0,0,,I discussed narrative coincidences in TLOU2,
+Dialogue: 2,0:29:17.13,0:29:21.60,辉英,,0,0,0,,I discussed narrative coincidences in {\i1}TLOU2{\i0},
 Dialogue: 1,0:29:21.60,0:29:27.75,辉中,,0,0,0,,这些巧合都被塞进了TLOU2的前两小时内容中 让人没法不注意到
-Dialogue: 2,0:29:21.60,0:29:27.75,辉英,,0,0,0,,and I couldn't help but notice that they were all front loaded in the opening hour or two of TLOU2.
+Dialogue: 2,0:29:21.60,0:29:27.75,辉英,,0,0,0,,and I couldn't help but notice that they were all front loaded in the opening hour or two of {\i1}TLOU2{\i0}.
 Dialogue: 1,0:29:27.75,0:29:32.13,辉中,,0,0,0,,我抛砖引玉想出了另一种开篇剧情
 Dialogue: 2,0:29:27.75,0:29:32.13,辉英,,0,0,0,,I threw out a potential intro that they could have swapped where, for instance,
 Dialogue: 1,0:29:32.13,0:29:35.46,辉中,,0,0,0,,埃比 欧文和其它某些团队成员
@@ -984,7 +984,7 @@ Dialogue: 2,0:31:18.60,0:31:20.34,辉英,,0,0,0,,I wasn't actually thinking that
 Dialogue: 1,0:31:20.34,0:31:24.12,辉中,,0,0,0,,但显然这是一个经过认真考虑过的开篇内容
 Dialogue: 2,0:31:20.34,0:31:24.12,辉英,,0,0,0,,But apparently this was a seriously considered intro sequence
 Dialogue: 1,0:31:24.12,0:31:28.02,辉中,,0,0,0,,不过没有正式出现在TLOU2游戏中
-Dialogue: 2,0:31:24.12,0:31:28.02,辉英,,0,0,0,,instead of what we got in the end product of TLOU2,
+Dialogue: 2,0:31:24.12,0:31:28.02,辉英,,0,0,0,,instead of what we got in the end product of {\i1}TLOU2{\i0},
 Dialogue: 1,0:31:28.02,0:31:35.25,辉中,,0,0,0,,他们当前的叙事决策应该是因为其他版本会有很多叙事节奏上的问题
 Dialogue: 2,0:31:28.02,0:31:35.25,辉英,,0,0,0,,But they decided to go in this current direction because the other version ran into a lot of pacing issues.
 Dialogue: 1,0:31:35.25,0:31:42.34,辉中,,0,0,0,,换句话说 你很可能需要在游戏的前五六个小时在杰克逊做一些琐碎的杂事
@@ -1025,7 +1025,7 @@ Dialogue: 2,0:32:38.82,0:32:41.06,辉英,,0,0,0,,And the tension starts to rise 
 Dialogue: 1,0:32:41.06,0:32:45.45,辉中,,0,0,0,,事情进展的太顺利 这不太对劲
 Dialogue: 2,0:32:41.06,0:32:45.45,辉英,,0,0,0,,Again there's a lot of dread, things are going too well,
 Dialogue: 1,0:32:45.45,0:32:51.19,辉中,,0,0,0,,我们都知道TLOU的世界是极其残酷的
-Dialogue: 2,0:32:45.45,0:32:51.19,辉英,,0,0,0,,and the world of TLOU, as we know, is very cutthroat, sometimes literally.
+Dialogue: 2,0:32:45.45,0:32:51.19,辉英,,0,0,0,,and the world of {\i1}TLOU{\i0}, as we know, is very cutthroat, sometimes literally.
 Dialogue: 1,0:32:51.19,0:32:56.58,辉中,,0,0,0,,游戏里角色开开心心无忧无虑甚至在打情骂俏
 Dialogue: 2,0:32:51.19,0:32:56.58,辉英,,0,0,0,,The fact that everybody's happy that they are so carefree that they're even flirting with each other.
 Dialogue: 1,0:32:56.58,0:33:01.14,辉中,,0,0,0,,事实上玩家心里都知道要有不好的事情发生了
@@ -1248,8 +1248,8 @@ Dialogue: 1,0:39:36.42,0:39:39.76,辉中,,0,0,0,,我认为这样的末世下 一
 Dialogue: 2,0:39:36.42,0:39:39.76,辉英,,0,0,0,,I think it would be hilarious and kind of cool
 Dialogue: 1,0:39:39.76,0:39:44.58,辉中,,0,0,0,,我认为这样的末世下 一种植物让大家团结在一起 是很搞笑也是很酷的事情
 Dialogue: 2,0:39:39.76,0:39:44.58,辉英,,0,0,0,,that in this world, this one thing this plant has brought everybody together.
-Dialogue: 1,0:39:44.58,0:39:50.13,辉注,,0,0,0,,科罗拉多州在2014年实行了大麻合法化
 Dialogue: 1,0:39:44.58,0:39:46.35,辉中,,0,0,0,,我的意思是……嗯……我家在科罗拉多
+Dialogue: 1,0:39:44.58,0:39:50.13,辉注,,0,0,0,,科罗拉多州在2014年实行了大麻合法化
 Dialogue: 2,0:39:44.58,0:39:46.35,辉英,,0,0,0,,I mean, yeah, I live in Colorado.
 Dialogue: 1,0:39:46.35,0:39:50.13,辉中,,0,0,0,,或许这就是为什么我会这样想吧
 Dialogue: 2,0:39:46.35,0:39:50.13,辉英,,0,0,0,,Maybe that's why I'm partial to that argument.
@@ -1650,15 +1650,15 @@ Dialogue: 1,0:52:46.23,0:52:52.98,辉中,,0,0,0,,但顽皮狗似乎也积极地�
 Dialogue: 2,0:52:46.23,0:52:50.72,辉英,,0,0,0,,Naughty Dog seems to have actively tried to dissuade fans from this presupposition
 Dialogue: 2,0:52:50.72,0:52:52.98,辉英,,0,0,0,,by way of their pre launch trailers.
 Dialogue: 1,0:52:52.98,0:52:59.61,辉中,,0,0,0,,其实这点惹得不少玩家在通关后有所不满
-Dialogue: 2,0:52:52.98,0:52:59.61,辉英,,0,0,0,,Now this actually got a lot of people pretty upset when they played through the entirety of TLOU2.
+Dialogue: 2,0:52:52.98,0:52:59.61,辉英,,0,0,0,,Now this actually got a lot of people pretty upset when they played through the entirety of {\i1}TLOU2{\i0}.
 Dialogue: 1,0:52:59.61,0:53:02.72,辉中,,0,0,0,,预告片里有很多内容
 Dialogue: 2,0:52:59.61,0:53:02.72,辉英,,0,0,0,,There are multiple events that were shown in the trailers
 Dialogue: 1,0:53:02.72,0:53:06.45,辉中,,0,0,0,,在实际游戏里并没有出现
 Dialogue: 2,0:53:02.72,0:53:06.45,辉英,,0,0,0,,that aren't actually indicative of what the game has to offer.
 Dialogue: 1,0:53:06.45,0:53:08.86,辉中,,0,0,0,,最明显的例子就是这个
 Dialogue: 2,0:53:06.45,0:53:08.86,辉英,,0,0,0,,The clearest example would be this one,
-Dialogue: 1,0:53:08.86,0:53:12.00,辉注,,0,0,0,,Washington Liberation Front, WLF: 华盛顿解放战线
 Dialogue: 1,0:53:08.86,0:53:12.00,辉中,,0,0,0,,艾莉正在和一群华盛顿解放战线作战
+Dialogue: 1,0:53:08.86,0:53:12.00,辉注,,0,0,0,,Washington Liberation Front, WLF: 华盛顿解放战线
 Dialogue: 2,0:53:08.86,0:53:12.00,辉英,,0,0,0,,where Ellie is fighting through a bunch of WLF,
 Dialogue: 1,0:53:12.00,0:53:15.00,辉中,,0,0,0,,突然一只手捂住了她的嘴
 Dialogue: 2,0:53:12.00,0:53:15.00,辉英,,0,0,0,,and then has a hand put over her mouth,
@@ -1704,7 +1704,7 @@ Dialogue: 2,0:54:16.68,0:54:18.99,辉英,,0,0,0,,which is part of the reason I c
 Dialogue: 1,0:54:18.99,0:54:20.64,辉中,,0,0,0,,因为通常他们的出发点是好的
 Dialogue: 2,0:54:18.99,0:54:20.64,辉英,,0,0,0,,because usually it's for a good reason.
 Dialogue: 1,0:54:20.64,0:54:23.58,辉中,,0,0,0,,最好的例子就是初代TLOU
-Dialogue: 2,0:54:20.64,0:54:23.58,辉英,,0,0,0,,The most obvious example would be with the original TLOU,
+Dialogue: 2,0:54:20.64,0:54:23.58,辉英,,0,0,0,,The most obvious example would be with the original {\i1}TLOU{\i0},
 Dialogue: 1,0:54:23.58,0:54:27.45,辉中,,0,0,0,,他们说你游戏全程只会操控乔尔
 Dialogue: 2,0:54:23.58,0:54:27.45,辉英,,0,0,0,,when they said that you would only be playing as Joel throughout the entirety of the game.
 Dialogue: 1,0:54:27.45,0:54:29.91,辉中,,0,0,0,,显然这不是事实
@@ -1720,7 +1720,7 @@ Dialogue: 2,0:54:38.85,0:54:45.39,辉英,,0,0,0,,the entire sequence was much mo
 Dialogue: 1,0:54:45.39,0:54:47.49,辉中,,0,0,0,,另一个例子就是本作了
 Dialogue: 2,0:54:45.39,0:54:47.49,辉英,,0,0,0,,Another example would be with this very game,
 Dialogue: 1,0:54:47.49,0:54:53.28,辉中,,0,0,0,,他们说在TLOU2里 全程你只会操控艾莉一个角色
-Dialogue: 2,0:54:47.49,0:54:53.28,辉英,,0,0,0,,TLOU2 when they said that you would only be playing as Ellie throughout the entirety of the campaign,
+Dialogue: 2,0:54:47.49,0:54:53.28,辉英,,0,0,0,,{\i1}TLOU2{\i0} when they said that you would only be playing as Ellie throughout the entirety of the campaign,
 Dialogue: 1,0:54:53.28,0:54:55.47,辉中,,0,0,0,,这当然也是假的
 Dialogue: 2,0:54:53.28,0:54:55.47,辉英,,0,0,0,,something which was obviously not true.
 Dialogue: 1,0:54:55.47,0:55:00.85,辉中,,0,0,0,,这些本想为玩家提供更好游戏体验的善意谎言有一个问题
@@ -1736,7 +1736,7 @@ Dialogue: 2,0:55:11.37,0:55:15.48,辉英,,0,0,0,,and it made it so when they got
 Dialogue: 1,0:55:15.48,0:55:19.98,辉中,,0,0,0,,游戏突然变得更有意思了 因为玩家根本没有意料到此事
 Dialogue: 2,0:55:15.48,0:55:19.98,辉英,,0,0,0,,It was much more interesting because they didn't expect it at all.
 Dialogue: 1,0:55:19.98,0:55:25.80,辉中,,0,0,0,,但TLOU2的泄密事件让玩家们老早就知道要发生什么了
-Dialogue: 2,0:55:19.98,0:55:25.80,辉英,,0,0,0,,But with TLOU2 and all of the leaks that followed, people saw this coming from a mile away,
+Dialogue: 2,0:55:19.98,0:55:25.80,辉英,,0,0,0,,But with {\i1}TLOU2{\i0} and all of the leaks that followed, people saw this coming from a mile away,
 Dialogue: 1,0:55:25.80,0:55:27.75,辉中,,0,0,0,,这种善意谎言的作用就荡然无存了
 Dialogue: 2,0:55:25.80,0:55:27.75,辉英,,0,0,0,,and it lost a lot of its punch.
 Dialogue: 1,0:55:27.75,0:55:34.83,辉中,,0,0,0,,我其实花过很多时间思考如果我没被剧透 没有预见这些 游戏会是什么样的
@@ -2015,10 +2015,10 @@ Dialogue: 1,1:03:57.57,1:03:59.01,辉中,,0,0,0,,让游戏不那么有趣
 Dialogue: 2,1:03:57.57,1:03:59.01,辉英,,0,0,0,,It's a little uninteresting.
 Dialogue: 1,1:03:59.01,1:04:04.08,辉中,,0,0,0,,因此知道自己需要一次完成很多个目标还是挺有意思的
 Dialogue: 2,1:03:59.01,1:04:04.08,辉英,,0,0,0,,So to see that we have multiple things we're trying to do all at once is a little refreshing.
-Dialogue: 1,1:04:04.26,1:04:10.98,辉中,,0,0,0,,至此 我们来到了游戏的核心内容——「西雅图 第1天」
 Dialogue: 0,1:04:04.07,1:04:10.45,辉中 西雅图标题,,0,530,300,,{\fade(120,40,255,0,1500,10000,0)}西雅图
-Dialogue: 0,1:04:06.15,1:04:10.45,辉中 西雅图标题,,0,180,300,,{\fade(255,40,255,0,1500,10000,0)}第1天
+Dialogue: 1,1:04:04.26,1:04:10.98,辉中,,0,0,0,,至此 我们来到了游戏的核心内容——「西雅图 第1天」
 Dialogue: 2,1:04:04.26,1:04:10.98,辉英,,0,0,0,,After this we jumped to the start of the core game itself, Seattle day 1.
+Dialogue: 0,1:04:06.15,1:04:10.45,辉中 西雅图标题,,0,180,300,,{\fade(255,40,255,0,1500,10000,0)}第1天
 Dialogue: 1,1:04:10.98,1:04:15.93,辉中,,0,0,0,,序章结束了 该开始游玩游戏的最核心部分了
 Dialogue: 2,1:04:10.98,1:04:15.93,辉英,,0,0,0,,And after this, we're done with the prologue and ready to move into the core of the game.
 Dialogue: 1,1:04:15.93,1:04:20.31,辉中,,0,0,0,,但在这之前 我想先和大家聊聊此时我的感受
@@ -2057,7 +2057,7 @@ Dialogue: 2,1:05:20.19,1:05:23.40,辉英,,0,0,0,,It's a tug of war of emotions a
 Dialogue: 1,1:05:23.40,1:05:26.88,辉中,,0,0,0,,这样的冲突才会造就有趣的故事
 Dialogue: 2,1:05:23.40,1:05:26.88,辉英,,0,0,0,,And that conflict is what makes an interesting story.
 Dialogue: 1,1:05:26.88,1:05:30.96,辉中,,0,0,0,,你可以说你对TLOU2这部分故事有自己的见解
-Dialogue: 2,1:05:26.88,1:05:30.96,辉英,,0,0,0,,Say what you will about TLOU2 at this point in the story.
+Dialogue: 2,1:05:26.88,1:05:30.96,辉英,,0,0,0,,Say what you will about {\i1}TLOU2{\i0} at this point in the story.
 Dialogue: 1,1:05:30.96,1:05:33.15,辉中,,0,0,0,,但游戏本身还是有趣的
 Dialogue: 2,1:05:30.96,1:05:33.15,辉英,,0,0,0,,But it's interesting and engaging,
 Dialogue: 1,1:05:33.15,1:05:37.41,辉中,,0,0,0,,可能剧情不是那种令人开心的爽剧
@@ -2085,9 +2085,9 @@ Dialogue: 2,1:06:16.98,1:06:19.14,辉英,,0,0,0,,It's just kind of… blaaaah.
 Dialogue: 1,1:06:19.14,1:06:20.67,辉中,,0,0,0,,不过不急 我们稍后会提到
 Dialogue: 2,1:06:19.14,1:06:20.67,辉英,,0,0,0,,But don't worry, we're going to get into it.
 Dialogue: 0,1:06:20.58,1:06:24.31,辉中 西雅图标题,,0,530,300,,{\fade(120,40,255,0,1500,10000,0)}西雅图
-Dialogue: 0,1:06:22.83,1:06:24.31,辉中 西雅图标题,,0,180,300,,{\fade(255,70,255,0,1000,10000,0)}第1天
 Dialogue: 1,1:06:20.67,1:06:24.46,辉中,,0,0,0,,就这样 我们来到了「西雅图 第1天」
 Dialogue: 2,1:06:20.67,1:06:24.46,辉英,,0,0,0,,And with that we move to Seattle Day 1.
+Dialogue: 0,1:06:22.83,1:06:24.31,辉中 西雅图标题,,0,180,300,,{\fade(255,70,255,0,1000,10000,0)}第1天
 Dialogue: 1,1:06:24.46,1:06:28.24,辉中,,0,0,0,,来西雅图的第一天 主要元素是“大门”
 Dialogue: 2,1:06:24.46,1:06:28.24,辉英,,0,0,0,,Our first day in Seattle starts with the gate,
 Dialogue: 1,1:06:28.24,1:06:31.05,辉中,,0,0,0,,一开始和蒂娜一边唠嗑一边穿过树林
@@ -2186,9 +2186,9 @@ Dialogue: 1,1:09:23.82,1:09:32.25,辉中,,0,0,0,,我觉得你要探索的广阔�
 Dialogue: 2,1:09:23.82,1:09:29.38,辉英,,0,0,0,,I don't feel as though the expansive areas that you're meant to explore are quite as impressive
 Dialogue: 2,1:09:29.38,1:09:32.25,辉英,,0,0,0,,as I think Naughty Dog was hoping they would be.
 Dialogue: 1,1:09:32.25,1:09:35.76,辉中,,0,0,0,,整个这片区域很容易让人联想到《神秘海域：失落的遗产》
-Dialogue: 2,1:09:32.25,1:09:35.76,辉英,,0,0,0,,This whole area is very reminiscent of the opening of The Lost Legacy,
+Dialogue: 2,1:09:32.25,1:09:35.76,辉英,,0,0,0,,This whole area is very reminiscent of the opening of {\i1}The Lost Legacy{\i0},
 Dialogue: 1,1:09:35.76,1:09:39.12,辉中,,0,0,0,,顽皮狗的另一款《神秘海域》系列游戏
-Dialogue: 2,1:09:35.76,1:09:39.12,辉英,,0,0,0,,Naughty Dog's, other most recent Uncharted game.
+Dialogue: 2,1:09:35.76,1:09:39.12,辉英,,0,0,0,,Naughty Dog's, other most recent {\i1}Uncharted{\i0} game.
 Dialogue: 1,1:09:39.12,1:09:42.81,辉中,,0,0,0,,在《失落的遗产》中 游戏给玩家提供了一大片可以探索的区域
 Dialogue: 2,1:09:39.12,1:09:42.81,辉英,,0,0,0,,In The Lost Legacy, You have a huge open expanse to explore.
 Dialogue: 1,1:09:42.81,1:09:44.07,辉中,,0,0,0,,但这种探索
@@ -2200,7 +2200,7 @@ Dialogue: 2,1:09:48.60,1:09:51.75,辉英,,0,0,0,,solve a quick little puzzle and
 Dialogue: 1,1:09:51.75,1:09:56.61,辉中,,0,0,0,,它和大家心中所想的“开放世界”还是有些出入的
 Dialogue: 2,1:09:51.75,1:09:56.61,辉英,,0,0,0,,It's not actually exploring in the same way that you would probably show it in,
 Dialogue: 1,1:09:56.61,1:10:01.23,辉中,,0,0,0,,比如《塞尔达传说 旷野之息》里 玩家的确会主动探索地图
-Dialogue: 2,1:09:56.61,1:10:01.23,辉英,,0,0,0,,for instance, The Legend of Zelda: Breath of the Wild, where you're actively exploring the map.
+Dialogue: 2,1:09:56.61,1:10:01.23,辉英,,0,0,0,,for instance, {\i1}The Legend of Zelda: Breath of the Wild{\i0}, where you're actively exploring the map.
 Dialogue: 1,1:10:01.23,1:10:03.52,辉中,,0,0,0,,当然也可能是我的期望值太高了
 Dialogue: 2,1:10:01.23,1:10:03.52,辉英,,0,0,0,,Maybe my expectations were just out of check
 Dialogue: 1,1:10:03.52,1:10:06.60,辉中,,0,0,0,,因为顽皮狗说自己在这块区域下了很大功夫
@@ -2210,7 +2210,7 @@ Dialogue: 2,1:10:06.60,1:10:11.52,辉英,,0,0,0,,saying that these were the larg
 Dialogue: 1,1:10:11.52,1:10:15.81,辉中,,0,0,0,,在这方面也确实相当令人深刻
 Dialogue: 2,1:10:11.52,1:10:15.81,辉英,,0,0,0,,which is true and they're pretty impressive on that front.
 Dialogue: 1,1:10:15.81,1:10:18.46,辉中,,0,0,0,,但像《荒野大镖客：救赎2》那样
-Dialogue: 2,1:10:15.81,1:10:18.46,辉英,,0,0,0,,But in the age of Red Dead Redemption 2
+Dialogue: 2,1:10:15.81,1:10:18.46,辉英,,0,0,0,,But in the age of {\i1}Red Dead Redemption 2{\i0}
 Dialogue: 1,1:10:18.46,1:10:22.26,辉中,,0,0,0,,骑马自由穿过田野也真不是什么了不起的成就
 Dialogue: 2,1:10:18.46,1:10:22.26,辉英,,0,0,0,,riding a horse through a field really isn't an incredible achievement.
 Dialogue: 1,1:10:22.26,1:10:25.77,辉中,,0,0,0,,当然我不是在顽皮狗和R星之间搞什么一踩一捧
@@ -2218,9 +2218,9 @@ Dialogue: 2,1:10:22.26,1:10:25.77,辉英,,0,0,0,,Now, of course, it's not a comp
 Dialogue: 1,1:10:25.77,1:10:30.00,辉中,,0,0,0,,他们都是不可多得的游戏制作组
 Dialogue: 2,1:10:25.77,1:10:30.00,辉英,,0,0,0,,They're both the prettiest girl in the ball, and you can't have either of them,
 Dialogue: 1,1:10:30.00,1:10:35.37,辉中,,0,0,0,,但我还是不禁感觉《荒野大镖客：救赎2》里的骑马和植被
-Dialogue: 2,1:10:30.00,1:10:35.37,辉英,,0,0,0,,but I can't help but notice as though the foliage and the horses in Red Dead Redemption 2
+Dialogue: 2,1:10:30.00,1:10:35.37,辉英,,0,0,0,,but I can't help but notice as though the foliage and the horses in {\i1}Red Dead Redemption 2{\i0}
 Dialogue: 1,1:10:35.37,1:10:42.35,辉中,,0,0,0,,在开放世界当中 相比晚两年的TLOU2还是要强得多
-Dialogue: 2,1:10:35.37,1:10:42.35,辉英,,0,0,0,,looked a lot better two years ago, in an open world game, when compared to those in TLOU2.
+Dialogue: 2,1:10:35.37,1:10:42.35,辉英,,0,0,0,,looked a lot better two years ago, in an open world game, when compared to those in {\i1}TLOU2{\i0}.
 Dialogue: 1,1:10:42.35,1:10:47.31,辉中,,0,0,0,,可能是我太挑了 也可能只是我个人的喜好罢了
 Dialogue: 2,1:10:42.35,1:10:47.31,辉英,,0,0,0,,Maybe I'm just really picky or may be my preferences are a skew.
 Dialogue: 1,1:10:47.31,1:10:48.90,辉中,,0,0,0,,欢迎在评论区留言讨论
@@ -2627,7 +2627,7 @@ Dialogue: 2,1:24:24.84,1:24:30.04,辉英,,0,0,0,,Joel hops in too, gives her a h
 Dialogue: 1,1:24:30.04,1:24:34.47,辉中,,0,0,0,,艾莉一边听一边想象自己坐着火箭起飞前往太空
 Dialogue: 2,1:24:30.04,1:24:34.47,辉英,,0,0,0,,while imagining herself going into space and taking off.
 Dialogue: 1,1:24:34.47,1:24:40.70,辉中,,0,0,0,,这段看着很像在一代DLC《最后生还者：遗落》里
-Dialogue: 2,1:24:34.47,1:24:40.70,辉英,,0,0,0,,This sequence is actually just like the arcade one in Left Behind the DLC from the first game
+Dialogue: 2,1:24:34.47,1:24:40.70,辉英,,0,0,0,,This sequence is actually just like the arcade one in {\i1}Left Behind{\i0} the DLC from the first game
 Dialogue: 1,1:24:40.70,1:24:45.15,辉中,,0,0,0,,艾莉和莱莉脑补玩街机游戏的场景
 Dialogue: 2,1:24:40.70,1:24:45.15,辉英,,0,0,0,,wherein Ellie and Riley were imagining playing this video game.
 Dialogue: 1,1:24:45.15,1:24:48.54,辉中,,0,0,0,,机器显然没法玩了 因为已经坏好久了
@@ -2647,8 +2647,8 @@ Dialogue: 2,1:25:10.35,1:25:15.87,辉英,,0,0,0,,Because at the very end of this
 Dialogue: 1,1:25:15.87,1:25:21.27,辉中,,0,0,0,,不用说 这明显是乔尔和艾莉都不想讨论的事
 Dialogue: 2,1:25:15.87,1:25:21.27,辉英,,0,0,0,,And needless to say, it's something that Joel and Ellie don't want to discuss.
 Dialogue: 1,1:25:21.27,1:25:22.62,辉中,,0,0,0,,于是俩人直接回去了
-Dialogue: 0,1:25:22.44,1:25:24.93,辉中 西雅图标题,,0,180,300,,{\fade(40,40,255,0,1500,10000,0)}西雅图 第2天
 Dialogue: 2,1:25:21.27,1:25:22.62,辉英,,0,0,0,,So they just leave.
+Dialogue: 0,1:25:22.44,1:25:24.93,辉中 西雅图标题,,0,180,300,,{\fade(40,40,255,0,1500,10000,0)}西雅图 第2天
 Dialogue: 1,1:25:22.62,1:25:25.29,辉中,,0,0,0,,然后 我们来到了「西雅图 第2天」
 Dialogue: 2,1:25:22.62,1:25:25.29,辉英,,0,0,0,,And after that we jumped to Seattle Day 2.
 Dialogue: 1,1:25:25.29,1:25:27.39,辉中,,0,0,0,,西雅图第2天开始
@@ -2966,7 +2966,7 @@ Dialogue: 2,1:36:04.61,1:36:09.15,辉英,,0,0,0,,Most character upgrades will on
 Dialogue: 1,1:36:09.15,1:36:11.63,辉中,,0,0,0,,很多游戏都这么叫 我就也这样说了
 Dialogue: 2,1:36:09.15,1:36:11.63,辉英,,0,0,0,,if you want to call it that throughout most runs.
 Dialogue: 1,1:36:11.63,1:36:15.26,辉中,,0,0,0,,二周目玩完两人各自那一半内容的话能点满艾莉和埃比的技能
-Dialogue: 2,1:36:11.63,1:36:15.26,辉英,,0,0,0,,New game plus lets you Max Level Ellie and Abby
+Dialogue: 2,1:36:11.63,1:36:15.26,辉英,,0,0,0,,New game plus lets you max Level Ellie and Abby
 Dialogue: 1,1:36:15.26,1:36:18.86,辉中,,0,0,0,,二周目玩完两人各自那一半内容的话能点满艾莉和埃比的技能
 Dialogue: 2,1:36:15.26,1:36:18.86,辉英,,0,0,0,,by the time you're done playing each of their respective halves of the game,
 Dialogue: 1,1:36:18.86,1:36:21.03,辉中,,0,0,0,,点满以后感觉自己都无敌了
@@ -2978,7 +2978,7 @@ Dialogue: 2,1:36:26.00,1:36:32.26,辉英,,0,0,0,,They're pretty hard to find tha
 Dialogue: 1,1:36:32.26,1:36:35.30,辉中,,0,0,0,,除非你在游戏里真的走投无路了
 Dialogue: 2,1:36:32.26,1:36:35.30,辉英,,0,0,0,,unless you are really struggling later in the game.
 Dialogue: 1,1:36:35.30,1:36:41.02,辉中,,0,0,0,,但顽皮狗在TLOU系列游戏里的动态难度调整得真的很不错
-Dialogue: 2,1:36:35.30,1:36:41.02,辉英,,0,0,0,,But these dynamic policemen systems that Naughty Dog uses in these TLOU games works pretty well
+Dialogue: 2,1:36:35.30,1:36:41.02,辉英,,0,0,0,,But these dynamic policemen systems that Naughty Dog uses in these {\i1}TLOU{\i0} games works pretty well
 Dialogue: 1,1:36:41.02,1:36:44.63,辉中,,0,0,0,,这方面的抱怨其实不多 除了治疗系统
 Dialogue: 2,1:36:41.02,1:36:44.63,辉英,,0,0,0,,and they don't have a lot of complaints about them, except for healing items.
 Dialogue: 1,1:36:44.63,1:36:51.29,辉中,,0,0,0,,游戏中各种快速回血的零食小吃在高难度下实在太多了
@@ -3059,8 +3059,8 @@ Dialogue: 1,1:39:09.64,1:39:14.18,辉中,,0,0,0,,因为如果有玩家错过了�
 Dialogue: 2,1:39:09.64,1:39:14.18,辉英,,0,0,0,,because it makes it so if players overlooked a certain area that had a lot of gear in it,
 Dialogue: 1,1:39:14.18,1:39:16.88,辉中,,0,0,0,,这个机制也不会让他们在之后的关卡中束手无策
 Dialogue: 2,1:39:14.18,1:39:16.88,辉英,,0,0,0,,they're not going to be totally screwed over in the next level.
-Dialogue: 1,1:39:16.88,1:39:19.80,辉注,,0,0,0,,突发惊吓，即"Jump scare"\N翻译来自维基百科
 Dialogue: 1,1:39:16.88,1:39:19.80,辉中,,0,0,0,,而游戏在这段突发惊吓后继续进行
+Dialogue: 1,1:39:16.88,1:39:19.80,辉注,,0,0,0,,突发惊吓，即"Jump scare"\N翻译来自维基百科
 Dialogue: 2,1:39:16.88,1:39:19.80,辉英,,0,0,0,,But after this little jump scare, we keep pushing through.
 Dialogue: 1,1:39:19.80,1:39:22.64,辉中,,0,0,0,,艾莉干掉了几个赛拉菲特帮 或者叫疤脸帮的人
 Dialogue: 2,1:39:19.80,1:39:22.64,辉英,,0,0,0,,Ellie fights some Seraphites, or Scars,
@@ -3151,7 +3151,7 @@ Dialogue: 2,1:41:56.26,1:42:00.65,辉英,,0,0,0,,considering that I had used all
 Dialogue: 1,1:42:00.65,1:42:04.10,辉中,,0,0,0,,让我只能几乎全程近战和他硬刚
 Dialogue: 2,1:42:00.65,1:42:04.10,辉英,,0,0,0,,meaning that I had to take him on pretty much entirely with melee.
 Dialogue: 1,1:42:04.10,1:42:10.97,辉中,,0,0,0,,这也是TLOU令人诟病的一点 游戏需要大量的试错
-Dialogue: 2,1:42:04.10,1:42:10.97,辉英,,0,0,0,,Now one of the frustrations with TLOU is that it requires a lot of trial and error.
+Dialogue: 2,1:42:04.10,1:42:10.97,辉英,,0,0,0,,Now one of the frustrations with {\i1}TLOU{\i0} is that it requires a lot of trial and error.
 Dialogue: 1,1:42:10.97,1:42:15.64,辉中,,0,0,0,,很多时候打通某个场景的唯一办法
 Dialogue: 2,1:42:10.97,1:42:15.64,辉英,,0,0,0,,A lot of the time the only way to figure out exactly how to get through a particular encounter
 Dialogue: 1,1:42:15.64,1:42:18.65,辉中,,0,0,0,,就是不停地死 不停地重试
@@ -3338,8 +3338,8 @@ Dialogue: 1,1:48:34.64,1:48:37.85,辉中,,0,0,0,,在感人的片段过后 艾莉
 Dialogue: 2,1:48:34.64,1:48:37.85,辉英,,0,0,0,,And after this touching moment, Ellie and Dina fall asleep,
 Dialogue: 1,1:48:37.85,1:48:40.49,辉中,,0,0,0,,故事进入「西雅图 第3天」
 Dialogue: 2,1:48:37.85,1:48:40.49,辉英,,0,0,0,,which takes us to Seattle Day 3.
-Dialogue: 1,1:48:40.49,1:48:42.89,辉中,,0,0,0,,首先是一段两年前的回忆
 Dialogue: 0,1:48:40.40,1:48:44.73,辉中 西雅图标题,,0,200,300,,{\fade(120,60,255,0,500,3800,4300)}两年前
+Dialogue: 1,1:48:40.49,1:48:42.89,辉中,,0,0,0,,首先是一段两年前的回忆
 Dialogue: 2,1:48:40.49,1:48:42.89,辉英,,0,0,0,,We begin with a flashback to two years earlier
 Dialogue: 1,1:48:42.89,1:48:46.08,辉中,,0,0,0,,艾莉回到了一代作品中结尾部分的医院
 Dialogue: 2,1:48:42.89,1:48:46.08,辉英,,0,0,0,,when Ellie returned to the hospital from the end of the first game.
@@ -3423,7 +3423,7 @@ Dialogue: 2,1:53:38.06,1:53:41.39,辉英,,0,0,0,,And even if a vaccine were succ
 Dialogue: 1,1:53:41.39,1:53:46.07,辉中,,0,0,0,,谁又能在整个地球上分发这种疫苗？
 Dialogue: 2,1:53:41.39,1:53:46.07,辉英,,0,0,0,,who's to say that anyone would be able to distribute that vaccine throughout the planet?
 Dialogue: 1,1:53:46.07,1:53:51.62,辉中,,0,0,0,,毕竟TLOU2的背景是全世界的秩序已经彻底崩塌了
-Dialogue: 2,1:53:46.07,1:53:51.62,辉英,,0,0,0,,After all, one of the big focuses in TLOU2 is the fact that the world has gone to absolute hell.
+Dialogue: 2,1:53:46.07,1:53:51.62,辉英,,0,0,0,,After all, one of the big focuses in {\i1}TLOU2{\i0} is the fact that the world has gone to absolute hell.
 Dialogue: 1,1:53:51.62,1:53:55.61,辉中,,0,0,0,,人们会毫无理由地互相背叛
 Dialogue: 2,1:53:51.62,1:53:55.61,辉英,,0,0,0,,People betray each other left and right for seemingly no reason at all.
 Dialogue: 1,1:53:55.61,1:54:00.05,辉中,,0,0,0,,信任在这个世界里早已不复存在
@@ -3447,7 +3447,7 @@ Dialogue: 2,1:54:29.40,1:54:33.35,辉英,,0,0,0,,or Ellie saving humanity versus
 Dialogue: 1,1:54:33.35,1:54:37.70,辉中,,0,0,0,,事情没那么简单 这个世界也不是非黑即白的
 Dialogue: 2,1:54:33.35,1:54:37.70,辉英,,0,0,0,,Nothing is that simple. Nothing is black and white in this world.
 Dialogue: 1,1:54:37.70,1:54:42.38,辉中,,0,0,0,,也许总体分析TLOU2故事情节的时候
-Dialogue: 2,1:54:37.70,1:54:42.38,辉英,,0,0,0,,Perhaps for purposes of general analysis within the story of TLOU2
+Dialogue: 2,1:54:37.70,1:54:42.38,辉英,,0,0,0,,Perhaps for purposes of general analysis within the story of {\i1}TLOU2{\i0}
 Dialogue: 1,1:54:42.38,1:54:50.24,辉中,,0,0,0,,你可以指着乔尔的行为说他为了拯救一个他非常关心的人而毁了全人类
 Dialogue: 2,1:54:42.38,1:54:46.10,辉英,,0,0,0,,you could point at Joel's actions and say that he damned humanity
 Dialogue: 2,1:54:46.10,1:54:50.24,辉英,,0,0,0,,for the sake of saving one individual that he cared greatly about.
@@ -3640,7 +3640,7 @@ Dialogue: 2,2:00:32.87,2:00:35.78,辉英,,0,0,0,,or you only have to kill a sele
 Dialogue: 1,2:00:35.78,2:00:40.64,辉中,,0,0,0,,在我看来 这是整个游戏中关卡设计的典范
 Dialogue: 2,2:00:35.78,2:00:40.64,辉英,,0,0,0,,In my opinion, these are the best designed levels in the entirety of the game.
 Dialogue: 1,2:00:40.64,2:00:46.22,辉中,,0,0,0,,让潜行机制充分发光发热 这点TLOU2做的非常棒
-Dialogue: 2,2:00:40.64,2:00:46.22,辉英,,0,0,0,,It's where the stealth mechanics really shine, and TLOU2 is at its best.
+Dialogue: 2,2:00:40.64,2:00:46.22,辉英,,0,0,0,,It's where the stealth mechanics really shine, and {\i1}TLOU2{\i0} is at its best.
 Dialogue: 1,2:00:46.22,2:00:48.71,辉中,,0,0,0,,玩家继续向水族馆推进
 Dialogue: 2,2:00:46.22,2:00:48.71,辉英,,0,0,0,,So you continue pushing to the aquarium
 Dialogue: 1,2:00:48.71,2:00:52.10,辉中,,0,0,0,,干掉了几波赛拉菲特帮的敌人
@@ -3813,7 +3813,7 @@ Dialogue: 2,2:07:40.61,2:07:44.06,辉英,,0,0,0,,While everyone else wanted to k
 Dialogue: 1,2:07:44.06,2:07:46.97,辉中,,0,0,0,,而且客观地讲 当时杀了艾莉才是更理智的做法
 Dialogue: 2,2:07:44.06,2:07:46.97,辉英,,0,0,0,,which objectively probably would have been the smarter thing to do,
 Dialogue: 1,2:07:46.97,2:07:49.91,辉中,,0,0,0,,特别是考虑到TLOU2的世界观
-Dialogue: 2,2:07:46.97,2:07:49.91,辉英,,0,0,0,,especially considering how TLOU2 plays out.
+Dialogue: 2,2:07:46.97,2:07:49.91,辉英,,0,0,0,,especially considering how {\i1}TLOU2{\i0} plays out.
 Dialogue: 1,2:07:49.91,2:07:53.69,辉中,,0,0,0,,但总之 她的确欠欧文一条命
 Dialogue: 2,2:07:49.91,2:07:53.69,辉英,,0,0,0,,But nonetheless, she technically owes her life to Owen.
 Dialogue: 1,2:07:53.69,2:07:56.15,辉中,,0,0,0,,可即便如此 我还是觉得她会杀了欧文
@@ -3980,7 +3980,7 @@ Dialogue: 2,2:13:15.47,2:13:18.77,辉英,,0,0,0,,that turns out to be a zebra th
 Dialogue: 1,2:13:18.77,2:13:24.06,辉中,,0,0,0,,这段很温暖 给我们过去十小时游戏经历的悲痛带来了些许慰藉
 Dialogue: 2,2:13:18.77,2:13:24.06,辉英,,0,0,0,,It's cute, and it's a nice break from the dread that the last ten hours have brought.
 Dialogue: 1,2:13:24.06,2:13:29.93,辉中,,0,0,0,,说真的 我之前都没意识到TLOU2的前半部分玩着有多么艰难
-Dialogue: 2,2:13:24.06,2:13:29.93,辉英,,0,0,0,,Seriously I didn't realize how much of a trudge the first half of TLOU2 felt like
+Dialogue: 2,2:13:24.06,2:13:29.93,辉英,,0,0,0,,Seriously I didn't realize how much of a trudge the first half of {\i1}TLOU2{\i0} felt like
 Dialogue: 1,2:13:29.93,2:13:34.73,辉中,,0,0,0,,直到我玩到这个场景 感觉就像是从第一代结尾直接跳到这里一样
 Dialogue: 2,2:13:29.93,2:13:34.73,辉英,,0,0,0,,until we got to the sequence and it felt like something straight out of the first game.
 Dialogue: 1,2:13:34.73,2:13:42.03,辉中,,0,0,0,,至少对我而言 我感觉艾莉在这作是一个非常难相处的人
@@ -4104,11 +4104,11 @@ Dialogue: 2,2:17:40.73,2:17:43.76,辉英,,0,0,0,,I'll be able to talk a lot more
 Dialogue: 1,2:17:43.76,2:17:48.95,辉中,,0,0,0,,他们在呈现这两个角色方面是否取得了良好的平衡这件事了
 Dialogue: 2,2:17:43.76,2:17:48.95,辉英,,0,0,0,,they struck a good balance in trying to present both characters equally.
 Dialogue: 1,2:17:48.95,2:17:53.09,辉中,,0,0,0,,我认为TLOU2的最大问题是它的节奏
-Dialogue: 2,2:17:48.95,2:17:53.09,辉英,,0,0,0,,I think the biggest problem with TLOU2 has to do was its pace.
+Dialogue: 2,2:17:48.95,2:17:53.09,辉英,,0,0,0,,I think the biggest problem with {\i1}TLOU2{\i0} has to do was its pace.
 Dialogue: 1,2:17:53.09,2:17:59.45,辉中,,0,0,0,,它真的很容易让人打瞌睡 失去注意力 特别是在游戏最后三分之一部分
 Dialogue: 2,2:17:53.09,2:17:59.45,辉英,,0,0,0,,It gets really easy to doze off and lose focus, especially in the last third of the game.
 Dialogue: 1,2:17:59.45,2:18:04.01,辉中,,0,0,0,,毕竟 TLOU2对玩家的要求很高
-Dialogue: 2,2:17:59.45,2:18:04.01,辉英,,0,0,0,,After all, TLOU2 asks a lot of the player.
+Dialogue: 2,2:17:59.45,2:18:04.01,辉英,,0,0,0,,After all, {\i1}TLOU2{\i0} asks a lot of the player.
 Dialogue: 1,2:18:04.01,2:18:09.74,辉中,,0,0,0,,实际上要保持对正在发生的一切的兴趣并参与其中并不容易
 Dialogue: 2,2:18:04.01,2:18:09.74,辉英,,0,0,0,,It's not that easy actually to stay intrigued and involved in everything that's going on,
 Dialogue: 1,2:18:09.74,2:18:12.59,辉中,,0,0,0,,特别是因为它在情感上如此令人心力交瘁
@@ -4215,10 +4215,10 @@ Dialogue: 1,2:21:24.56,2:21:27.62,辉中,,0,0,0,,这里正式来到了游戏的�
 Dialogue: 2,2:21:24.56,2:21:27.62,辉英,,0,0,0,,This is the midpoint of the game, really.
 Dialogue: 1,2:21:27.62,2:21:30.95,辉中,,0,0,0,,我们可以看出的是 艾莉的游玩部分已经结束了
 Dialogue: 2,2:21:27.62,2:21:30.95,辉英,,0,0,0,,As far as we can tell, we're done playing as Ellie.
-Dialogue: 1,2:21:30.95,2:21:34.10,辉中,,0,0,0,,接下来画面出现了「西雅图 第1天」
 Dialogue: 0,2:21:30.28,2:21:38.36,辉中 西雅图标题,,0,540,300,,{\fade(255,40,255,0,1500,10000,0)}西雅图
-Dialogue: 0,2:21:33.71,2:21:38.36,辉中 西雅图标题,,0,180,300,,{\fade(255,40,255,0,1500,10000,0)}第1天
+Dialogue: 1,2:21:30.95,2:21:34.10,辉中,,0,0,0,,接下来画面出现了「西雅图 第1天」
 Dialogue: 2,2:21:30.95,2:21:34.10,辉英,,0,0,0,,The next sequence pops up with "Seattle Day 1",
+Dialogue: 0,2:21:33.71,2:21:38.36,辉中 西雅图标题,,0,180,300,,{\fade(255,40,255,0,1500,10000,0)}第1天
 Dialogue: 1,2:21:34.10,2:21:38.57,辉中,,0,0,0,,说明我们即将重新完整过一遍之前操控艾莉的这三天
 Dialogue: 2,2:21:34.10,2:21:38.57,辉英,,0,0,0,,implying that we're going to be going back through the entirety of what we just did with Ellie,
 Dialogue: 1,2:21:38.57,2:21:40.73,辉中,,0,0,0,,而这次是埃比的视角
@@ -4306,7 +4306,7 @@ Dialogue: 2,2:24:16.43,2:24:20.63,辉英,,0,0,0,,And more than anything, it take
 Dialogue: 1,2:24:20.63,2:24:23.44,辉中,,0,0,0,,听起来有点像很多玩家都说的那样
 Dialogue: 2,2:24:20.63,2:24:23.44,辉英,,0,0,0,,It may seem like a cliche for many people to say
 Dialogue: 1,2:24:23.44,2:24:27.32,辉中,,0,0,0,,“你看你玩一半就弃坑了 就说你不喜欢这游戏
-Dialogue: 2,2:24:23.44,2:24:27.32,辉英,,0,0,0,,"Well, if you didn't like TLOU2 when you quit halfway through,
+Dialogue: 2,2:24:23.44,2:24:27.32,辉英,,0,0,0,,"Well, if you didn't like {\i1}TLOU2{\i0} when you quit halfway through,
 Dialogue: 1,2:24:27.32,2:24:30.14,辉中,,0,0,0,,那说明你没玩到点上 你就永远不会喜欢这个游戏”
 Dialogue: 2,2:24:27.32,2:24:30.14,辉英,,0,0,0,,you just didn't get it, and you were never going to like it".
 Dialogue: 1,2:24:30.14,2:24:32.99,辉中,,0,0,0,,然而 我认为这里面有相当多的道理
@@ -4456,7 +4456,7 @@ Dialogue: 2,2:29:18.35,2:29:22.33,辉英,,0,0,0,,because it's not actually about
 Dialogue: 1,2:29:22.33,2:29:24.86,辉中,,0,0,0,,而是通往这个结果的过程
 Dialogue: 2,2:29:22.33,2:29:24.86,辉英,,0,0,0,,It's about the journey to that destination.
 Dialogue: 1,2:29:24.86,2:29:28.88,辉中,,0,0,0,,或者另一个游戏中的例子是2018年的《战神》
-Dialogue: 2,2:29:24.86,2:29:28.88,辉英,,0,0,0,,Or in a gaming example, we could look at God of War from 2018.
+Dialogue: 2,2:29:24.86,2:29:28.88,辉英,,0,0,0,,Or in a gaming example, we could look at {\i1}God of War{\i0} from 2018.
 Dialogue: 1,2:29:28.88,2:29:34.20,辉中,,0,0,0,,我们从游戏一开始就已经知道游戏结局是奎托斯和阿特柔斯
 Dialogue: 2,2:29:28.88,2:29:34.20,辉英,,0,0,0,,We know from the beginning of the game that the story is going to end with Kratos and Atreus
 Dialogue: 1,2:29:34.20,2:29:38.04,辉中,,0,0,0,,将菲的骨灰撒在九界最高峰
@@ -4802,7 +4802,7 @@ Dialogue: 2,2:40:37.46,2:40:39.29,辉英,,0,0,0,,It's simple, it's elegant,
 Dialogue: 1,2:40:39.29,2:40:43.70,辉中,,0,0,0,,这样的指引在你探索一个关卡时简单易懂
 Dialogue: 2,2:40:39.29,2:40:43.70,辉英,,0,0,0,,and it's easy to understand and follow as you explore a given level.
 Dialogue: 1,2:40:43.70,2:40:47.57,辉中,,0,0,0,,因为TLOU2中的很多光照都是环境光
-Dialogue: 2,2:40:43.70,2:40:47.57,辉英,,0,0,0,,Because pretty much all of the lighting in TLOU2 is ambient.
+Dialogue: 2,2:40:43.70,2:40:47.57,辉英,,0,0,0,,Because pretty much all of the lighting in {\i1}TLOU2{\i0} is ambient.
 Dialogue: 1,2:40:47.57,2:40:52.20,辉中,,0,0,0,,玩家总会与外面照进来的光线方向一致
 Dialogue: 2,2:40:47.57,2:40:52.20,辉英,,0,0,0,,You're always in tune with the direction of light that's coming in from the outside.
 Dialogue: 1,2:40:52.20,2:40:55.52,辉中,,0,0,0,,而且我不得不说 当我在探索这些关卡的时候
@@ -4828,7 +4828,7 @@ Dialogue: 2,2:41:26.66,2:41:28.75,辉英,,0,0,0,,But I don't think that that's t
 Dialogue: 1,2:41:28.75,2:41:31.76,辉中,,0,0,0,,一方面 这会让你不停地去看游戏里的罗盘
 Dialogue: 2,2:41:28.75,2:41:31.76,辉英,,0,0,0,,For one, it forces you to look at the compass itself.
 Dialogue: 1,2:41:31.76,2:41:35.60,辉中,,0,0,0,,比如《上古卷轴V：天际》 如果你想知道自己的方向
-Dialogue: 2,2:41:31.76,2:41:35.60,辉英,,0,0,0,,Look at a game such as Skyrim, if you ever want to reorient yourself,
+Dialogue: 2,2:41:31.76,2:41:35.60,辉英,,0,0,0,,Look at a game such as {\i1}Skyrim{\i0}, if you ever want to reorient yourself,
 Dialogue: 1,2:41:35.60,2:41:38.69,辉中,,0,0,0,,且你又碰巧不是那么了解地图的话
 Dialogue: 2,2:41:35.60,2:41:38.69,辉英,,0,0,0,,if you don't happen to know the map like the back of your hand,
 Dialogue: 1,2:41:38.69,2:41:42.32,辉中,,0,0,0,,你那就不得不抬眼看一下上面的罗盘 找到你要去的地方
@@ -4854,7 +4854,7 @@ Dialogue: 2,2:42:11.69,2:42:13.43,辉英,,0,0,0,,I just don't think that it's wo
 Dialogue: 1,2:42:13.43,2:42:17.92,辉中,,0,0,0,,特别是当还有其他选择的时候 比如游戏内UI
 Dialogue: 2,2:42:13.43,2:42:17.92,辉英,,0,0,0,,Especially when there's other alternatives such as having in game UI.
 Dialogue: 1,2:42:17.92,2:42:20.26,辉中,,0,0,0,,比如像《死亡搁浅》这样的游戏
-Dialogue: 2,2:42:17.92,2:42:20.26,辉英,,0,0,0,,Look at a game such as Death Stranding.
+Dialogue: 2,2:42:17.92,2:42:20.26,辉英,,0,0,0,,Look at a game such as {\i1}Death Stranding{\i0}.
 Dialogue: 1,2:42:20.26,2:42:24.53,辉中,,0,0,0,,当你想导航去某处送货的时候
 Dialogue: 2,2:42:20.26,2:42:24.53,辉英,,0,0,0,,Whenever you want to navigate to a given destination to complete a delivery,
 Dialogue: 1,2:42:24.53,2:42:26.72,辉中,,0,0,0,,你会在地图上设定好路径点
@@ -4874,13 +4874,13 @@ Dialogue: 2,2:42:48.83,2:42:53.51,辉英,,0,0,0,,It makes you look at every hill
 Dialogue: 1,2:42:53.51,2:42:58.37,辉中,,0,0,0,,这才是这类开放世界游戏真正展现光芒的时刻
 Dialogue: 2,2:42:53.51,2:42:58.37,辉英,,0,0,0,,It's at that point that these open world games really shine.
 Dialogue: 1,2:42:58.37,2:43:04.34,辉中,,0,0,0,,而我真诚地相信 这就是为什么《死亡搁浅》即使其世界在主观上相当空洞
-Dialogue: 2,2:42:58.37,2:43:04.34,辉英,,0,0,0,,And I honestly believe that's why Death Stranding even though its world is subjectively quite empty,
+Dialogue: 2,2:42:58.37,2:43:04.34,辉英,,0,0,0,,And I honestly believe that's why {\i1}Death Stranding{\i0} even though its world is subjectively quite empty,
 Dialogue: 1,2:43:04.34,2:43:08.48,辉中,,0,0,0,,但仍能以如此引人入胜 吸引玩家眼球
 Dialogue: 2,2:43:04.34,2:43:08.48,辉英,,0,0,0,,can still captivate players in such an intriguing way.
 Dialogue: 1,2:43:08.48,2:43:10.64,辉中,,0,0,0,,当然 如果你想听我关于这款游戏的全部想法
 Dialogue: 2,2:43:08.48,2:43:10.64,辉英,,0,0,0,,But if you want to hear all of my thoughts on that,
 Dialogue: 1,2:43:10.64,2:43:13.55,辉中,,0,0,0,,可以去看我完整的《死亡搁浅》评测
-Dialogue: 2,2:43:10.64,2:43:13.55,辉英,,0,0,0,,go check out my full length critique of Death Stranding.
+Dialogue: 2,2:43:10.64,2:43:13.55,辉英,,0,0,0,,go check out my full length critique of {\i1}Death Stranding{\i0}.
 Dialogue: 1,2:43:13.55,2:43:15.89,辉中,,0,0,0,,两个多小时 有亿点点长
 Dialogue: 2,2:43:13.55,2:43:15.89,辉英,,0,0,0,,It's over two hours' long, it's… it's a monster.
 Dialogue: 1,2:43:15.89,2:43:19.68,辉中,,0,0,0,,但你既然这个视频都看了这么久 那你可能已经看过那个了
@@ -4938,8 +4938,8 @@ Dialogue: 1,2:45:19.76,2:45:22.07,辉中,,0,0,0,,但我真的感觉这样很有�
 Dialogue: 2,2:45:19.76,2:45:22.07,辉英,,0,0,0,,but I really do think that it's cool to see.
 Dialogue: 1,2:45:22.07,2:45:26.84,辉中,,0,0,0,,这也让我回想起艾莉和乔尔之前的片段 两人在墙缝中缓缓前行时
 Dialogue: 2,2:45:22.07,2:45:26.84,辉英,,0,0,0,,This also reminded me of a flashback when Ellie and Joel were climbing through a crack in the wall,
-Dialogue: 0,2:45:26.84,2:45:30.38,辉注,,0,0,0,,原文有口误 是巨无霸不是循声者（Clicker）
 Dialogue: 1,2:45:26.84,2:45:30.38,辉中,,0,0,0,,巨无霸把墙里的艾莉一把拽出来
+Dialogue: 0,2:45:26.84,2:45:30.38,辉注,,0,0,0,,原文有口误 是巨无霸不是循声者（Clicker）
 Dialogue: 2,2:45:26.84,2:45:30.38,辉英,,0,0,0,,and the Clicker punched through the wall, pulling Ellie out,
 Dialogue: 1,2:45:30.38,2:45:32.09,辉中,,0,0,0,,引发接下来的Boss战
 Dialogue: 2,2:45:30.38,2:45:32.09,辉英,,0,0,0,,and it starts in many boss fight.
@@ -5095,7 +5095,7 @@ Dialogue: 1,2:50:45.29,2:50:52.91,辉中,,0,0,0,,在我看来 只有存在与众
 Dialogue: 2,2:50:45.29,2:50:49.92,辉英,,0,0,0,,It's only in these more interesting and creative, in my opinion, stories
 Dialogue: 2,2:50:49.92,2:50:52.91,辉英,,0,0,0,,where you find something that's a little bit different.
 Dialogue: 1,2:50:52.91,2:50:58.79,辉中,,0,0,0,,比如《疯狂麦克斯》里的人对汽车、汽油的疯狂迷恋与崇拜
-Dialogue: 2,2:50:52.91,2:50:58.79,辉英,,0,0,0,,Such as in Mad Max, the strange obsession and worship of gasoline and cars.
+Dialogue: 2,2:50:52.91,2:50:58.79,辉英,,0,0,0,,Such as in {\i1}Mad Max{\i0}, the strange obsession and worship of gasoline and cars.
 Dialogue: 1,2:50:58.79,2:51:01.64,辉中,,0,0,0,,这种与众不同就让人感觉真的很酷
 Dialogue: 2,2:50:58.79,2:51:01.64,辉英,,0,0,0,,It's something that's just really cool, and different.
 Dialogue: 1,2:51:01.64,2:51:02.90,辉中,,0,0,0,,扯远了
@@ -5108,8 +5108,8 @@ Dialogue: 1,2:51:11.59,2:51:15.95,辉中,,0,0,0,,而且相信我 等打到这关
 Dialogue: 2,2:51:11.59,2:51:15.95,辉英,,0,0,0,,and believe me, you're going to be ploughing through them by the end of this sequence.
 Dialogue: 1,2:51:23.09,2:51:26.06,辉中,,0,0,0,,而且这部分很多Boss战我非常喜欢
 Dialogue: 2,2:51:23.09,2:51:26.06,辉英,,0,0,0,,There's actually a great many boss fight here that I really enjoyed
-Dialogue: 1,2:51:26.06,2:51:34.28,辉注,,0,0,0,,Helga 德语名字 很强壮勇猛的感觉\N算是名字的一种刻板印象\N类似提到“吴克”就会想到光头
 Dialogue: 1,2:51:26.06,2:51:29.12,辉中,,0,0,0,,这个女boss 我暂且叫她海尔格
+Dialogue: 1,2:51:26.06,2:51:34.28,辉注,,0,0,0,,Helga 德语名字 很强壮勇猛的感觉\N算是名字的一种刻板印象\N类似提到“吴克”就会想到光头
 Dialogue: 2,2:51:26.06,2:51:29.12,辉英,,0,0,0,,with a woman that I can only assume is named Helga.
 Dialogue: 1,2:51:29.12,2:51:32.12,辉中,,0,0,0,,我不知道她真名叫什么
 Dialogue: 2,2:51:29.12,2:51:32.12,辉英,,0,0,0,,I don't actually know if her name is Helga by the way
@@ -5132,7 +5132,7 @@ Dialogue: 2,2:51:55.55,2:52:00.32,辉英,,0,0,0,,It's Winter, Abby finds Owen in
 Dialogue: 1,2:52:00.32,2:52:01.73,辉中,,0,0,0,,很惬意
 Dialogue: 2,2:52:00.32,2:52:01.73,辉英,,0,0,0,,It's really relaxing,
 Dialogue: 1,2:52:01.73,2:52:08.70,辉中,,0,0,0,,TLOU2游戏后半部分这样的节奏变换与对比很常见
-Dialogue: 2,2:52:01.73,2:52:08.70,辉英,,0,0,0,,and it really is this calming contrast that's the name of the game for the second half of TLOU2.
+Dialogue: 2,2:52:01.73,2:52:08.70,辉英,,0,0,0,,and it really is this calming contrast that's the name of the game for the second half of {\i1}TLOU2{\i0}.
 Dialogue: 1,2:52:08.70,2:52:10.52,辉中,,0,0,0,,先发生了一些坏事
 Dialogue: 2,2:52:08.70,2:52:10.52,辉英,,0,0,0,,Something horrible will happen,
 Dialogue: 1,2:52:10.52,2:52:13.16,辉中,,0,0,0,,然后给玩家看一些轻松愉快的内容
@@ -5256,8 +5256,8 @@ Dialogue: 1,2:55:57.38,2:55:59.48,辉中,,0,0,0,,真的 她刚才可太悬了
 Dialogue: 2,2:55:57.38,2:55:59.48,辉英,,0,0,0,,I mean seriously, she was really close.
 Dialogue: 1,2:55:59.48,2:56:05.51,辉中,,0,0,0,,他们杀死长老后就让她吊在那 太扯了
 Dialogue: 2,2:55:59.48,2:56:05.51,辉英,,0,0,0,,They just kind of left her hanging here after she killed the elder little… little ridiculous,
-Dialogue: 1,2:56:05.51,2:56:10.80,辉注,,0,0,0,,双关：“hang in there” 直译是“吊在那”\N一般意思是“坚持住！”
 Dialogue: 1,2:56:05.51,2:56:10.80,辉中,,0,0,0,,但……埃比还真就在那吊了一会
+Dialogue: 1,2:56:05.51,2:56:10.80,辉注,,0,0,0,,双关：“hang in there” 直译是“吊在那”\N一般意思是“坚持住！”
 Dialogue: 2,2:56:05.51,2:56:10.80,辉英,,0,0,0,,but you know whatever she was just hang in there, and… and that's that.
 Dialogue: 1,2:56:10.80,2:56:14.18,辉中,,0,0,0,,放埃比下来后 他们开始准备对抗感染者
 Dialogue: 2,2:56:10.80,2:56:14.18,辉英,,0,0,0,,After Abby's cut down, they all prep to fight some zombies,
@@ -5734,8 +5734,8 @@ Dialogue: 2,3:13:09.95,3:13:11.09,辉英,,0,0,0,,It's kind of cool.
 Dialogue: 1,3:13:11.09,3:13:16.55,辉中,,0,0,0,,我个人认为这样的房子很可能就是根据某个开发者自己家建模的
 Dialogue: 2,3:13:11.09,3:13:14.57,辉英,,0,0,0,,And personally, I would like to think that this whole apartment is modeled
 Dialogue: 2,3:13:14.57,3:13:16.55,辉英,,0,0,0,,after one of the developers apartments.
-Dialogue: 1,3:13:16.55,3:13:25.40,辉注,,0,0,0,,贝塞斯达(Bethesda): 《辐射》《上古卷轴》系列制作商\N洛克斯代迪(Rocksteady): 《蝙蝠侠》系列制作商
 Dialogue: 1,3:13:16.55,3:13:21.76,辉中,,0,0,0,,我的确听说过贝塞斯达和洛克斯代迪做过类似的事情
+Dialogue: 1,3:13:16.55,3:13:25.40,辉注,,0,0,0,,贝塞斯达(Bethesda): 《辐射》《上古卷轴》系列制作商\N洛克斯代迪(Rocksteady): 《蝙蝠侠》系列制作商
 Dialogue: 2,3:13:16.55,3:13:21.76,辉英,,0,0,0,,I've heard stories of developers from Bethesda and Rocksteady doing this type of thing
 Dialogue: 1,3:13:21.76,3:13:25.40,辉中,,0,0,0,,他们把自家员工的工作环境建模成游戏里的场景
 Dialogue: 2,3:13:21.76,3:13:25.40,辉英,,0,0,0,,where they take an environment model it after their own personal environment
@@ -5860,8 +5860,8 @@ Dialogue: 1,3:17:06.40,3:17:11.29,辉中,,0,0,0,,还能非常好地告诉玩家�
 Dialogue: 2,3:17:06.40,3:17:11.29,辉英,,0,0,0,,and serves its purpose very well in informing the player of where they are within Seattle.
 Dialogue: 1,3:17:11.29,3:17:13.40,辉中,,0,0,0,,但我还是要说一个令人失望的点
 Dialogue: 2,3:17:11.29,3:17:13.40,辉英,,0,0,0,,I will say, though it was a little disappointing
-Dialogue: 1,3:17:13.40,3:17:17.20,辉注,,0,0,0,,Z-fighting是三维渲染时浮点精度不够时产生的贴图闪烁的bug
 Dialogue: 1,3:17:13.40,3:17:17.20,辉中,,0,0,0,,就是我第一次玩的时候发现远处模型贴图会出现Z-fighting的问题
+Dialogue: 1,3:17:13.40,3:17:17.20,辉注,,0,0,0,,Z-fighting是三维渲染时浮点精度不够时产生的贴图闪烁的bug
 Dialogue: 2,3:17:13.40,3:17:17.20,辉英,,0,0,0,,because there was some artifacting in Z-fighting on the textures when I first played,
 Dialogue: 1,3:17:17.20,3:17:19.09,辉中,,0,0,0,,但我还算能接受
 Dialogue: 2,3:17:17.20,3:17:19.09,辉英,,0,0,0,,but I can get over it.
@@ -6102,7 +6102,7 @@ Dialogue: 2,3:24:52.75,3:24:57.64,辉英,,0,0,0,,There's plenty of examples of b
 Dialogue: 1,3:24:57.64,3:25:02.08,辉中,,0,0,0,,它们只是可以选择留白 给读者无限的想象空间
 Dialogue: 2,3:24:57.64,3:25:02.08,辉英,,0,0,0,,They just cannot leave it there and leave it for your personal interpretation.
 Dialogue: 1,3:25:02.08,3:25:05.11,辉中,,0,0,0,,然而在TLOU2里 一切都是深思熟虑的
-Dialogue: 2,3:25:02.08,3:25:05.11,辉英,,0,0,0,,In TLOU2, however, everything's been thought through,
+Dialogue: 2,3:25:02.08,3:25:05.11,辉英,,0,0,0,,In {\i1}TLOU2{\i0}, however, everything's been thought through,
 Dialogue: 1,3:25:05.11,3:25:10.30,辉中,,0,0,0,,至少在某种程度上 你能够以这种新的视角回到过去
 Dialogue: 2,3:25:05.11,3:25:10.30,辉英,,0,0,0,,at least to a certain extent such that you're able to go back through with this new perspective,
 Dialogue: 1,3:25:10.33,3:25:15.28,辉中,,0,0,0,,了解更多东西 弄清楚为什么这些角色当时会这样做
@@ -6142,11 +6142,11 @@ Dialogue: 2,3:26:20.02,3:26:25.75,辉英,,0,0,0,,The doors were locked and the s
 Dialogue: 1,3:26:25.75,3:26:28.75,辉中,,0,0,0,,把它们永久困在地下室里
 Dialogue: 2,3:26:25.75,3:26:28.75,辉英,,0,0,0,,and would be trapped in the basement indefinitely.
 Dialogue: 1,3:26:28.75,3:26:30.37,辉中,,0,0,0,,如果你玩过初代的TLOU
-Dialogue: 2,3:26:28.75,3:26:30.37,辉英,,0,0,0,,Now, if you played the original TLOU,
+Dialogue: 2,3:26:28.75,3:26:30.37,辉英,,0,0,0,,Now, if you played the original {\i1}TLOU{\i0},
 Dialogue: 1,3:26:30.37,3:26:34.66,辉中,,0,0,0,,你就知道感染者不是葡萄酒越陈越香
 Dialogue: 2,3:26:30.37,3:26:34.66,辉英,,0,0,0,,you know that zombies don't tend to age like a fine wine.
 Dialogue: 1,3:26:34.66,3:26:39.49,辉中,,0,0,0,,实际上在TLOU的世界里感染越久的感染者就越可怕
-Dialogue: 2,3:26:34.66,3:26:39.49,辉英,,0,0,0,,The more serious and severe zombies in the world of TLOU come with age.
+Dialogue: 2,3:26:34.66,3:26:39.49,辉英,,0,0,0,,The more serious and severe zombies in the world of {\i1}TLOU{\i0} come with age.
 Dialogue: 1,3:26:39.49,3:26:44.31,辉中,,0,0,0,,也就是说你接下来即将在地下室看到的感染者
 Dialogue: 2,3:26:39.49,3:26:44.31,辉英,,0,0,0,,This means that all of the zombies and infected that you're going to see in the basement
 Dialogue: 1,3:26:44.31,3:26:47.86,辉中,,0,0,0,,很可能已经被关在那里25年了
@@ -6162,7 +6162,7 @@ Dialogue: 2,3:27:00.46,3:27:04.21,辉英,,0,0,0,,a new type of infected or at th
 Dialogue: 1,3:27:04.21,3:27:06.16,辉中,,0,0,0,,我他妈可老期待了
 Dialogue: 2,3:27:04.21,3:27:06.16,辉英,,0,0,0,,And I was damn ready for that.
 Dialogue: 1,3:27:06.16,3:27:09.64,辉中,,0,0,0,,TLOU2里的感染者一般比较后知后觉
-Dialogue: 2,3:27:06.16,3:27:09.64,辉英,,0,0,0,,The infected in TLOU2 seemed to be a bit of an afterthought.
+Dialogue: 2,3:27:06.16,3:27:09.64,辉英,,0,0,0,,The infected in {\i1}TLOU2{\i0} seemed to be a bit of an afterthought.
 Dialogue: 1,3:27:09.64,3:27:14.11,辉中,,0,0,0,,游戏对它们的关注不是很多 我也理解 游戏里要做的事情太多了
 Dialogue: 2,3:27:09.64,3:27:14.11,辉英,,0,0,0,,There's not a whole lot of focus on them, and I get it, there's a lot more going on.
 Dialogue: 1,3:27:14.11,3:27:19.21,辉中,,0,0,0,,但我还是有点怀念一代游戏里感染者的重要地位
@@ -6350,8 +6350,8 @@ Dialogue: 1,3:33:06.10,3:33:09.04,辉中,,0,0,0,,看起来真的要有一个美�
 Dialogue: 2,3:33:06.10,3:33:09.04,辉英,,0,0,0,,It really does seem as though we're going to have a happy ending.
 Dialogue: 1,3:33:09.04,3:33:12.25,辉中,,0,0,0,,这样 「西雅图 第2天」结束了
 Dialogue: 2,3:33:09.04,3:33:12.25,辉英,,0,0,0,,And with that, Seattle Day 2, ends.
-Dialogue: 1,3:33:12.25,3:33:16.03,辉中,,0,0,0,,「西雅图 第3天」 剧情从埃比睡觉醒来开始
 Dialogue: 0,3:33:12.15,3:33:13.90,辉中 西雅图标题,,0,180,300,,西雅图 第3天
+Dialogue: 1,3:33:12.25,3:33:16.03,辉中,,0,0,0,,「西雅图 第3天」 剧情从埃比睡觉醒来开始
 Dialogue: 2,3:33:12.25,3:33:16.03,辉英,,0,0,0,,Seattle Day 3, Abby wakes up to drama brewing.
 Dialogue: 1,3:33:16.03,3:33:18.67,辉中,,0,0,0,,她睡得挺好 但梅尔生气了
 Dialogue: 2,3:33:16.03,3:33:18.67,辉英,,0,0,0,,She slept well, but Mel is pissed.
@@ -6480,7 +6480,7 @@ Dialogue: 2,3:37:07.95,3:37:12.91,辉英,,0,0,0,,when they have more diverse cas
 Dialogue: 1,3:37:12.91,3:37:16.30,辉中,,0,0,0,,而这方面的内容通常并不是评判这个角色的点
 Dialogue: 2,3:37:12.91,3:37:16.30,辉英,,0,0,0,,it's usually not the defining point of that character.
 Dialogue: 1,3:37:16.30,3:37:19.03,辉中,,0,0,0,,如果一代TLOU里有一个同性恋角色
-Dialogue: 2,3:37:16.30,3:37:19.03,辉英,,0,0,0,,If there's a gay character in the original TLOU,
+Dialogue: 2,3:37:16.30,3:37:19.03,辉英,,0,0,0,,If there's a gay character in the original {\i1}TLOU{\i0},
 Dialogue: 1,3:37:19.03,3:37:24.01,辉中,,0,0,0,,那么这个角色就在那里 你要是注意到了就注意到了
 Dialogue: 2,3:37:19.03,3:37:24.01,辉英,,0,0,0,,it's there for you to see and you can put it together if you're paying any attention whatsoever.
 Dialogue: 1,3:37:24.01,3:37:27.82,辉中,,0,0,0,,而这并不会成为那个角色决定性的标签
@@ -6500,7 +6500,7 @@ Dialogue: 2,3:37:47.29,3:37:51.49,辉英,,0,0,0,,This is why generally, I feel t
 Dialogue: 1,3:37:51.49,3:37:54.40,辉中,,0,0,0,,因为他们没有以此来评判某个角色
 Dialogue: 2,3:37:51.49,3:37:54.40,辉英,,0,0,0,,because they don't make it the defining characteristic.
 Dialogue: 1,3:37:54.40,3:38:01.72,辉中,,0,0,0,,然而在TLOU2和他们之前的作品《神秘海域：失落的遗产》中
-Dialogue: 2,3:37:54.40,3:38:01.72,辉英,,0,0,0,,However, in this most recent gained TLOU2 and in their previous title, Uncharted: The Lost Legacy,
+Dialogue: 2,3:37:54.40,3:38:01.72,辉英,,0,0,0,,However, in this most recent gained {\i1}TLOU2{\i0} and in their previous title, {\i1}Uncharted: The Lost Legacy{\i0},
 Dialogue: 1,3:38:01.72,3:38:05.17,辉中,,0,0,0,,顽皮狗开始陷入角色特征的怪圈里了
 Dialogue: 2,3:38:01.72,3:38:05.17,辉英,,0,0,0,,they fall prey much more to these heavy handed traits
 Dialogue: 1,3:38:05.17,3:38:10.63,辉中,,0,0,0,,他们开始让一个角色纯粹以外部特征来定义自己
@@ -6666,8 +6666,8 @@ Dialogue: 1,3:42:56.32,3:42:57.28,辉中,,0,0,0,,但无论如何
 Dialogue: 2,3:42:56.32,3:42:57.28,辉英,,0,0,0,,But either way,
 Dialogue: 1,3:42:57.28,3:43:01.80,辉中,,0,0,0,,这个画面让我很震撼 临场感非常强
 Dialogue: 2,3:42:57.28,3:43:01.80,辉英,,0,0,0,,this spooked me and made me feel as though I was right in the thick of it.
-Dialogue: 1,3:43:01.80,3:43:11.65,辉注,,0,0,0,,这段在本视频1:57:50左右
 Dialogue: 1,3:43:01.80,3:43:06.76,辉中,,0,0,0,,现在快速回顾一下 大家还记得几小时前杰西和艾莉分开
+Dialogue: 1,3:43:01.80,3:43:11.65,辉注,,0,0,0,,这段在本视频1:57:50左右
 Dialogue: 2,3:43:01.80,3:43:06.76,辉英,,0,0,0,,Now quick sidebar, remember why Jesse and Ellie separated just a few hours ago
 Dialogue: 1,3:43:06.76,3:43:09.37,辉中,,0,0,0,,因为他们听说码头那边有狙击手
 Dialogue: 2,3:43:06.76,3:43:09.37,辉英,,0,0,0,,was because they heard that there was a sniper at the marina,
@@ -6677,8 +6677,8 @@ Dialogue: 1,3:43:11.65,3:43:14.23,辉中,,0,0,0,,所以杰西和艾莉分开了
 Dialogue: 2,3:43:11.65,3:43:14.23,辉英,,0,0,0,,So Jesse and Ellie separated.
 Dialogue: 1,3:43:14.23,3:43:18.79,辉中,,0,0,0,,所以杰西可以去找汤米 艾莉可以去水族馆
 Dialogue: 2,3:43:14.23,3:43:18.79,辉英,,0,0,0,,So Jesse could go and find Tommie and Ellie could leave and go to the aquarium.
-Dialogue: 1,3:43:18.79,3:43:31.03,辉注,,0,0,0,,这段在本视频1:30:10左右
 Dialogue: 1,3:43:18.79,3:43:24.07,辉中,,0,0,0,,另外 大家还记得之前艾莉闪回中的狙击课程吗？
+Dialogue: 1,3:43:18.79,3:43:31.03,辉注,,0,0,0,,这段在本视频1:30:10左右
 Dialogue: 2,3:43:18.79,3:43:24.07,辉英,,0,0,0,,Also remember the previous sniping section that we had with Ellie in the flashback.
 Dialogue: 1,3:43:24.07,3:43:27.49,辉中,,0,0,0,,我当时说这并不是单纯的狙击课程
 Dialogue: 2,3:43:24.07,3:43:27.49,辉英,,0,0,0,,Remember, I said that that wasn't just a one off sniping tutorial,
@@ -6708,7 +6708,7 @@ Dialogue: 2,3:44:01.18,3:44:05.08,辉英,,0,0,0,,But once you realize it's a cha
 Dialogue: 1,3:44:05.08,3:44:10.72,辉中,,0,0,0,,但他却在主动威胁另一个你开始喜欢、关心的角色的生命的时候
 Dialogue: 2,3:44:05.08,3:44:10.72,辉英,,0,0,0,,but is actively threatening the life of another character that you're starting to enjoy and care about,
 Dialogue: 1,3:44:10.72,3:44:17.29,辉中,,0,0,0,,才造就了这样有趣的戏剧冲突 造就了TLOU2这样奇怪诡异的故事
-Dialogue: 2,3:44:10.72,3:44:17.29,辉英,,0,0,0,,it's that interesting conflict that makes TLOU2 such a strange and bizarre story.
+Dialogue: 2,3:44:10.72,3:44:17.29,辉英,,0,0,0,,it's that interesting conflict that makes {\i1}TLOU2{\i0} such a strange and bizarre story.
 Dialogue: 1,3:44:17.29,3:44:20.53,辉中,,0,0,0,,埃比和曼尼把狙击手逼到了角落
 Dialogue: 2,3:44:17.29,3:44:20.53,辉英,,0,0,0,,Abby and Manny push up and eventually get the sniper cornered.
 Dialogue: 1,3:44:20.53,3:44:22.09,辉中,,0,0,0,,然而当他们以为自己马上就要解决掉他的时候……
@@ -7038,7 +7038,7 @@ Dialogue: 2,3:56:51.48,3:56:55.12,辉英,,0,0,0,,and to not see zombies for hour
 Dialogue: 1,3:56:55.12,3:56:58.63,辉中,,0,0,0,,但我觉得还是合理的 至少在他们构建的这样一个世界里
 Dialogue: 2,3:56:55.12,3:56:58.63,辉英,,0,0,0,,But I think it makes sense, at least in the world that they've built.
 Dialogue: 1,3:56:58.63,3:57:03.04,辉中,,0,0,0,,TLOU比以往普通打僵尸游戏的世界观要复杂得多
-Dialogue: 2,3:56:58.63,3:57:03.04,辉英,,0,0,0,,TLOU is far more complicated than just a story about zombies.
+Dialogue: 2,3:56:58.63,3:57:03.04,辉英,,0,0,0,,{\i1}TLOU{\i0} is far more complicated than just a story about zombies.
 Dialogue: 1,3:57:03.04,3:57:08.92,辉中,,0,0,0,,把TLOU和那些普通的打僵尸游戏去对比实在有点让人不爽
 Dialogue: 2,3:57:03.04,3:57:08.92,辉英,,0,0,0,,It's really upsetting to hear boiled down to that basic and estimation.
 Dialogue: 1,3:57:08.92,3:57:11.71,辉中,,0,0,0,,最后 埃比和勒弗找到了一匹马
@@ -7073,7 +7073,7 @@ Dialogue: 1,3:57:55.15,3:58:03.16,辉中,,0,0,0,,遗憾的是这种特性不能�
 Dialogue: 2,3:57:55.15,3:57:59.29,辉英,,0,0,0,,And it's unfortunate that this type of feature couldn't be applied to absolutely every character
 Dialogue: 2,3:57:59.29,3:58:03.16,辉英,,0,0,0,,at this fidelity level as you attack them throughout the course of the game.
 Dialogue: 1,3:58:03.19,3:58:08.65,辉中,,0,0,0,,我觉得TLOU2里的模型网格变形系统和断肢系统本来就够牛逼了
-Dialogue: 2,3:58:03.19,3:58:08.65,辉英,,0,0,0,,I will grant you the mesh deformation system and the gore system in TLOU2 was pretty incredible.
+Dialogue: 2,3:58:03.19,3:58:08.65,辉英,,0,0,0,,I will grant you the mesh deformation system and the gore system in {\i1}TLOU2{\i0} was pretty incredible.
 Dialogue: 1,3:58:08.65,3:58:12.28,辉中,,0,0,0,,但如果人人都能到这个角色的程度 那就逆天了
 Dialogue: 2,3:58:08.65,3:58:12.28,辉英,,0,0,0,,But if it was on this level it would be another world.
 Dialogue: 1,3:58:12.28,3:58:16.78,辉中,,0,0,0,,希望能在下一代主机上能看到这样程度的模型质量
@@ -7259,7 +7259,7 @@ Dialogue: 2,4:04:47.35,4:04:49.45,辉英,,0,0,0,,It's probably going to be a lit
 Dialogue: 1,4:04:49.45,4:04:52.15,辉中,,0,0,0,,一些玩家可能和埃比和勒弗产生情感上的连接
 Dialogue: 2,4:04:49.45,4:04:52.15,辉英,,0,0,0,,Some people probably are going to connect to Abby and Lev
 Dialogue: 1,4:04:52.15,4:04:56.17,辉中,,0,0,0,,在玩了TLOU2后远超与他们与艾莉的连接
-Dialogue: 2,4:04:52.15,4:04:56.17,辉英,,0,0,0,,far more than they connected to Ellie over the course of TLOU2.
+Dialogue: 2,4:04:52.15,4:04:56.17,辉英,,0,0,0,,far more than they connected to Ellie over the course of {\i1}TLOU2{\i0}.
 Dialogue: 1,4:04:56.17,4:04:57.91,辉中,,0,0,0,,当然 如果你玩过初代游戏
 Dialogue: 2,4:04:56.17,4:04:57.91,辉英,,0,0,0,,Now of course, if you played the original game,
 Dialogue: 1,4:04:57.91,4:05:01.79,辉中,,0,0,0,,那你很可能还有很多初代游戏建立起来的情感包袱
@@ -7351,15 +7351,15 @@ Dialogue: 1,4:08:28.33,4:08:32.59,辉中,,0,0,0,,画面一黑 来到了游戏最
 Dialogue: 2,4:08:28.33,4:08:32.59,辉英,,0,0,0,,We cut to black and the game moves into the final chapter.
 Dialogue: 1,4:08:32.59,4:08:37.99,辉中,,0,0,0,,我觉得根本无法形容玩家玩到这里的时候内心感受有多奇怪
 Dialogue: 2,4:08:32.59,4:08:37.99,辉英,,0,0,0,,Now I don't think I can stress enough just how weird the player likely feels at this point.
-Dialogue: 1,4:08:37.99,4:08:43.72,辉注,,0,0,0,,原文有点隐♂晦 这里采用意译
 Dialogue: 1,4:08:37.99,4:08:43.72,辉中,,0,0,0,,这感觉就像女神躺在你身边结果自己是个太监一样
+Dialogue: 1,4:08:37.99,4:08:43.72,辉注,,0,0,0,,原文有点隐♂晦 这里采用意译
 Dialogue: 2,4:08:37.99,4:08:43.72,辉英,,0,0,0,,It's a mixture of a let-down with being blue balled all at the same time,
 Dialogue: 1,4:08:43.72,4:08:46.63,辉中,,0,0,0,,真的 说实话我完全不知道该如何评价
 Dialogue: 2,4:08:43.72,4:08:46.63,辉英,,0,0,0,,and if I'm being honest, I really didn't know what to make of it.
 Dialogue: 1,4:08:46.63,4:08:48.52,辉中,,0,0,0,,还有不少玩家指出
 Dialogue: 2,4:08:46.63,4:08:48.52,辉英,,0,0,0,,There are a lot of other people also pointed out
 Dialogue: 1,4:08:48.52,4:08:52.57,辉中,,0,0,0,,这与《荒野大镖客：救赎2》收束结尾的方式很像
-Dialogue: 2,4:08:48.52,4:08:52.57,辉英,,0,0,0,,that this was somewhat similar to how Red Dead Redemption 2 started to wrap up its story,
+Dialogue: 2,4:08:48.52,4:08:52.57,辉英,,0,0,0,,that this was somewhat similar to how {\i1}Red Dead Redemption 2{\i0} started to wrap up its story,
 Dialogue: 1,4:08:52.57,4:08:56.65,辉中,,0,0,0,,当中亚瑟的死显然是主要故事内容的结尾
 Dialogue: 2,4:08:52.57,4:08:56.65,辉英,,0,0,0,,with Arthur's death coming seemingly wrapping up the main story.
 Dialogue: 1,4:08:56.65,4:09:02.32,辉中,,0,0,0,,然后玩家进入了一个似乎很重要 但并不关键的尾声
@@ -7369,7 +7369,7 @@ Dialogue: 2,4:09:02.32,4:09:04.63,辉英,,0,0,0,,In fact, I asked several friend
 Dialogue: 1,4:09:04.63,4:09:07.24,辉中,,0,0,0,,在他们看完《荒野大镖客：救赎2》的主线故事后他们是否玩了尾声部分
 Dialogue: 2,4:09:04.63,4:09:07.24,辉英,,0,0,0,,whether or not they actually played the epilogue or not,
 Dialogue: 1,4:09:07.24,4:09:09.85,辉中,,0,0,0,,在他们看完《荒野大镖客：救赎2》的主线故事后他们是否玩了尾声部分
-Dialogue: 2,4:09:07.24,4:09:09.85,辉英,,0,0,0,,after they got through the main story of Red Dead redemption 2,
+Dialogue: 2,4:09:07.24,4:09:09.85,辉英,,0,0,0,,after they got through the main story of {\i1}Red Dead redemption 2{\i0},
 Dialogue: 1,4:09:09.85,4:09:14.83,辉中,,0,0,0,,你会惊讶地发现他们中有多少人说在亚瑟死后就不玩了
 Dialogue: 2,4:09:09.85,4:09:14.83,辉英,,0,0,0,,and you'd be surprised how many of them said that they stopped playing after Arthur died.
 Dialogue: 1,4:09:14.83,4:09:15.94,辉中,,0,0,0,,一方面我能理解他们
@@ -7393,13 +7393,13 @@ Dialogue: 2,4:09:38.77,4:09:42.70,辉英,,0,0,0,,to have this epilogue so clearl
 Dialogue: 1,4:09:42.70,4:09:45.76,辉中,,0,0,0,,要么就是彻底的失误
 Dialogue: 2,4:09:42.70,4:09:45.76,辉英,,0,0,0,,or it was a complete and total oversight.
 Dialogue: 1,4:09:45.76,4:09:47.35,辉中,,0,0,0,,对于TLOU2来说
-Dialogue: 2,4:09:45.76,4:09:47.35,辉英,,0,0,0,,In the case of TLOU2,
+Dialogue: 2,4:09:45.76,4:09:47.35,辉英,,0,0,0,,In the case of {\i1}TLOU2{\i0},
 Dialogue: 1,4:09:47.35,4:09:50.92,辉中,,0,0,0,,我觉得没法直接比较 但也的确有相似之处
 Dialogue: 2,4:09:47.35,4:09:50.92,辉英,,0,0,0,,I don't think it's direct comparison, but I do think there are similarities.
 Dialogue: 1,4:09:50.92,4:09:51.79,辉中,,0,0,0,,据我的估计
 Dialogue: 2,4:09:50.92,4:09:51.79,辉英,,0,0,0,,In my estimation,
 Dialogue: 1,4:09:51.79,4:09:54.16,辉中,,0,0,0,,绝大多数玩家都希望TLOU2
-Dialogue: 2,4:09:51.79,4:09:54.16,辉英,,0,0,0,,most players have been going through TLOU2
+Dialogue: 2,4:09:51.79,4:09:54.16,辉英,,0,0,0,,most players have been going through {\i1}TLOU2{\i0}
 Dialogue: 1,4:09:54.16,4:09:59.32,辉中,,0,0,0,,结尾能是艾莉和埃比的一段高潮场景
 Dialogue: 2,4:09:54.16,4:09:59.32,辉英,,0,0,0,,with the hope that it will end in a climactic scene between Ellie and Abby,
 Dialogue: 1,4:09:59.32,4:10:03.28,辉中,,0,0,0,,当中把所有问题都解决掉 最好是一个杀了另一个
@@ -7537,7 +7537,7 @@ Dialogue: 2,4:13:54.46,4:13:59.77,辉英,,0,0,0,,Or are we setting ourselves up 
 Dialogue: 1,4:13:59.77,4:14:04.90,辉中,,0,0,0,,拼命为游戏核心内容本身的合理性而辩护？
 Dialogue: 2,4:13:59.77,4:14:04.90,辉英,,0,0,0,,in a desperate attempt to justify the events of the core game itself?
 Dialogue: 1,4:14:04.90,4:14:09.46,辉中,,0,0,0,,就像《荒野大镖客：救赎2》那样 答案是后者
-Dialogue: 2,4:14:04.90,4:14:09.46,辉英,,0,0,0,,Just like Red Dead Redemption 2, it's gonna end up being the latter.
+Dialogue: 2,4:14:04.90,4:14:09.46,辉英,,0,0,0,,Just like {\i1}Red Dead Redemption 2{\i0}, it's gonna end up being the latter.
 Dialogue: 1,4:14:09.46,4:14:14.60,辉中,,0,0,0,,这些问题的答案大多会出现 但现在我们还被蒙在鼓里
 Dialogue: 2,4:14:09.46,4:14:14.60,辉英,,0,0,0,,Answers to these questions will mostly come, but for now we're left in the dark.
 Dialogue: 1,4:14:14.60,4:14:18.76,辉中,,0,0,0,,战斗过后的黑场结束后 我们来到一片农场
@@ -8029,7 +8029,7 @@ Dialogue: 1,4:29:08.25,4:29:09.58,辉中 Script,,0,0,0,,等等！等等！你刚
 Dialogue: 1,4:29:09.58,4:29:11.78,辉中 Script,,0,0,0,,你在找埃比，对不对？
 Dialogue: 1,4:29:11.78,4:29:14.28,辉中 Script,,0,0,0,,我们几个月前发现了一个人。
 Dialogue: 1,4:29:12.22,4:29:15.02,辉中,,0,0,0,,TLOU2前几个小时很不错的一点就是
-Dialogue: 2,4:29:12.22,4:29:15.02,辉英,,0,0,0,,One of the best things about the early hours of TLOU2
+Dialogue: 2,4:29:12.22,4:29:15.02,辉英,,0,0,0,,One of the best things about the early hours of {\i1}TLOU2{\i0}
 Dialogue: 1,4:29:14.85,4:29:15.91,辉中 Script,,0,0,0,,艾莉：对，最好是。
 Dialogue: 1,4:29:15.02,4:29:21.34,辉中,,0,0,0,,玩家会完全体会到艾莉的想法 和她一样想找埃比复仇
 Dialogue: 2,4:29:15.02,4:29:21.34,辉英,,0,0,0,,is that the player is completely on board with Ellie's drive and mission to take out Abby.
@@ -8146,7 +8146,7 @@ Dialogue: 2,4:32:10.82,4:32:14.05,辉英,,0,0,0,,because usually Naughty Dog is 
 Dialogue: 1,4:32:14.05,4:32:18.31,辉中,,0,0,0,,他们会在游戏结尾部分有各种天马行空的关卡
 Dialogue: 2,4:32:14.05,4:32:18.31,辉英,,0,0,0,,They go crazy, big and elaborate in the final sections of the game,
 Dialogue: 1,4:32:18.31,4:32:21.88,辉中,,0,0,0,,不管是《神海》系列还是上一代的TLOU
-Dialogue: 2,4:32:18.31,4:32:21.88,辉英,,0,0,0,,whether you're looking at Uncharted or even the original TLOU game
+Dialogue: 2,4:32:18.31,4:32:21.88,辉英,,0,0,0,,whether you're looking at {\i1}Uncharted{\i0} or even the original {\i1}TLOU{\i0} game
 Dialogue: 1,4:32:21.88,4:32:25.27,辉中,,0,0,0,,他们真的会把游戏的难度拉满
 Dialogue: 2,4:32:21.88,4:32:25.27,辉英,,0,0,0,,where they really push the boundary of difficulty.
 Dialogue: 1,4:32:25.27,4:32:27.64,辉中,,0,0,0,,到这个游戏里却不那样了
@@ -8408,7 +8408,7 @@ Dialogue: 2,4:47:41.83,4:47:43.93,辉英,,0,0,0,,Most games, you can give a thum
 Dialogue: 1,4:47:43.93,4:47:45.70,辉中,,0,0,0,,你可以说它很好 也可以说它很烂
 Dialogue: 2,4:47:43.93,4:47:45.70,辉英,,0,0,0,,you can say it's really good or it's really bad.
 Dialogue: 1,4:47:45.70,4:47:49.45,辉中,,0,0,0,,而我认为TLOU2是一款非常非常好的游戏
-Dialogue: 2,4:47:45.70,4:47:49.45,辉英,,0,0,0,,And TLOU2 is a game I think is very, very good.
+Dialogue: 2,4:47:45.70,4:47:49.45,辉英,,0,0,0,,And {\i1}TLOU2{\i0} is a game I think is very, very good.
 Dialogue: 1,4:47:49.45,4:47:52.45,辉中,,0,0,0,,我认为游戏性上体验很棒
 Dialogue: 2,4:47:49.45,4:47:52.45,辉英,,0,0,0,,It's an enjoyable game play experience, I think.
 Dialogue: 1,4:47:52.45,4:47:56.53,辉中,,0,0,0,,除了一点节奏问题外 大部分内容做得很好
@@ -8426,7 +8426,7 @@ Dialogue: 2,4:48:14.39,4:48:19.87,辉英,,0,0,0,,and making sure that the final 
 Dialogue: 1,4:48:19.87,4:48:25.37,辉中,,0,0,0,,但对于游玩部分来讲 它仍然是个好游戏
 Dialogue: 2,4:48:19.87,4:48:25.37,辉英,,0,0,0,,But all told, as far as the game is concerned, it's very well done as a game,
 Dialogue: 1,4:48:25.37,4:48:28.63,辉中,,0,0,0,,很多对TLOU2不满的人
-Dialogue: 2,4:48:25.37,4:48:28.63,辉英,,0,0,0,,and most people who have a problem with TLOU2
+Dialogue: 2,4:48:25.37,4:48:28.63,辉英,,0,0,0,,and most people who have a problem with {\i1}TLOU2{\i0}
 Dialogue: 1,4:48:28.63,4:48:31.24,辉中,,0,0,0,,也并不会否认这方面的问题
 Dialogue: 2,4:48:28.63,4:48:31.24,辉英,,0,0,0,,don't deny that they accepted and agree with it.
 Dialogue: 1,4:48:31.24,4:48:35.98,辉中,,0,0,0,,所以许多批评内容并不是指向这里的
@@ -8517,7 +8517,7 @@ Dialogue: 2,4:51:02.95,4:51:05.53,辉英,,0,0,0,,you shouldn't be surprised when
 Dialogue: 1,4:51:05.53,4:51:07.33,辉中,,0,0,0,,也因此 对于很多人来说
 Dialogue: 2,4:51:05.53,4:51:07.33,辉英,,0,0,0,,which is why, for a lot of people,
 Dialogue: 1,4:51:07.33,4:51:12.76,辉中,,0,0,0,,他们觉得自己玩的不是一款《最后生还者》游戏 甚至可以说它本身就不是
-Dialogue: 2,4:51:07.33,4:51:12.76,辉英,,0,0,0,,they found themselves feeling as though that this wasn't a TLOU game, even by itself.
+Dialogue: 2,4:51:07.33,4:51:12.76,辉英,,0,0,0,,they found themselves feeling as though that this wasn't a {\i1}TLOU{\i0} game, even by itself.
 Dialogue: 1,4:51:12.76,4:51:16.63,辉中,,0,0,0,,这算不上是续作 而是一个独立出来的故事
 Dialogue: 2,4:51:12.76,4:51:16.63,辉英,,0,0,0,,It wasn't a sequel, it was a completely separate story.
 Dialogue: 1,4:51:16.63,4:51:18.85,辉中,,0,0,0,,艾莉已经长大了 已经不是之前那个她了
@@ -8565,7 +8565,7 @@ Dialogue: 2,4:52:29.29,4:52:31.84,辉英,,0,0,0,,And that's… when I think of t
 Dialogue: 1,4:52:31.84,4:52:36.58,辉中,,0,0,0,,我就发现这个游戏竟然给我留下如此深刻的印象 感觉它绝对是个神作
 Dialogue: 2,4:52:31.84,4:52:36.58,辉英,,0,0,0,,I find myself much more impressed with it and thinking that it's absolutely a masterpiece.
 Dialogue: 1,4:52:37.42,4:52:40.91,辉中,,0,0,0,,但我觉得我的纠结之处在于 这是一款《最后生还者》系列的游戏
-Dialogue: 2,4:52:37.42,4:52:40.91,辉英,,0,0,0,,But I think my frustration is that it was a TLOU game.
+Dialogue: 2,4:52:37.42,4:52:40.91,辉英,,0,0,0,,But I think my frustration is that it was a {\i1}TLOU{\i0} game.
 Dialogue: 1,4:52:41.48,4:52:49.09,辉中,,0,0,0,,他们为了这个故事不但牺牲了乔尔 还牺牲了艾莉
 Dialogue: 2,4:52:41.48,4:52:49.09,辉英,,0,0,0,,And that they sacrifice not just Joel but also Ellie at the altar of that story.
 Dialogue: 1,4:52:49.09,4:52:53.29,辉中,,0,0,0,,因为我认为他们搬上来一个新的故事
@@ -8622,7 +8622,7 @@ Dialogue: 2,4:54:35.02,4:54:38.11,辉英,,0,0,0,,And it's something that once I 
 Dialogue: 1,4:54:38.11,4:54:40.68,辉中,,0,0,0,,我觉得这套解释非常有意思
 Dialogue: 2,4:54:38.11,4:54:40.68,辉英,,0,0,0,,and I thought that it's actually really interesting theory.
 Dialogue: 1,4:54:40.68,4:54:46.06,辉中,,0,0,0,,在TLOU2核心故事的结尾 也就是艾莉和埃比对打那段
-Dialogue: 2,4:54:40.68,4:54:46.06,辉英,,0,0,0,,Because you see at the end of the core story of TLOU2 after Ellie and Abby have their fight out,
+Dialogue: 2,4:54:40.68,4:54:46.06,辉英,,0,0,0,,Because you see at the end of the core story of {\i1}TLOU2{\i0} after Ellie and Abby have their fight out,
 Dialogue: 1,4:54:47.05,4:54:53.26,辉中,,0,0,0,,艾莉身上没有穿戴任何装饰品 她是赤手空拳被埃比拿下的
 Dialogue: 2,4:54:47.05,4:54:53.26,辉英,,0,0,0,,Ellie is not wearing any sort of adornment, she is bare arrested.
 Dialogue: 1,4:54:53.26,4:54:58.36,辉中,,0,0,0,,但再看她在游戏结尾的农场里时
@@ -8670,7 +8670,7 @@ Dialogue: 2,4:56:21.76,4:56:26.11,辉英,,0,0,0,,Dina has forgiven Ellie, and th
 Dialogue: 1,4:56:27.79,4:56:30.32,辉中,,0,0,0,,好吧 听着有点……可能有点离谱
 Dialogue: 2,4:56:27.79,4:56:30.32,辉英,,0,0,0,,Now is that a stretch, perhaps… perhaps.
 Dialogue: 1,4:56:30.32,4:56:35.29,辉中,,0,0,0,,TLOU的世界观里可没什么好结局的故事
-Dialogue: 2,4:56:30.32,4:56:35.29,辉英,,0,0,0,,Not many things in TLOU, at the world of TLOU, have happy endings.
+Dialogue: 2,4:56:30.32,4:56:35.29,辉英,,0,0,0,,Not many things in {\i1}TLOU{\i0}, at the world of {\i1}TLOU{\i0}, have happy endings.
 Dialogue: 1,4:56:35.29,4:56:40.63,辉中,,0,0,0,,但我还是认为游戏结束时的感情基调应该是令人振奋 阳光向上的
 Dialogue: 2,4:56:35.29,4:56:38.50,辉英,,0,0,0,,But I think the tone of the end of the game is very uplifting,
 Dialogue: 2,4:56:38.50,4:56:40.63,辉英,,0,0,0,,very bright and sunny.
@@ -8754,7 +8754,7 @@ Dialogue: 2,4:59:29.44,4:59:33.52,辉英,,0,0,0,,And maybe right before the fina
 Dialogue: 1,4:59:33.52,4:59:37.03,辉中,,0,0,0,,然后艾莉找埃比复仇 血债血偿
 Dialogue: 2,4:59:33.52,4:59:37.03,辉英,,0,0,0,,and then Ellie gets revenge on Abby, wipes her out.
 Dialogue: 1,4:59:37.03,4:59:41.26,辉中,,0,0,0,,就像《神秘海域》系列那样 最终一切都得到了清算
-Dialogue: 2,4:59:37.03,4:59:41.26,辉英,,0,0,0,,and it's kind of the Uncharted style ending where everything wraps up,
+Dialogue: 2,4:59:37.03,4:59:41.26,辉英,,0,0,0,,and it's kind of the {\i1}Uncharted{\i0} style ending where everything wraps up,
 Dialogue: 1,4:59:41.26,4:59:42.76,辉中,,0,0,0,,但某个角色领便当了
 Dialogue: 2,4:59:41.26,4:59:42.76,辉英,,0,0,0,,but a character died in it.
 Dialogue: 1,4:59:42.76,4:59:45.43,辉中,,0,0,0,,然后游戏让你更加珍惜现在所拥有的的一切
@@ -8778,7 +8778,7 @@ Dialogue: 2,5:00:07.45,5:00:11.44,辉英,,0,0,0,,I think video games are the evo
 Dialogue: 1,5:00:11.44,5:00:17.38,辉中,,0,0,0,,我认为游戏是讲故事的一个非凡的工具
 Dialogue: 2,5:00:11.44,5:00:17.38,辉英,,0,0,0,,I think gaming is a remarkable tool, for storytelling.
 Dialogue: 1,5:00:18.79,5:00:21.94,辉中,,0,0,0,,我不禁觉得TLOU2这款游戏
-Dialogue: 2,5:00:18.79,5:00:21.94,辉英,,0,0,0,,And I can't help but feel as though TLOU2
+Dialogue: 2,5:00:18.79,5:00:21.94,辉英,,0,0,0,,And I can't help but feel as though {\i1}TLOU2{\i0}
 Dialogue: 1,5:00:21.94,5:00:28.78,辉中,,0,0,0,,让在游戏这个平台上讲故事的方式上有了巨大的飞跃
 Dialogue: 2,5:00:21.94,5:00:28.78,辉英,,0,0,0,,takes a huge leap forward in the types of stories that can and will be told on the platform,
 Dialogue: 1,5:00:28.78,5:00:31.12,辉中,,0,0,0,,尤其在迈向次时代的时期
@@ -8798,23 +8798,23 @@ Dialogue: 2,5:00:45.16,5:00:51.05,辉英,,0,0,0,,it's just trying to push narrat
 Dialogue: 1,5:00:51.05,5:00:55.21,辉中,,0,0,0,,只是很少有结局美满的故事能做到
 Dialogue: 2,5:00:51.05,5:00:55.21,辉英,,0,0,0,,in a way that very few happy go lucky stories are.
 Dialogue: 1,5:00:55.21,5:00:56.59,辉中,,0,0,0,,我很喜欢神秘海域系列
-Dialogue: 2,5:00:55.21,5:00:56.59,辉英,,0,0,0,,I enjoy Uncharted.
+Dialogue: 2,5:00:55.21,5:00:56.59,辉英,,0,0,0,,I enjoy {\i1}Uncharted{\i0}.
 Dialogue: 1,5:00:56.59,5:01:00.94,辉中,,0,0,0,,我给神海全系列都做过评测
-Dialogue: 2,5:00:56.59,5:01:00.94,辉英,,0,0,0,,I'm making a whole series of Uncharted critiques,
+Dialogue: 2,5:00:56.59,5:01:00.94,辉英,,0,0,0,,I'm making a whole series of {\i1}Uncharted{\i0} critiques,
 Dialogue: 1,5:01:00.94,5:01:04.21,辉中,,0,0,0,,TLOU2发售之前我就在做这件事
-Dialogue: 2,5:01:00.94,5:01:04.21,辉英,,0,0,0,,and that's what I was doing before TLOU2 launched.
+Dialogue: 2,5:01:00.94,5:01:04.21,辉英,,0,0,0,,and that's what I was doing before {\i1}TLOU2{\i0} launched.
 Dialogue: 1,5:01:04.21,5:01:07.48,辉中,,0,0,0,,然后就又是一期期这样长的视频
 Dialogue: 2,5:01:04.21,5:01:07.48,辉英,,0,0,0,,And this whole video experience began.
 Dialogue: 1,5:01:09.49,5:01:12.85,辉中,,0,0,0,,但那些游戏故事并没有引人深思
 Dialogue: 2,5:01:09.49,5:01:12.85,辉英,,0,0,0,,But those stories don't really make you ponder, they don't make you think.
 Dialogue: 1,5:01:12.85,5:01:16.72,辉中,,0,0,0,,我玩神秘海域通关后 自己从来没有呆在那就……
-Dialogue: 2,5:01:12.85,5:01:16.72,辉英,,0,0,0,,I've never played an Uncharted game and then sat back and just…
+Dialogue: 2,5:01:12.85,5:01:16.72,辉英,,0,0,0,,I've never played an {\i1}Uncharted{\i0} game and then sat back and just…
 Dialogue: 1,5:01:18.43,5:01:21.64,辉中,,0,0,0,,“哇……刚刚那段是什么意思？我该怎么理解？”
 Dialogue: 2,5:01:18.43,5:01:21.64,辉英,,0,0,0,,Wow, what does this mean? What do I think of this?
 Dialogue: 1,5:01:21.64,5:01:26.09,辉中,,0,0,0,,我想不通 我脑中有太多矛盾在里面 想法情绪乱成一锅粥
 Dialogue: 2,5:01:21.64,5:01:26.09,辉英,,0,0,0,,I don't even know, I'm so conflicted, I have so many thoughts and emotions going on.
 Dialogue: 1,5:01:26.09,5:01:32.83,辉中,,0,0,0,,神海系列的情感部分主要是刺激的动作戏
-Dialogue: 2,5:01:26.09,5:01:32.83,辉英,,0,0,0,,Usually Uncharted's emotional repertoire consists of action and excitement,
+Dialogue: 2,5:01:26.09,5:01:32.83,辉英,,0,0,0,,Usually {\i1}Uncharted{\i0}'s emotional repertoire consists of action and excitement,
 Dialogue: 1,5:01:32.83,5:01:40.18,辉中,,0,0,0,,偶尔会穿插一些你喜欢的两个角色之间轻佻戏谑的暖心时刻
 Dialogue: 2,5:01:32.83,5:01:36.32,辉英,,0,0,0,,and then maybe some light heartwarming moments
 Dialogue: 2,5:01:36.32,5:01:40.18,辉英,,0,0,0,,with some witty banter back and forth between two characters you like,
@@ -8827,7 +8827,7 @@ Dialogue: 2,5:01:49.60,5:01:51.46,辉英,,0,0,0,,And I think they're successful,
 Dialogue: 1,5:01:51.46,5:01:56.02,辉中,,0,0,0,,我认为他们取得的成就相当了不起
 Dialogue: 2,5:01:51.46,5:01:56.02,辉英,,0,0,0,,and I think it's pretty remarkable what they've managed to accomplish.
 Dialogue: 1,5:01:56.02,5:02:00.35,辉中,,0,0,0,,因此尽管我对TLOU2的游戏节奏方面有所质疑
-Dialogue: 2,5:01:56.02,5:02:00.35,辉英,,0,0,0,,So while I am frustrated with TLOU2 for pacing issues,
+Dialogue: 2,5:01:56.02,5:02:00.35,辉英,,0,0,0,,So while I am frustrated with {\i1}TLOU2{\i0} for pacing issues,
 Dialogue: 1,5:02:00.35,5:02:06.01,辉中,,0,0,0,,因为游戏在两个角色的内容之间切换会让玩家失去游玩重心
 Dialogue: 2,5:02:00.35,5:02:06.01,辉英,,0,0,0,,for flip flopping back and forth between character so frequently that you start to lose focus,
 Dialogue: 1,5:02:06.01,5:02:09.94,辉中,,0,0,0,,但我仍然认为这是一款非凡的游戏
@@ -8884,13 +8884,13 @@ Dialogue: 1,5:03:39.46,5:03:44.02,辉中,,0,0,0,,因此我觉得TLOU2这个游�
 Dialogue: 2,5:03:39.46,5:03:44.02,辉英,,0,0,0,,And for that reason I think the game is truly remarkable.
 Dialogue: 1,5:03:44.02,5:03:46.80,辉中,,0,0,0,,它会是我心中的年度游戏吗？……不好说
 Dialogue: 2,5:03:44.02,5:03:46.80,辉英,,0,0,0,,Will it take my game of the year? I… I don't know.
-Dialogue: 0,5:03:46.80,5:03:51.37,辉注,,0,0,0,,原视频发布于2020年9月14日
 Dialogue: 1,5:03:46.80,5:03:51.37,辉中,,0,0,0,,我真心希望赛博朋克2077出来以后能震惊四座
-Dialogue: 2,5:03:46.80,5:03:51.37,辉英,,0,0,0,,I'm really hoping that Cyberpunk 2077 comes out and just blows us all away.
+Dialogue: 0,5:03:46.80,5:03:51.37,辉注,,0,0,0,,原视频发布于2020年9月14日
+Dialogue: 2,5:03:46.80,5:03:51.37,辉英,,0,0,0,,I'm really hoping that {\i1}Cyberpunk 2077{\i0} comes out and just blows us all away.
 Dialogue: 1,5:03:51.37,5:03:53.41,辉中,,0,0,0,,我真的很喜欢CDPR
 Dialogue: 2,5:03:51.37,5:03:53.41,辉英,,0,0,0,,I love CD Projekt Red,
 Dialogue: 1,5:03:53.41,5:03:57.82,辉中,,0,0,0,,而且从我看到的他们去年（2019年）E3上的闭门演示中来看
-Dialogue: 2,5:03:53.41,5:03:57.82,辉英,,0,0,0,,and from what I saw behind closed doors at E3 last year of Cyberpunk,
+Dialogue: 2,5:03:53.41,5:03:57.82,辉英,,0,0,0,,and from what I saw behind closed doors at E3 last year of {\i1}Cyberpunk{\i0},
 Dialogue: 1,5:03:57.82,5:04:01.93,辉中,,0,0,0,,我觉得这个游戏有火的潜力
 Dialogue: 2,5:03:57.82,5:04:01.93,辉英,,0,0,0,,I think it has the possibility of being really impressive,
 Dialogue: 1,5:04:01.93,5:04:05.35,辉中,,0,0,0,,但我还是担心它会被宣发抬得太高
@@ -8900,15 +8900,15 @@ Dialogue: 2,5:04:05.35,5:04:07.69,辉英,,0,0,0,,which is very possible with tha
 Dialogue: 1,5:04:07.69,5:04:09.01,辉中,,0,0,0,,到时候再看吧 谁知道呢
 Dialogue: 2,5:04:07.69,5:04:09.01,辉英,,0,0,0,,But we'll see, who knows,
 Dialogue: 1,5:04:09.01,5:04:13.60,辉中,,0,0,0,,等大家看到这个视频的时候可能已经通关2077了
-Dialogue: 2,5:04:09.01,5:04:13.60,辉英,,0,0,0,,by the time you're watching this video, you've probably played through Cyberpunk,
+Dialogue: 2,5:04:09.01,5:04:13.60,辉英,,0,0,0,,by the time you're watching this video, you've probably played through {\i1}Cyberpunk{\i0},
 Dialogue: 1,5:04:13.60,5:04:17.02,辉中,,0,0,0,,而且可能通关了之后看这视频然后笑话我被打脸了
-Dialogue: 2,5:04:13.60,5:04:17.02,辉英,,0,0,0,,or you might have played through Cyberpunk, and you'll be laughing at what I'm saying,
+Dialogue: 2,5:04:13.60,5:04:17.02,辉英,,0,0,0,,or you might have played through {\i1}Cyberpunk{\i0}, and you'll be laughing at what I'm saying,
 Dialogue: 1,5:04:17.02,5:04:19.87,辉中,,0,0,0,,或者这样那样……太可怕了 我什么都不知道！
 Dialogue: 2,5:04:17.02,5:04:19.87,辉英,,0,0,0,,or maybe they'll be like… Yeah, no, it is terrible, It's awful.
 Dialogue: 1,5:04:19.87,5:04:21.37,辉中,,0,0,0,,我可什么都不知道！
 Dialogue: 2,5:04:19.87,5:04:21.37,辉英,,0,0,0,,I have no idea, I have no idea.
 Dialogue: 1,5:04:21.37,5:04:27.94,辉中,,0,0,0,,但我可以肯定的是 TLOU系列为整个游戏行业的进步做了很多贡献
-Dialogue: 2,5:04:21.37,5:04:27.94,辉英,,0,0,0,,But what I can say is that I think TLOU does a lot to move the industry forward.
+Dialogue: 2,5:04:21.37,5:04:27.94,辉英,,0,0,0,,But what I can say is that I think {\i1}TLOU{\i0} does a lot to move the industry forward.
 Dialogue: 1,5:04:27.94,5:04:33.10,辉中,,0,0,0,,我认为他们所承担的风险真的是
 Dialogue: 2,5:04:27.94,5:04:33.10,辉英,,0,0,0,,I think that the risks that they took are truly…
 Dialogue: 1,5:04:36.07,5:04:38.59,辉中,,0,0,0,,“值得鼓掌的” 如果有这样的词的话
@@ -8932,7 +8932,7 @@ Dialogue: 2,5:05:08.84,5:05:15.24,辉英,,0,0,0,,Everything that went on in the 
 Dialogue: 1,5:05:15.24,5:05:17.26,辉中,,0,0,0,,在故事中发生的一切都在让你思考你在这个世界上的位置和正在发生的一切
 Dialogue: 2,5:05:15.24,5:05:17.26,辉英,,0,0,0,,and everything that's going on.
 Dialogue: 1,5:05:17.26,5:05:23.17,辉中,,0,0,0,,而我认为TLOU2做到了其他游戏都没有做到的这一点
-Dialogue: 2,5:05:17.26,5:05:23.17,辉英,,0,0,0,,And I think TLOU2 does that, in a way that literally no game has ever done for me.
+Dialogue: 2,5:05:17.26,5:05:23.17,辉英,,0,0,0,,And I think {\i1}TLOU2{\i0} does that, in a way that literally no game has ever done for me.
 Dialogue: 1,5:05:23.17,5:05:26.80,辉中,,0,0,0,,因此我真的想说 谢谢你 顽皮狗
 Dialogue: 2,5:05:23.17,5:05:26.80,辉英,,0,0,0,,And for that I just have to say thank you to Naughty Dog.
 Dialogue: 1,5:05:26.80,5:05:31.27,辉中,,0,0,0,,你们做的真的很棒 真的
@@ -8956,7 +8956,7 @@ Dialogue: 2,5:06:04.18,5:06:08.05,辉英,,0,0,0,,as I was getting ready for a we
 Dialogue: 1,5:06:08.05,5:06:10.27,辉中,,0,0,0,,花了我相当相当多的时间
 Dialogue: 2,5:06:08.05,5:06:10.27,辉英,,0,0,0,,This is consumed all of my time.
 Dialogue: 1,5:06:10.27,5:06:15.28,辉中,,0,0,0,,虽然我认为TLOU2还有很多做的很棒的地方
-Dialogue: 2,5:06:10.27,5:06:15.28,辉英,,0,0,0,,And while I think TLOU2 was incredible in a lot of ways,
+Dialogue: 2,5:06:10.27,5:06:15.28,辉英,,0,0,0,,And while I think {\i1}TLOU2{\i0} was incredible in a lot of ways,
 Dialogue: 1,5:06:15.28,5:06:20.31,辉中,,0,0,0,,但我……我觉得该瞄准下一个项目了
 Dialogue: 2,5:06:15.28,5:06:20.31,辉英,,0,0,0,,I'm… I am ready to move on and to tackle the next big thing, so…
 Dialogue: 1,5:06:21.28,5:06:24.82,辉中,,0,0,0,,到了结尾还事无巨细都讲的话就太怪了
