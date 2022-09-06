@@ -75,6 +75,7 @@
 |Léa Seydoux|蕾雅·赛杜|芙拉吉尔的演员|
 |Norman Reedus|诺曼·李杜斯|山姆的演员|
 |Geoff Keighley|杰夫·基思利|电子游戏新闻工作和电视节目主持人|
+|God of War|《战神》|2018年游戏|
 |Horizon Zero Dawn|《地平线 零之曙光》|索尼发行的RPG游戏|
 |Guerrilla Games|游骑兵工作室|《地平线 零之曙光》的制作组|
 |Decima Engine|Decima引擎|死亡搁浅使用的游戏引擎|
@@ -193,7 +194,6 @@
 |spores|孢子|CBI传播途径之一|
 |Aloy|埃洛伊|地平线的主角|
 |Uncharted: The Lost Legacy|神秘海域：失落的遗产|顽皮狗另一个游戏|
-|God of War|战神|2018年游戏|
 |Kratos|奎托斯|战神的老父亲|
 |Atreus|阿特柔斯|真正的战神|
 |Faye|菲|阿特柔斯他妈|
