@@ -78,6 +78,8 @@
 |God of War|《战神》|2018年游戏|
 |Horizon Zero Dawn|《地平线 零之曙光》|索尼发行的RPG游戏|
 |Guerrilla Games|游骑兵工作室|《地平线 零之曙光》的制作组|
+|Monster Hunter: World|《怪物猎人 世界》||
+|Persona 5|《女神异闻录5》||
 |Decima Engine|Decima引擎|死亡搁浅使用的游戏引擎|
 |Metal Gear Solid V|《合金装备V 幻痛》|小岛秀夫之前的作品|
 |Metal Gear Solid|《合金装备系列》|小岛秀夫之前的作品|
@@ -99,7 +101,7 @@
 |Higgs boson|希格斯玻色子|物理里一种基本粒子 游戏boss希格斯名字的由来|
 |The Legend of Zelda: Breath of the Wild|《塞尔达传说 旷野之息》|抄袭原神！（|
 |Conan O'Brien|柯南·奥布莱恩|角色扮演家的演员 美国脱口秀主持人、喜剧表演员、作家、制作人、配音员|
-|Grand Theft Auto V|《GTA5》|Rockstar的游戏|
+|Grand Theft Auto V|《侠盗猎车手V》|Rockstar的游戏|
 |Red Dead Redemption 2|《荒野大镖客：救赎2》|Rockstar的游戏|
 |Arthur|亚瑟|RDR2的主角|
 |Rockstar|R星|RDR2的制作商|
@@ -108,6 +110,7 @@
 |Disco Elysium|《极乐迪斯科》|RPG游戏|
 |Assassin's Creed III|刺客信条III|育碧游戏|
 |Assassin's Creed Odyssey|《刺客信条：奥德赛》|育碧游戏|
+|Star Wars Jedi: Fallen Order|《星球大战 绝地：陨落的武士团》||
 |Monster Energy|魔爪能量饮料|游戏中的广告|
 ||水獭帽||
 

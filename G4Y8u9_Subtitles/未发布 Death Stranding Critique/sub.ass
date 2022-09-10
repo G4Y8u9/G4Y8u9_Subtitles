@@ -15,10 +15,10 @@ Audio File: ../../../../../Video/给没组/DS/RAW.mkv
 Video File: ../../../../../Video/给没组/DS/RAW.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 165
-Active Line: 169
-Video Position: 18461
+Video Zoom Percent: 0.750000
+Scroll Position: 371
+Active Line: 380
+Video Position: 41821
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -200,181 +200,186 @@ Dialogue: 0,0:09:57.70,0:10:02.54,辉中,,0,0,0,,山姆只是执行普通的送�
 Dialogue: 0,0:10:02.54,0:10:06.71,辉中,,0,0,0,,游戏暗示有一支这样的快递员大军在美国本土到处送货\NAnd it's implied that there's essentially an army of these types of porters
 Dialogue: 0,0:10:06.71,0:10:10.37,辉中,,0,0,0,,游戏暗示有一支这样的快递员大军在美国本土到处送货\Nthat are delivering packages across the continental United States.
 Dialogue: 0,0:10:10.37,0:10:12.60,辉中,,0,0,0,,说实话 比起其他的开场 我更喜欢这样\NNow I'll be honest, I like this more than the alternative.
-Dialogue: 0,0:10:12.60,0:10:15.97,辉中,,0,0,0,,就像在老式的《战神》游戏中 比如《战神3》里\NLike in the old school God of War games, like God of War three
+Dialogue: 0,0:10:12.60,0:10:15.97,辉中,,0,0,0,,就像在老式的《战神》游戏中 比如《战神III》里\NLike in the old school {\i1}God of War{\i0} games, like {\i1}God of War III{\i0}
 Dialogue: 0,0:10:15.97,0:10:19.42,辉中,,0,0,0,,本来自己一身超能力 结果被剥夺了\Nwhere you have all of the abilities up front and then they're ripped from you
-Dialogue: 0,0:10:19.42,0:10:21.38,辉中,,0,0,0,,after you've tasted the forbidden fruit
-Dialogue: 0,0:10:21.38,0:10:24.97,辉中,,0,0,0,,of what the player could look forward to having later in the game.
-Dialogue: 0,0:10:24.97,0:10:28.22,辉中,,0,0,0,,But it doesn't change the fact that this starts very slow.
-Dialogue: 0,0:10:28.22,0:10:30.98,辉中,,0,0,0,,In the opening cutscene, Sam loses his bike.
-Dialogue: 0,0:10:30.98,0:10:35.48,辉中,,0,0,0,,And you're forced to transport cargo on foot for the first few hours.
-Dialogue: 0,0:10:35.48,0:10:37.51,辉中,,0,0,0,,Furthermore it goes on for a while.
-Dialogue: 0,0:10:37.51,0:10:40.01,辉中,,0,0,0,,The first two hours really do feel like a trudge.
-Dialogue: 0,0:10:40.01,0:10:42.84,辉中,,0,0,0,,And I don't think that this is a controversial thing to say
-Dialogue: 0,0:10:42.84,0:10:45.03,辉中,,0,0,0,,even if you are a fan of the game.
-Dialogue: 0,0:10:45.03,0:10:50.40,辉中,,0,0,0,,Again, I enjoyed my time with {\i1}Death Stranding{\i0}, but this is simply a reality.
-Dialogue: 0,0:10:50.40,0:10:54.57,辉中,,0,0,0,,The first few hours, the pacing is all over the place.
-Dialogue: 0,0:10:54.57,0:10:58.77,辉中,,0,0,0,,There also aren't very many interesting gameplay mechanics introduced here.
-Dialogue: 0,0:10:58.77,0:11:01.18,辉中,,0,0,0,,In fact the only missions that you're sent on
-Dialogue: 0,0:11:01.18,0:11:04.74,辉中,,0,0,0,,are to deliver a small package of drugs to a dying president,
-Dialogue: 0,0:11:04.74,0:11:08.37,辉中,,0,0,0,,assist a corpse disposal crew, you watch some cutscenes,
-Dialogue: 0,0:11:08.37,0:11:12.72,辉中,,0,0,0,,and then you are asked to incinerate the president's body after she's croaked.
-Dialogue: 0,0:11:12.72,0:11:15.68,辉中,,0,0,0,,And I don't really have an issue with these types of deliveries.
-Dialogue: 0,0:11:15.68,0:11:20.21,辉中,,0,0,0,,In fact I actually find them fairly relaxing and satisfying as I mentioned earlier.
-Dialogue: 0,0:11:20.21,0:11:25.60,辉中,,0,0,0,,But it does reaffirm the stereotype that {\i1}Death Stranding{\i0} is just a walking simulator,
-Dialogue: 0,0:11:25.60,0:11:28.64,辉中,,0,0,0,,especially because there's no real dynamic encounters,
-Dialogue: 0,0:11:28.64,0:11:33.13,辉中,,0,0,0,,there's no animals that you'll encounter in the world when you're going on these trips.
-Dialogue: 0,0:11:33.13,0:11:37.23,辉中,,0,0,0,,It's just you, walking with some type of cargo strapped to your back,
-Dialogue: 0,0:11:37.23,0:11:42.18,辉中,,0,0,0,,trying to keep balance as you walk across a large open field, scattered with rocks,
-Dialogue: 0,0:11:42.18,0:11:46.82,辉中,,0,0,0,,that are just there to make it slightly tedious for you to walk from point A to point B
-Dialogue: 0,0:11:46.82,0:11:51.19,辉中,,0,0,0,,Again, not inherently bad, it just reaffirms the preconceived notion
-Dialogue: 0,0:11:51.19,0:11:55.65,辉中,,0,0,0,,that {\i1}Death Stranding{\i0} only has walking to offer in terms of gameplay.
-Dialogue: 0,0:11:55.65,0:11:59.46,辉中,,0,0,0,,Even though as we'll find out later in the game, there's much more to it.
-Dialogue: 0,0:11:59.46,0:12:01.04,辉中,,0,0,0,,Now the baseline gameplay loop
-Dialogue: 0,0:12:01.04,0:12:05.01,辉中,,0,0,0,,is made up of course of transporting cargo from one location to another
-Dialogue: 0,0:12:05.01,0:12:10.43,辉中,,0,0,0,,or going to one location receiving cargo and returning it, in other words, a fetch quest.
-Dialogue: 0,0:12:10.43,0:12:13.98,辉中,,0,0,0,,Now some people have heavily criticized the game for the core gameplay loop,
-Dialogue: 0,0:12:13.98,0:12:17.44,辉中,,0,0,0,,being made up of this very simple task, which I actually disagree with.
-Dialogue: 0,0:12:17.44,0:12:20.70,辉中,,0,0,0,,Any activity can be turned into a game.
-Dialogue: 0,0:12:20.70,0:12:25.82,辉中,,0,0,0,,Given enough attention and time whether it's farming, hunting, or even talking,
-Dialogue: 0,0:12:25.82,0:12:30.27,辉中,,0,0,0,,all of these things can be turned into an experience that's worth playing.
-Dialogue: 0,0:12:30.27,0:12:34.72,辉中,,0,0,0,,Furthermore, {\i1}Death Stranding{\i0}'s gameplay system grows more complex over the course of the game.
-Dialogue: 0,0:12:34.72,0:12:38.91,辉中,,0,0,0,,They had guns, grenade launchers, monster boss fights that are dynamic,
-Dialogue: 0,0:12:38.91,0:12:42.59,辉中,,0,0,0,,BT zones, and even humanoid enemies known as MULEs
-Dialogue: 0,0:12:42.59,0:12:45.44,辉中,,0,0,0,,that track your every movement and can hunt you down.
-Dialogue: 0,0:12:45.44,0:12:48.84,辉中,,0,0,0,,However, you will need to get past around the 10-hour-mark
-Dialogue: 0,0:12:48.84,0:12:51.37,辉中,,0,0,0,,to see most of these things in full capacity.
-Dialogue: 0,0:12:51.37,0:12:53.73,辉中,,0,0,0,,And some of these things such as grenade launchers
-Dialogue: 0,0:12:53.73,0:12:57.55,辉中,,0,0,0,,aren't even introduced until 25 to 30 hours in.
-Dialogue: 0,0:12:57.55,0:13:00.54,辉中,,0,0,0,,And this is one of the necessary frustrations with {\i1}Death Stranding{\i0},
-Dialogue: 0,0:13:00.54,0:13:02.92,辉中,,0,0,0,,and it's a result of the studio that made it.
-Dialogue: 0,0:13:02.92,0:13:10.25,辉中,,0,0,0,,Like many Japanese titles your time is required to buy into the world and the gameplay.
-Dialogue: 0,0:13:10.25,0:13:12.19,辉中,,0,0,0,,And I actually have a few examples.
-Dialogue: 0,0:13:12.19,0:13:16.80,辉中,,0,0,0,,Monster Hunter World for instance is a Japanese action RPG that I love to death.
-Dialogue: 0,0:13:16.80,0:13:21.35,辉中,,0,0,0,,And it requires a steep learning curve and a lot of effort on the player's part
-Dialogue: 0,0:13:21.35,0:13:24.37,辉中,,0,0,0,,if you want to learn what all of the different components are
-Dialogue: 0,0:13:24.37,0:13:26.85,辉中,,0,0,0,,that contribute to a fully mid maxed build.
-Dialogue: 0,0:13:26.85,0:13:29.87,辉中,,0,0,0,,I've put in roughly a hundred hours into Monster Hunter World
-Dialogue: 0,0:13:29.87,0:13:32.86,辉中,,0,0,0,,and I'm still learning new things that the game has to offer.
-Dialogue: 0,0:13:32.86,0:13:35.34,辉中,,0,0,0,,Or look at Persona 5's introductory section
-Dialogue: 0,0:13:35.34,0:13:42.88,辉中,,0,0,0,,that can last by itself 15 to 22 hours depending on your play style and pace.
-Dialogue: 0,0:13:42.88,0:13:45.88,辉中,,0,0,0,,And yes, that's considered the introduction.
-Dialogue: 0,0:13:45.88,0:13:50.85,辉中,,0,0,0,,The point is, Japanese game development is different than westernized game development.
-Dialogue: 0,0:13:50.85,0:13:52.86,辉中,,0,0,0,,Their games tend to have a lot of meat to them
-Dialogue: 0,0:13:52.86,0:13:55.85,辉中,,0,0,0,,and they require a lot of time on the player's part
-Dialogue: 0,0:13:55.85,0:14:00.48,辉中,,0,0,0,,in order to buy into and understand everything that there is to offer.
-Dialogue: 0,0:14:00.48,0:14:05.48,辉中,,0,0,0,,And this actually causes a lot of Western players to be turned off by these types of games.
-Dialogue: 0,0:14:05.48,0:14:09.24,辉中,,0,0,0,,Like it or not, western gamers are very impatient.
-Dialogue: 0,0:14:09.24,0:14:14.16,辉中,,0,0,0,,And if a game is not grabbing a player within the first hour or even maybe two hours,
-Dialogue: 0,0:14:14.16,0:14:15.64,辉中,,0,0,0,,they're just gonna walk away.
-Dialogue: 0,0:14:15.64,0:14:17.37,辉中,,0,0,0,,And I don't think there's anything wrong with that,
-Dialogue: 0,0:14:17.37,0:14:20.04,辉中,,0,0,0,,it's just a feature of our culture I suppose.
-Dialogue: 0,0:14:20.04,0:14:22.53,辉中,,0,0,0,,But the point is Kojima even knew this,
-Dialogue: 0,0:14:22.53,0:14:28.06,辉中,,0,0,0,,which is why he roasted Americans for not having the quote-unquote "artistic sensibilities"
-Dialogue: 0,0:14:28.06,0:14:33.52,辉中,,0,0,0,,on the level required to appreciate games such as {\i1}Death Stranding{\i0} to their fully extent.
-Dialogue: 0,0:14:33.52,0:14:37.47,辉中,,0,0,0,,And here's confession time, I live in the United States, in Colorado.
-Dialogue: 0,0:14:37.47,0:14:39.36,辉中,,0,0,0,,I'm a western gamer through and through,
-Dialogue: 0,0:14:39.36,0:14:43.22,辉中,,0,0,0,,and I am used to most of the coolest stuff in a game being front loaded
-Dialogue: 0,0:14:43.22,0:14:46.94,辉中,,0,0,0,,to make sure that my attention is captured, to show me what they have to offer.
-Dialogue: 0,0:14:46.94,0:14:48.89,辉中,,0,0,0,,Look at {\i1}Star Wars Jedi: Fallen Order{\i0},
-Dialogue: 0,0:14:48.89,0:14:52.62,辉中,,0,0,0,,the first two hours are polished to high heaven and they are great.
-Dialogue: 0,0:14:52.62,0:14:57.09,辉中,,0,0,0,,Or {\i1}The Witcher 3{\i0}, where the Griffin fight is front-loaded as with some …
-Dialogue: 0,0:14:57.09,0:15:00.05,辉中,,0,0,0,,butts … which naturally sold me on it.
-Dialogue: 0,0:15:00.05,0:15:03.41,辉中,,0,0,0,,Or {\i1}Grand Theft Auto V{\i0} where the robbery sequence is front loaded
-Dialogue: 0,0:15:03.41,0:15:06.48,辉中,,0,0,0,,to show you what you can look forward to later in the game.
-Dialogue: 0,0:15:06.48,0:15:09.56,辉中,,0,0,0,,The point is, a majority of AAA western titles,
-Dialogue: 0,0:15:09.56,0:15:12.05,辉中,,0,0,0,,specifically the ones that are critically acclaimed,
-Dialogue: 0,0:15:12.05,0:15:15.32,辉中,,0,0,0,,often feature front loaded gameplay sequences.
-Dialogue: 0,0:15:15.32,0:15:19.49,辉中,,0,0,0,,Like it or not it's sort of a standard of Western titles at this point.
-Dialogue: 0,0:15:19.49,0:15:23.57,辉中,,0,0,0,,And the strange thing is that {\i1}Death Stranding{\i0} kind of meets this halfway.
-Dialogue: 0,0:15:23.57,0:15:26.90,辉中,,0,0,0,,What I mean is that the gameplay system is not very robust,
-Dialogue: 0,0:15:26.90,0:15:29.54,辉中,,0,0,0,,or extremely dense and complicated,
-Dialogue: 0,0:15:29.54,0:15:35.02,辉中,,0,0,0,,requiring hours upon hours of intensive research and studying to understand it.
-Dialogue: 0,0:15:35.02,0:15:36.75,辉中,,0,0,0,,Rather it's pretty simple,
-Dialogue: 0,0:15:36.75,0:15:41.87,辉中,,0,0,0,,and just requires the player to mindlessly deliver packages from point A to point B.
-Dialogue: 0,0:15:41.87,0:15:46.80,辉中,,0,0,0,,What does require a huge amount of investment on the part of the player is the narrative.
-Dialogue: 0,0:15:46.80,0:15:50.02,辉中,,0,0,0,,For instance, the best moment in this introductory section
-Dialogue: 0,0:15:50.02,0:15:52.76,辉中,,0,0,0,,is the Voidout that we get to witness up-close.
-Dialogue: 0,0:15:52.76,0:15:54.85,辉中,,0,0,0,,It's bizarre and fantastic.
-Dialogue: 0,0:15:54.85,0:15:56.94,辉中,,0,0,0,,Really, there are a lot of interesting things here
-Dialogue: 0,0:15:56.94,0:15:59.80,辉中,,0,0,0,,and we're gonna go over them in detail in just a few minutes.
-Dialogue: 0,0:15:59.80,0:16:02.15,辉中,,0,0,0,,Now I don't know about you but when I saw this first
-Dialogue: 0,0:16:02.15,0:16:04.77,辉中,,0,0,0,,I was concerned that they weren't actually going to have answers
-Dialogue: 0,0:16:04.77,0:16:06.59,辉中,,0,0,0,,for most of the things that they were showing.
-Dialogue: 0,0:16:06.59,0:16:10.41,辉中,,0,0,0,,But they actually do, and it looks like Kojima thought most of this through
-Dialogue: 0,0:16:10.41,0:16:14.39,辉中,,0,0,0,,at least in as bizarre way as you would expect from Kojima.
-Dialogue: 0,0:16:14.39,0:16:17.92,辉中,,0,0,0,,You just have to wait roughly 38 hours to get those answers.
-Dialogue: 0,0:16:17.92,0:16:20.34,辉中,,0,0,0,,Other problems also arise due to the fact
-Dialogue: 0,0:16:20.34,0:16:24.05,辉中,,0,0,0,,that the game was developed narratively and written in Japanese
-Dialogue: 0,0:16:24.05,0:16:28.08,辉中,,0,0,0,,and then it was "ported" … get it? … over to English.
-Dialogue: 0,0:16:28.08,0:16:30.13,辉中,,0,0,0,,This is actually incredibly important to understand
-Dialogue: 0,0:16:30.13,0:16:34.37,辉中,,0,0,0,,and I think it's a reason why a lot of the writing in {\i1}Death Stranding{\i0} has been panned.
-Dialogue: 0,0:16:34.37,0:16:36.58,辉中,,0,0,0,,This is a Japanese written story.
-Dialogue: 0,0:16:36.58,0:16:41.97,辉中,,0,0,0,,Thus the dialogue is translated from the original writings of Kojima and his team
-Dialogue: 0,0:16:41.97,0:16:44.41,辉中,,0,0,0,,into English for the actors.
-Dialogue: 0,0:16:44.41,0:16:49.18,辉中,,0,0,0,,And this can at times lead to some really strange and clunky phrasings.
-Dialogue: 0,0:16:49.18,0:16:51.69,辉中,,0,0,0,,But don't worry we'll get to this more later.
-Dialogue: 0,0:16:51.69,0:16:56.16,辉中,,0,0,0,,Now you could argue that {\i1}Death Stranding{\i0} front-load some of its more flashy cinematic sequences
-Dialogue: 0,0:16:56.16,0:16:57.72,辉中,,0,0,0,,and I think that that's fair to say
-Dialogue: 0,0:16:57.72,0:17:00.41,辉中,,0,0,0,,especially with that Voidout sequence that we just looked at.
-Dialogue: 0,0:17:00.41,0:17:03.91,辉中,,0,0,0,,But in my opinion front-loading gameplay would have been a better idea
-Dialogue: 0,0:17:03.91,0:17:09.48,辉中,,0,0,0,,due to gamers' preconceived notions that the game is slow and has uninteresting gameplay.
-Dialogue: 0,0:17:09.48,0:17:12.57,辉中,,0,0,0,,I don't know, that's just my opinion though, let me know your thoughts below.
-Dialogue: 0,0:17:12.57,0:17:17.28,辉中,,0,0,0,,Beyond this, even with elaborate cutscenes shown off that are very flashy interesting
-Dialogue: 0,0:17:17.28,0:17:20.27,辉中,,0,0,0,,and even visually intriguing shall we say,
-Dialogue: 0,0:17:20.27,0:17:25.07,辉中,,0,0,0,,these first 2 hours of {\i1}Death Stranding{\i0} are very bland, And even downright confusing,
-Dialogue: 0,0:17:25.07,0:17:29.31,辉中,,0,0,0,,which i think is actually okay because it is a prologue after all.
-Dialogue: 0,0:17:29.31,0:17:33.62,辉中,,0,0,0,,And I think if a prologue wasn't at least somewhat confusing and intriguing
-Dialogue: 0,0:17:33.62,0:17:35.86,辉中,,0,0,0,,it probably wouldn't be doing its job.
-Dialogue: 0,0:17:35.86,0:17:37.81,辉中,,0,0,0,,But from here the story progresses.
-Dialogue: 0,0:17:37.81,0:17:40.36,辉中,,0,0,0,,Mostly through cutscenes featuring the main cast,
-Dialogue: 0,0:17:40.36,0:17:44.41,辉中,,0,0,0,,people like Sam, Fragile, Amelie, Mama, Deadman, Die-Hardman
-Dialogue: 0,0:17:44.41,0:17:46.99,辉中,,0,0,0,,Heartman, Higgs, Cliff and some others.
-Dialogue: 0,0:17:46.99,0:17:49.67,辉中,,0,0,0,,Some of these scenes are actually really well acted.
-Dialogue: 0,0:17:49.67,0:17:54.13,辉中,,0,0,0,,I mean there's a reason that Mads Mikkelsen won the game award for best performance.
-Dialogue: 0,0:17:54.13,0:17:58.26,辉中,,0,0,0,,But some other scenes are … well … not.
-Dialogue: 0,0:17:58.26,0:18:03.38,辉中,,0,0,0,,For instance, Léa Seydoux's scenes are universally awesome in spite of the writing.
-Dialogue: 0,0:18:03.38,0:18:06.72,辉中,,0,0,0,,Not because of I think that's important to understand.
+Dialogue: 0,0:10:19.42,0:10:21.38,辉中,,0,0,0,,然后随着游戏进行你一步步去把那些神挨个杀掉\Nafter you've tasted the forbidden fruit
+Dialogue: 0,0:10:21.38,0:10:24.97,辉中,,0,0,0,,然后随着游戏进行你一步步去把那些神挨个杀掉\Nof what the player could look forward to having later in the game.
+Dialogue: 0,0:10:24.97,0:10:28.22,辉中,,0,0,0,,但这并不能改变这款游戏开始时非常缓慢的事实\NBut it doesn't change the fact that this starts very slow.
+Dialogue: 0,0:10:28.22,0:10:30.98,辉中,,0,0,0,,开场山姆的摩托车就没了\NIn the opening cutscene, Sam loses his bike.
+Dialogue: 0,0:10:30.98,0:10:35.48,辉中,,0,0,0,,导致游戏前几小时你只能徒步送货\NAnd you're forced to transport cargo on foot for the first few hours.
+Dialogue: 0,0:10:35.48,0:10:37.51,辉中,,0,0,0,,这种情况持续了一阵\NFurthermore it goes on for a while.
+Dialogue: 0,0:10:37.51,0:10:40.01,辉中,,0,0,0,,所以前两小时玩着真的很累\NThe first two hours really do feel like a trudge.
+Dialogue: 0,0:10:40.01,0:10:42.84,辉中,,0,0,0,,我觉得即使是游戏的粉丝也不会否认这样的评价\NAnd I don't think that this is a controversial thing to say
+Dialogue: 0,0:10:42.84,0:10:45.03,辉中,,0,0,0,,我觉得即使是游戏的粉丝也不会否认这样的评价\Neven if you are a fan of the game.
+Dialogue: 0,0:10:45.03,0:10:50.40,辉中,,0,0,0,,我重申 我很喜欢玩《死亡搁浅》 但我说的也都是事实\NAgain, I enjoyed my time with {\i1}Death Stranding{\i0}, but this is simply a reality.
+Dialogue: 0,0:10:50.40,0:10:54.57,辉中,,0,0,0,,游戏最初几小时 节奏很混乱\NThe first few hours, the pacing is all over the place.
+Dialogue: 0,0:10:54.57,0:10:58.77,辉中,,0,0,0,,游戏也没有在这里介绍太多有意思的机制\NThere also aren't very many interesting gameplay mechanics introduced here.
+Dialogue: 0,0:10:58.77,0:11:01.18,辉中,,0,0,0,,指派你的任务只是给一个快死的总统送一小包药物\NIn fact the only missions that you're sent on
+Dialogue: 0,0:11:01.18,0:11:04.74,辉中,,0,0,0,,指派你的任务只是给一个快死的总统送一小包药物\Nare to deliver a small package of drugs to a dying president,
+Dialogue: 0,0:11:04.74,0:11:08.37,辉中,,0,0,0,,协助尸体处理部的小组 看几段过场动画\Nassist a corpse disposal crew, you watch some cutscenes,
+Dialogue: 0,0:11:08.37,0:11:12.72,辉中,,0,0,0,,然后让你送已故总统的遗体去焚化场\Nand then you are asked to incinerate the president's body after she's croaked.
+Dialogue: 0,0:11:12.72,0:11:15.68,辉中,,0,0,0,,我其实对这些任务没什么意见\NAnd I don't really have an issue with these types of deliveries.
+Dialogue: 0,0:11:15.68,0:11:20.21,辉中,,0,0,0,,实际上 如我之前所说 我觉得这些任务很惬意 很舒心\NIn fact I actually find them fairly relaxing and satisfying as I mentioned earlier.
+Dialogue: 0,0:11:20.21,0:11:25.60,辉中,,0,0,0,,但的确加深了人们心中《死亡搁浅》只是一个步行模拟器的刻板印象\NBut it does reaffirm the stereotype that {\i1}Death Stranding{\i0} is just a walking simulator,
+Dialogue: 0,0:11:25.60,0:11:28.64,辉中,,0,0,0,,尤其是这一路没什么动态的互动内容\Nespecially because there's no real dynamic encounters,
+Dialogue: 0,0:11:28.64,0:11:33.13,辉中,,0,0,0,,整段旅途中连一个动物都没有\Nthere's no animals that you'll encounter in the world when you're going on these trips.
+Dialogue: 0,0:11:33.13,0:11:37.23,辉中,,0,0,0,,只有背着某些货物的你自己\NIt's just you, walking with some type of cargo strapped to your back,
+Dialogue: 0,0:11:37.23,0:11:40.90,辉中,,0,0,0,,在一片开阔的空间里步履蹒跚地前行\Ntrying to keep balance as you walk across a large open field,
+Dialogue: 0,0:11:40.90,0:11:44.66,辉中,,0,0,0,,唯有散落的碎石让你从A到B点的旅途中多了一点坎坷\Nscattered with rocks, that are just there to make it slightly tedious
+Dialogue: 0,0:11:44.66,0:11:46.82,辉中,,0,0,0,,唯有散落的碎石让你从A到B点的旅途中多了一点坎坷\Nfor you to walk from point A to point B.
+Dialogue: 0,0:11:46.82,0:11:48.90,辉中,,0,0,0,,还是那句话 没说这不好\NAgain, not inherently bad,
+Dialogue: 0,0:11:48.90,0:11:51.38,辉中,,0,0,0,,只是让玩家会先入为主地认为《死亡搁浅》游戏内容只有这样的走路\Nit just reaffirms the preconceived notion that
+Dialogue: 0,0:11:51.38,0:11:55.65,辉中,,0,0,0,,只是让玩家会先入为主地认为《死亡搁浅》游戏内容只有这样的走路\N{\i1}Death Stranding{\i0} only has walking to offer in terms of gameplay.
+Dialogue: 0,0:11:55.65,0:11:59.46,辉中,,0,0,0,,即使我们会发现游戏内的元素远不止此\NEven though as we'll find out later in the game, there's much more to it.
+Dialogue: 0,0:11:59.46,0:12:01.04,辉中,,0,0,0,,游戏基本游玩内容就是从一个地方运货到另一个地方\NNow the baseline gameplay loop
+Dialogue: 0,0:12:01.04,0:12:05.01,辉中,,0,0,0,,游戏基本游玩内容就是从一个地方运货到另一个地方\Nis made up of course of transporting cargo from one location to another
+Dialogue: 0,0:12:05.01,0:12:10.43,辉中,,0,0,0,,或者在哪捡到了货物后归还 说白了就是送快递的游戏\Nor going to one location receiving cargo and returning it, in other words, a fetch quest.
+Dialogue: 0,0:12:10.43,0:12:13.98,辉中,,0,0,0,,有些玩家对游戏的核心玩法提出了严厉批评\NNow some people have heavily criticized the game for the core gameplay loop,
+Dialogue: 0,0:12:13.98,0:12:17.44,辉中,,0,0,0,,认为游戏玩法都是这种非常简单的任务 实际上我不同意这种说法\Nbeing made up of this very simple task, which I actually disagree with.
+Dialogue: 0,0:12:17.44,0:12:20.70,辉中,,0,0,0,,任何活动都可以变成一个游戏\NAny activity can be turned into a game.
+Dialogue: 0,0:12:20.70,0:12:25.82,辉中,,0,0,0,,只要有足够的注意力和时间 无论是耕种 狩猎 甚至是单纯的对话\NGiven enough attention and time whether it's farming, hunting, or even talking,
+Dialogue: 0,0:12:25.82,0:12:30.27,辉中,,0,0,0,,所有这些互动都可以做成值得一玩的内容\Nall of these things can be turned into an experience that's worth playing.
+Dialogue: 0,0:12:30.27,0:12:34.72,辉中,,0,0,0,,此外 《死亡搁浅》的游戏系统在游玩过程中会变得越来越复杂\NFurthermore, {\i1}Death Stranding{\i0}'s gameplay system grows more complex over the course of the game.
+Dialogue: 0,0:12:34.72,0:12:39.98,辉中,,0,0,0,,有枪 有榴弹发射器 有动态的怪物BOSS战 有BT区\NThey had guns, grenade launchers, monster boss fights that are dynamic, BT zones,
+Dialogue: 0,0:12:39.98,0:12:42.59,辉中,,0,0,0,,甚至还有米尔人这种专门追踪 抓捕快递员的人类敌人\Nand even humanoid enemies known as MULEs
+Dialogue: 0,0:12:42.59,0:12:45.44,辉中,,0,0,0,,甚至还有米尔人这种专门追踪 抓捕快递员的人类敌人\Nthat track your every movement and can hunt you down.
+Dialogue: 0,0:12:45.44,0:12:48.84,辉中,,0,0,0,,但你需要游玩超过10小时左右才能看到这些东西的完整状态\NHowever, you will need to get past around the 10-hour-mark
+Dialogue: 0,0:12:48.84,0:12:51.37,辉中,,0,0,0,,但你需要游玩超过10小时左右才能看到这些东西的完整状态\Nto see most of these things in full capacity.
+Dialogue: 0,0:12:51.37,0:12:53.73,辉中,,0,0,0,,甚至像榴弹发射器这种武器需要玩25到30小时才能接触到\NAnd some of these things such as grenade launchers
+Dialogue: 0,0:12:53.73,0:12:57.55,辉中,,0,0,0,,甚至像榴弹发射器这种武器需要玩25到30小时才能接触到\Naren't even introduced until 25 to 30 hours in.
+Dialogue: 0,0:12:57.55,0:13:00.54,辉中,,0,0,0,,这是玩这个游戏必须经历的痛苦\NAnd this is one of the necessary frustrations with {\i1}Death Stranding{\i0},
+Dialogue: 0,0:13:00.54,0:13:02.92,辉中,,0,0,0,,也是游戏制作组导致的\Nand it's a result of the studio that made it.
+Dialogue: 0,0:13:02.92,0:13:10.25,辉中,,0,0,0,,很多日系游戏都需要玩家花很多时间去了解世界观与游戏玩法\NLike many Japanese titles your time is required to buy into the world and the gameplay.
+Dialogue: 0,0:13:10.25,0:13:12.19,辉中,,0,0,0,,我甚至能举出几个例子\NAnd I actually have a few examples.
+Dialogue: 0,0:13:12.19,0:13:16.80,辉中,,0,0,0,,比如《怪物猎人 世界》就是我超爱玩的一款日式ARPG游戏\N{\i1}Monster Hunter: World{\i0} for instance is a Japanese action RPG that I love to death.
+Dialogue: 0,0:13:16.80,0:13:21.35,辉中,,0,0,0,,它的学习路线非常陡峭 需要玩家投入很多努力\NAnd it requires a steep learning curve and a lot of effort on the player's part
+Dialogue: 0,0:13:21.35,0:13:24.37,辉中,,0,0,0,,才能了解怎样组合各种不同配装才能达到最优化的数值\Nif you want to learn what all of the different components are
+Dialogue: 0,0:13:24.37,0:13:26.85,辉中,,0,0,0,,才能了解怎样组合各种不同配装才能达到最优化的数值\Nthat contribute to a fully min/max build.
+Dialogue: 0,0:13:26.85,0:13:29.87,辉中,,0,0,0,,我已经玩了《怪物猎人 世界》大约100个小时\NI've put in roughly a hundred hours into {\i1}Monster Hunter: World{\i0}
+Dialogue: 0,0:13:29.87,0:13:32.86,辉中,,0,0,0,,但每次玩还是能学到新的东西\Nand I'm still learning new things that the game has to offer.
+Dialogue: 0,0:13:32.86,0:13:35.34,辉中,,0,0,0,,另一个例子是《女神异闻录5》的序章部分\NOr look at {\i1}Persona 5{\i0}'s introductory section
+Dialogue: 0,0:13:35.34,0:13:42.88,辉中,,0,0,0,,根据玩家游玩风格与节奏 可以持续15-22小时\Nthat can last by itself 15 to 22 hours depending on your play style and pace.
+Dialogue: 0,0:13:42.88,0:13:45.88,辉中,,0,0,0,,没错 这只是序章部分\NAnd yes, that's considered the introduction.
+Dialogue: 0,0:13:45.88,0:13:50.85,辉中,,0,0,0,,重点是 日式游戏的开发与西方那些游戏很不一样\NThe point is, Japanese game development is different than westernized game development.
+Dialogue: 0,0:13:50.85,0:13:52.86,辉中,,0,0,0,,他们的游戏往往有很多内容\NTheir games tend to have a lot of meat to them
+Dialogue: 0,0:13:52.86,0:13:55.85,辉中,,0,0,0,,需要玩家花费很长时间来消化 吸收游戏里的这些内容\Nand they require a lot of time on the player's part
+Dialogue: 0,0:13:55.85,0:14:00.48,辉中,,0,0,0,,需要玩家花费很长时间来消化 吸收游戏里的这些内容\Nin order to buy into and understand everything that there is to offer.
+Dialogue: 0,0:14:00.48,0:14:05.48,辉中,,0,0,0,,而这实际上也导致很多西方玩家对这些类型的游戏感到厌恶\NAnd this actually causes a lot of Western players to be turned off by these types of games.
+Dialogue: 0,0:14:05.48,0:14:09.24,辉中,,0,0,0,,有一说一 西方玩家真的很没耐性\NLike it or not, western gamers are very impatient.
+Dialogue: 0,0:14:09.24,0:14:14.16,辉中,,0,0,0,,如果一款游戏没有在前两小时内抓住玩家眼球\NAnd if a game is not grabbing a player within the first hour or even maybe two hours,
+Dialogue: 0,0:14:14.16,0:14:15.64,辉中,,0,0,0,,那他们就会弃掉\Nthey're just gonna walk away.
+Dialogue: 0,0:14:15.64,0:14:17.37,辉中,,0,0,0,,这点我觉得倒是无可非议 只是我们的文化罢了\NAnd I don't think there's anything wrong with that,
+Dialogue: 0,0:14:17.37,0:14:20.04,辉中,,0,0,0,,这点我觉得倒是无可非议 只是我们的文化罢了\Nit's just a feature of our culture I suppose.
+Dialogue: 0,0:14:20.04,0:14:22.53,辉中,,0,0,0,,而小岛秀夫甚至知晓这点\NBut the point is Kojima even knew this,
+Dialogue: 0,0:14:22.53,0:14:28.06,辉中,,0,0,0,,因此他曾锐评美国人不具备充分欣赏\Nwhich is why he roasted Americans for not having the quote-unquote "artistic sensibilities"
+Dialogue: 0,0:14:28.06,0:14:33.52,辉中,,0,0,0,,《死亡搁浅》等游戏所需的“艺术细胞”\Non the level required to appreciate games such as {\i1}Death Stranding{\i0} to their fully extent.
+Dialogue: 0,0:14:33.52,0:14:37.47,辉中,,0,0,0,,说实话 我自己长在美国科罗拉多州\NAnd here's confession time, I live in the United States, in Colorado.
+Dialogue: 0,0:14:37.47,0:14:39.36,辉中,,0,0,0,,是个纯粹的西方玩家\NI'm a western gamer through and through,
+Dialogue: 0,0:14:39.36,0:14:43.22,辉中,,0,0,0,,我习惯了游戏中最有趣的部分放在前面\Nand I am used to most of the coolest stuff in a game being front loaded
+Dialogue: 0,0:14:43.22,0:14:46.94,辉中,,0,0,0,,保证我的注意力能时刻被游戏展示的内容吸引\Nto make sure that my attention is captured, to show me what they have to offer.
+Dialogue: 0,0:14:46.94,0:14:48.89,辉中,,0,0,0,,比如游戏《星球大战 绝地：陨落的武士团》\NLook at {\i1}Star Wars Jedi: Fallen Order{\i0},
+Dialogue: 0,0:14:48.89,0:14:52.62,辉中,,0,0,0,,游戏前两小时内容打磨得非常非常棒\Nthe first two hours are polished to high heaven and they are great.
+Dialogue: 0,0:14:52.62,0:14:57.35,辉中,,0,0,0,,亦或是《巫师3：狂猎》 前期狮鹫兽的战斗 加上……\NOr {\i1}The Witcher 3{\i0}, where the Griffin fight is front-loaded as with some …
+Dialogue: 5,0:14:57.35,0:15:00.05,辉中 Script,,0,200,550,,马赛克\N马赛克\N马赛克
+Dialogue: 0,0:14:57.35,0:15:00.05,辉中,,0,0,0,,这样的内容 一下就把我吸引住了\Nbutts … which naturally sold me on it.
+Dialogue: 0,0:15:00.05,0:15:03.41,辉中,,0,0,0,,再比如《侠盗猎车手V》 开场就是抢劫\NOr {\i1}Grand Theft Auto V{\i0} where the robbery sequence is front loaded
+Dialogue: 0,0:15:03.41,0:15:06.48,辉中,,0,0,0,,让玩家期待自己之后能“大干一票”\Nto show you what you can look forward to later in the game.
+Dialogue: 0,0:15:06.48,0:15:09.56,辉中,,0,0,0,,我要说的是 大多数西方的3A游戏\NThe point is, a majority of AAA western titles,
+Dialogue: 0,0:15:09.56,0:15:12.05,辉中,,0,0,0,,特别是那些广受好评的游戏\Nspecifically the ones that are critically acclaimed,
+Dialogue: 0,0:15:12.05,0:15:15.32,辉中,,0,0,0,,游戏早期都有那些很有趣的内容\Noften feature front loaded gameplay sequences.
+Dialogue: 0,0:15:15.32,0:15:19.49,辉中,,0,0,0,,不论喜欢与否 这点在西方游戏中算是个业内基本操作\NLike it or not it's sort of a standard of Western titles at this point.
+Dialogue: 0,0:15:19.49,0:15:23.57,辉中,,0,0,0,,而奇怪的是 《死亡搁浅》只能说是“一半”符合这一点\NAnd the strange thing is that {\i1}Death Stranding{\i0} kind of meets this halfway.
+Dialogue: 0,0:15:23.57,0:15:26.90,辉中,,0,0,0,,我觉得它的游戏系统并没那么复杂 也没多么深奥\NWhat I mean is that the gameplay system is not very robust,
+Dialogue: 0,0:15:26.90,0:15:29.54,辉中,,0,0,0,,我觉得它的游戏系统并没那么复杂 也没多么深奥\Nor extremely dense and complicated,
+Dialogue: 0,0:15:29.54,0:15:35.02,辉中,,0,0,0,,不需要花上好几个小时的研究才能学会\Nrequiring hours upon hours of intensive research and studying to understand it.
+Dialogue: 0,0:15:35.02,0:15:36.75,辉中,,0,0,0,,相反 它的游戏系统非常简单\NRather it's pretty simple,
+Dialogue: 0,0:15:36.75,0:15:41.87,辉中,,0,0,0,,玩家只要无脑把东西从A点送到B点就好了\Nand just requires the player to mindlessly deliver packages from point A to point B.
+Dialogue: 0,0:15:41.87,0:15:46.80,辉中,,0,0,0,,而游戏需要玩家大量投入精力的是它的叙事\NWhat does require a huge amount of investment on the part of the player is the narrative.
+Dialogue: 0,0:15:46.80,0:15:50.02,辉中,,0,0,0,,就当前来说 开头部分最牛逼的场景\NFor instance, the best moment in this introductory section
+Dialogue: 0,0:15:50.02,0:15:52.76,辉中,,0,0,0,,是我们亲身经历的虚空噬灭\Nis the Voidout that we get to witness up-close.
+Dialogue: 0,0:15:52.76,0:15:54.85,辉中,,0,0,0,,很诡异 很神奇\NIt's bizarre and fantastic.
+Dialogue: 0,0:15:54.85,0:15:56.94,辉中,,0,0,0,,真的 这里有意思的东西太多了\NReally, there are a lot of interesting things here
+Dialogue: 0,0:15:56.94,0:15:59.80,辉中,,0,0,0,,我们几分钟后会详细说\Nand we're gonna go over them in detail in just a few minutes.
+Dialogue: 0,0:15:59.80,0:16:02.15,辉中,,0,0,0,,我不知道大家怎样想 但当我第一次看到这个时\NNow I don't know about you but when I saw this first
+Dialogue: 0,0:16:02.15,0:16:04.77,辉中,,0,0,0,,我还担心制作者不会给他们所展示的大多数内容做出解释\NI was concerned that they weren't actually going to have answers
+Dialogue: 0,0:16:04.77,0:16:06.59,辉中,,0,0,0,,我还担心制作者不会给他们所展示的大多数内容做出解释\Nfor most of the things that they were showing.
+Dialogue: 0,0:16:06.59,0:16:07.88,辉中,,0,0,0,,但他们真做到了\NBut they actually do,
+Dialogue: 0,0:16:07.88,0:16:10.51,辉中,,0,0,0,,而且感觉小岛秀夫想得很全面\Nand it looks like Kojima thought most of this through
+Dialogue: 0,0:16:10.51,0:16:14.39,辉中,,0,0,0,,至少思考方式真的很符合玩家心中那个小岛秀夫\Nat least in as bizarre way as you would expect from Kojima.
+Dialogue: 0,0:16:14.39,0:16:17.92,辉中,,0,0,0,,玩家只要等个大约38小时就能得到解答\NYou just have to wait roughly 38 hours to get those answers.
+Dialogue: 0,0:16:17.92,0:16:20.34,辉中,,0,0,0,,其他问题也是因此产生的：\NOther problems also arise due to the fact
+Dialogue: 0,0:16:20.34,0:16:24.05,辉中,,0,0,0,,游戏是用日语进行叙述和编写的\Nthat the game was developed narratively and written in Japanese
+Dialogue: 0,0:16:24.05,0:16:28.08,辉注,,0,0,0,,"ported" 这里是“翻译”的意思\N和山姆的派送员（porter）职责双关
+Dialogue: 0,0:16:24.05,0:16:28.08,辉中,,0,0,0,,然后被“移植”……懂了吗？移植到了英语\Nand then it was "ported" … get it? … over to English.
+Dialogue: 0,0:16:28.08,0:16:30.13,辉中,,0,0,0,,认识到这点实际上非常重要\NThis is actually incredibly important to understand
+Dialogue: 0,0:16:30.13,0:16:34.37,辉中,,0,0,0,,我觉得这是《死亡搁浅》中很多剧情被批评的原因之一\Nand I think it's a reason why a lot of the writing in {\i1}Death Stranding{\i0} has been panned.
+Dialogue: 0,0:16:34.37,0:16:36.58,辉中,,0,0,0,,游戏是用日语写的\NThis is a Japanese written story.
+Dialogue: 0,0:16:36.58,0:16:41.97,辉中,,0,0,0,,所以对话是小岛和他的团队从原作翻译成英语给演员演出的\NThus the dialogue is translated from the original writings of Kojima and his team
+Dialogue: 0,0:16:41.97,0:16:44.41,辉中,,0,0,0,,所以对话是小岛和他的团队从原作翻译成英语给演员演出的\Ninto English for the actors.
+Dialogue: 0,0:16:44.41,0:16:49.18,辉中,,0,0,0,,而这有时会导致一些非常奇怪笨拙的对话\NAnd this can at times lead to some really strange and clunky phrasings.
+Dialogue: 0,0:16:49.18,0:16:51.69,辉中,,0,0,0,,不着急 我们一会还会说这个问题\NBut don't worry we'll get to this more later.
+Dialogue: 0,0:16:51.69,0:16:56.16,辉中,,0,0,0,,可以说 《死亡搁浅》把一堆花里胡哨的电影镜头放在游戏开头\NNow you could argue that {\i1}Death Stranding{\i0} front-load some of its more flashy cinematic sequences
+Dialogue: 0,0:16:56.16,0:16:57.72,辉中,,0,0,0,,我觉得这样评价是合理的\Nand I think that that's fair to say
+Dialogue: 0,0:16:57.72,0:17:00.41,辉中,,0,0,0,,尤其我们刚刚看到的虚空噬灭的画面\Nespecially with that Voidout sequence that we just looked at.
+Dialogue: 0,0:17:00.41,0:17:03.91,辉中,,0,0,0,,但我个人认为 把更有趣的游玩内容放在开头或许更好一点\NBut in my opinion front-loading gameplay would have been a better idea
+Dialogue: 0,0:17:03.91,0:17:09.48,辉中,,0,0,0,,否则玩家会先入为主地认为游戏节奏很慢 觉得游戏无趣\Ndue to gamers' preconceived notions that the game is slow and has uninteresting gameplay.
+Dialogue: 0,0:17:09.48,0:17:12.57,辉中,,0,0,0,,我也不好说 只是我的个人观点 欢迎大家在下面讨论\NI don't know, that's just my opinion though, let me know your thoughts below.
+Dialogue: 0,0:17:12.57,0:17:17.28,辉中,,0,0,0,,此外 即使有精心制作 华丽震撼 甚至在视觉上引人入胜的剧情动画\NBeyond this, even with elaborate cutscenes shown off that are very flashy interesting
+Dialogue: 0,0:17:17.28,0:17:20.27,辉中,,0,0,0,,此外 即使有精心制作 华丽震撼 甚至在视觉上引人入胜的剧情动画\Nand even visually intriguing shall we say,
+Dialogue: 0,0:17:20.27,0:17:25.07,辉中,,0,0,0,,《死亡搁浅》的前两个小时仍然非常枯燥 甚至令人困惑\Nthese first 2 hours of {\i1}Death Stranding{\i0} are very bland, And even downright confusing,
+Dialogue: 0,0:17:25.07,0:17:29.31,辉中,,0,0,0,,我倒是还算接受 毕竟这只是个序章\Nwhich i think is actually okay because it is a prologue after all.
+Dialogue: 0,0:17:29.31,0:17:33.62,辉中,,0,0,0,,而且我认为 如果序章不带点迷惑和吸引力\NAnd I think if a prologue wasn't at least somewhat confusing and intriguing
+Dialogue: 0,0:17:33.62,0:17:35.86,辉中,,0,0,0,,就不是一个好序章\Nit probably wouldn't be doing its job.
+Dialogue: 0,0:17:35.86,0:17:37.81,辉中,,0,0,0,,而从这里开始 故事要发展了\NBut from here the story progresses.
+Dialogue: 0,0:17:37.81,0:17:40.36,辉中,,0,0,0,,这些过场介绍了主要角色\NMostly through cutscenes featuring the main cast,
+Dialogue: 0,0:17:40.36,0:17:44.41,辉中,,0,0,0,,比如山姆 亚美莉 玛玛 亡人 硬汉 心人 希格斯 克利福德等\Npeople like Sam, Fragile, Amelie, Mama, Deadman, Die-Hardman
+Dialogue: 0,0:17:44.41,0:17:46.99,辉中,,0,0,0,,比如山姆 亚美莉 玛玛 亡人 硬汉 心人 希格斯 克利福德等\NHeartman, Higgs, Cliff and some others.
+Dialogue: 0,0:17:46.99,0:17:49.67,辉中,,0,0,0,,其中一些场景演出非常棒\NSome of these scenes are actually really well acted.
+Dialogue: 0,0:17:49.67,0:17:54.13,辉中,,0,0,0,,我觉得麦斯·米科尔森拿下TGA 2019最佳表演奖是有原因的\NI mean there's a reason that Mads Mikkelsen won the game award for best performance.
+Dialogue: 0,0:17:54.13,0:17:58.26,辉中,,0,0,0,,但其他一些场景就不那么……\NBut some other scenes are … well … not.
+Dialogue: 0,0:17:58.26,0:18:03.38,辉中,,0,0,0,,比如 蕾雅·赛杜的场景都很棒 除了台词内容一般\NFor instance, Léa Seydoux's scenes are universally awesome in spite of the writing.
+Dialogue: 0,0:18:03.38,0:18:06.72,辉中,,0,0,0,,倒不是说听懂她说啥很重要\NNot because of I think that's important to understand.
 Dialogue: 4,0:18:07.55,0:18:11.62,辉中 Script,,0,0,0,,我芙拉吉尔……并不是表面那般脆弱。
-Dialogue: 0,0:18:12.66,0:18:17.63,辉中,,0,0,0,,In fact, her scenes are even up there with Mads Mikkelsen's, which I think is high praise.
-Dialogue: 0,0:18:17.63,0:18:21.48,辉中,,0,0,0,,She has a very dry and yet emotional way of delivering her dialogue.
-Dialogue: 0,0:18:21.48,0:18:23.85,辉中,,0,0,0,,And while it does seem stilted at times,
-Dialogue: 0,0:18:23.85,0:18:27.57,辉中,,0,0,0,,I think that's mostly a result of the dialogue she's being fed.
-Dialogue: 0,0:18:27.57,0:18:32.42,辉中,,0,0,0,,There's no question that most of these actors are highly qualified to be in this piece
-Dialogue: 0,0:18:32.42,0:18:35.28,辉中,,0,0,0,,whether you're looking at Mads, Léa or Norman,
-Dialogue: 0,0:18:35.28,0:18:40.51,辉中,,0,0,0,,all of these guys are qualified and are very talented performers.
-Dialogue: 0,0:18:40.51,0:18:42.34,辉中,,0,0,0,,So perhaps I'm being unreasonable,
-Dialogue: 0,0:18:42.34,0:18:46.52,辉中,,0,0,0,,but to me it seems fair to blame most of the stilted lines and delivery
-Dialogue: 0,0:18:46.52,0:18:50.78,辉中,,0,0,0,,on the direction and the writing as opposed to the performances.
-Dialogue: 0,0:18:50.78,0:18:57.51,辉中,,0,0,0,,However some of the performances that we see are downright bizarre and laughably bad.
-Dialogue: 0,0:18:57.51,0:19:03.60,辉中,,0,0,0,,In my opinion, one of the worst performances we see in the game is that of Bridget / Amelie.
-Dialogue: 0,0:19:03.60,0:19:07.58,辉中,,0,0,0,,These scenes are bizarre, they're staged strangely,
-Dialogue: 0,0:19:07.58,0:19:09.78,辉中,,0,0,0,,they're written in extremely verbose ways.
-Dialogue: 0,0:19:09.78,0:19:13.89,辉中,,0,0,0,,And they're presented in a manner that makes it seem like it should be very profound,
-Dialogue: 0,0:19:13.89,0:19:16.78,辉中,,0,0,0,,yet it appears to the viewer almost comedic.
-Dialogue: 0,0:19:16.78,0:19:21.02,辉中,,0,0,0,,In fact at the end of the game Amelie rambles for roughly 40 minutes,
-Dialogue: 0,0:19:21.02,0:19:24.18,辉中,,0,0,0,,slathering the player in unprompted exposition.
-Dialogue: 0,0:19:24.18,0:19:27.84,辉中,,0,0,0,,And when I was playing this for the first time I was actually in my bedroom,
-Dialogue: 0,0:19:27.84,0:19:31.22,辉中,,0,0,0,,and my fiancee Nikki was sitting on the bed watching me play.
-Dialogue: 0,0:19:31.22,0:19:34.37,辉中,,0,0,0,,And, well, this was her reaction to Amelie
-Dialogue: 0,0:19:34.37,0:19:38.18,辉中,,0,0,0,,finally finishing one of her 10 minute monologue diatribes.
-Dialogue: 0,0:19:38.18,0:19:40.51,辉中,,0,0,0,,10 minutes to go?!
-Dialogue: 0,0:19:51.78,0:19:55.64,辉中,,0,0,0,,And a lot of things actually follow this trend in {\i1}Death Stranding{\i0}:
-Dialogue: 0,0:19:55.64,0:20:01.68,辉中,,0,0,0,,inexplicably bad pacing, dialogue and hilariously weird directorial choices.
+Dialogue: 0,0:18:12.66,0:18:17.63,辉中,,0,0,0,,而是她的演出完全可以和麦斯·米科尔森分庭抗礼 这是很高的评价\NIn fact, her scenes are even up there with Mads Mikkelsen's, which I think is high praise.
+Dialogue: 0,0:18:17.63,0:18:21.48,辉中,,0,0,0,,她的对话非常干练而又充满情感\NShe has a very dry and yet emotional way of delivering her dialogue.
+Dialogue: 0,0:18:21.48,0:18:23.85,辉中,,0,0,0,,当然偶尔可能显得有点呆\NAnd while it does seem stilted at times,
+Dialogue: 0,0:18:23.85,0:18:27.57,辉中,,0,0,0,,但我觉得这主要是台词的问题\NI think that's mostly a result of the dialogue she's being fed.
+Dialogue: 0,0:18:27.57,0:18:32.42,辉中,,0,0,0,,毫无疑问 这些演员多数都足够有实力出演这部作品\NThere's no question that most of these actors are highly qualified to be in this piece
+Dialogue: 0,0:18:32.42,0:18:35.28,辉中,,0,0,0,,无论是麦斯·米科尔森 蕾雅·赛杜还是诺曼·李杜斯\Nwhether you're looking at Mads, Léa or Norman,
+Dialogue: 0,0:18:35.28,0:18:40.51,辉中,,0,0,0,,他们都是天赋异禀的实力派演员\Nall of these guys are qualified and are very talented performers.
+Dialogue: 0,0:18:40.51,0:18:42.34,辉中,,0,0,0,,所以可能是我有点不讲理了\NSo perhaps I'm being unreasonable,
+Dialogue: 0,0:18:42.34,0:18:48.37,辉中,,0,0,0,,但我认为应该把大部分呆板的台词和表演归咎于导演和编剧\Nbut to me it seems fair to blame most of the stilted lines and delivery on the direction and the writing
+Dialogue: 0,0:18:48.37,0:18:50.78,辉中,,0,0,0,,而不是演员\N as opposed to the performances.
+Dialogue: 0,0:18:50.78,0:18:57.51,辉中,,0,0,0,,然而我发现有一些表演完全是诡异到令人发笑\NHowever some of the performances that we see are downright bizarre and laughably bad.
+Dialogue: 0,0:18:57.51,0:19:03.60,辉中,,0,0,0,,我个人认为 游戏里演的最烂的是布丽吉特/亚美莉\NIn my opinion, one of the worst performances we see in the game is that of Bridget / Amelie.
+Dialogue: 0,0:19:03.60,0:19:07.58,辉中,,0,0,0,,场景很离谱 背景很怪异\NThese scenes are bizarre, they're staged strangely,
+Dialogue: 0,0:19:07.58,0:19:09.78,辉中,,0,0,0,,写得还又臭又长\Nthey're written in extremely verbose ways.
+Dialogue: 0,0:19:09.78,0:19:13.89,辉中,,0,0,0,,而且它们的表现方式应该让人觉得是非常深刻的\NAnd they're presented in a manner that makes it seem like it should be very profound,
+Dialogue: 0,0:19:13.89,0:19:16.78,辉中,,0,0,0,,结果观众眼里却像看喜剧片一样\Nyet it appears to the viewer almost comedic.
+Dialogue: 0,0:19:16.78,0:19:21.02,辉中,,0,0,0,,事实上 游戏结尾部分亚美莉叨叨了能有四十分钟\NIn fact at the end of the game Amelie rambles for roughly 40 minutes,
+Dialogue: 0,0:19:21.02,0:19:24.18,辉中,,0,0,0,,玩家还只能一边听着 啥都干不了\Nslathering the player in unprompted exposition.
+Dialogue: 0,0:19:24.18,0:19:27.84,辉中,,0,0,0,,我第一次玩到这段的时候我在卧室里\NAnd when I was playing this for the first time I was actually in my bedroom,
+Dialogue: 0,0:19:27.84,0:19:31.22,辉中,,0,0,0,,我未婚妻Nikki就在床上看我玩\Nand my fiancee Nikki was sitting on the bed watching me play.
+Dialogue: 0,0:19:31.22,0:19:34.37,辉中,,0,0,0,,她当时看亚美莉终于完成她10分钟的一段独白后反应如下：\NAnd, well, this was her reaction to Amelie
+Dialogue: 0,0:19:34.37,0:19:38.18,辉中,,0,0,0,,她当时看亚美莉终于完成她10分钟的一段独白后反应如下：\Nfinally finishing one of her 10 minute monologue diatribes.
+Dialogue: 0,0:19:38.18,0:19:40.51,辉中,,0,0,0,,她都磨叽十分钟啦！\N10 minutes to go!!
+Dialogue: 0,0:19:51.78,0:19:55.64,辉中,,0,0,0,,而在《死亡搁浅》中 很多地方都有这个毛病：\NAnd a lot of things actually follow this trend in {\i1}Death Stranding{\i0}:
+Dialogue: 0,0:19:55.64,0:20:01.68,辉中,,0,0,0,,莫名其妙的乱节奏 对话和导演奇怪又搞笑的选择\Ninexplicably bad pacing, dialogue and hilariously weird directorial choices.
 Dialogue: 0,0:20:01.68,0:20:05.33,辉中,,0,0,0,,有些人可能会辩解说这是小岛的风格\NNow some people will say that this is just Kojima's style.
 Dialogue: 0,0:20:05.33,0:20:09.14,辉中,,0,0,0,,他们这样说是为了给游戏古怪的设计辩护\NThey say this to defend the game's more eccentric design choices,
 Dialogue: 0,0:20:09.14,0:20:11.28,辉中,,0,0,0,,而这对我来说简直太怪了\Nand this is one of the weirder things to me.
 Dialogue: 0,0:20:11.28,0:20:15.91,辉中,,0,0,0,,这些人完全是在为没有任何意义的东西辩护\NPeople are defending something that doesn't hold any weight themselves.
-Dialogue: 0,0:20:15.91,0:20:21.46,辉中,,0,0,0,,我指的"游戏中的奇怪设定"是说\NWhat I mean is that of all of the things to conceive as weird design choices,
+Dialogue: 0,0:20:15.91,0:20:21.46,辉中,,0,0,0,,我指的“游戏中的奇怪设定”是说\NWhat I mean is that of all of the things to conceive as weird design choices,
 Dialogue: 0,0:20:21.46,0:20:27.66,辉中,,0,0,0,,比如游戏角色拉屎的时候给你插播一条广告\Nit would be something like a planted ad while a character in the game goes poop.
-Dialogue: 0,0:20:27.74,0:20:31.95,辉中,,0,0,0,,这种设定大家都会觉得是"奇怪"的\NThat seems like something we could all agree is a weird thing to include.
-Dialogue: 0,0:20:31.95,0:20:36.35,辉中,,0,0,0,,但这时候一些小岛的狂热粉丝就会跳出来说"这是小岛的风格"\NBut the hardcore Kojima fans will defend this as part of his style,
-Dialogue: 0,0:20:36.35,0:20:39.22,辉中,,0,0,0,,说些"不喜欢就是没理解"这些难懂的话\Nand if you don't like it you simply don't get it.
+Dialogue: 0,0:20:27.74,0:20:31.95,辉中,,0,0,0,,这种设定大家都会觉得是“奇怪”的\NThat seems like something we could all agree is a weird thing to include.
+Dialogue: 0,0:20:31.95,0:20:36.35,辉中,,0,0,0,,但这时候一些小岛的狂热粉丝就会跳出来说“这是小岛的风格”\NBut the hardcore Kojima fans will defend this as part of his style,
+Dialogue: 0,0:20:36.35,0:20:39.22,辉中,,0,0,0,,说些“不喜欢就是没理解”这些难懂的话\Nand if you don't like it you simply don't get it.
 Dialogue: 0,0:20:39.22,0:20:41.80,辉中,,0,0,0,,我真不想在这再解释这些了\NNow I don't need to explain that ad nauseam,
 Dialogue: 0,0:20:41.80,0:20:45.11,辉中,,0,0,0,,这明显就是一种诉诸权威谬误\Nthe fact that this is an appeal to authority fallacy.
 Dialogue: 0,0:20:45.11,0:20:50.10,辉中,,0,0,0,,完全无法理解 愚蠢至极\NIt's completely incomprehensible and in fact it's the height of stupidity.
 Dialogue: 0,0:20:50.10,0:20:52.65,辉中,,0,0,0,,不过我相信如果你已经看到这了\NChances are if you've made it this far into this video,
-Dialogue: 0,0:20:52.65,0:20:56.63,辉中,,0,0,0,,那你肯定不是那种张口闭口就是"不喜欢就是没理解"这些话的玩家\Nyou're not the type of person that's going to be defending a choice like this
-Dialogue: 0,0:20:56.63,0:21:00.10,辉中,,0,0,0,,那你肯定不是那种张口闭口就是"不喜欢就是没理解"这些话的玩家\Nwith the defense that if you don't like it you just don't get it.
+Dialogue: 0,0:20:52.65,0:20:56.63,辉中,,0,0,0,,那你肯定不是那种张口闭口就是“不喜欢就是没理解”这些话的玩家\Nyou're not the type of person that's going to be defending a choice like this
+Dialogue: 0,0:20:56.63,0:21:00.10,辉中,,0,0,0,,那你肯定不是那种张口闭口就是“不喜欢就是没理解”这些话的玩家\Nwith the defense that if you don't like it you just don't get it.
 Dialogue: 0,0:21:00.10,0:21:02.06,辉中,,0,0,0,,我还是要强调一下\NI can't reiterate this enough.
 Dialogue: 0,0:21:02.06,0:21:06.67,辉中,,0,0,0,,一个东西好坏跟是不是作者风格没关系\NJust because it's his style doesn't mean that something is good.
 Dialogue: 0,0:21:06.67,0:21:11.32,辉中,,0,0,0,,比如我现在就可以搞个独特的风格 比如录所有的东西都不做剪辑\NFor instance I can have a style that's very unique like filming everything without cuts
@@ -395,19 +400,19 @@ Dialogue: 0,0:22:00.40,0:22:01.77,辉中,,0,0,0,,简直迷惑行为\NIt's really
 Dialogue: 0,0:22:01.77,0:22:06.05,辉中,,0,0,0,,我都不知道这帮脑残粉到底是杰夫·基思利请的一帮水军\NAnd I don't know if it's just an army of accounts that Geoff Keighley has created
 Dialogue: 0,0:22:06.05,0:22:08.37,辉中,,0,0,0,,还是真实存在的大活人\Nor if there are actual people out there that
 Dialogue: 0,0:22:08.37,0:22:12.53,辉中,,0,0,0,,小岛放个屁都是香的\Ndefend everything Kojima does as holy and infallible.
-Dialogue: 0,0:22:12.72,0:22:15.09,辉中,,0,0,0,,有请我们的行业标杆——小岛秀夫先生!\N( Please welcome our industry icon, ) Mr. Hideo Kojima
+Dialogue: 0,0:22:12.72,0:22:15.09,辉中,,0,0,0,,（有请我们的行业标杆——）小岛秀夫先生!\N(Please welcome our industry icon,) Mr. Hideo Kojima
 Dialogue: 0,0:22:35.24,0:22:39.01,辉中,,0,0,0,,总之 这种行为真的很缺乏理性\NBut regardless it is the height of irrationality.
-Dialogue: 0,0:22:39.01,0:22:43.52,辉中,,0,0,0,,Even now I'm sure if you look in the comments section of this video you're going to see people
-Dialogue: 0,0:22:43.52,0:22:48.07,辉中,,0,0,0,,defending things that Kojima did in this game and problems with {\i1}Death Stranding{\i0},
-Dialogue: 0,0:22:48.07,0:22:51.21,辉中,,0,0,0,,saying that "if you don't like it, you just don't get it".
-Dialogue: 0,0:22:51.21,0:22:53.78,辉中,,0,0,0,,Now if you don't know what Stockholm Syndrome is,
-Dialogue: 0,0:22:53.78,0:22:58.64,辉中,,0,0,0,,it's basically when somebody develops feelings of admiration or respect for someone with whom
-Dialogue: 0,0:22:58.64,0:23:01.17,辉中,,0,0,0,,they should have negative feelings.
-Dialogue: 0,0:23:01.24,0:23:07.26,辉中,,0,0,0,,So I'm going to call what we're seeing with these sick of fantic Kojima fans "Kojima Syndrome".
-Dialogue: 0,0:23:07.26,0:23:10.31,辉中,,0,0,0,,Maybe somebody else has come up with a name for this that's more fitting but …
-Dialogue: 0,0:23:10.31,0:23:13.72,辉中,,0,0,0,,I'm calling it "Kojima Syndrome" because it's like Stockholm Syndrome
-Dialogue: 0,0:23:13.72,0:23:15.40,辉中,,0,0,0,,and I find it kind of funny.
-Dialogue: 0,0:23:15.40,0:23:17.61,辉中,,0,0,0,,Let's try applying this to several examples.
+Dialogue: 0,0:22:39.01,0:22:43.52,辉中,,0,0,0,,甚至现在我敢肯定大家去评论区还能找到这类人\NEven now I'm sure if you look in the comments section of this video you're going to see people
+Dialogue: 0,0:22:43.52,0:22:48.07,辉中,,0,0,0,,把《死亡搁浅》里小岛秀夫弄的奇葩内容辩护为\Ndefending things that Kojima did in this game and problems with {\i1}Death Stranding{\i0},
+Dialogue: 0,0:22:48.07,0:22:51.21,辉中,,0,0,0,,“你不喜欢就是没看懂”云云\Nsaying that "if you don't like it, you just don't get it".
+Dialogue: 0,0:22:51.21,0:22:53.78,辉中,,0,0,0,,不知道大家听没听过“斯德哥尔摩综合征”\NNow if you don't know what Stockholm Syndrome is,
+Dialogue: 0,0:22:53.78,0:22:58.64,辉中,,0,0,0,,简言之就是某人会对自己本该讨厌的人产生敬仰爱慕之情\Nit's basically when somebody develops feelings of admiration or respect for someone with whom
+Dialogue: 0,0:22:58.64,0:23:01.17,辉中,,0,0,0,,简言之就是某人会对自己本该讨厌的人产生敬仰爱慕之情\Nthey should have negative feelings.
+Dialogue: 0,0:23:01.24,0:23:07.26,辉中,,0,0,0,,所以我决定将小岛秀夫脑残粉的一些极端行为称为“小岛秀夫综合征”\NSo I'm going to call what we're seeing with these sick of fantic Kojima fans "Kojima Syndrome".
+Dialogue: 0,0:23:07.26,0:23:10.31,辉中,,0,0,0,,可能大家还能想到比这更合适的词 但……\NMaybe somebody else has come up with a name for this that's more fitting but …
+Dialogue: 0,0:23:10.31,0:23:13.72,辉中,,0,0,0,,我就用这个词了 因为它很像斯德哥尔摩综合征\NI'm calling it "Kojima Syndrome" because it's like Stockholm Syndrome
+Dialogue: 0,0:23:13.72,0:23:15.40,辉中,,0,0,0,,想想还挺好笑的\Nand I find it kind of funny.
+Dialogue: 0,0:23:15.40,0:23:17.61,辉中,,0,0,0,,我们来找一些临床上的病例\NLet's try applying this to several examples.
 Dialogue: 0,0:23:17.80,0:23:20.41,辉中,,0,0,0,,There are little to no animals in the game.
 Dialogue: 0,0:23:20.41,0:23:25.60,辉中,,0,0,0,,Even though we see a plethora of them in the introductory cutscene of the title.
 Dialogue: 0,0:23:25.60,0:23:31.07,辉中,,0,0,0,,Is this a lazy short coming due to technical restraints or budgetary restrictions?
@@ -733,7 +738,7 @@ Dialogue: 0,0:43:08.58,0:43:10.94,辉中,,0,0,0,,Namely that the world is though
 Dialogue: 0,0:43:10.94,0:43:14.43,辉中,,0,0,0,,No one cares if a world is unrealistic or crazy
 Dialogue: 0,0:43:14.43,0:43:17.90,辉中,,0,0,0,,that's never held back sci-fi or fantasy stories before.
 Dialogue: 0,0:43:17.90,0:43:23.57,辉中,,0,0,0,,Rather, we just ask that the world live according to the rules that are supposed to govern it.
-Dialogue: 0,0:43:23.57,0:43:25.86,辉中,,0,0,0,,For instance if you were watching Star Wars,
+Dialogue: 0,0:43:23.57,0:43:25.86,辉中,,0,0,0,,For instance if you were watching {\i1}Star Wars{\i0},
 Dialogue: 0,0:43:25.86,0:43:30.15,辉中,,0,0,0,,and the evil Sith Lord is chilling out on a spaceship with a bunch of aliens,
 Dialogue: 0,0:43:30.15,0:43:34.23,辉中,,0,0,0,,while sensing other people's energy using a magical power called the Force,
 Dialogue: 0,0:43:34.23,0:43:38.83,辉中,,0,0,0,,and traveling at Lightspeed through an imaginary galaxy, you wouldn't care!
@@ -1202,7 +1207,7 @@ Dialogue: 0,1:12:17.52,1:12:21.56,辉中,,0,0,0,,that you've seen throughout the
 Dialogue: 0,1:12:21.56,1:12:23.95,辉中,,0,0,0,,coming out of a private room for instance.
 Dialogue: 0,1:12:23.95,1:12:28.77,辉中,,0,0,0,,Now we get a new perspective, and we see all of these sequences play out in order.
 Dialogue: 0,1:12:28.77,1:12:30.79,辉中,,0,0,0,,And it's actually pretty heartbreaking.
-Dialogue: 0,1:12:30.79,1:12:36.29,辉中,,0,0,0,,This is the place where Mads Mikkelsen actually earns his game Award for Best Performance.
+Dialogue: 0,1:12:30.79,1:12:36.29,辉中,,0,0,0,,This is the place where Mads Mikkelsen actually earns his game award for best performance.
 Dialogue: 0,1:12:36.29,1:12:37.78,辉中,,0,0,0,,He really nails it here.
 Dialogue: 0,1:12:37.78,1:12:42.89,辉中,,0,0,0,,It's beautiful, it's sweet, it's sad, it's endearing, it's … everything.
 Dialogue: 0,1:12:42.89,1:12:46.40,辉中,,0,0,0,,It's incredibly emotional and I really enjoyed this.
