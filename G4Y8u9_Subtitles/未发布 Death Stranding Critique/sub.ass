@@ -16,9 +16,9 @@ Video File: ../../../../../Video/给没组/DS/RAW.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 655
-Active Line: 663
-Video Position: 72983
+Scroll Position: 817
+Active Line: 826
+Video Position: 89831
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -661,7 +661,7 @@ Dialogue: 0,0:37:59.91,0:38:03.50,辉中,,0,0,0,,当然还有对背景里穿行�
 Dialogue: 0,0:38:03.50,0:38:07.30,辉中,,0,0,0,,虽然之后游戏中几乎再也看不到动物了\NEven though you're not going to see hardly any of these things later on,
 Dialogue: 0,0:38:07.30,0:38:10.90,辉中,,0,0,0,,但这里展现时间雨的威力感觉还是挺酷的\Nit's still really cool and it shows you just what this rain can do.
 Dialogue: 0,0:38:10.90,0:38:13.89,辉中,,0,0,0,,山姆加速离开这里 然后突然……\NSam speeds off and then all of a sudden …
-Dialogue: 0,0:38:30.90,0:38:33.37,辉中,,0,0,0,,没错 你好像差点撞死她\NYeah, you seemingly run into her.
+Dialogue: 0,0:38:30.90,0:38:33.37,辉中,,0,0,0,,没错 你差点撞死她\NYeah, you seemingly run into her.
 Dialogue: 0,0:38:33.37,0:38:39.24,辉中,,0,0,0,,不过她能够传送到一个冥滩中 “冥滩”是游戏中的另一个世界\NTurns out she can teleport away to a Beach which is this game world's effective purgatory.
 Dialogue: 0,0:38:39.24,0:38:42.33,辉中,,0,0,0,,每个人死后都会去他们自己的冥滩中\NBasically when somebody dies they go to their own Beach,
 Dialogue: 0,0:38:42.33,0:38:46.47,辉中,,0,0,0,,这是此生与来生之间过渡的地带\Nand this is the intermediate place between this life and the afterlife.
@@ -696,168 +696,169 @@ Dialogue: 0,0:40:24.97,0:40:28.23,辉中,,0,0,0,,以及这个世界中的人们�
 Dialogue: 0,0:40:28.23,0:40:32.50,辉中,,0,0,0,,我不是说制作组需要立即为这些问题给出答案\NNo I'm not saying that Kojima Productions has to explain all of these things immediately.
 Dialogue: 0,0:40:32.50,0:40:35.18,辉中,,0,0,0,,实际上我觉得上来就把一切告诉你的故事会非常糟糕\NIn fact I think that would make a pretty terrible story
 Dialogue: 0,0:40:35.18,0:40:38.40,辉中,,0,0,0,,实际上我觉得上来就把一切告诉你的故事会非常糟糕\Nif everything was exposed at all at once.
-Dialogue: 0,0:40:38.40,0:40:42.27,辉中,,0,0,0,,But it does make {\i1}Death Stranding{\i0} appear as though
-Dialogue: 0,0:40:42.27,0:40:45.81,辉中,,0,0,0,,it is suffering from a severe case of "lost-itis".
-Dialogue: 0,0:40:45.81,0:40:49.68,辉中,,0,0,0,,Namely that they were doing and establishing really weird things in the world
-Dialogue: 0,0:40:49.68,0:40:53.77,辉中,,0,0,0,,just because it looked cool and was crazy and eye-catching.
-Dialogue: 0,0:40:53.77,0:40:57.31,辉中,,0,0,0,,This is actually something that the developers over at Guerrilla Games,
-Dialogue: 0,0:40:57.31,0:41:01.42,辉中,,0,0,0,,the creators of {\i1}Horizon Zero Dawn{\i0}, hazard against vehemently.
-Dialogue: 0,0:41:01.42,0:41:05.39,辉中,,0,0,0,,In fact if you watch the documentary explaining how they created {\i1}Horizon Zero Dawn{\i0}
-Dialogue: 0,0:41:05.39,0:41:08.77,辉中,,0,0,0,,you'll hear them discuss what they call "the rule of cool".
-Dialogue: 0,0:41:08.77,0:41:12.50,辉中,,0,0,0,,This is basically the idea that you should never put something in the game
-Dialogue: 0,0:41:12.50,0:41:14.24,辉中,,0,0,0,,just because it's cool.
-Dialogue: 0,0:41:14.24,0:41:16.83,辉中,,0,0,0,,And this is also true of the story.
-Dialogue: 0,0:41:16.83,0:41:21.39,辉中,,0,0,0,,If you start falling victim and prey to the rule of cool,
-Dialogue: 0,0:41:21.39,0:41:25.60,辉中,,0,0,0,,all of a sudden the game is going to be nothing but dinosaurs that shoot lasers
-Dialogue: 0,0:41:25.60,0:41:29.26,辉中,,0,0,0,,and have flamethrowers and everybody is half-naked.
-Dialogue: 0,0:41:29.26,0:41:32.14,辉中,,0,0,0,,It's gonna get out of hand really quickly.
-Dialogue: 0,0:41:32.14,0:41:34.84,辉中,,0,0,0,,Furthermore, you can get yourself into a lot of trouble
-Dialogue: 0,0:41:34.84,0:41:37.23,辉中,,0,0,0,,trying to write your way out of this hole.
-Dialogue: 0,0:41:37.23,0:41:40.88,辉中,,0,0,0,,The TV show {\i1}Lost{\i0} ended up in this exact position.
-Dialogue: 0,0:41:40.88,0:41:44.21,辉中,,0,0,0,,When they had a lot of really cool crazy things they were showing off,
-Dialogue: 0,0:41:44.21,0:41:48.35,辉中,,0,0,0,,even though they had no idea how they were going to explain it later on.
-Dialogue: 0,0:41:48.35,0:41:50.73,辉中,,0,0,0,,Now some people will just accept this writ large.
-Dialogue: 0,0:41:50.73,0:41:52.92,辉中,,0,0,0,,They'll accept that it makes sense within the world,
-Dialogue: 0,0:41:52.92,0:41:56.37,辉中,,0,0,0,,and they'll experience the game the way that the writer wants them to.
-Dialogue: 0,0:41:56.37,0:42:01.97,辉中,,0,0,0,,However the reality is that a lot of players are extremely skeptical of Kojima
-Dialogue: 0,0:42:01.97,0:42:03.50,辉中,,0,0,0,,and his writing ability.
-Dialogue: 0,0:42:03.50,0:42:06.72,辉中,,0,0,0,,So love it or hate it this doesn't do much of anything to convince players
-Dialogue: 0,0:42:06.72,0:42:10.02,辉中,,0,0,0,,who were skeptical of Kojima and the world that he's established here
-Dialogue: 0,0:42:10.02,0:42:14.88,辉中,,0,0,0,,that he's actually thought everything through and that this makes sense.
-Dialogue: 0,0:42:14.88,0:42:16.99,辉中,,0,0,0,,And I suffered from this fear as well.
-Dialogue: 0,0:42:16.99,0:42:19.02,辉中,,0,0,0,,As I play through these opening hours,
-Dialogue: 0,0:42:19.02,0:42:23.61,辉中,,0,0,0,,the fear was real that they hadn't actually backed up any of this stuff.
-Dialogue: 0,0:42:23.61,0:42:28.05,辉中,,0,0,0,,I mean seriously how are they possibly going to explain a bunch of babies
-Dialogue: 0,0:42:28.05,0:42:31.43,辉中,,0,0,0,,that are carried around in tanks on people's bellies
-Dialogue: 0,0:42:31.43,0:42:35.95,辉中,,0,0,0,,or monsters that swim in tar that somehow disappears instantly
-Dialogue: 0,0:42:35.95,0:42:39.02,辉中,,0,0,0,,after some arbitrary distance has been achieved.
-Dialogue: 0,0:42:39.02,0:42:43.40,辉中,,0,0,0,,But I'm happy to report thankfully Kojima did think all of this stuff through,
-Dialogue: 0,0:42:43.40,0:42:47.82,辉中,,0,0,0,,and he does have some answers as to why these things work the way they do
-Dialogue: 0,0:42:47.82,0:42:51.00,辉中,,0,0,0,,even if they are vague and kind of insane.
-Dialogue: 0,0:42:51.00,0:42:56.81,辉中,,0,0,0,,However as to whether or not those answers are good is another question entirely.
-Dialogue: 0,0:42:56.81,0:43:02.17,辉中,,0,0,0,,And this is a slight tangent but we need to discuss this at some point so why not now.
-Dialogue: 0,0:43:02.17,0:43:08.58,辉中,,0,0,0,,With a world as strange as {\i1}Death Stranding{\i0}'s, players rightly have a certain expectation.
-Dialogue: 0,0:43:08.58,0:43:10.94,辉中,,0,0,0,,Namely that the world is thought-out and consistent.
-Dialogue: 0,0:43:10.94,0:43:14.43,辉中,,0,0,0,,No one cares if a world is unrealistic or crazy
-Dialogue: 0,0:43:14.43,0:43:17.90,辉中,,0,0,0,,that's never held back sci-fi or fantasy stories before.
-Dialogue: 0,0:43:17.90,0:43:23.57,辉中,,0,0,0,,Rather, we just ask that the world live according to the rules that are supposed to govern it.
-Dialogue: 0,0:43:23.57,0:43:25.86,辉中,,0,0,0,,For instance if you were watching {\i1}Star Wars{\i0},
-Dialogue: 0,0:43:25.86,0:43:30.15,辉中,,0,0,0,,and the evil Sith Lord is chilling out on a spaceship with a bunch of aliens,
-Dialogue: 0,0:43:30.15,0:43:34.23,辉中,,0,0,0,,while sensing other people's energy using a magical power called the Force,
-Dialogue: 0,0:43:34.23,0:43:38.83,辉中,,0,0,0,,and traveling at Lightspeed through an imaginary galaxy, you wouldn't care!
-Dialogue: 0,0:43:38.83,0:43:43.80,辉中,,0,0,0,,Because the laws of the universe that that story takes place within allow that.
-Dialogue: 0,0:43:43.80,0:43:48.69,辉中,,0,0,0,,But if the Sith Lord all of a sudden was able to freeze time itself
-Dialogue: 0,0:43:48.69,0:43:53.90,辉中,,0,0,0,,by beatboxing and rubbing his nipples, you would immediately be turned off …
-Dialogue: 0,0:43:54.14,0:43:58.05,辉中,,0,0,0,,Well … maybe not in … in that way, but nevermind!
-Dialogue: 0,0:43:58.17,0:44:00.76,辉中,,0,0,0,,Point is you have to be consistent.
-Dialogue: 0,0:44:00.76,0:44:04.67,辉中,,0,0,0,,I'm fine with {\i1}Death Stranding{\i0} having magical interdimensional whales,
-Dialogue: 0,0:44:04.67,0:44:09.29,辉中,,0,0,0,,rain that causes time to pass at crazy fast rates and even Norman Reedus.
-Dialogue: 0,0:44:09.29,0:44:13.27,辉中,,0,0,0,,But all I ask is that it's thought out and justified.
-Dialogue: 0,0:44:13.27,0:44:14.70,辉中,,0,0,0,,Anyways moving on.
-Dialogue: 0,0:44:14.70,0:44:18.31,辉中,,0,0,0,,Once you're done talking with fragile you grab up your stuff and deliver it to the city.
-Dialogue: 0,0:44:18.31,0:44:21.41,辉中,,0,0,0,,You walk through a beautiful Valley as music plays and you enter it.
-Dialogue: 0,0:44:21.41,0:44:24.47,辉中,,0,0,0,,This music is really peaceful the scenery is beautiful.
-Dialogue: 0,0:44:24.47,0:44:29.23,辉中,,0,0,0,,But again, you're just walking with a package on your back.
-Dialogue: 0,0:44:29.23,0:44:33.19,辉中,,0,0,0,,Does this achieve either of the two things outlined earlier?
+Dialogue: 0,0:40:38.40,0:40:42.27,辉中,,0,0,0,,但这看起来的确让《死亡搁浅》迷失得有点远\NBut it does make {\i1}Death Stranding{\i0} appear as though
+Dialogue: 0,0:40:42.27,0:40:45.81,辉中,,0,0,0,,但这看起来的确让《死亡搁浅》迷失得有点远\Nit is suffering from a severe case of "lost-itis".
+Dialogue: 0,0:40:45.81,0:40:49.68,辉中,,0,0,0,,就是说 他们在游戏世界中创造了太多很诡异的内容\NNamely that they were doing and establishing really weird things in the world
+Dialogue: 0,0:40:49.68,0:40:53.77,辉中,,0,0,0,,只是因为这些东西看上去很酷炫很抢眼\Njust because it looked cool and was crazy and eye-catching.
+Dialogue: 0,0:40:53.77,0:40:57.31,辉中,,0,0,0,,实际上 制作《地平线 零之曙光》的游骑兵工作室的开发者强烈反对这种行为\NThis is actually something that the developers over at Guerrilla Games,
+Dialogue: 0,0:40:57.31,0:41:01.42,辉中,,0,0,0,,实际上 制作《地平线 零之曙光》的游骑兵工作室的开发者强烈反对这种行为\Nthe creators of {\i1}Horizon Zero Dawn{\i0}, hazard against vehemently.
+Dialogue: 0,0:41:01.42,0:41:05.39,辉中,,0,0,0,,如果你看了他们创作	《地平线 零之曙光》的纪录片\NIn fact if you watch the documentary explaining how they created {\i1}Horizon Zero Dawn{\i0}
+Dialogue: 0,0:41:05.39,0:41:08.77,辉中,,0,0,0,,就应该听过他们关于“酷的规则”的探讨\Nyou'll hear them discuss what they call "the rule of cool".
+Dialogue: 0,0:41:08.77,0:41:12.50,辉中,,0,0,0,,简言之 你不应该只是因为“酷” 就随便把什么东西塞进游戏里\NThis is basically the idea that you should never put something in the game
+Dialogue: 0,0:41:12.50,0:41:14.24,辉中,,0,0,0,,简言之 你不应该只是因为“酷” 就随便把什么东西塞进游戏里\Njust because it's cool.
+Dialogue: 0,0:41:14.24,0:41:16.83,辉中,,0,0,0,,他说的也确实非常在理\NAnd this is also true of the story.
+Dialogue: 0,0:41:16.83,0:41:21.39,辉中,,0,0,0,,如果制作组掉进了这个坑里\NIf you start falling victim and prey to the rule of cool,
+Dialogue: 0,0:41:21.39,0:41:25.60,辉中,,0,0,0,,那么游戏很容易就会变成一堆会喷火的机械恐龙互射激光\Nall of a sudden the game is going to be nothing but dinosaurs that shoot lasers
+Dialogue: 0,0:41:25.60,0:41:29.26,辉中,,0,0,0,,所有角色都是半裸之类辣眼睛的作品\Nand have flamethrowers and everybody is half-naked.
+Dialogue: 0,0:41:29.26,0:41:32.14,辉中,,0,0,0,,把持不住 很容易失控\NIt's gonna get out of hand really quickly.
+Dialogue: 0,0:41:32.14,0:41:34.84,辉中,,0,0,0,,其次 制作组还容易掉进不停圆场解释设定的坑中\NFurthermore, you can get yourself into a lot of trouble
+Dialogue: 0,0:41:34.84,0:41:37.23,辉中,,0,0,0,,其次 制作组还容易掉进不停圆场解释设定的坑中\Ntrying to write your way out of this hole.
+Dialogue: 0,0:41:37.23,0:41:40.88,辉中,,0,0,0,,美剧《迷失》最后就是这样\NThe TV show {\i1}Lost{\i0} ended up in this exact position.
+Dialogue: 0,0:41:40.88,0:41:44.21,辉中,,0,0,0,,塞了一堆花里胡哨的东西\NWhen they had a lot of really cool crazy things they were showing off,
+Dialogue: 0,0:41:44.21,0:41:48.35,辉中,,0,0,0,,结果他们完全不知道之后该怎么讲通这些东西\Neven though they had no idea how they were going to explain it later on.
+Dialogue: 0,0:41:48.35,0:41:50.73,辉中,,0,0,0,,有些玩家会接受这样\NNow some people will just accept this writ large.
+Dialogue: 0,0:41:50.73,0:41:52.92,辉中,,0,0,0,,他们会接受这些在游戏世界中是有意义的\NThey'll accept that it makes sense within the world,
+Dialogue: 0,0:41:52.92,0:41:56.37,辉中,,0,0,0,,他们会按照制作组想要的方式去体验游戏\Nand they'll experience the game the way that the writer wants them to.
+Dialogue: 0,0:41:56.37,0:42:01.97,辉中,,0,0,0,,然而现实是 很多玩家对小岛和他的编剧能力非常怀疑\NHowever the reality is that a lot of players are extremely skeptical of Kojima
+Dialogue: 0,0:42:01.97,0:42:03.50,辉中,,0,0,0,,然而现实是 很多玩家对小岛和他的编剧能力非常怀疑\Nand his writing ability.
+Dialogue: 0,0:42:03.50,0:42:06.72,辉中,,0,0,0,,因此不管喜欢与否 这都无法说服那些\NSo love it or hate it this doesn't do much of anything to convince players
+Dialogue: 0,0:42:06.72,0:42:10.02,辉中,,0,0,0,,对小岛和他在这里建立的游戏世界持怀疑态度的玩家\Nwho were skeptical of Kojima and the world that he's established here
+Dialogue: 0,0:42:10.02,0:42:14.88,辉中,,0,0,0,,让他们相信小岛已经把一切安排明白了\Nthat he's actually thought everything through and that this makes sense.
+Dialogue: 0,0:42:14.88,0:42:16.99,辉中,,0,0,0,,我其实也很害怕这点\NAnd I suffered from this fear as well.
+Dialogue: 0,0:42:16.99,0:42:19.02,辉中,,0,0,0,,游玩开场几小时内容时\NAs I play through these opening hours,
+Dialogue: 0,0:42:19.02,0:42:23.61,辉中,,0,0,0,,我自己总是在担忧他们没办法把眼前的一切解释清楚\Nthe fear was real that they hadn't actually backed up any of this stuff.
+Dialogue: 0,0:42:23.61,0:42:28.05,辉中,,0,0,0,,说真的 人们身前罐子里的婴儿到底要怎么能解释得通？\NI mean seriously, how are they possibly going to explain a bunch of babies
+Dialogue: 0,0:42:28.05,0:42:31.43,辉中,,0,0,0,,说真的 人们身前罐子里的婴儿到底要怎么能解释得通？\Nthat are carried around in tanks on people's bellies
+Dialogue: 0,0:42:31.43,0:42:35.95,辉中,,0,0,0,,或是在焦油中游来游去的怪物 离远了又会突然消失\Nor monsters that swim in tar that somehow disappears instantly
+Dialogue: 0,0:42:35.95,0:42:39.02,辉中,,0,0,0,,或是在焦油中游来游去的怪物 离远了又会突然消失\Nafter some arbitrary distance has been achieved.
+Dialogue: 0,0:42:39.02,0:42:43.40,辉中,,0,0,0,,但还好 谢天谢地 小岛秀夫的确提前经过了深思熟虑\NBut I'm happy to report thankfully Kojima did think all of this stuff through,
+Dialogue: 0,0:42:43.40,0:42:47.82,辉中,,0,0,0,,他也的确对这些内容 原理等给出了一些答案\Nand he does have some answers as to why these things work the way they do
+Dialogue: 0,0:42:47.82,0:42:51.00,辉中,,0,0,0,,虽然可能有点抽象 有点离谱\Neven if they are vague and kind of insane.
+Dialogue: 0,0:42:51.00,0:42:56.81,辉中,,0,0,0,,至于这些答案是否足够好 就是另一回事了\NHowever as to whether or not those answers are good is another question entirely.
+Dialogue: 0,0:42:56.81,0:43:02.17,辉中,,0,0,0,,这也是个不错的切入点 既然聊到这就说说吧\NAnd this is a slight tangent but we need to discuss this at some point so why not now.
+Dialogue: 0,0:43:02.17,0:43:08.58,辉中,,0,0,0,,对于像《死亡搁浅》这样一个奇怪的世界 玩家自然会有某种期望\NWith a world as strange as {\i1}Death Stranding{\i0}'s, players rightly have a certain expectation.
+Dialogue: 0,0:43:08.58,0:43:10.94,辉中,,0,0,0,,即 世界观是经过深思熟虑 是说得通的\NNamely that the world is thought-out and consistent.
+Dialogue: 0,0:43:10.94,0:43:14.43,辉中,,0,0,0,,即使这个世界没出现在科幻玄幻故事中 也不会有人说它假 说它离谱\NNo one cares if a world is unrealistic or crazy
+Dialogue: 0,0:43:14.43,0:43:17.90,辉中,,0,0,0,,即使这个世界没出现在科幻玄幻故事中 也不会有人说它假 说它离谱\Nthat's never held back sci-fi or fantasy stories before.
+Dialogue: 0,0:43:17.90,0:43:23.57,辉中,,0,0,0,,相反 玩家只是希望这个世界按照它应有的设定去运转就好\NRather, we just ask that the world live according to the rules that are supposed to govern it.
+Dialogue: 0,0:43:23.57,0:43:25.86,辉中,,0,0,0,,比如 如果你在看《星球大战》\NFor instance if you were watching {\i1}Star Wars{\i0},
+Dialogue: 0,0:43:25.86,0:43:30.15,辉中,,0,0,0,,邪恶的西斯尊主在一艘飞船上和一群外星人唠家常\Nand the evil Sith Lord is chilling out on a spaceship with a bunch of aliens,
+Dialogue: 0,0:43:30.15,0:43:34.23,辉中,,0,0,0,,同时用一种称为“原力”的神奇力量感知其他人的能量\Nwhile sensing other people's energy using a magical power called the Force,
+Dialogue: 0,0:43:34.23,0:43:38.83,辉中,,0,0,0,,并以光速穿越一个想象中的星系 你并不会觉得怎样！\Nand traveling at Lightspeed through an imaginary galaxy, you wouldn't care!
+Dialogue: 0,0:43:38.83,0:43:43.80,辉中,,0,0,0,,因为这些都符合这个故事世界观中的法则\NBecause the laws of the universe that that story takes place within allow that.
+Dialogue: 0,0:43:43.80,0:43:48.69,辉中,,0,0,0,,但假如西斯尊主突然用他胸前两个按钮打Bbox来暂停时间\NBut if the Sith Lord all of a sudden was able to freeze time itself
+Dialogue: 0,0:43:48.69,0:43:51.54,辉中,,0,0,0,,但假如西斯尊主突然用他胸前两个按钮打Bbox来暂停时间\Nby bboxing and rubbing his nipples,
+Dialogue: 0,0:43:51.54,0:43:53.90,辉中,,0,0,0,,那你早就掀桌了……\Nyou would immediately be turned off …
+Dialogue: 0,0:43:54.14,0:43:58.05,辉中,,0,0,0,,好吧……我这例子可能……总之你们懂我意思！\NWell … maybe not in … in that way, but nevermind!
+Dialogue: 0,0:43:58.17,0:44:00.76,辉中,,0,0,0,,关键是必须保持一致\NPoint is you have to be consistent.
+Dialogue: 0,0:44:00.76,0:44:04.67,辉中,,0,0,0,,我对《死亡搁浅》中神奇的异次元鲸鱼没意见\NI'm fine with {\i1}Death Stranding{\i0} having magical interdimensional whales,
+Dialogue: 0,0:44:04.67,0:44:09.29,辉中,,0,0,0,,对加速时间流逝的降雨没意见 甚至对诺曼·李杜斯也没意见\Nrain that causes time to pass at crazy fast rates and even Norman Reedus.
+Dialogue: 0,0:44:09.29,0:44:13.27,辉中,,0,0,0,,我只求这一切是经过深思熟虑的 是合理的就好\NBut all I ask is that it's thought out and justified.
+Dialogue: 0,0:44:13.27,0:44:14.70,辉中,,0,0,0,,总之 继续\NAnyways moving on.
+Dialogue: 0,0:44:14.70,0:44:18.31,辉中,,0,0,0,,与芙拉吉尔对话完 你拾起行囊 继续向城市进发\NOnce you're done talking with fragile you grab up your stuff and deliver it to the city.
+Dialogue: 0,0:44:18.31,0:44:21.41,辉中,,0,0,0,,你来到一段美丽的山谷 音乐响起 你步入其中\NYou walk through a beautiful Valley as music plays and you enter it.
+Dialogue: 0,0:44:21.41,0:44:24.47,辉中,,0,0,0,,袅袅余音配良辰美景\NThis music is really peaceful the scenery is beautiful.
+Dialogue: 0,0:44:24.47,0:44:29.23,辉中,,0,0,0,,可是等下 你还在送快递呢\NBut again, you're just walking with a package on your back.
+Dialogue: 0,0:44:29.23,0:44:33.19,辉中,,0,0,0,,这些能满足之前提到的两点要求吗？\NDoes this achieve either of the two things outlined earlier?
 Dialogue: 5,0:44:29.23,0:44:34.83,辉中 顶端标题,,0,0,0,,{\move(960,70,960,120,0,1070)\fs25\t(0,1070,\fs45)}《死亡搁浅》必须证明其拥有有趣的值得游玩的内容\N且叙事必须经过深思熟虑 自圆其说
-Dialogue: 0,0:44:33.19,0:44:34.51,辉中,,0,0,0,,I don't think so.
-Dialogue: 0,0:44:34.51,0:44:39.94,辉中,,0,0,0,,As you walk into the complex, you realize that the compound is actually remarkably bland.
+Dialogue: 0,0:44:33.19,0:44:34.51,辉中,,0,0,0,,我觉得不能\NI don't think so.
+Dialogue: 0,0:44:34.51,0:44:39.94,辉中,,0,0,0,,你走进建筑群 发现城市实际上出奇地空荡\NAs you walk into the complex, you realize that the compound is actually remarkably bland.
 Dialogue: 5,0:44:34.83,0:46:27.61,辉中 顶端标题,,0,0,0,,{\move(960,120,960,70,0,1800)\t(0,1800,\fs25)}《死亡搁浅》必须证明其拥有有趣的值得游玩的内容\N且叙事必须经过深思熟虑 自圆其说
-Dialogue: 0,0:44:39.94,0:44:42.46,辉中,,0,0,0,,And it looks dead, there's no one here.
-Dialogue: 0,0:44:42.46,0:44:45.56,辉中,,0,0,0,,In fact pretty much everyone we're going to be talking to
-Dialogue: 0,0:44:45.56,0:44:49.90,辉中,,0,0,0,,in any of these places throughout the entire 50 hour campaign,
-Dialogue: 0,0:44:49.90,0:44:51.43,辉中,,0,0,0,,they're all gonna be Holograms.
-Dialogue: 0,0:44:51.43,0:44:55.40,辉中,,0,0,0,,We're not even going to meet them in person for reasons.
-Dialogue: 0,0:44:55.40,0:44:57.34,辉中,,0,0,0,,Again, Kojima Syndrome.
-Dialogue: 0,0:44:57.34,0:45:01.45,辉中,,0,0,0,,You assisted body disposal crew and take a dead body out of the city to have it incinerated.
-Dialogue: 0,0:45:01.45,0:45:06.37,辉中,,0,0,0,,You don't know exactly what the big deal is but they seem to be taking it very very seriously.
-Dialogue: 0,0:45:06.37,0:45:07.88,辉中,,0,0,0,,So, you play along.
-Dialogue: 0,0:45:07.88,0:45:12.55,辉中,,0,0,0,,There really isn't any player control here you at one point can control the camera
-Dialogue: 0,0:45:12.55,0:45:14.65,辉中,,0,0,0,,while you're watching a cutscene play out.
-Dialogue: 0,0:45:14.99,0:45:19.30,辉中,,0,0,0,,I guess this was their way of avoiding a 40-minute cutscene again?
-Dialogue: 0,0:45:19.30,0:45:23.57,辉中,,0,0,0,,But it is still a cutscene so … it doesn't really do it for me.
-Dialogue: 0,0:45:23.57,0:45:27.72,辉中,,0,0,0,,You drive out of the city and eventually your car is assaulted and crashes.
-Dialogue: 0,0:45:27.72,0:45:30.74,辉中,,0,0,0,,Here along cutscene plays that introduces us to Higgs
-Dialogue: 0,0:45:30.74,0:45:35.84,辉中,,0,0,0,,who's named after the Higgs boson, a nerdy reference that I appreciated way too much.
-Dialogue: 0,0:45:35.84,0:45:38.04,辉中,,0,0,0,,And this cutscene raises a lot of questions,
-Dialogue: 0,0:45:38.04,0:45:42.14,辉中,,0,0,0,,but I think it achieved something very good, at least for a video game.
-Dialogue: 0,0:45:42.14,0:45:45.53,辉中,,0,0,0,,It's intriguing who is this guy, Higgs, what is he doing,
-Dialogue: 0,0:45:45.53,0:45:48.17,辉中,,0,0,0,,why can he fly, how is he summoning these monsters,
-Dialogue: 0,0:45:48.17,0:45:51.21,辉中,,0,0,0,,why does the rain make this guy turn old instantly,
-Dialogue: 0,0:45:51.21,0:45:53.54,辉中,,0,0,0,,why did the guy start stabbing himself trying to kill himself
-Dialogue: 0,0:45:53.54,0:45:55.92,辉中,,0,0,0,,the second that he started getting lift in the air,
-Dialogue: 0,0:45:55.92,0:45:57.59,辉中,,0,0,0,,why is he being lifted in the air,
-Dialogue: 0,0:45:57.59,0:46:01.84,辉中,,0,0,0,,why is it that when bodies begin to decompose they start shaking violently,
-Dialogue: 0,0:46:01.84,0:46:03.17,辉中,,0,0,0,,what the hell is this.
-Dialogue: 0,0:46:03.17,0:46:04.94,辉中,,0,0,0,,All of these are fair questions
-Dialogue: 0,0:46:04.94,0:46:09.49,辉中,,0,0,0,,and I think they motivate the player to want to play more to have these questions answered.
-Dialogue: 0,0:46:09.49,0:46:11.66,辉中,,0,0,0,,Again the role of a prologue I think often
-Dialogue: 0,0:46:11.66,0:46:16.67,辉中,,0,0,0,,is to pose a lot of these questions to the reader player or whoever is experiencing them.
-Dialogue: 0,0:46:16.67,0:46:18.56,辉中,,0,0,0,,I don't think they have to all be answered
-Dialogue: 0,0:46:18.56,0:46:22.10,辉中,,0,0,0,,and I wouldn't even want them to all be answered in the opening sequence.
-Dialogue: 0,0:46:22.10,0:46:25.59,辉中,,0,0,0,,However with {\i1}Death Stranding{\i0}'s specific circumstance,
-Dialogue: 0,0:46:25.59,0:46:29.58,辉中,,0,0,0,,this doesn't do much to shake the preconceived notion again,
+Dialogue: 0,0:44:39.94,0:44:42.46,辉中,,0,0,0,,跟死城一样 一个活人都没有\NAnd it looks dead, there's no one here.
+Dialogue: 0,0:44:42.46,0:44:45.56,辉中,,0,0,0,,事实上 在整个50小时的游戏流程中\NIn fact pretty much everyone we're going to be talking to
+Dialogue: 0,0:44:45.56,0:44:49.90,辉中,,0,0,0,,所有和我们交谈的人几乎都是全息影像\Nin any of these places throughout the entire 50 hour campaign,
+Dialogue: 0,0:44:49.90,0:44:51.43,辉中,,0,0,0,,所有和我们交谈的人几乎都是全息影像\Nthey're all gonna be Holograms.
+Dialogue: 0,0:44:51.43,0:44:55.40,辉中,,0,0,0,,我们甚至根本见不到他们本人 这肯定是有原因的吧……\NWe're not even going to meet them in person for reasons.
+Dialogue: 0,0:44:55.40,0:44:57.34,辉中,,0,0,0,,来了来了 小岛秀夫综合征\NAgain, Kojima Syndrome.
+Dialogue: 0,0:44:57.34,0:45:01.45,辉中,,0,0,0,,你帮助尸体处理部的员工运送一具尸体出城火化\NYou assisted body disposal crew and take a dead body out of the city to have it incinerated.
+Dialogue: 0,0:45:01.45,0:45:06.37,辉中,,0,0,0,,你还不清楚发生什么大事了 但他们看起来表情非常非常严肃\NYou don't know exactly what the big deal is but they seem to be taking it very very seriously.
+Dialogue: 0,0:45:06.37,0:45:07.88,辉中,,0,0,0,,于是你继续玩下去\NSo, you play along.
+Dialogue: 0,0:45:07.88,0:45:12.55,辉中,,0,0,0,,这里玩家参与的互动不多 你只是在控制相机视角\NThere really isn't any player control here you at one point can control the camera
+Dialogue: 0,0:45:12.55,0:45:14.65,辉中,,0,0,0,,静静观看这段过场动画\Nwhile you're watching a cutscene play out.
+Dialogue: 0,0:45:14.99,0:45:19.30,辉中,,0,0,0,,我想他们可能是想避免连续播40分钟的动画？\NI guess this was their way of avoiding a 40-minute cutscene again?
+Dialogue: 0,0:45:19.30,0:45:23.57,辉中,,0,0,0,,可它说到底还是在播片……算了 对我来说不重要\NBut it is still a cutscene so … it doesn't really do it for me.
+Dialogue: 0,0:45:23.57,0:45:27.72,辉中,,0,0,0,,你们驱车驶离城市 然后车辆遇袭撞毁\NYou drive out of the city and eventually your car is assaulted and crashes.
+Dialogue: 0,0:45:27.72,0:45:30.74,辉中,,0,0,0,,剧情随后向大家介绍了希格斯\NHere along cutscene plays that introduces us to Higgs
+Dialogue: 0,0:45:30.74,0:45:35.84,辉中,,0,0,0,,他的名字来自于希格斯玻色子 我太喜欢这个充满书呆子气的名字了\Nwho's named after the Higgs boson, a nerdy reference that I appreciated way too much.
+Dialogue: 0,0:45:35.84,0:45:38.04,辉中,,0,0,0,,这个场景也提出了相当多的问题\NAnd this cutscene raises a lot of questions,
+Dialogue: 0,0:45:38.04,0:45:42.14,辉中,,0,0,0,,至少对于电子游戏来说 我觉得这段效果非常不错\Nbut I think it achieved something very good, at least for a video game.
+Dialogue: 0,0:45:42.14,0:45:45.53,辉中,,0,0,0,,玩家很奇怪希格斯这人是谁 在做什么\NIt's intriguing who is this guy, Higgs, what is he doing,
+Dialogue: 0,0:45:45.53,0:45:48.17,辉中,,0,0,0,,他为什么能飞 他怎么召唤这些怪物的\Nwhy can he fly, how is he summoning these monsters,
+Dialogue: 0,0:45:48.17,0:45:51.21,辉中,,0,0,0,,为什么雨会让这个人瞬间变老\Nwhy does the rain make this guy turn old instantly,
+Dialogue: 0,0:45:51.21,0:45:53.54,辉中,,0,0,0,,为什么这个人被悬空吊起之后就开始拿刀捅自己想要自杀\Nwhy did the guy start stabbing himself trying to kill himself
+Dialogue: 0,0:45:53.54,0:45:55.92,辉中,,0,0,0,,为什么这个人被悬空吊起之后就开始拿刀捅自己想要自杀\Nthe second that he started getting lift in the air,
+Dialogue: 0,0:45:55.92,0:45:57.59,辉中,,0,0,0,,他为什么会被悬空吊起\Nwhy is he being lifted in the air,
+Dialogue: 0,0:45:57.59,0:46:01.84,辉中,,0,0,0,,为什么尸体开始分解腐烂的时候会突然疯狂颤抖\Nwhy is it that when bodies begin to decompose they start shaking violently,
+Dialogue: 0,0:46:01.84,0:46:03.17,辉中,,0,0,0,,这到底是怎么回事\Nwhat the hell is this.
+Dialogue: 0,0:46:03.17,0:46:04.94,辉中,,0,0,0,,这些都是很合理的问题\NAll of these are fair questions
+Dialogue: 0,0:46:04.94,0:46:09.49,辉中,,0,0,0,,我觉得它们能驱动玩家想要继续玩下去追寻答案\Nand I think they motivate the player to want to play more to have these questions answered.
+Dialogue: 0,0:46:09.49,0:46:11.66,辉中,,0,0,0,,同样 我认为游戏序章的作用往往是\NAgain the role of a prologue I think often
+Dialogue: 0,0:46:11.66,0:46:16.67,辉中,,0,0,0,,给玩家读者等正在经历这些的人抛出一大堆问题\Nis to pose a lot of these questions to the reader player or whoever is experiencing them.
+Dialogue: 0,0:46:16.67,0:46:18.56,辉中,,0,0,0,,这些问题我觉得不需要一一解答\NI don't think they have to all be answered
+Dialogue: 0,0:46:18.56,0:46:22.10,辉中,,0,0,0,,我甚至不希望它们在开场的时候就有答案\Nand I wouldn't even want them to all be answered in the opening sequence.
+Dialogue: 0,0:46:22.10,0:46:25.59,辉中,,0,0,0,,然而 在《死亡搁浅》这样特定的环境下\NHowever with {\i1}Death Stranding{\i0}'s specific circumstance,
+Dialogue: 0,0:46:25.59,0:46:29.58,辉中,,0,0,0,,这一切还是不禁让人想入为主地认为\Nthis doesn't do much to shake the preconceived notion again,
 Dialogue: 5,0:46:27.61,0:46:33.19,辉中 顶端标题,,0,0,0,,{\move(960,70,960,120,0,1070)\fs25\t(0,1070,\fs45)}《死亡搁浅》必须证明其拥有有趣的值得游玩的内容\N且叙事必须经过深思熟虑 自圆其说
-Dialogue: 0,0:46:29.58,0:46:33.47,辉中,,0,0,0,,that this is all just crazy and done for the sake of being cool.
+Dialogue: 0,0:46:29.58,0:46:33.47,辉中,,0,0,0,,这一切只是为了酷炫而加进去的离谱场景\Nthat this is all just crazy and done for the sake of being cool.
 Dialogue: 5,0:46:33.19,0:49:27.23,辉中 顶端标题,,0,0,0,,{\move(960,120,960,70,0,1800)\t(0,1800,\fs25)}《死亡搁浅》必须证明其拥有有趣的值得游玩的内容\N且叙事必须经过深思熟虑 自圆其说
-Dialogue: 0,0:46:33.47,0:46:35.84,辉中,,0,0,0,,Anyway, a bunch of weird stuff happens.
-Dialogue: 0,0:46:35.84,0:46:40.63,辉中,,0,0,0,,This results in a massive crater and a handprint indentation in the land.
-Dialogue: 0,0:46:40.63,0:46:43.44,辉中,,0,0,0,,This is actually why everybody throughout the game freaks out
-Dialogue: 0,0:46:43.44,0:46:47.17,辉中,,0,0,0,,whenever you actually kill someone with a lethal weapon.
-Dialogue: 0,0:46:47.17,0:46:50.24,辉中,,0,0,0,,Again I know I've said this a thousand times but more on this later.
-Dialogue: 0,0:46:50.24,0:46:52.03,辉中,,0,0,0,,There's some cutscenes and exposition
-Dialogue: 0,0:46:52.03,0:46:55.07,辉中,,0,0,0,,but essentially you meet some more characters such as Deadman.
-Dialogue: 0,0:46:55.07,0:47:01.11,辉中,,0,0,0,,You get given drugs to deliver to the president because she's dying I guess, and needs heroin.
-Dialogue: 0,0:47:01.11,0:47:02.58,辉中,,0,0,0,,And so you deliver them.
-Dialogue: 0,0:47:02.58,0:47:06.38,辉中,,0,0,0,,You're in the Oval Office, but it's also a hospital at the same time.
-Dialogue: 0,0:47:06.38,0:47:09.55,辉中,,0,0,0,,You talk with the president who it said also raised you.
-Dialogue: 0,0:47:09.55,0:47:12.92,辉中,,0,0,0,,It's implied it's your mother but it's also left ambiguous enough that
-Dialogue: 0,0:47:12.92,0:47:15.21,辉中,,0,0,0,,it could just be a woman who raised you.
-Dialogue: 0,0:47:15.21,0:47:18.81,辉中,,0,0,0,,But regardless, you go through the sequence a cutscene plays out
-Dialogue: 0,0:47:18.81,0:47:24.63,辉中,,0,0,0,,as she explains how you need to help them save the world by connecting things I guess.
-Dialogue: 0,0:47:24.63,0:47:28.17,辉中,,0,0,0,,While this has happened to the president ask that everybody leave the room
-Dialogue: 0,0:47:28.17,0:47:31.50,辉中,,0,0,0,,so that it's just Sam and the Madam President.
-Dialogue: 0,0:47:31.50,0:47:33.45,辉中,,0,0,0,,And then she kind of freaks out.
-Dialogue: 0,0:47:33.45,0:47:40.82,辉中,,0,0,0,,She tackles him falling out of the bed in one of the clunkiest and worst blocked scenes
-Dialogue: 0,0:47:40.82,0:47:45.70,辉中,,0,0,0,,I've ever seen in any entertainment medium … like ever.
-Dialogue: 0,0:47:45.70,0:47:49.65,辉中,,0,0,0,,Seriously, even if you love {\i1}Death Stranding{\i0}'s story,
-Dialogue: 0,0:47:49.65,0:47:53.72,辉中,,0,0,0,,how can you defend this … like it's … it's so bad.
-Dialogue: 0,0:47:53.72,0:47:56.54,辉中,,0,0,0,,Just watch this clip, this is from my roasting video.
-Dialogue: 0,0:47:56.54,0:48:00.92,辉中,,0,0,0,,Okay clearly she's dying, but I swear to xxx,
-Dialogue: 0,0:48:00.92,0:48:05.22,辉中,,0,0,0,,if she dies during this cutscene, I'm gonna scream.
-Dialogue: 0,0:48:05.22,0:48:08.96,辉中,,0,0,0,,I hate coincidences like … sweared mother …
-Dialogue: 0,0:48:14.17,0:48:17.96,辉中,,0,0,0,,Oh Je … what? … What???
-Dialogue: 0,0:48:18.43,0:48:21.67,辉中,,0,0,0,,Why is she on the floor crowl' …
-Dialogue: 0,0:48:24.44,0:48:26.63,辉中,,0,0,0,,Ohhhhh oh my god …
-Dialogue: 0,0:48:27.84,0:48:30.97,辉中,,0,0,0,,Oh my go … she died oh I …
-Dialogue: 0,0:48:31.81,0:48:35.87,辉中,,0,0,0,,I gotta … I gotta calm down, I know, but it's like so stupid!
-Dialogue: 0,0:48:35.87,0:48:37.43,辉中,,0,0,0,,I hate it when stories do this,
-Dialogue: 0,0:48:37.43,0:48:40.69,辉中,,0,0,0,,when they're like a character is dying go meet with them.
-Dialogue: 0,0:48:40.69,0:48:45.31,辉中,,0,0,0,,You meet with them and it just so happens during that like three-and-a-half minute time period
-Dialogue: 0,0:48:45.31,0:48:50.47,辉中,,0,0,0,,where you went and said hello, they died, because it's convenient for the story like …
-Dialogue: 0,0:48:50.47,0:48:55.08,辉中,,0,0,0,,Why isn't it that you leave, say goodbye, and then she has a heart attack.
-Dialogue: 0,0:48:55.08,0:48:56.77,辉中,,0,0,0,,And … I just … come on!
-Dialogue: 0,0:48:56.88,0:49:00.22,辉中,,0,0,0,,Oh well … then again! Kojima Syndrome!
-Dialogue: 0,0:49:00.22,0:49:03.22,辉中,,0,0,0,,Check the comments I'm sure you'll see many people defending it
-Dialogue: 0,0:49:03.22,0:49:08.06,辉中,,0,0,0,,So she dies and after this you learned that you need to take her body to the incinerator
-Dialogue: 0,0:49:08.06,0:49:10.09,辉中,,0,0,0,,to avoid what happened in the earlier scene.
-Dialogue: 0,0:49:10.09,0:49:13.57,辉中,,0,0,0,,You load her up and you take her to the incinerator's location.
-Dialogue: 0,0:49:13.57,0:49:15.26,辉中,,0,0,0,,It's actually a really peaceful sequence.
-Dialogue: 0,0:49:15.26,0:49:18.62,辉中,,0,0,0,,After you've strapped her up, there's a little ribbon blowing in the breeze.
-Dialogue: 0,0:49:18.62,0:49:22.73,辉中,,0,0,0,,And you're walking across an expansive green pasture covered in rocks,
-Dialogue: 0,0:49:22.73,0:49:25.11,辉中,,0,0,0,,as a nice calming piece of music plays.
-Dialogue: 0,0:49:25.11,0:49:27.40,辉中,,0,0,0,,It's actually pretty relaxing, but again!
+Dialogue: 0,0:46:33.47,0:46:35.84,辉中,,0,0,0,,总之 发生了一大堆奇怪的事件\NAnyway, a bunch of weird stuff happens.
+Dialogue: 0,0:46:35.84,0:46:40.63,辉中,,0,0,0,,结果就是出现一个巨大的坑 中央还有一个巨大的黑手印\NThis results in a massive crater and a handprint indentation in the land.
+Dialogue: 0,0:46:40.63,0:46:43.44,辉中,,0,0,0,,这实际上就是在整个游戏中用致命武器杀人有多糟心的原因\NThis is actually why everybody throughout the game freaks out
+Dialogue: 0,0:46:43.44,0:46:47.17,辉中,,0,0,0,,这实际上就是在整个游戏中用致命武器杀人有多糟心的原因\Nwhenever you actually kill someone with a lethal weapon.
+Dialogue: 0,0:46:47.17,0:46:50.24,辉中,,0,0,0,,好吧我还要说 这件事我们稍后会聊\NAgain I know I've said this a thousand times but more on this later.
+Dialogue: 0,0:46:50.24,0:46:52.03,辉中,,0,0,0,,之后又是一些剧情和对话\NThere's some cutscenes and exposition
+Dialogue: 0,0:46:52.03,0:46:55.07,辉中,,0,0,0,,简言之 玩家又遇到了其他角色 比如亡人\Nbut essentially you meet some more characters such as Deadman.
+Dialogue: 0,0:46:55.07,0:47:01.11,辉中,,0,0,0,,他给你一些药物 要你派送给总统 我猜因为她快死了 该打点止疼药了\NYou get given drugs to deliver to the president because she's dying I guess, and needs heroin.
+Dialogue: 0,0:47:01.11,0:47:02.58,辉中,,0,0,0,,于是你开始了派送\NAnd so you deliver them.
+Dialogue: 0,0:47:02.58,0:47:06.38,辉中,,0,0,0,,你来到了椭圆办公室 但同时这里也是一间医院\NYou're in the Oval Office, but it's also a hospital at the same time.
+Dialogue: 0,0:47:06.38,0:47:09.55,辉中,,0,0,0,,和总统交谈中得知她还抚养了你\NYou talk with the president who it said also raised you.
+Dialogue: 0,0:47:09.55,0:47:12.92,辉中,,0,0,0,,游戏暗示她是你的母亲 但说得非常模棱两可\NIt's implied it's your mother but it's also left ambiguous enough that
+Dialogue: 0,0:47:12.92,0:47:15.21,辉中,,0,0,0,,也可能她只是抚养你长大的女人\Nit could just be a woman who raised you.
+Dialogue: 0,0:47:15.21,0:47:18.81,辉中,,0,0,0,,但总之 玩家再次进入一段过场动画\NBut regardless, you go through the sequence a cutscene plays out
+Dialogue: 0,0:47:18.81,0:47:24.63,辉中,,0,0,0,,总统解释了你需要帮助他们重新连接世界从而拯救这个世界\Nas she explains how you need to help them save the world by connecting things I guess.
+Dialogue: 0,0:47:24.63,0:47:28.17,辉中,,0,0,0,,而这之前总统让其他所有人都离开了房间\NWhile this has happened to the president ask that everybody leave the room
+Dialogue: 0,0:47:28.17,0:47:31.50,辉中,,0,0,0,,房间内只有山姆和总统在场\Nso that it's just Sam and the Madam President.
+Dialogue: 0,0:47:31.50,0:47:33.45,辉中,,0,0,0,,然后她有点急了\NAnd then she kind of freaks out.
+Dialogue: 0,0:47:33.45,0:47:40.82,辉中,,0,0,0,,她抓着山姆 从床上摔到地上 然后就是史上最蠢的一段演出\NShe tackles him falling out of the bed in one of the clunkiest and worst blocked scenes
+Dialogue: 0,0:47:40.82,0:47:45.70,辉中,,0,0,0,,在我看过的全部娱乐节目中 这绝对是最蠢的\NI've ever seen in any entertainment media … like ever.
+Dialogue: 0,0:47:45.70,0:47:49.65,辉中,,0,0,0,,真的 即使你有多喜欢《死亡搁浅》的故事\NSeriously, even if you love {\i1}Death Stranding{\i0}'s story,
+Dialogue: 0,0:47:49.65,0:47:53.72,辉中,,0,0,0,,这段演出有多烂也没法说吧 真是太……\Nhow can you defend this … like it's … it's so bad.
+Dialogue: 0,0:47:53.72,0:47:56.54,辉中,,0,0,0,,看看这段吧 是我的游玩实况\NJust watch this clip, this is from my roasting video.
+Dialogue: 0,0:47:56.54,0:48:00.92,辉中,,0,0,0,,我觉得她要死了 但我对灯发誓\NOkay clearly she's dying, but I swear to xxx,
+Dialogue: 0,0:48:00.92,0:48:05.22,辉中,,0,0,0,,她要真死在这个场景我绝对要叫出声\Nif she dies during this cutscene, I'm gonna scream.
+Dialogue: 0,0:48:05.22,0:48:08.96,辉中,,0,0,0,,我太讨厌这种巧合了 真的\NI hate coincidences like … sweared mother …
+Dialogue: 0,0:48:14.17,0:48:17.96,辉中,,0,0,0,,喔……天……啥玩意？\NOh Je … what? … What???
+Dialogue: 0,0:48:18.43,0:48:21.67,辉中,,0,0,0,,她怎么在地上……爬……\NWhy is she on the floor crowl' …
+Dialogue: 0,0:48:24.44,0:48:26.63,辉中,,0,0,0,,我了个去……\NOhhhhh oh my god …
+Dialogue: 0,0:48:27.84,0:48:30.97,辉中,,0,0,0,,我的天 她真死了 我真的……\NOh my go … she died oh I …
+Dialogue: 0,0:48:31.81,0:48:35.87,辉中,,0,0,0,,我得……我得冷静冷静 可这也太蠢了！\NI gotta … I gotta calm down, I know, but it's like so stupid!
+Dialogue: 0,0:48:35.87,0:48:37.43,辉中,,0,0,0,,我特别讨厌这样的故事\NI hate it when stories do this,
+Dialogue: 0,0:48:37.43,0:48:40.69,辉中,,0,0,0,,告诉你谁谁谁要死了 你去见个面\Nwhen they're like a character is dying go meet with them.
+Dialogue: 0,0:48:40.69,0:48:45.31,辉中,,0,0,0,,等你一见到人 剧情就像《三分半钟》那样\NYou meet with them and it just so happens during that like three-and-a-half minute time period
+Dialogue: 0,0:48:45.31,0:48:50.47,辉中,,0,0,0,,话还没说两句人就没了 因为剧情需要这么演……\Nwhere you went and said hello, they died, because it's convenient for the story like …
+Dialogue: 0,0:48:50.47,0:48:55.08,辉中,,0,0,0,,为什么就不能好好说完话 再让她犯个心脏病之类的\NWhy isn't it that you leave, say goodbye, and then she has a heart attack.
+Dialogue: 0,0:48:55.08,0:48:56.77,辉中,,0,0,0,,然后……我真的 受不了！\NAnd … I just … come on!
+Dialogue: 0,0:48:56.88,0:49:00.22,辉中,,0,0,0,,然后……小岛秀夫综合征！\NOh well … then again! Kojima Syndrome!
+Dialogue: 0,0:49:00.22,0:49:03.22,辉中,,0,0,0,,看评论区吧 肯定有不少病友\NCheck the comments I'm sure you'll see many people defending it.
+Dialogue: 0,0:49:03.22,0:49:08.06,辉中,,0,0,0,,总统死后 他们告诉你必须把她的尸体送去火化\NSo she dies and after this you learned that you need to take her body to the incinerator
+Dialogue: 0,0:49:08.06,0:49:10.09,辉中,,0,0,0,,防止之前的事情发生\Nto avoid what happened in the earlier scene.
+Dialogue: 0,0:49:10.09,0:49:13.57,辉中,,0,0,0,,你把她背起 向焚化厂进发\NYou load her up and you take her to the incinerator's location.
+Dialogue: 0,0:49:13.57,0:49:15.26,辉中,,0,0,0,,这段玩着真的很舒服\NIt's actually a really peaceful sequence.
+Dialogue: 0,0:49:15.26,0:49:18.62,辉中,,0,0,0,,玩家把总统背起后 会有一条丝带在风中飘荡\NAfter you've strapped her up, there's a little ribbon blowing in the breeze.
+Dialogue: 0,0:49:18.62,0:49:22.73,辉中,,0,0,0,,随后玩家会穿过一大片葱郁的碎石地\NAnd you're walking across an expansive green pasture covered in rocks,
+Dialogue: 0,0:49:22.73,0:49:25.11,辉中,,0,0,0,,耳边还会响起平静温和的音乐\Nas a nice calming piece of music plays.
+Dialogue: 0,0:49:25.11,0:49:27.40,辉中,,0,0,0,,真的非常令人放松 但别忘了！\NIt's actually pretty relaxing, but again!
 Dialogue: 5,0:49:27.23,0:49:32.87,辉中 顶端标题,,0,0,0,,{\move(960,70,960,120,0,1070)\fs25\t(0,1070,\fs45)}《死亡搁浅》必须证明其拥有有趣的值得游玩的内容\N且叙事必须经过深思熟虑 自圆其说
-Dialogue: 0,0:49:27.40,0:49:32.67,辉中,,0,0,0,,人们先入为主地认为游戏只是步行模拟器的观念有没有动摇？没有\NDoes it do anything to shake the preconceived notion that this is a walking simulator? No.
-Dialogue: 0,0:49:32.67,0:49:35.30,辉中,,0,0,0,,Now while you're delivering the president's body to the incinerator
+Dialogue: 0,0:49:27.40,0:49:32.67,辉中,,0,0,0,,人们玩到这是否还会先入为主地认为游戏只是步行模拟器？会\NDoes it do anything to shake the preconceived notion that this is a walking simulator? No.
+Dialogue: 0,0:49:32.67,0:49:35.30,辉中,,0,0,0,,当你把总统的尸体带到焚化厂后\NNow while you're delivering the president's body to the incinerator
 Dialogue: 5,0:49:32.87,0:59:15.21,辉中 顶端标题,,0,0,0,,{\move(960,120,960,70,0,1800)\t(0,1800,\fs25)}《死亡搁浅》必须证明其拥有有趣的值得游玩的内容\N且叙事必须经过深思熟虑 自圆其说
-Dialogue: 0,0:49:35.30,0:49:39.38,辉中,,0,0,0,,you've also been asked to take a BB, or a baby and a jar,
-Dialogue: 0,0:49:39.38,0:49:42.84,辉中,,0,0,0,,to this location, to have it also decommissioned.
-Dialogue: 0,0:49:42.84,0:49:47.27,辉中,,0,0,0,,You're not told a whole lot except that this is malfunctioning and it's no longer in use.
-Dialogue: 0,0:49:47.27,0:49:51.10,辉中,,0,0,0,,However before Sam has a chance to do this, BT show up.
-Dialogue: 0,0:49:51.10,0:49:54.68,辉中,,0,0,0,,And you use this BB to escape the area.
-Dialogue: 0,0:49:54.68,0:49:57.36,辉中,,0,0,0,,Again, Kojima loves his acronyms.
-Dialogue: 0,0:49:57.36,0:49:59.15,辉中,,0,0,0,,And I actually really like this sequence.
+Dialogue: 0,0:49:35.30,0:49:39.38,辉中,,0,0,0,,他们还让你把BB 就是胸前罐子里的婴儿\Nyou've also been asked to take a BB, or a baby and a jar,
+Dialogue: 0,0:49:39.38,0:49:42.84,辉中,,0,0,0,,也送到这里 将它销毁\Nto this location, to have it also decommissioned.
+Dialogue: 0,0:49:42.84,0:49:47.27,辉中,,0,0,0,,他们并没说太多 只是说它出故障了 无法使用\NYou're not told a whole lot except that this is malfunctioning and it's no longer in use.
+Dialogue: 0,0:49:47.27,0:49:51.10,辉中,,0,0,0,,但在山姆马上要执行的时候 BT来了\NHowever before Sam has a chance to do this, BT show up.
+Dialogue: 0,0:49:51.10,0:49:54.68,辉中,,0,0,0,,你需要用BB逃离这片区域\NAnd you use this BB to escape the area.
+Dialogue: 0,0:49:54.68,0:49:57.36,辉中,,0,0,0,,又到了小岛秀夫秀缩写的时候了\NAgain, Kojima loves his acronyms.
+Dialogue: 0,0:49:57.36,0:49:59.15,辉中,,0,0,0,,而我其实很喜欢这段内容\NAnd I actually really like this sequence.
 Dialogue: 0,0:49:59.15,0:50:01.59,辉中,,0,0,0,,This is the one moment where the player actually feels as though
 Dialogue: 0,0:50:01.59,0:50:04.70,辉中,,0,0,0,,there's going to be more to the game than just a walking system.
 Dialogue: 0,0:50:04.70,0:50:07.80,辉中,,0,0,0,,However it's over before it even begins.
