@@ -16,9 +16,9 @@ Video File: ../../../../../Video/给没组/DS/RAW.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 817
-Active Line: 826
-Video Position: 89831
+Scroll Position: 873
+Active Line: 880
+Video Position: 96448
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -222,7 +222,7 @@ Dialogue: 0,0:11:12.72,0:11:15.68,辉中,,0,0,0,,我其实对这些任务没什�
 Dialogue: 0,0:11:15.68,0:11:20.21,辉中,,0,0,0,,实际上 如我之前所说 我觉得这些任务很惬意 很舒心\NIn fact I actually find them fairly relaxing and satisfying as I mentioned earlier.
 Dialogue: 0,0:11:20.21,0:11:25.60,辉中,,0,0,0,,但的确加深了人们心中《死亡搁浅》只是一个步行模拟器的刻板印象\NBut it does reaffirm the stereotype that {\i1}Death Stranding{\i0} is just a walking simulator,
 Dialogue: 0,0:11:25.60,0:11:28.64,辉中,,0,0,0,,尤其是这一路没什么动态的互动内容\Nespecially because there's no real dynamic encounters,
-Dialogue: 0,0:11:28.64,0:11:33.13,辉中,,0,0,0,,整段旅途中连一个动物都没有\Nthere's no animals that you'll encounter in the world when you're going on these trips.
+Dialogue: 0,0:11:28.64,0:11:33.13,辉中,,0,0,0,,整段旅途中连一只动物都没有\Nthere's no animals that you'll encounter in the world when you're going on these trips.
 Dialogue: 0,0:11:33.13,0:11:37.23,辉中,,0,0,0,,只有背着某些货物的你自己\NIt's just you, walking with some type of cargo strapped to your back,
 Dialogue: 0,0:11:37.23,0:11:40.90,辉中,,0,0,0,,在一片开阔的空间里步履蹒跚地前行\Ntrying to keep balance as you walk across a large open field,
 Dialogue: 0,0:11:40.90,0:11:44.66,辉中,,0,0,0,,唯有散落的碎石让你从A到B点的旅途中多了一点坎坷\Nscattered with rocks, that are just there to make it slightly tedious
@@ -236,7 +236,7 @@ Dialogue: 0,0:12:01.04,0:12:05.01,辉中,,0,0,0,,游戏基本游玩内容就是�
 Dialogue: 0,0:12:05.01,0:12:10.43,辉中,,0,0,0,,或者在哪捡到了货物后归还 说白了就是送快递的游戏\Nor going to one location receiving cargo and returning it, in other words, a fetch quest.
 Dialogue: 0,0:12:10.43,0:12:13.98,辉中,,0,0,0,,有些玩家对游戏的核心玩法提出了严厉批评\NNow some people have heavily criticized the game for the core gameplay loop,
 Dialogue: 0,0:12:13.98,0:12:17.44,辉中,,0,0,0,,认为游戏玩法都是这种非常简单的任务 实际上我不同意这种说法\Nbeing made up of this very simple task, which I actually disagree with.
-Dialogue: 0,0:12:17.44,0:12:20.70,辉中,,0,0,0,,任何活动都可以变成一个游戏\NAny activity can be turned into a game.
+Dialogue: 0,0:12:17.44,0:12:20.70,辉中,,0,0,0,,任何活动都可以变成一款游戏\NAny activity can be turned into a game.
 Dialogue: 0,0:12:20.70,0:12:25.82,辉中,,0,0,0,,只要有足够的注意力和时间 无论是耕种 狩猎 甚至是单纯的对话\NGiven enough attention and time whether it's farming, hunting, or even talking,
 Dialogue: 0,0:12:25.82,0:12:30.27,辉中,,0,0,0,,所有这些互动都可以做成值得一玩的内容\Nall of these things can be turned into an experience that's worth playing.
 Dialogue: 0,0:12:30.27,0:12:34.72,辉中,,0,0,0,,此外 《死亡搁浅》的游戏系统在游玩过程中会变得越来越复杂\NFurthermore, {\i1}Death Stranding{\i0}'s gameplay system grows more complex over the course of the game.
@@ -441,7 +441,7 @@ Dialogue: 0,0:24:48.22,0:24:53.20,辉中,,0,0,0,,但游戏客观上也的确存�
 Dialogue: 0,0:24:53.20,0:24:58.00,辉中,,0,0,0,,不能因为科乐美对小岛秀夫干的那些操蛋事就不去批评他\NKojima isn't immune to criticism, just because Konami screwed him over.
 Dialogue: 0,0:24:58.00,0:25:00.29,辉中,,0,0,0,,因此 尽管我多数时间很享受这款游戏\NAnd despite largely enjoying my time of the game
 Dialogue: 0,0:25:00.29,0:25:04.74,辉中,,0,0,0,,但我有义务指出它的缺点 公平地评价这款游戏\NI do have an obligation to call these things out and to critique the game fairly.
-Dialogue: 0,0:25:04.74,0:25:08.01,辉中,,0,0,0,,所以可能看起来我总在喷这个游戏 但别忘了\NSo while it may seem that I'm only criticizing the game remember that
+Dialogue: 0,0:25:04.74,0:25:08.01,辉中,,0,0,0,,所以可能看起来我总在喷这款游戏 但别忘了\NSo while it may seem that I'm only criticizing the game remember that
 Dialogue: 0,0:25:08.01,0:25:11.82,辉中,,0,0,0,,首先 本期视频是一期游戏评测 其实这条理由就够了\Nfor one this is a critique, and that's well kind of the point.
 Dialogue: 0,0:25:11.82,0:25:18.05,辉中,,0,0,0,,其次 我相当享受《死亡搁浅》这款游戏 后面我还会细说这部分\NAnd two I enjoy {\i1}Death Stranding{\i0} writ large, and I'll be elaborating more on those parts later.
 Dialogue: 0,0:25:18.05,0:25:22.15,辉中,,0,0,0,,总体而言 游戏很有趣 展现了一些原创的想法\NOverall the game is interesting and it lays out some original ideas.
@@ -471,8 +471,8 @@ Dialogue: 0,0:26:43.01,0:26:44.80,辉中,,0,0,0,,还是 我们稍后再说\Nwhic
 Dialogue: 0,0:26:44.80,0:26:47.07,辉中,,0,0,0,,每一幕都有它的重点\NNow each act has its own focus.
 Dialogue: 0,0:26:47.07,0:26:51.12,辉中,,0,0,0,,第一幕重点介绍游戏系统和故事\NAct 1 is focused on introducing the gameplay systems and the story,
 Dialogue: 0,0:26:51.12,0:26:56.50,辉中,,0,0,0,,我个人认为是三幕里面最短也是最烂的\Nand in my opinion this is the shortest and worst of all the three acts.
-Dialogue: 0,0:26:56.50,0:26:58.39,辉中,,0,0,0,,这就是玩家常说的 想玩进去这个游戏必须要过的坎\NThis is often what people are talking about
-Dialogue: 0,0:26:58.39,0:27:01.11,辉中,,0,0,0,,这就是玩家常说的 想玩进去这个游戏必须要过的坎\Nwhen they say most players have to get over the hump.
+Dialogue: 0,0:26:56.50,0:26:58.39,辉中,,0,0,0,,这就是玩家常说的 想玩进去这款游戏必须要过的坎\NThis is often what people are talking about
+Dialogue: 0,0:26:58.39,0:27:01.11,辉中,,0,0,0,,这就是玩家常说的 想玩进去这款游戏必须要过的坎\Nwhen they say most players have to get over the hump.
 Dialogue: 0,0:27:01.11,0:27:03.00,辉中,,0,0,0,,第二幕重点是游戏的玩法\NAct 2 is gameplay focused,
 Dialogue: 0,0:27:03.00,0:27:08.24,辉中,,0,0,0,,其中为玩家带来大量游玩与视觉观感上的全新内容\Nand it introduces a ton of new areas both visually and in terms of gameplay.
 Dialogue: 0,0:27:08.24,0:27:12.28,辉中,,0,0,0,,还有升级的装备 让玩法有了更多的可能\NIt features upgraded equipment and really lets the line out for the player.
@@ -537,13 +537,13 @@ Dialogue: 0,0:30:30.32,0:30:35.00,辉中,,0,0,0,,于是问题来了：什么才�
 Dialogue: 0,0:30:35.00,0:30:39.09,辉中,,0,0,0,,这里我说的效果好坏 指的是游戏开场\NNow by effective, I mean what do the opening hours have to achieve
 Dialogue: 0,0:30:39.09,0:30:42.68,辉中,,0,0,0,,能否说服那些持怀疑态度的玩家\Nand in order to convince players skeptical and not
 Dialogue: 0,0:30:42.68,0:30:46.29,辉中,,0,0,0,,让他们看过开场后觉得这游戏值得继续玩下去\Nthat it's actually worth playing past these opening hours.
-Dialogue: 0,0:30:46.29,0:30:48.97,辉中,,0,0,0,,在我看来 每个游戏开场效果的好坏要看具体情况\NNow in my estimation it seems that for each game
-Dialogue: 0,0:30:48.97,0:30:51.68,辉中,,0,0,0,,在我看来 每个游戏开场的效果好坏要看具体情况\Nthis is going to be different depending on the context.
+Dialogue: 0,0:30:46.29,0:30:48.97,辉中,,0,0,0,,在我看来 每款游戏开场效果的好坏要看具体情况\NNow in my estimation it seems that for each game
+Dialogue: 0,0:30:48.97,0:30:51.68,辉中,,0,0,0,,在我看来 每款游戏开场的效果好坏要看具体情况\Nthis is going to be different depending on the context.
 Dialogue: 0,0:30:51.68,0:30:57.56,辉中,,0,0,0,,比如《辐射4》或《赛博朋克2077》开场带来的效果是不同的\NWhat I mean is that the opening hours of {\i1}Fallout 4{\i0} or {\i1}Cyberpunk 2077{\i0} are going to be different
 Dialogue: 0,0:30:57.56,0:30:59.17,辉中,,0,0,0,,因为两者宣发力度不同\Ndepending on how they were pitched,
 Dialogue: 0,0:30:59.17,0:31:03.14,辉中,,0,0,0,,公众对制作发行游戏的公司的最初看法也不同\Nthe public's perception of the company that's publishing and creating the game.
 Dialogue: 0,0:31:03.14,0:31:07.98,辉中,,0,0,0,,甚至还会受到诸如游戏标价这类东西的影响\NAnd it can even be influenced by something as generic as the price tag.
-Dialogue: 0,0:31:07.98,0:31:14.98,辉中,,0,0,0,,比如一个标价60美元的游戏 人们肯定想看到一款精心打磨后的3A大作\NFor a $60 game for instance, one would expect an extremely expansive polished experience.
+Dialogue: 0,0:31:07.98,0:31:14.98,辉中,,0,0,0,,比如一款标价60美元的游戏 人们肯定想看到一款精心打磨后的3A大作\NFor a $60 game for instance, one would expect an extremely expansive polished experience.
 Dialogue: 0,0:31:14.98,0:31:19.02,辉中,,0,0,0,,而如果小岛秀夫让《死亡搁浅》只定价40美元\NWhereas if Kojima were to only charge $40 for {\i1}Death Stranding{\i0},
 Dialogue: 0,0:31:19.02,0:31:22.10,辉中,,0,0,0,,人们就不会带着那么大的期待开始玩了\Npeople would go into it with a lesser expectation.
 Dialogue: 0,0:31:22.10,0:31:25.06,辉中,,0,0,0,,这也是为什么顽皮狗发布《神秘海域：失落的遗产》\NThis is why Naughty Dog when they released {\i1}The Lost Legacy{\i0}
@@ -578,8 +578,8 @@ Dialogue: 0,0:32:59.70,0:33:03.51,辉中,,0,0,0,,所以大家从最开始就会�
 Dialogue: 0,0:33:03.51,0:33:08.05,辉中,,0,0,0,,大家会带着先入为主的想法来玩《死亡搁浅》\NThey're going to be approaching {\i1}Death Stranding{\i0} with the preconceived idea
 Dialogue: 0,0:33:08.05,0:33:13.92,辉中,,0,0,0,,觉得它就是个步行模拟器 游玩内容很糟糕 很无聊\Nthat it is a walking simulator with gameplay that's unsatisfying and boring.
 Dialogue: 0,0:33:13.92,0:33:19.66,辉中,,0,0,0,,小岛需要做的 就是在《死亡搁浅》的开场几个小时里\NAll Kojima would have to do is create the opening hours of {\i1}Death Stranding{\i0} in such a way
-Dialogue: 0,0:33:19.66,0:33:21.09,辉中,,0,0,0,,让玩家相信这个游戏系统比玩之前想象中的更丰富\Nthat players would be convinced that
-Dialogue: 0,0:33:21.09,0:33:24.98,辉中,,0,0,0,,让玩家相信这个游戏系统比玩之前想象中的更丰富\Nthere was more to this gameplay system than initially seemed present.
+Dialogue: 0,0:33:19.66,0:33:21.09,辉中,,0,0,0,,让玩家相信这款游戏系统比玩之前想象中的更丰富\Nthat players would be convinced that
+Dialogue: 0,0:33:21.09,0:33:24.98,辉中,,0,0,0,,让玩家相信这款游戏系统比玩之前想象中的更丰富\Nthere was more to this gameplay system than initially seemed present.
 Dialogue: 0,0:33:24.98,0:33:27.18,辉中,,0,0,0,,小岛有很多方法做到这一点\NKojima could have done this in a plethora of ways.
 Dialogue: 0,0:33:27.18,0:33:30.08,辉中,,0,0,0,,首先 他可以用一场大规模的BT战来开始游戏\NFor one he could have started the game with a massive BT battle,
 Dialogue: 0,0:33:30.08,0:33:34.03,辉中,,0,0,0,,不要播片 上来就开干\Nnot just a cutscene of it, but an actual gameplay system
@@ -834,7 +834,7 @@ Dialogue: 0,0:48:27.84,0:48:30.97,辉中,,0,0,0,,我的天 她真死了 我真�
 Dialogue: 0,0:48:31.81,0:48:35.87,辉中,,0,0,0,,我得……我得冷静冷静 可这也太蠢了！\NI gotta … I gotta calm down, I know, but it's like so stupid!
 Dialogue: 0,0:48:35.87,0:48:37.43,辉中,,0,0,0,,我特别讨厌这样的故事\NI hate it when stories do this,
 Dialogue: 0,0:48:37.43,0:48:40.69,辉中,,0,0,0,,告诉你谁谁谁要死了 你去见个面\Nwhen they're like a character is dying go meet with them.
-Dialogue: 0,0:48:40.69,0:48:45.31,辉中,,0,0,0,,等你一见到人 剧情就像《三分半钟》那样\NYou meet with them and it just so happens during that like three-and-a-half minute time period
+Dialogue: 0,0:48:40.69,0:48:45.31,辉中,,0,0,0,,等你一见到人 剧情就像《三分半钟》那样\NYou meet with them and it just so happens during that like {\i1}3½ Minutes{\i0} time period
 Dialogue: 0,0:48:45.31,0:48:50.47,辉中,,0,0,0,,话还没说两句人就没了 因为剧情需要这么演……\Nwhere you went and said hello, they died, because it's convenient for the story like …
 Dialogue: 0,0:48:50.47,0:48:55.08,辉中,,0,0,0,,为什么就不能好好说完话 再让她犯个心脏病之类的\NWhy isn't it that you leave, say goodbye, and then she has a heart attack.
 Dialogue: 0,0:48:55.08,0:48:56.77,辉中,,0,0,0,,然后……我真的 受不了！\NAnd … I just … come on!
@@ -859,60 +859,60 @@ Dialogue: 0,0:49:47.27,0:49:51.10,辉中,,0,0,0,,但在山姆马上要执行的�
 Dialogue: 0,0:49:51.10,0:49:54.68,辉中,,0,0,0,,你需要用BB逃离这片区域\NAnd you use this BB to escape the area.
 Dialogue: 0,0:49:54.68,0:49:57.36,辉中,,0,0,0,,又到了小岛秀夫秀缩写的时候了\NAgain, Kojima loves his acronyms.
 Dialogue: 0,0:49:57.36,0:49:59.15,辉中,,0,0,0,,而我其实很喜欢这段内容\NAnd I actually really like this sequence.
-Dialogue: 0,0:49:59.15,0:50:01.59,辉中,,0,0,0,,This is the one moment where the player actually feels as though
-Dialogue: 0,0:50:01.59,0:50:04.70,辉中,,0,0,0,,there's going to be more to the game than just a walking system.
-Dialogue: 0,0:50:04.70,0:50:07.80,辉中,,0,0,0,,However it's over before it even begins.
-Dialogue: 0,0:50:07.80,0:50:11.48,辉中,,0,0,0,,Seriously I was able to get out of here within about thirty seconds.
-Dialogue: 0,0:50:11.48,0:50:13.66,辉中,,0,0,0,,In my humble opinion, it seems as though
-Dialogue: 0,0:50:13.66,0:50:19.55,辉中,,0,0,0,,Kojima Productions should have spent a lot more time showing off what the BT system could do,
-Dialogue: 0,0:50:19.55,0:50:22.32,辉中,,0,0,0,,and how the gameplay could be extremely varied.
-Dialogue: 0,0:50:22.32,0:50:25.18,辉中,,0,0,0,,But regardless I think this BT sequence is really pretty.
-Dialogue: 0,0:50:25.18,0:50:29.24,辉中,,0,0,0,,I think it serves a purpose and I really like it so … thumbs up!
-Dialogue: 0,0:50:29.24,0:50:32.00,辉中,,0,0,0,,You escape, make it back and you learned that you need to
-Dialogue: 0,0:50:32.00,0:50:37.75,辉中,,0,0,0,,quote-unquote "expand the Chiral Network", to fulfill Bridget's vision for America.
-Dialogue: 0,0:50:37.75,0:50:42.34,辉中,,0,0,0,,You're also introduced to Amelie which is a character that is … PAINFULLY unlikable
-Dialogue: 0,0:50:42.34,0:50:45.01,辉中,,0,0,0,,and has less charisma than a summer squash.
-Dialogue: 0,0:50:45.01,0:50:47.92,辉中,,0,0,0,,I know that this is probably more personal,
-Dialogue: 0,0:50:47.92,0:50:51.96,辉中,,0,0,0,,but I found her performance is all extremely stiff.
-Dialogue: 0,0:50:51.96,0:50:57.15,辉中,,0,0,0,,But again, I don't know if this is just her fault for performing poorly,
-Dialogue: 0,0:50:57.15,0:51:01.51,辉中,,0,0,0,,or if this is a writing issue and came from the direction of Kojima.
-Dialogue: 0,0:51:01.51,0:51:03.67,辉中,,0,0,0,,Again! Kojima Syndrome!
-Dialogue: 0,0:51:03.67,0:51:09.10,辉中,,0,0,0,,Now a quick sidebar, the characters are all asking Sam to cross the entire country,
-Dialogue: 0,0:51:09.10,0:51:14.49,辉中,,0,0,0,,an extremely dangerous post-apocalyptic country mind you, and save it.
+Dialogue: 0,0:49:59.15,0:50:01.59,辉中,,0,0,0,,这里游戏第一次让玩家感觉到它实际上不仅仅是一款步行模拟器\NThis is the one moment where the player actually feels as though
+Dialogue: 0,0:50:01.59,0:50:04.70,辉中,,0,0,0,,这里游戏第一次让玩家感觉到它实际上不仅仅是一款步行模拟器\Nthere's going to be more to the game than just a walking system.
+Dialogue: 0,0:50:04.70,0:50:07.80,辉中,,0,0,0,,可是这段内容还没开始就结束了\NHowever it's over before it even begins.
+Dialogue: 0,0:50:07.80,0:50:11.48,辉中,,0,0,0,,真的 我花了没半分钟就跑出去了\NSeriously I was able to get out of here within about thirty seconds.
+Dialogue: 0,0:50:11.48,0:50:13.66,辉中,,0,0,0,,我个人认为 制作组应该多下一些功夫在BT系统的展示方面\NIn my humble opinion, it seems as though
+Dialogue: 0,0:50:13.66,0:50:19.55,辉中,,0,0,0,,我个人认为 制作组应该多下一些功夫在BT系统的展示方面\NKojima Productions should have spent a lot more time showing off what the BT system could do,
+Dialogue: 0,0:50:19.55,0:50:22.32,辉中,,0,0,0,,以及游戏玩法多样性上\Nand how the gameplay could be extremely varied.
+Dialogue: 0,0:50:22.32,0:50:25.18,辉中,,0,0,0,,但总之 我仍然认为这段BT的战斗做的很棒\NBut regardless I think this BT sequence is really pretty.
+Dialogue: 0,0:50:25.18,0:50:29.24,辉中,,0,0,0,,它的确达成了应有的目的 点赞！\NI think it serves a purpose and I really like it so … thumbs up!
+Dialogue: 0,0:50:29.24,0:50:31.17,辉中,,0,0,0,,玩家逃离BT区并返回后得知\NYou escape, make it back and you learned
+Dialogue: 0,0:50:32.00,0:50:37.75,辉中,,0,0,0,,自己需要“拓展开罗尔网络” 完成布丽吉特对美国的遗愿\Nthat you need to quote-unquote "expand the Chiral Network", to fulfill Bridget's vision for America.
+Dialogue: 0,0:50:37.75,0:50:42.34,辉中,,0,0,0,,游戏还介绍了新角色亚美莉……一个实在让人喜欢不起来的角色\NYou're also introduced to Amelie which is a character that is … PAINFULLY unlikable
+Dialogue: 0,0:50:42.34,0:50:45.01,辉中,,0,0,0,,还不如找个小鲜肉上去演\Nand has less charisma than a summer squash.
+Dialogue: 0,0:50:45.01,0:50:47.92,辉中,,0,0,0,,诚然这个感受比较主观\NI know that this is probably more personal,
+Dialogue: 0,0:50:47.92,0:50:51.96,辉中,,0,0,0,,但我真的感觉她的表演太僵硬了\Nbut I found her performance is all extremely stiff.
+Dialogue: 0,0:50:51.96,0:50:57.15,辉中,,0,0,0,,那么到底是她表演水平的确太差\NBut again, I don't know if this is just her fault for performing poorly,
+Dialogue: 0,0:50:57.15,0:51:01.51,辉中,,0,0,0,,还是说这是小岛秀夫指导下的编剧问题呢？\Nor if this is a writing issue and came from the direction of Kojima.
+Dialogue: 0,0:51:01.51,0:51:03.67,辉中,,0,0,0,,出现啦！小岛秀夫综合征！\NAgain! Kojima Syndrome!
+Dialogue: 0,0:51:03.67,0:51:09.10,辉中,,0,0,0,,跑个题 游戏中各个角色都想让山姆横穿美国\NNow a quick sidebar, the characters are all asking Sam to cross the entire country,
+Dialogue: 0,0:51:09.10,0:51:14.49,辉中,,0,0,0,,横穿这样一个极度危险的末日后的国家 还要去拯救它\Nan extremely dangerous post-apocalyptic country mind you, and save it.
 Dialogue: 0,0:51:14.49,0:51:19.69,辉中,,0,0,0,,而当游戏里其他角色劝我拯救美国的时候 行为简直比《洛基恐怖秀》还僵硬\NAnd while they're doing this, they're all stiffer than me during The Rocky Horror Picture Show.
-Dialogue: 0,0:51:27.77,0:51:31.87,辉中,,0,0,0,,What's pushing players at this point? What's pushing Sam.
-Dialogue: 0,0:51:31.87,0:51:34.13,辉中,,0,0,0,,We've been told that we need to help connect America
-Dialogue: 0,0:51:34.13,0:51:36.97,辉中,,0,0,0,,after a major event known as the {\i1}Death Stranding{\i0}.
-Dialogue: 0,0:51:36.97,0:51:40.19,辉中,,0,0,0,,Okay, we know that Amelie is Sam's sister,
-Dialogue: 0,0:51:40.19,0:51:47.02,辉中,,0,0,0,,even though they don't seem particularly … infatuated or caring of each other, but … okay.
-Dialogue: 0,0:51:47.02,0:51:49.73,辉中,,0,0,0,,To me it seems as though the operative question is
-Dialogue: 0,0:51:49.73,0:51:54.58,辉中,,0,0,0,,whether or not this world, America in this case is worth saving.
-Dialogue: 0,0:51:54.58,0:51:57.39,辉中,,0,0,0,,Where's the humanity that is worth saving?
-Dialogue: 0,0:51:57.39,0:52:03.49,辉中,,0,0,0,,And this is actually my biggest problem with {\i1}Death Stranding{\i0} the game writ large.
-Dialogue: 0,0:52:03.49,0:52:09.86,辉中,,0,0,0,,It fails to give the player any clear evidence that the world is actually worth saving
-Dialogue: 0,0:52:09.86,0:52:12.84,辉中,,0,0,0,,that all of this trouble is worth it.
-Dialogue: 0,0:52:12.84,0:52:17.05,辉中,,0,0,0,,Now I get it, there are not that many people now that the world has ended, basically.
-Dialogue: 0,0:52:17.05,0:52:22.63,辉中,,0,0,0,,But still, there are very few moments that attempt to humanize these delivery recipients.
-Dialogue: 0,0:52:22.63,0:52:25.78,辉中,,0,0,0,,I mean hell, if you're gonna ask the player to go through the trouble
-Dialogue: 0,0:52:25.78,0:52:29.74,辉中,,0,0,0,,of delivering packages mindlessly back and forth between locations,
-Dialogue: 0,0:52:29.74,0:52:34.35,辉中,,0,0,0,,it seems like you should at the very least try to emotionally motivate them to do so.
-Dialogue: 0,0:52:34.35,0:52:37.19,辉中,,0,0,0,,However, all of your interactions with all of the people
-Dialogue: 0,0:52:37.19,0:52:41.34,辉中,,0,0,0,,that you interact with these deliveries show up as Holograms.
-Dialogue: 0,0:52:41.34,0:52:43.95,辉中,,0,0,0,,You don't even get to see them in person.
-Dialogue: 0,0:52:43.95,0:52:47.07,辉中,,0,0,0,,But again was this a result of poor game design,
-Dialogue: 0,0:52:47.07,0:52:51.52,辉中,,0,0,0,,lazy copy and pasted formatting of locations and interactions?
-Dialogue: 0,0:52:51.52,0:52:55.38,辉中,,0,0,0,,Or is it a meta discussion on the hopelessness
-Dialogue: 0,0:52:55.38,0:52:59.31,辉中,,0,0,0,,that people have and how empty the world is without connections?
-Dialogue: 0,0:52:59.31,0:53:01.58,辉中,,0,0,0,,Again,  Kojima Syndrome.
-Dialogue: 0,0:53:01.58,0:53:07.57,辉中,,0,0,0,,The clearest example of Kojima seemingly attempting to humanize this world and failing miserably
-Dialogue: 0,0:53:07.57,0:53:09.63,辉中,,0,0,0,,is when you're delivering things to the scrapper.
-Dialogue: 0,0:53:09.63,0:53:13.34,辉中,,0,0,0,,You see he has a woman that he loves and that he thinks is dead.
-Dialogue: 0,0:53:13.34,0:53:15.08,辉中,,0,0,0,,You find out that she's alive
-Dialogue: 0,0:53:15.08,0:53:21.16,辉中,,0,0,0,,but her performance has got to be the worst I've ever seen in a 3A title.
-Dialogue: 0,0:53:21.16,0:53:28.30,辉中,,0,0,0,,I'm not joking, I'm not trying to be funny, I'm not trying to be mean, this is just … awful.
-Dialogue: 0,0:53:28.30,0:53:32.58,辉中,,0,0,0,,And I … I get it, English is probably not her first language,
-Dialogue: 0,0:53:32.58,0:53:38.12,辉中,,0,0,0,,but this performance … is one of if not the worst I have ever seen.
-Dialogue: 0,0:53:38.12,0:53:42.98,辉中,,0,0,0,,Truly horrible, nothing personal, it's just that bad, watch.
+Dialogue: 0,0:51:27.77,0:51:31.87,辉中,,0,0,0,,这时是什么在驱动玩家？什么在驱动山姆？\NWhat's pushing players at this point? What's pushing Sam.
+Dialogue: 0,0:51:31.87,0:51:34.13,辉中,,0,0,0,,游戏让我们在名叫“死亡搁浅”的重大事件过后帮助美国重新加入连接\NWe've been told that we need to help connect America
+Dialogue: 0,0:51:34.13,0:51:36.97,辉中,,0,0,0,,游戏让我们在名叫“死亡搁浅”的重大事件过后帮助美国重新加入连接\Nafter a major event known as the {\i1}Death Stranding{\i0}.
+Dialogue: 0,0:51:36.97,0:51:40.19,辉中,,0,0,0,,我们知道亚美莉是山姆的姐姐\NOkay, we know that Amelie is Sam's sister,
+Dialogue: 0,0:51:40.19,0:51:47.02,辉中,,0,0,0,,虽然看上去他们并不是很……很重视 很关心对方 我认了\Neven though they don't seem particularly … infatuated or caring of each other, but … okay.
+Dialogue: 0,0:51:47.02,0:51:49.73,辉中,,0,0,0,,对我来说 关键的问题似乎是这个世界 当下的美国 是否还值得拯救\NTo me it seems as though the operative question is
+Dialogue: 0,0:51:49.73,0:51:54.58,辉中,,0,0,0,,对我来说 关键的问题似乎是这个世界 当下的美国 是否还值得拯救\Nwhether or not this world, America in this case is worth saving.
+Dialogue: 0,0:51:54.58,0:51:57.39,辉中,,0,0,0,,值得我救的人在哪？\NWhere's the humanity that is worth saving?
+Dialogue: 0,0:51:57.39,0:52:03.49,辉中,,0,0,0,,而这实际上是我最想问《死亡搁浅》这款游戏的问题\NAnd this is actually my biggest problem with {\i1}Death Stranding{\i0} the game writ large.
+Dialogue: 0,0:52:03.49,0:52:09.86,辉中,,0,0,0,,它没有给玩家任何明确的证据 证明这个世界确实值得拯救\NIt fails to give the player any clear evidence that the world is actually worth saving
+Dialogue: 0,0:52:09.86,0:52:12.84,辉中,,0,0,0,,证明所有这些苦难都是值得的\Nthat all of this trouble is worth it.
+Dialogue: 0,0:52:12.84,0:52:17.05,辉中,,0,0,0,,我明白 世界末日下已经没几个大活人了\NNow I get it, there are not that many people now that the world has ended, basically.
+Dialogue: 0,0:52:17.05,0:52:22.63,辉中,,0,0,0,,但还是有些微的机会来感化这些收件人们\NBut still, there are very few moments that attempt to humanize these delivery recipients.
+Dialogue: 0,0:52:22.63,0:52:25.78,辉中,,0,0,0,,我的意思是 如果要让玩家克服困难在不同的地点之间来回运送包裹\NI mean hell, if you're gonna ask the player to go through the trouble
+Dialogue: 0,0:52:25.78,0:52:29.74,辉中,,0,0,0,,我的意思是 如果要让玩家克服困难在不同的地点之间来回运送包裹\Nof delivering packages mindlessly back and forth between locations,
+Dialogue: 0,0:52:29.74,0:52:34.35,辉中,,0,0,0,,至少应该尝试在情感上激励玩家这样做\Nit seems like you should at the very least try to emotionally motivate them to do so.
+Dialogue: 0,0:52:34.35,0:52:37.19,辉中,,0,0,0,,然而 所有你的快递的所有接收人 全都是全息影像\NHowever, all of your interactions with all of the people
+Dialogue: 0,0:52:37.19,0:52:41.34,辉中,,0,0,0,,然而 所有你的快递的所有接收人 全都是全息影像\Nthat you interact with these deliveries show up as Holograms.
+Dialogue: 0,0:52:41.34,0:52:43.95,辉中,,0,0,0,,你几乎看不到他们真人\NYou don't even get to see them in person.
+Dialogue: 0,0:52:43.95,0:52:47.07,辉中,,0,0,0,,这是游戏设计上的缺陷\NBut again was this a result of poor game design,
+Dialogue: 0,0:52:47.07,0:52:51.52,辉中,,0,0,0,,因为犯懒才干脆复制粘贴各个目的地的互动内容？\Nlazy copy and pasted formatting of locations and interactions?
+Dialogue: 0,0:52:51.52,0:52:55.38,辉中,,0,0,0,,还是说这是对人类的绝望和缺乏联系的世界有多么空虚的元讨论？\NOr is it a meta discussion on the hopelessness
+Dialogue: 0,0:52:55.38,0:52:59.31,辉中,,0,0,0,,还是说这是对人类的绝望和缺乏联系的世界有多么空虚的元讨论？\Nthat people have and how empty the world is without connections?
+Dialogue: 0,0:52:59.31,0:53:01.58,辉中,,0,0,0,,又来了 小岛秀夫综合征\NAgain,  Kojima Syndrome.
+Dialogue: 0,0:53:01.58,0:53:07.57,辉中,,0,0,0,,小岛在游戏中试图在这个世界传播人性而又惨败的最明显的例子\NThe clearest example of Kojima seemingly attempting to humanize this world and failing miserably
+Dialogue: 0,0:53:07.57,0:53:09.63,辉中,,0,0,0,,是废品商这个任务\Nis when you're delivering things to the Scrapper.
+Dialogue: 0,0:53:09.63,0:53:13.34,辉中,,0,0,0,,他有个深爱的女人 以为她已经死了\NYou see he has a woman that he loves and that he thinks is dead.
+Dialogue: 0,0:53:13.34,0:53:15.08,辉中,,0,0,0,,你发现女的还活着\NYou find out that she's alive
+Dialogue: 0,0:53:15.08,0:53:21.16,辉中,,0,0,0,,但她的表演简直是我在3A游戏里见过的最烂的\Nbut her performance has got to be the worst I've ever seen in a 3A title.
+Dialogue: 0,0:53:21.16,0:53:28.30,辉中,,0,0,0,,我没开玩笑 我不想搞笑 我也不是故意挑刺 是单纯的烂\NI'm not joking, I'm not trying to be funny, I'm not trying to be mean, this is just … awful.
+Dialogue: 0,0:53:28.30,0:53:32.58,辉中,,0,0,0,,而我……我也理解她的母语应该不是英语\NAnd I … I get it, English is probably not her first language,
+Dialogue: 0,0:53:32.58,0:53:38.12,辉中,,0,0,0,,但这个表演 真的是我见过最差劲的\Nbut this performance … is one of if not the worst I have ever seen.
+Dialogue: 0,0:53:38.12,0:53:42.98,辉中,,0,0,0,,真的太糟糕了 不是针对演员 是真的很烂\NTruly horrible, nothing personal, it's just that bad, watch.
 Dialogue: 4,0:53:47.89,0:53:49.19,辉中 Script,,0,0,0,,你受伤了吗？
 Dialogue: 4,0:53:51.19,0:53:53.26,辉中 Script,,0,0,0,,谢谢你了，布里吉斯。
 Dialogue: 4,0:53:54.66,0:53:56.40,辉中 Script,,0,0,0,,我不敢相信你还活着。

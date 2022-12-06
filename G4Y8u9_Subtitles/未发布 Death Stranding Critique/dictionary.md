@@ -14,6 +14,7 @@
 |Higgs Monaghan|Higgs|希格斯|BOSS之一|
 |Clifford "Cliff" Unger|Clifford|克利福德||
 |-|MULEs|米尔人|美团外卖|
+|-|Scrapper|废品商||
 
 
 ## 地名
