@@ -16,9 +16,9 @@ Video File: ../../../../../Video/给没组/DS/RAW.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 873
-Active Line: 880
-Video Position: 96448
+Scroll Position: 983
+Active Line: 987
+Video Position: 109248
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -27,7 +27,7 @@ Style: 辉英,PragmataPro,35,&H00FFFFFF,&H000019FF,&H003B3C3D,&H00000000,0,0,0,0
 Style: 辉注,文泉驿微米黑,50,&H00000000,&H000019FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,1,0,1,3,0.7,9,10,10,10,1
 Style: 辉中 Script,文泉驿微米黑,55,&H00FFFFD2,&H000019FF,&H00000000,&H00000000,-1,0,0,0,100,100,0.5,0,1,0,2,2,0,0,135,1
 Style: 辉英 Script,PragmataPro,30,&H00BBD3D2,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,1,0.2,2,0,0,125,1
-Style: 辉中 顶端标题,方正大黑_GBK,45,&H00FFFFFF,&H000019FF,&H00704012,&H00000000,-1,0,0,0,100,100,0.5,0,1,0,3,8,0,0,120,1
+Style: 辉中 顶端标题,方正大黑_GBK,45,&H00FFFFFF,&H000019FF,&H00704012,&H002B2B2B,-1,0,0,0,100,100,0.5,0,1,0,2,8,0,0,120,1
 Style: 辉中 kobo,思源黑体 Normal,35,&H00AFAFAF,&H000019FF,&H00704012,&H00000000,-1,0,0,0,100,100,0.5,0,1,0,0,2,0,0,450,1
 
 [Events]
@@ -95,8 +95,8 @@ Dialogue: 0,0:03:44.65,0:03:48.40,辉中,,0,0,0,,以其模棱两可的叙事\Nth
 Dialogue: 0,0:03:48.40,0:03:54.09,辉中,,0,0,0,,光荣成为了小岛秀夫诡异的导演手法笔下的受害者\Nand falls victim to some very bizarre directorial decisions at the hands of Hideo Kojima,
 Dialogue: 0,0:03:54.09,0:03:58.71,辉中,,0,0,0,,而小岛本人的名字也快和游戏本身绑定起来了\Na man so closely tied to {\i1}Death Stranding{\i0} that he and the game are inextricably tied,
 Dialogue: 0,0:03:58.71,0:04:01.49,辉中,,0,0,0,,毕竟他自己都说了那么多\Nmostly due to his own statements saying as much.
-Dialogue: 0,0:04:01.49,0:04:05.47,辉注,,0,0,0,,译注：译者《死亡搁浅》PS4白金
 Dialogue: 0,0:04:01.49,0:04:05.47,辉中,,0,0,0,,另外我也有必要告知大家我做这期视频前都做了哪些功课\NIt's also probably important that I mentioned my qualifications for making this video.
+Dialogue: 0,0:04:01.49,0:04:05.47,辉注,,0,0,0,,译注：译者《死亡搁浅》PS4白金
 Dialogue: 0,0:04:05.47,0:04:09.75,辉中,,0,0,0,,我在两台PS4上总共大约游玩了100小时的《死亡搁浅》\NI've put in well over a hundred hours into {\i1}Death Stranding{\i0} on two separate PS4s,
 Dialogue: 0,0:04:09.75,0:04:14.56,辉中,,0,0,0,,一台Slim 一台Pro 从而了解游戏在技术层面的表现如何\Na Slim and a Pro, to get an idea of what this game can do technically,
 Dialogue: 0,0:04:14.56,0:04:16.79,辉中,,0,0,0,,稍后会稍作提及\Nsomething will touch on lightly later.
@@ -280,8 +280,8 @@ Dialogue: 0,0:14:43.22,0:14:46.94,辉中,,0,0,0,,保证我的注意力能时刻�
 Dialogue: 0,0:14:46.94,0:14:48.89,辉中,,0,0,0,,比如游戏《星球大战 绝地：陨落的武士团》\NLook at {\i1}Star Wars Jedi: Fallen Order{\i0},
 Dialogue: 0,0:14:48.89,0:14:52.62,辉中,,0,0,0,,游戏前两小时内容打磨得非常非常棒\Nthe first two hours are polished to high heaven and they are great.
 Dialogue: 0,0:14:52.62,0:14:57.35,辉中,,0,0,0,,抑或是《巫师3：狂猎》 前期狮鹫兽的战斗 加上……\NOr {\i1}The Witcher 3{\i0}, where the Griffin fight is front-loaded as with some …
-Dialogue: 5,0:14:57.35,0:15:00.05,辉中 Script,,0,200,550,,马赛克\N马赛克\N马赛克
 Dialogue: 0,0:14:57.35,0:15:00.05,辉中,,0,0,0,,这样的内容 一下就把我吸引住了\Nbutts … which naturally sold me on it.
+Dialogue: 5,0:14:57.35,0:15:00.05,辉中 Script,,0,200,550,,马赛克\N马赛克\N马赛克
 Dialogue: 0,0:15:00.05,0:15:03.41,辉中,,0,0,0,,再比如《侠盗猎车手V》 开场就是抢劫\NOr {\i1}Grand Theft Auto V{\i0} where the robbery sequence is front loaded
 Dialogue: 0,0:15:03.41,0:15:06.48,辉中,,0,0,0,,让玩家期待自己之后能“大干一票”\Nto show you what you can look forward to later in the game.
 Dialogue: 0,0:15:06.48,0:15:09.56,辉中,,0,0,0,,我要说的是 大多数西方的3A游戏\NThe point is, a majority of AAA western titles,
@@ -309,8 +309,8 @@ Dialogue: 0,0:16:10.51,0:16:14.39,辉中,,0,0,0,,至少思考方式真的很符�
 Dialogue: 0,0:16:14.39,0:16:17.92,辉中,,0,0,0,,玩家只要等个大约38小时就能得到解答\NYou just have to wait roughly 38 hours to get those answers.
 Dialogue: 0,0:16:17.92,0:16:20.34,辉中,,0,0,0,,其他问题也是因此产生的：\NOther problems also arise due to the fact
 Dialogue: 0,0:16:20.34,0:16:24.05,辉中,,0,0,0,,游戏是用日语进行叙述和编写的\Nthat the game was developed narratively and written in Japanese
-Dialogue: 0,0:16:24.05,0:16:28.08,辉注,,0,0,0,,"ported" 这里是“翻译”的意思\N和山姆的派送员（porter）职责双关
 Dialogue: 0,0:16:24.05,0:16:28.08,辉中,,0,0,0,,然后被“移植”……懂了吗？移植到了英语\Nand then it was "ported" … get it? … over to English.
+Dialogue: 0,0:16:24.05,0:16:28.08,辉注,,0,0,0,,"ported" 这里是“翻译”的意思\N和山姆的派送员（porter）职责双关
 Dialogue: 0,0:16:28.08,0:16:30.13,辉中,,0,0,0,,认识到这点实际上非常重要\NThis is actually incredibly important to understand
 Dialogue: 0,0:16:30.13,0:16:34.37,辉中,,0,0,0,,我觉得这是《死亡搁浅》中很多剧情被批评的原因之一\Nand I think it's a reason why a lot of the writing in {\i1}Death Stranding{\i0} has been panned.
 Dialogue: 0,0:16:34.37,0:16:36.58,辉中,,0,0,0,,游戏是用日语写的\NThis is a Japanese written story.
@@ -416,8 +416,8 @@ Dialogue: 0,0:23:15.40,0:23:17.61,辉中,,0,0,0,,我们来找一些临床上的�
 Dialogue: 0,0:23:17.80,0:23:20.41,辉中,,0,0,0,,游戏中几乎没有任何动物\NThere are little to no animals in the game.
 Dialogue: 0,0:23:20.41,0:23:25.60,辉中,,0,0,0,,只在游戏开场动画里看到了不少\NEven though we see a plethora of them in the introductory cutscene of the title.
 Dialogue: 0,0:23:25.60,0:23:31.07,辉中,,0,0,0,,这究竟是技术的限制还是预算的不足?\NIs this a lazy short coming due to technical restraints or budgetary restrictions?
-Dialogue: 0,0:23:31.07,0:23:39.98,辉注,,0,0,0,,元讨论：对讨论的讨论
 Dialogue: 0,0:23:31.07,0:23:36.08,辉中,,0,0,0,,抑或是对没有生命的自然的空虚和人类在更大尺度中所扮演角色的元讨论?\NOr is it a meta discussion of the emptiness of nature without conscious life
+Dialogue: 0,0:23:31.07,0:23:39.98,辉注,,0,0,0,,元讨论：对讨论的讨论
 Dialogue: 0,0:23:36.08,0:23:39.98,辉中,,0,0,0,,抑或是对没有生命的自然的空虚和人类在更大尺度中所扮演角色的元讨论?\Nand mankind's role within nature on a larger scale?
 Dialogue: 0,0:23:40.24,0:23:42.49,辉中,,0,0,0,,典型的小岛秀夫综合征\NWho can say? Kojima Syndrome!
 Dialogue: 0,0:23:42.49,0:23:45.44,辉中,,0,0,0,,再比如游戏的BOSS战都很笨拙\NOr the fact that all of the boss fights are extremely clunky
@@ -564,10 +564,10 @@ Dialogue: 0,0:32:19.80,0:32:22.81,辉中,,0,0,0,,我觉得这是个无可争议�
 Dialogue: 0,0:32:22.81,0:32:25.41,辉中,,0,0,0,,但我总感觉评论区会有些反对意见\Nbut I'm sure there will be some disagreeing in the comments.
 Dialogue: 0,0:32:25.41,0:32:27.11,辉中,,0,0,0,,但请听我细细道来\NBut at least hear me out.
 Dialogue: 0,0:32:27.11,0:32:30.38,辉中,,0,0,0,,我的意思具体而言 《死亡搁浅》必须证明：\NSpecifically what I mean is that {\i1}Death Stranding{\i0} has to prove that
-Dialogue: 5,0:32:28.18,0:32:51.30,辉中 顶端标题,,0,0,0,,{\fade(2000,1440)\move(960,130,960,10,21780,23220)}《死亡搁浅》必须证明其拥有有趣的值得游玩的内容
+Dialogue: 5,0:32:28.18,0:32:51.30,辉中 顶端标题,,0,0,0,,{\be1\fade(2000,1440)\move(960,130,960,10,21780,23220)}《死亡搁浅》必须证明其拥有有趣的值得游玩的内容
 Dialogue: 0,0:32:30.38,0:32:34.26,辉中,,0,0,0,,其一 游戏拥有有趣的值得游玩的内容\Nfor one, it has a rewarding and worthwhile gameplay loop;
 Dialogue: 0,0:32:34.26,0:32:38.26,辉中,,0,0,0,,其二 游戏的叙事必须经过深思熟虑 自圆其说\Nand for two, the narrative makes sense and has been thought through.
-Dialogue: 5,0:32:35.05,0:32:51.30,辉中 顶端标题,,0,0,0,,{\fade(2000,1440)\move(960,180,960,60,14910,16350)}且叙事必须经过深思熟虑 自圆其说
+Dialogue: 5,0:32:35.05,0:32:51.30,辉中 顶端标题,,0,0,0,,{\be0\fade(2000,1440)\move(960,180,960,60,14910,16350)}且叙事必须经过深思熟虑 自圆其说
 Dialogue: 0,0:32:38.26,0:32:42.90,辉中,,0,0,0,,尤其第一点 因为这款游戏在发布前被许多人称为步行模拟器\NSpecifically number one because this was referred to as a walking simulator
 Dialogue: 0,0:32:42.90,0:32:45.16,辉中,,0,0,0,,尤其第一点 因为这款游戏在发布前被许多人称为步行模拟器\Nby many before launch,
 Dialogue: 0,0:32:45.16,0:32:48.65,辉中,,0,0,0,,我并不同意这点 稍后我会讲到\Nwhich I actually disagree with, but again I'll discuss that later.
@@ -610,9 +610,9 @@ Dialogue: 0,0:34:59.82,0:35:02.88,辉中,,0,0,0,,并用引人入胜的叙事内�
 Dialogue: 0,0:35:02.88,0:35:08.32,辉中,,0,0,0,,但是没有 小岛在这方面完全失败了 我想我可以说服大家\NBut no, Kojima completely fails at this, and I think I can convince you.
 Dialogue: 0,0:35:08.32,0:35:12.08,辉中,,0,0,0,,我会带大家过一遍游戏开场内容\NTo do this, I want to go through the opening sequence of the game.
 Dialogue: 0,0:35:12.08,0:35:18.25,辉中,,0,0,0,,并且我会把《死亡搁浅》要证明的这两件事放在屏幕上方\NAnd I'm actually going to keep these two things that {\i1}Death Stranding{\i0} has to prove up on screen.
-Dialogue: 5,0:35:12.31,0:35:18.55,辉中 顶端标题,,0,0,0,,{\fade(930,0)\move(960,10,960,130,0,930)}《死亡搁浅》必须证明其拥有有趣的值得游玩的内容\N且叙事必须经过深思熟虑 自圆其说
+Dialogue: 5,0:35:12.31,0:35:18.55,辉中 顶端标题,,0,0,0,,{\be1\fade(930,0)\move(960,10,960,130,0,930)}《死亡搁浅》必须证明其拥有有趣的值得游玩的内容\N且叙事必须经过深思熟虑 自圆其说
 Dialogue: 0,0:35:18.25,0:35:20.11,辉中,,0,0,0,,这样 当我们浏览画面时\NThat way as we go through this
-Dialogue: 5,0:35:18.55,0:44:29.23,辉中 顶端标题,,0,0,0,,{\move(960,130,960,70,0,1800)\t(0,1800,\fs25)}《死亡搁浅》必须证明其拥有有趣的值得游玩的内容\N且叙事必须经过深思熟虑 自圆其说
+Dialogue: 5,0:35:18.55,0:44:29.23,辉中 顶端标题,,0,0,0,,{\be1\move(960,130,960,70,0,1800)\t(0,1800,\fs25)}《死亡搁浅》必须证明其拥有有趣的值得游玩的内容\N且叙事必须经过深思熟虑 自圆其说
 Dialogue: 0,0:35:20.11,0:35:25.00,辉中,,0,0,0,,可以不断问自己 这两条有没有满足\Nyou can consistently ask yourself whether or not these checks are being met.
 Dialogue: 0,0:35:25.00,0:35:29.51,辉中,,0,0,0,,因为不管喜欢与否 这都是玩家在经历开场时心里有意无意都在问的问题\NBecause like it or not this is the mental check that players are going to be applying
 Dialogue: 0,0:35:29.51,0:35:33.06,辉中,,0,0,0,,因为不管喜欢与否 这都是玩家在经历开场时心里有意无意都在问的问题\Nas they go through the opening sequence consciously or not.
@@ -760,10 +760,10 @@ Dialogue: 0,0:44:18.31,0:44:21.41,辉中,,0,0,0,,你来到一段美丽的山谷 
 Dialogue: 0,0:44:21.41,0:44:24.47,辉中,,0,0,0,,袅袅余音配良辰美景\NThis music is really peaceful the scenery is beautiful.
 Dialogue: 0,0:44:24.47,0:44:29.23,辉中,,0,0,0,,可是等下 你还在送快递呢\NBut again, you're just walking with a package on your back.
 Dialogue: 0,0:44:29.23,0:44:33.19,辉中,,0,0,0,,这些能满足之前提到的两点要求吗？\NDoes this achieve either of the two things outlined earlier?
-Dialogue: 5,0:44:29.23,0:44:34.83,辉中 顶端标题,,0,0,0,,{\move(960,70,960,120,0,1070)\fs25\t(0,1070,\fs45)}《死亡搁浅》必须证明其拥有有趣的值得游玩的内容\N且叙事必须经过深思熟虑 自圆其说
+Dialogue: 5,0:44:29.23,0:44:34.83,辉中 顶端标题,,0,0,0,,{\be1\move(960,70,960,120,0,1070)\fs25\t(0,1070,\fs45)}《死亡搁浅》必须证明其拥有有趣的值得游玩的内容\N且叙事必须经过深思熟虑 自圆其说
 Dialogue: 0,0:44:33.19,0:44:34.51,辉中,,0,0,0,,我觉得不能\NI don't think so.
 Dialogue: 0,0:44:34.51,0:44:39.94,辉中,,0,0,0,,你走进建筑群 发现城市实际上出奇地空荡\NAs you walk into the complex, you realize that the compound is actually remarkably bland.
-Dialogue: 5,0:44:34.83,0:46:27.61,辉中 顶端标题,,0,0,0,,{\move(960,120,960,70,0,1800)\t(0,1800,\fs25)}《死亡搁浅》必须证明其拥有有趣的值得游玩的内容\N且叙事必须经过深思熟虑 自圆其说
+Dialogue: 5,0:44:34.83,0:46:27.61,辉中 顶端标题,,0,0,0,,{\be1\move(960,120,960,70,0,1800)\t(0,1800,\fs25)}《死亡搁浅》必须证明其拥有有趣的值得游玩的内容\N且叙事必须经过深思熟虑 自圆其说
 Dialogue: 0,0:44:39.94,0:44:42.46,辉中,,0,0,0,,跟死城一样 一个活人都没有\NAnd it looks dead, there's no one here.
 Dialogue: 0,0:44:42.46,0:44:45.56,辉中,,0,0,0,,事实上 在整个50小时的游戏流程中\NIn fact pretty much everyone we're going to be talking to
 Dialogue: 0,0:44:45.56,0:44:49.90,辉中,,0,0,0,,所有和我们交谈的人几乎都是全息影像\Nin any of these places throughout the entire 50 hour campaign,
@@ -798,9 +798,9 @@ Dialogue: 0,0:46:16.67,0:46:18.56,辉中,,0,0,0,,这些问题我觉得不需要�
 Dialogue: 0,0:46:18.56,0:46:22.10,辉中,,0,0,0,,我甚至不希望它们在开场的时候就有答案\Nand I wouldn't even want them to all be answered in the opening sequence.
 Dialogue: 0,0:46:22.10,0:46:25.59,辉中,,0,0,0,,然而 在《死亡搁浅》这样特定的环境下\NHowever with {\i1}Death Stranding{\i0}'s specific circumstance,
 Dialogue: 0,0:46:25.59,0:46:29.58,辉中,,0,0,0,,这一切还是不禁让人想入为主地认为\Nthis doesn't do much to shake the preconceived notion again,
-Dialogue: 5,0:46:27.61,0:46:33.19,辉中 顶端标题,,0,0,0,,{\move(960,70,960,120,0,1070)\fs25\t(0,1070,\fs45)}《死亡搁浅》必须证明其拥有有趣的值得游玩的内容\N且叙事必须经过深思熟虑 自圆其说
+Dialogue: 5,0:46:27.61,0:46:33.19,辉中 顶端标题,,0,0,0,,{\be1\move(960,70,960,120,0,1070)\fs25\t(0,1070,\fs45)}《死亡搁浅》必须证明其拥有有趣的值得游玩的内容\N且叙事必须经过深思熟虑 自圆其说
 Dialogue: 0,0:46:29.58,0:46:33.47,辉中,,0,0,0,,这一切只是为了酷炫而加进去的离谱场景\Nthat this is all just crazy and done for the sake of being cool.
-Dialogue: 5,0:46:33.19,0:49:27.23,辉中 顶端标题,,0,0,0,,{\move(960,120,960,70,0,1800)\t(0,1800,\fs25)}《死亡搁浅》必须证明其拥有有趣的值得游玩的内容\N且叙事必须经过深思熟虑 自圆其说
+Dialogue: 5,0:46:33.19,0:49:27.23,辉中 顶端标题,,0,0,0,,{\be1\move(960,120,960,70,0,1800)\t(0,1800,\fs25)}《死亡搁浅》必须证明其拥有有趣的值得游玩的内容\N且叙事必须经过深思熟虑 自圆其说
 Dialogue: 0,0:46:33.47,0:46:35.84,辉中,,0,0,0,,总之 发生了一大堆奇怪的事件\NAnyway, a bunch of weird stuff happens.
 Dialogue: 0,0:46:35.84,0:46:40.63,辉中,,0,0,0,,结果就是出现一个巨大的坑 中央还有一个巨大的黑手印\NThis results in a massive crater and a handprint indentation in the land.
 Dialogue: 0,0:46:40.63,0:46:43.44,辉中,,0,0,0,,这实际上就是在整个游戏中用致命武器杀人有多糟心的原因\NThis is actually why everybody throughout the game freaks out
@@ -848,10 +848,10 @@ Dialogue: 0,0:49:15.26,0:49:18.62,辉中,,0,0,0,,玩家把总统背起后 会有
 Dialogue: 0,0:49:18.62,0:49:22.73,辉中,,0,0,0,,随后玩家会穿过一大片葱郁的碎石地\NAnd you're walking across an expansive green pasture covered in rocks,
 Dialogue: 0,0:49:22.73,0:49:25.11,辉中,,0,0,0,,耳边还会响起平静温和的音乐\Nas a nice calming piece of music plays.
 Dialogue: 0,0:49:25.11,0:49:27.40,辉中,,0,0,0,,真的非常令人放松 但别忘了！\NIt's actually pretty relaxing, but again!
-Dialogue: 5,0:49:27.23,0:49:32.87,辉中 顶端标题,,0,0,0,,{\move(960,70,960,120,0,1070)\fs25\t(0,1070,\fs45)}《死亡搁浅》必须证明其拥有有趣的值得游玩的内容\N且叙事必须经过深思熟虑 自圆其说
+Dialogue: 5,0:49:27.23,0:49:32.87,辉中 顶端标题,,0,0,0,,{\be1\move(960,70,960,120,0,1070)\fs25\t(0,1070,\fs45)}《死亡搁浅》必须证明其拥有有趣的值得游玩的内容\N且叙事必须经过深思熟虑 自圆其说
 Dialogue: 0,0:49:27.40,0:49:32.67,辉中,,0,0,0,,人们玩到这是否还会先入为主地认为游戏只是步行模拟器？会\NDoes it do anything to shake the preconceived notion that this is a walking simulator? No.
 Dialogue: 0,0:49:32.67,0:49:35.30,辉中,,0,0,0,,当你把总统的尸体带到焚化厂后\NNow while you're delivering the president's body to the incinerator
-Dialogue: 5,0:49:32.87,0:59:15.21,辉中 顶端标题,,0,0,0,,{\move(960,120,960,70,0,1800)\t(0,1800,\fs25)}《死亡搁浅》必须证明其拥有有趣的值得游玩的内容\N且叙事必须经过深思熟虑 自圆其说
+Dialogue: 5,0:49:32.87,0:59:15.21,辉中 顶端标题,,0,0,0,,{\be1\move(960,120,960,70,0,1800)\t(0,1800,\fs25)}《死亡搁浅》必须证明其拥有有趣的值得游玩的内容\N且叙事必须经过深思熟虑 自圆其说
 Dialogue: 0,0:49:35.30,0:49:39.38,辉中,,0,0,0,,他们还让你把BB 就是胸前罐子里的婴儿\Nyou've also been asked to take a BB, or a baby and a jar,
 Dialogue: 0,0:49:39.38,0:49:42.84,辉中,,0,0,0,,也送到这里 将它销毁\Nto this location, to have it also decommissioned.
 Dialogue: 0,0:49:42.84,0:49:47.27,辉中,,0,0,0,,他们并没说太多 只是说它出故障了 无法使用\NYou're not told a whole lot except that this is malfunctioning and it's no longer in use.
@@ -932,92 +932,94 @@ Dialogue: 4,0:55:04.06,0:55:07.10,辉中 Script,,0,0,0,,他是修补的好手…
 Dialogue: 4,0:55:07.90,0:55:15.64,辉中 Script,,0,0,180,,收集碎片，再最大限度利用。\N这也是我最擅长的。
 Dialogue: 4,0:55:17.91,0:55:18.88,辉中 Script,,0,0,0,,但我们已经不需要这个了。
 Dialogue: 4,0:55:20.35,0:55:22.08,辉中 Script,,0,0,0,,但我们已经不需要这个了。
-Dialogue: 0,0:55:29.91,0:55:32.24,辉中,,0,0,0,,Now this could have been a moment to prove to the player that
-Dialogue: 0,0:55:32.24,0:55:35.07,辉中,,0,0,0,,they're still loving caring people in this world.
-Dialogue: 0,0:55:35.07,0:55:39.87,辉中,,0,0,0,,Instead, we're left thinking that maybe we should put these people out of their misery
-Dialogue: 0,0:55:39.87,0:55:42.10,辉中,,0,0,0,,because clearly they're poisoned with arsenic.
-Dialogue: 0,0:55:42.10,0:55:46.57,辉中,,0,0,0,,Now I know I'm being harsh, but this happens repeatedly throughout the story,
-Dialogue: 0,0:55:46.57,0:55:50.86,辉中,,0,0,0,,where there's a chance for the small characters to prove that this world is worth saving,
-Dialogue: 0,0:55:50.86,0:55:53.08,辉中,,0,0,0,,but they universally fail.
-Dialogue: 0,0:55:53.08,0:55:58.02,辉中,,0,0,0,,Again the question seems to me is the so writing issue on the part of Kojima.
-Dialogue: 0,0:55:58.02,0:56:03.29,辉中,,0,0,0,,Is it his fault? Is it a directorial fault? Again landing on the shoulders of Kojima.
-Dialogue: 0,0:56:03.29,0:56:07.69,辉中,,0,0,0,,Or, is it just that their performances are that bad.
-Dialogue: 0,0:56:07.69,0:56:11.88,辉中,,0,0,0,,With this particular instance I think you could say the performance is just that bad.
-Dialogue: 0,0:56:11.88,0:56:18.77,辉中,,0,0,0,,But at the same time, Hideo is the one that would presumably have cast this woman in this role.
-Dialogue: 0,0:56:18.77,0:56:22.52,辉中,,0,0,0,,So again the fault still lands on his shoulders.
-Dialogue: 0,0:56:22.52,0:56:25.26,辉中,,0,0,0,,Point is I think that this is inexcusably bad.
-Dialogue: 0,0:56:25.26,0:56:28.16,辉中,,0,0,0,,And whether Kojima was happy with this performance
-Dialogue: 0,0:56:28.16,0:56:32.19,辉中,,0,0,0,,and this narrative structuring in the way that you interact with these smaller characters,
-Dialogue: 0,0:56:32.19,0:56:35.24,辉中,,0,0,0,,the blame still lands on Kojima shoulders.
-Dialogue: 0,0:56:35.24,0:56:37.84,辉中,,0,0,0,,Now thankfully the main cast is phenomenal
-Dialogue: 0,0:56:37.84,0:56:41.12,辉中,,0,0,0,,and they try very hard to deal with the wordy,
-Dialogue: 0,0:56:41.12,0:56:45.43,辉中,,0,0,0,,and at times nonsensical script that Hideo threw at them.
-Dialogue: 0,0:56:45.43,0:56:51.43,辉中,,0,0,0,,Sam, Cliff, Fragile, Mama, Deadman, Heartman, Die-Hardman, Higgs … they're all fantastic.
-Dialogue: 0,0:56:51.43,0:56:57.09,辉中,,0,0,0,,Pretty much with the exception of Amelie / Bridget I think the main cast is pretty solid.
-Dialogue: 0,0:56:57.09,0:56:59.52,辉中,,0,0,0,,And it makes sense, they're the main cast for a reason.
-Dialogue: 0,0:56:59.52,0:57:03.09,辉中,,0,0,0,,But when you're trying to motivate the player to save an entire country
-Dialogue: 0,0:57:03.09,0:57:05.46,辉中,,0,0,0,,because they want to save the country,
-Dialogue: 0,0:57:05.46,0:57:08.39,辉中,,0,0,0,,you have to give the player some reason to love and to care about
-Dialogue: 0,0:57:08.39,0:57:10.37,辉中,,0,0,0,,said country and its inhabitants.
-Dialogue: 0,0:57:10.37,0:57:15.99,辉中,,0,0,0,,And in my opinion, I know that some will disagree, {\i1}Death Stranding{\i0} fails miserably
-Dialogue: 0,0:57:15.99,0:57:19.32,辉中,,0,0,0,,at humanizing the world that it's trying to convince you to save.
-Dialogue: 0,0:57:19.32,0:57:24.03,辉中,,0,0,0,,Furthermore, this world is so void of life it's kind of ridiculous.
-Dialogue: 0,0:57:24.03,0:57:27.64,辉中,,0,0,0,,We see wildlife in the opening sequence of the game as I mentioned earlier.
-Dialogue: 0,0:57:27.64,0:57:30.65,辉中,,0,0,0,,So we know that it exists in this world
-Dialogue: 0,0:57:30.65,0:57:36.13,辉中,,0,0,0,,but we never experience it in the world … like …ever … or at least I didn't.
-Dialogue: 0,0:57:36.13,0:57:39.70,辉中,,0,0,0,,You never see deer, you never see a lot of birds flying through the sky.
-Dialogue: 0,0:57:39.70,0:57:42.10,辉中,,0,0,0,,You never interact with them in any way.
-Dialogue: 0,0:57:42.10,0:57:45.75,辉中,,0,0,0,,There are also very few original assets in {\i1}Death Stranding{\i0}.
-Dialogue: 0,0:57:45.75,0:57:47.90,辉中,,0,0,0,,A lot of things are repeated.
-Dialogue: 0,0:57:47.90,0:57:54.25,辉中,,0,0,0,,From the repeated bunkers, to vehicles, to landscapes, to rock formations, to MULE camps,
-Dialogue: 0,0:57:54.25,0:57:57.44,辉中,,0,0,0,,everything is just copy and pasted around the map.
-Dialogue: 0,0:57:57.44,0:58:01.08,辉中,,0,0,0,,Now we'll get into this in detail a lot more later.
-Dialogue: 0,0:58:01.08,0:58:05.09,辉中,,0,0,0,,Don't worry, I've done a lot of math surrounding the placement of these items,
-Dialogue: 0,0:58:05.09,0:58:07.08,辉中,,0,0,0,,and it's really telling.
-Dialogue: 0,0:58:07.08,0:58:11.23,辉中,,0,0,0,,But the point is it begs the question was this developed by a small team
-Dialogue: 0,0:58:11.23,0:58:15.04,辉中,,0,0,0,,that simply didn't have the manpower to put more stuff into the game,
-Dialogue: 0,0:58:15.22,0:58:18.77,辉中,,0,0,0,,or was this a budgetary concern, or was it some combination,
-Dialogue: 0,0:58:18.77,0:58:21.81,辉中,,0,0,0,,or was it part of Kojima's broader vision?
-Dialogue: 0,0:58:22.02,0:58:24.01,辉中,,0,0,0,,Again, Kojima Syndrome.
-Dialogue: 0,0:58:24.10,0:58:29.26,辉中,,0,0,0,,Regardless, Sam agrees to help expand the Chiral Network begrudgingly at least
-Dialogue: 0,0:58:29.26,0:58:34.25,辉中,,0,0,0,,and the mid-game begins after a plethora of tutorial missions that introduce
-Dialogue: 0,0:58:34.25,0:58:40.26,辉中,,0,0,0,,to you crafting inventory and loadout management, course charting, and much much more.
-Dialogue: 0,0:58:40.26,0:58:43.28,辉中,,0,0,0,,It's slow but it's probably necessary to be perfectly honest
-Dialogue: 0,0:58:43.28,0:58:45.84,辉中,,0,0,0,,before releasing the players into the mid-game.
-Dialogue: 0,0:58:45.84,0:58:48.69,辉中,,0,0,0,,And let me be clear, there's nothing wrong with a long intro.
-Dialogue: 0,0:58:48.69,0:58:51.78,辉中,,0,0,0,,Sure it can be frustrating especially during repeated playthroughs
-Dialogue: 0,0:58:51.78,0:58:53.87,辉中,,0,0,0,,but it isn't inherently bad.
-Dialogue: 0,0:58:53.87,0:58:58.81,辉中,,0,0,0,,Look at {\i1}Assassin's Creed III{\i0}, the gameplay has an intro that lasts roughly three hours
-Dialogue: 0,0:58:58.81,0:59:03.05,辉中,,0,0,0,,before it even gives you control of a basic stripped-down assassin
-Dialogue: 0,0:59:03.05,0:59:05.34,辉中,,0,0,0,,that it advertised pre-launch.
-Dialogue: 0,0:59:05.34,0:59:08.13,辉中,,0,0,0,,It's not inherently bad, it's just inefficient.
-Dialogue: 0,0:59:08.13,0:59:10.54,辉中,,0,0,0,,The only reason efficiency is important
-Dialogue: 0,0:59:10.54,0:59:15.22,辉中,,0,0,0,,is to convince the aforementioned sceptical players to continue playing.
-Dialogue: 5,0:59:15.21,0:59:20.82,辉中 顶端标题,,0,0,0,,{\move(960,70,960,120,0,1070)\fs25\t(0,1070,\fs45)}《死亡搁浅》必须证明其拥有有趣的值得游玩的内容\N且叙事必须经过深思熟虑 自圆其说
-Dialogue: 0,0:59:15.22,0:59:17.93,辉中,,0,0,0,,Again look at those two goals I put on screen.
-Dialogue: 0,0:59:17.93,0:59:22.35,辉中,,0,0,0,,Does a long dry intro achieve either of these? Probably not.
-Dialogue: 5,0:59:20.82,0:59:24.82,辉中 顶端标题,,0,0,0,,{\fade(0,1794)\move(960,120,960,70,0,1800)\t(0,1800,\fs25)}《死亡搁浅》必须证明其拥有有趣的值得游玩的内容\N且叙事必须经过深思熟虑 自圆其说
-Dialogue: 0,0:59:22.35,0:59:25.13,辉中,,0,0,0,,But I didn't want to just take all of this on assumption.
-Dialogue: 0,0:59:25.13,0:59:27.10,辉中,,0,0,0,,So in the survey that I conducted,
-Dialogue: 0,0:59:27.10,0:59:31.68,辉中,,0,0,0,,again all of the data is up on Luke Stephens net if you want to check it out yourself,
-Dialogue: 0,0:59:31.68,0:59:35.78,辉中,,0,0,0,,I asked players who hadn't finished the game at the time of polling,
-Dialogue: 0,0:59:35.78,0:59:40.75,辉中,,0,0,0,,and 28.5% of them said that they either weren't going to continue playing
-Dialogue: 0,0:59:40.75,0:59:43.12,辉中,,0,0,0,,or that they were unsure if they would.
-Dialogue: 0,0:59:43.12,0:59:49.01,辉中,,0,0,0,,That's over one in four players who didn't feel compelled to continue.
-Dialogue: 0,0:59:49.01,0:59:52.23,辉中,,0,0,0,,Now no matter how you look at that, no matter how you split it,
-Dialogue: 0,0:59:52.23,0:59:59.78,辉中,,0,0,0,,with a sample size of 2,400 people, that is a straight-up failure of the game's pace and design.
-Dialogue: 0,0:59:59.78,1:00:04.06,辉中,,0,0,0,,I don't care if you're making a video game, a song, a movie, or a book,
-Dialogue: 0,1:00:04.06,1:00:09.30,辉中,,0,0,0,,if somebody gets just a couple hours into it just dipping their toes into it,
-Dialogue: 0,1:00:09.30,1:00:16.93,辉中,,0,0,0,,and over 1 in 4 people are unsure or straight-up reject the idea of continuing, you have failed.
-Dialogue: 0,1:00:16.93,1:00:22.52,辉中,,0,0,0,,Furthermore, the poll shows that over 36% of players who gave up on the game
-Dialogue: 0,1:00:22.52,1:00:25.04,辉中,,0,0,0,,had put less than five hours in,
-Dialogue: 0,1:00:25.04,1:00:30.28,辉中,,0,0,0,,and roughly 66% had played less than 10 hours before stopping.
-Dialogue: 0,1:00:30.28,1:00:33.26,辉中,,0,0,0,,Sure you can argue that this game simply wasn't meant for them,
-Dialogue: 0,1:00:33.26,1:00:34.94,辉中,,0,0,0,,or they were never going to enjoy it
-Dialogue: 0,1:00:34.94,1:00:38.76,辉中,,0,0,0,,no matter how polished or how much they reworked the opening sequence.
-Dialogue: 0,1:00:38.76,1:00:41.28,辉中,,0,0,0,,But I think the fact that so many players
-Dialogue: 0,1:00:41.28,1:00:45.23,辉中,,0,0,0,,dropped out in the first few hours of playing the game
-Dialogue: 0,1:00:45.23,1:00:48.40,辉中,,0,0,0,,shows that something was wrong with the first few hours.
+Dialogue: 0,0:55:29.91,0:55:32.24,辉中,,0,0,0,,本该是一个向玩家证明这个世界还是存在人性真爱光辉的时刻\NNow this could have been a moment to prove to the player that
+Dialogue: 0,0:55:32.24,0:55:35.07,辉中,,0,0,0,,本该是一个向玩家证明这个世界还是存在人性真爱光辉的时刻\Nthey're still loving caring people in this world.
+Dialogue: 0,0:55:35.07,0:55:39.87,辉中,,0,0,0,,结果我现在只觉得他们好像吃了砒霜 应该给他们一个痛快\NInstead, we're left thinking that maybe we should put these people out of their misery
+Dialogue: 0,0:55:39.87,0:55:42.10,辉中,,0,0,0,,结果我现在只觉得他们好像吃了砒霜 应该给他们一个痛快\Nbecause clearly they're poisoned with arsenic.
+Dialogue: 0,0:55:42.10,0:55:46.57,辉中,,0,0,0,,我知道我可能有点挑刺 但整个剧情中这样的事情发生了好几次\NNow I know I'm being harsh, but this happens repeatedly throughout the story,
+Dialogue: 0,0:55:46.57,0:55:50.86,辉中,,0,0,0,,小角色有了一个机会证明这个世界还值得拯救\Nwhere there's a chance for the small characters to prove that this world is worth saving,
+Dialogue: 0,0:55:50.86,0:55:53.08,辉中,,0,0,0,,但几乎都失败了\Nbut they universally fail.
+Dialogue: 0,0:55:53.08,0:55:58.02,辉中,,0,0,0,,在我看来 问题还是出在小岛秀夫在编剧上的部分\NAgain the question seems to me is the so writing issue on the part of Kojima.
+Dialogue: 0,0:55:58.02,0:56:03.29,辉中,,0,0,0,,是他本人的问题还是导演的问题？反正责任还是要落到小岛秀夫头上\NIs it his fault? Is it a directorial fault? Again landing on the shoulders of Kojima.
+Dialogue: 0,0:56:03.29,0:56:07.69,辉中,,0,0,0,,或者说只是他们表演水平太差了\NOr, is it just that their performances are that bad.
+Dialogue: 0,0:56:07.69,0:56:11.88,辉中,,0,0,0,,在当前例子中 我觉得你可以说表演就这么差\NWith this particular instance I think you could say the performance is just that bad.
+Dialogue: 0,0:56:11.88,0:56:18.77,辉中,,0,0,0,,但同时 小岛秀夫应该也是可以钦定谁来演这个女角色的\NBut at the same time, Hideo is the one that would presumably have cast this woman in this role.
+Dialogue: 0,0:56:18.77,0:56:22.52,辉中,,0,0,0,,所以责任还是小岛秀夫的\NSo again the fault still lands on his shoulders.
+Dialogue: 0,0:56:22.52,0:56:25.26,辉中,,0,0,0,,我的重点是 这种错误简直不可原谅\NPoint is I think that this is inexcusably bad.
+Dialogue: 0,0:56:25.26,0:56:28.16,辉中,,0,0,0,,无论小岛秀夫对这样的表演是否满意\NAnd whether Kojima was happy with this performance
+Dialogue: 0,0:56:28.16,0:56:32.19,辉中,,0,0,0,,对玩家与这些小角色互动的叙事结构是否满意\Nand this narrative structuring in the way that you interact with these smaller characters,
+Dialogue: 0,0:56:32.19,0:56:35.24,辉中,,0,0,0,,这些终究都是小岛秀夫的责任\Nthe blame still lands on Kojima shoulders.
+Dialogue: 0,0:56:35.24,0:56:37.84,辉中,,0,0,0,,不过谢天谢地 几位主角的表演都非常棒\NNow thankfully the main cast is phenomenal
+Dialogue: 0,0:56:37.84,0:56:41.12,辉中,,0,0,0,,他们都非常严肃认真地对待小岛秀夫有时很无厘头的剧本内容\Nand they try very hard to deal with the wordy,
+Dialogue: 0,0:56:41.12,0:56:45.43,辉中,,0,0,0,,他们都非常严肃认真地对待小岛秀夫有时很无厘头的剧本内容\Nand at times nonsensical script that Hideo threw at them.
+Dialogue: 0,0:56:45.43,0:56:51.43,辉中,,0,0,0,,山姆 克利福德 芙拉吉尔 玛玛 亡人 心人 硬汉 希格斯……他们的表演都太棒了\NSam, Cliff, Fragile, Mama, Deadman, Heartman, Die-Hardman, Higgs … they're all fantastic.
+Dialogue: 0,0:56:51.43,0:56:57.09,辉中,,0,0,0,,除了亚美莉和布丽吉特外 我觉得主角们的演出都非常扎实\NPretty much with the exception of Amelie / Bridget I think the main cast is pretty solid.
+Dialogue: 0,0:56:57.09,0:56:59.52,辉中,,0,0,0,,他们能演这些重要角色 实至名归\NAnd it makes sense, they're the main cast for a reason.
+Dialogue: 0,0:56:59.52,0:57:03.09,辉中,,0,0,0,,但当你试图激励玩家拯救整个国家 因为他们想这样做时\NBut when you're trying to motivate the player to save an entire country
+Dialogue: 0,0:57:03.09,0:57:05.46,辉中,,0,0,0,,但当你试图激励玩家拯救整个国家 因为他们想这样做时\Nbecause they want to save the country,
+Dialogue: 0,0:57:05.46,0:57:08.39,辉中,,0,0,0,,必须给玩家一些理由去爱 去关心这个国家和它的百姓\Nyou have to give the player some reason to love and to care about
+Dialogue: 0,0:57:08.39,0:57:10.37,辉中,,0,0,0,,必须给玩家一些理由去爱 去关心这个国家和它的百姓\Nsaid country and its inhabitants.
+Dialogue: 0,0:57:10.37,0:57:13.69,辉中,,0,0,0,,而在我看来 我知道有些人会不同意\NAnd in my opinion, I know that some will disagree, 
+Dialogue: 0,0:57:13.69,0:57:19.32,辉中,,0,0,0,,《死亡搁浅》在说服玩家去拯救末日的人性的尝试上做得一塌糊涂\N{\i1}Death Stranding{\i0} fails miserably at humanizing the world that it's trying to convince you to save.
+Dialogue: 0,0:57:19.32,0:57:24.03,辉中,,0,0,0,,此外 游戏世界中几乎没有动物 这就有点离谱了\NFurthermore, this world is so void of life, it's kind of ridiculous.
+Dialogue: 0,0:57:24.03,0:57:27.64,辉中,,0,0,0,,之前提到 我们只在开场动画中看到了一些野生动物\NWe see wildlife in the opening sequence of the game as I mentioned earlier.
+Dialogue: 0,0:57:27.64,0:57:30.65,辉中,,0,0,0,,所以我们知道这个世界应该是存在动物的\NSo we know that it exists in this world
+Dialogue: 0,0:57:30.65,0:57:36.13,辉中,,0,0,0,,但我们之后游戏中再也没有遇到一只动物……至少我没有\Nbut we never experience it in the world … like …ever … or at least I didn't.
+Dialogue: 0,0:57:36.13,0:57:39.70,辉中,,0,0,0,,看不到鹿 看不到飞鸟划过天空\NYou never see deer, you never see a lot of birds flying through the sky.
+Dialogue: 0,0:57:39.70,0:57:42.10,辉中,,0,0,0,,更不会有任何和动物的互动\NYou never interact with them in any way.
+Dialogue: 0,0:57:42.10,0:57:45.75,辉中,,0,0,0,,游戏中独有的资源也很少\NThere are also very few original assets in {\i1}Death Stranding{\i0}.
+Dialogue: 0,0:57:45.75,0:57:47.90,辉中,,0,0,0,,很多内容都是重复的\NA lot of things are repeated.
+Dialogue: 0,0:57:47.90,0:57:54.25,辉中,,0,0,0,,从地堡 到车辆 地标 岩层 再到米尔人营地\NFrom the repeated bunkers, to vehicles, to landscapes, to rock formations, to MULE camps,
+Dialogue: 0,0:57:54.25,0:57:57.44,辉中,,0,0,0,,几乎都是在地图上复制粘贴\Neverything is just copy and pasted around the map.
+Dialogue: 0,0:57:57.44,0:58:01.08,辉中,,0,0,0,,稍后我会详细讲这方面内容\NNow we'll get into this in detail a lot more later.
+Dialogue: 0,0:58:01.08,0:58:05.09,辉中,,0,0,0,,不要着急 我在游戏元素布置上做了很多数学上的统计\NDon't worry, I've done a lot of math surrounding the placement of these items,
+Dialogue: 0,0:58:05.09,0:58:07.08,辉中,,0,0,0,,很有干货\Nand it's really telling.
+Dialogue: 0,0:58:07.08,0:58:09.07,辉中,,0,0,0,,那么问题来了\NBut the point is it begs the question
+Dialogue: 0,0:58:09.07,0:58:11.28,辉中,,0,0,0,,是因为游戏开发团队不大\Nwas this developed by a small team
+Dialogue: 0,0:58:11.28,0:58:15.04,辉中,,0,0,0,,没有人力在游戏中投入更多资源\Nthat simply didn't have the manpower to put more stuff into the game,
+Dialogue: 0,0:58:15.22,0:58:18.77,辉中,,0,0,0,,还是出于预算的考虑 或者两者原因皆有\Nor was this a budgetary concern, or was it some combination,
+Dialogue: 0,0:58:18.77,0:58:21.81,辉中,,0,0,0,,或者这是小岛更宏伟愿景的一部分？\Nor was it part of Kojima's broader vision?
+Dialogue: 0,0:58:22.02,0:58:24.01,辉中,,0,0,0,,又来了 小岛秀夫综合征\NAgain, Kojima Syndrome.
+Dialogue: 0,0:58:24.10,0:58:29.26,辉中,,0,0,0,,回到剧情 山姆勉强算是同意帮忙拓展开罗尔网络\NRegardless, Sam agrees to help expand the Chiral Network begrudgingly at least
+Dialogue: 0,0:58:29.26,0:58:34.25,辉中,,0,0,0,,在大量的教程任务之后 游戏的中期开始了\Nand the mid-game begins after a plethora of tutorial missions that introduce
+Dialogue: 0,0:58:34.25,0:58:40.26,辉中,,0,0,0,,这些教程任务向玩家介绍了制作 管理货物 路线规划 等等\Nto you crafting inventory and loadout management, course charting, and much much more.
+Dialogue: 0,0:58:40.26,0:58:43.28,辉中,,0,0,0,,节奏慢 但说实话 这些教程对于玩家步入游戏中期是必要的\NIt's slow but it's probably necessary to be perfectly honest
+Dialogue: 0,0:58:43.28,0:58:45.84,辉中,,0,0,0,,节奏慢 但说实话 这些教程对于玩家步入游戏中期是必要的\Nbefore releasing the players into the mid-game.
+Dialogue: 0,0:58:45.84,0:58:48.69,辉中,,0,0,0,,而我也要澄清一点 游戏开场内容过长并没有错\NAnd let me be clear, there's nothing wrong with a long intro.
+Dialogue: 0,0:58:48.69,0:58:51.78,辉中,,0,0,0,,当然 内容重复太多玩着会很累\NSure it can be frustrating especially during repeated playthroughs
+Dialogue: 0,0:58:51.78,0:58:53.87,辉中,,0,0,0,,但游戏本质并不糟糕\Nbut it isn't inherently bad.
+Dialogue: 0,0:58:53.87,0:58:58.81,辉中,,0,0,0,,比如《刺客信条III》 游戏流程有大约三小时的开场\NLook at {\i1}Assassin's Creed III{\i0}, the gameplay has an intro that lasts roughly three hours
+Dialogue: 0,0:58:58.81,0:59:03.05,辉中,,0,0,0,,然后玩家才能玩到正常的 预告片里看到过的 焕然一新的刺客\Nbefore it even gives you control of a basic stripped-down assassin
+Dialogue: 0,0:59:03.05,0:59:05.34,辉中,,0,0,0,,然后玩家才能玩到正常的 预告片里看到过的 焕然一新的刺客\Nthat it advertised pre-launch.
+Dialogue: 0,0:59:05.34,0:59:08.13,辉中,,0,0,0,,并不影响游戏好坏 只是效率低\NIt's not inherently bad, it's just inefficient.
+Dialogue: 0,0:59:08.13,0:59:10.54,辉中,,0,0,0,,效率唯一重要的作用是要说服上述怀疑的玩家能继续玩下去\NThe only reason efficiency is important
+Dialogue: 0,0:59:10.54,0:59:15.22,辉中,,0,0,0,,效率唯一重要的作用是要说服上述怀疑的玩家能继续玩下去\Nis to convince the aforementioned sceptical players to continue playing.
+Dialogue: 5,0:59:15.21,0:59:20.82,辉中 顶端标题,,0,0,0,,{\be1\move(960,70,960,120,0,1070)\fs25\t(0,1070,\fs45)}《死亡搁浅》必须证明其拥有有趣的值得游玩的内容\N且叙事必须经过深思熟虑 自圆其说
+Dialogue: 0,0:59:15.22,0:59:17.93,辉中,,0,0,0,,再来看看屏幕上方的两条\NAgain look at those two goals I put on screen.
+Dialogue: 0,0:59:17.93,0:59:22.35,辉中,,0,0,0,,死亡搁浅超长的开场内容是否达成了任意两条？好像没有\NDoes a long dry intro achieve either of these? Probably not.
+Dialogue: 5,0:59:20.82,0:59:24.82,辉中 顶端标题,,0,0,0,,{\be1\fade(0,1794)\move(960,120,960,70,0,1800)\t(0,1800,\fs25)}《死亡搁浅》必须证明其拥有有趣的值得游玩的内容\N且叙事必须经过深思熟虑 自圆其说
+Dialogue: 0,0:59:22.35,0:59:25.13,辉中,,0,0,0,,但我并不想白白地说“好像没有”\NBut I didn't want to just take all of this on assumption.
+Dialogue: 0,0:59:25.13,0:59:27.10,辉中,,0,0,0,,因此 在我的调查中\NSo in the survey that I conducted,
+Dialogue: 0,0:59:27.10,0:59:31.68,辉注,,0,0,0,,链接已失效
+Dialogue: 0,0:59:27.10,0:59:31.68,辉中,,0,0,0,,所有的数据都在lukestephens.net上 大家可以自行前往查阅\Nagain all of the data is up on lukestephens.net if you want to check it out yourself,
+Dialogue: 0,0:59:31.68,0:59:35.78,辉中,,0,0,0,,我问了那些在投票时还没有通关游戏的玩家\NI asked players who hadn't finished the game at the time of polling,
+Dialogue: 0,0:59:35.78,0:59:40.75,辉中,,0,0,0,,总共有28.5%的玩家表示不会继续或不确定会不会继续玩\Nand 28.5% of them said that they either weren't going to continue playing
+Dialogue: 0,0:59:40.75,0:59:43.12,辉中,,0,0,0,,总共有28.5%的玩家表示不会继续或不确定会不会继续玩\Nor that they were unsure if they would.
+Dialogue: 0,0:59:43.12,0:59:49.01,辉中,,0,0,0,,这意味着超过四分之一的玩家觉得游戏玩不下去\NThat's over one in four players who didn't feel compelled to continue.
+Dialogue: 0,0:59:49.01,0:59:52.23,辉中,,0,0,0,,我觉得不管你们怎么看\NNow no matter how you look at that, no matter how you split it,
+Dialogue: 0,0:59:52.23,0:59:59.78,辉中,,0,0,0,,2400个样本的调查 这样的结果 就是游戏节奏与设计上的失败\Nwith a sample size of 2,400 people, that is a straight-up failure of the game's pace and design.
+Dialogue: 0,0:59:59.78,1:00:04.06,辉中,,0,0,0,,不管是制作一款游戏 一首歌 一部电影还是一本书\NI don't care if you're making a video game, a song, a movie, or a book,
+Dialogue: 0,1:00:04.06,1:00:09.30,辉中,,0,0,0,,如果初见的人们玩了/听了/看了几小时后\Nif somebody gets just a couple hours into it just dipping their toes into it,
+Dialogue: 0,1:00:09.30,1:00:16.93,辉中,,0,0,0,,超过四分之一对于继续下去犹豫不决甚至直接弃了 那这就是失败\Nand over 1 in 4 people are unsure or straight-up reject the idea of continuing, you have failed.
+Dialogue: 0,1:00:16.93,1:00:22.52,辉中,,0,0,0,,此外 调查显示 放弃游戏的玩家中 超过36%的人游玩时间小于5小时\NFurthermore, the poll shows that over 36% of players who gave up on the game
+Dialogue: 0,1:00:22.52,1:00:25.04,辉中,,0,0,0,,此外 调查显示 放弃游戏的玩家中 超过36%的人游玩时间小于5小时\Nhad put less than five hours in,
+Dialogue: 0,1:00:25.04,1:00:30.28,辉中,,0,0,0,,大约66%的人游玩时间小于10小时\Nand roughly 66% had played less than 10 hours before stopping.
+Dialogue: 0,1:00:30.28,1:00:33.26,辉中,,0,0,0,,当然 你可以说这款游戏根本就不适合他们\NSure you can argue that this game simply wasn't meant for them,
+Dialogue: 0,1:00:33.26,1:00:34.94,辉中,,0,0,0,,或者他们永远不会享受这款游戏\Nor they were never going to enjoy it
+Dialogue: 0,1:00:34.94,1:00:38.76,辉中,,0,0,0,,无论游戏开场部分做得多好 或者开场怎么剪都没用\Nno matter how polished or how much they reworked the opening sequence.
+Dialogue: 0,1:00:38.76,1:00:41.28,辉中,,0,0,0,,但我认为 这么多玩家在玩游戏的前几个小时就放弃了\NBut I think the fact that so many players
+Dialogue: 0,1:00:41.28,1:00:45.23,辉中,,0,0,0,,但我认为 这么多玩家在玩游戏的前几个小时就放弃了\Ndropped out in the first few hours of playing the game
+Dialogue: 0,1:00:45.23,1:00:48.40,辉中,,0,0,0,,说明游戏的前几个小时内容出了问题\Nshows that something was wrong with the first few hours.
 Dialogue: 0,1:00:48.40,1:00:54.59,辉中,,0,0,0,,Again these people are paying $60 presumably to play this game.
 Dialogue: 0,1:00:54.59,1:00:56.73,辉中,,0,0,0,,They put their money on the line,
 Dialogue: 0,1:00:56.73,1:01:02.13,辉中,,0,0,0,,which by itself lends these opinions credibility, at least in my opinion.
