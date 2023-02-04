@@ -15,10 +15,10 @@ Audio File: ../../../../../Video/给没组/DS/RAW.mkv
 Video File: ../../../../../Video/给没组/DS/RAW.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 983
-Active Line: 987
-Video Position: 109248
+Video Zoom Percent: 0.500000
+Scroll Position: 1072
+Active Line: 1079
+Video Position: 119440
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -959,7 +959,7 @@ Dialogue: 0,0:56:59.52,0:57:03.09,辉中,,0,0,0,,但当你试图激励玩家拯�
 Dialogue: 0,0:57:03.09,0:57:05.46,辉中,,0,0,0,,但当你试图激励玩家拯救整个国家 因为他们想这样做时\Nbecause they want to save the country,
 Dialogue: 0,0:57:05.46,0:57:08.39,辉中,,0,0,0,,必须给玩家一些理由去爱 去关心这个国家和它的百姓\Nyou have to give the player some reason to love and to care about
 Dialogue: 0,0:57:08.39,0:57:10.37,辉中,,0,0,0,,必须给玩家一些理由去爱 去关心这个国家和它的百姓\Nsaid country and its inhabitants.
-Dialogue: 0,0:57:10.37,0:57:13.69,辉中,,0,0,0,,而在我看来 我知道有些人会不同意\NAnd in my opinion, I know that some will disagree, 
+Dialogue: 0,0:57:10.37,0:57:13.69,辉中,,0,0,0,,而在我看来 我知道有些人会不同意\NAnd in my opinion, I know that some will disagree,
 Dialogue: 0,0:57:13.69,0:57:19.32,辉中,,0,0,0,,《死亡搁浅》在说服玩家去拯救末日的人性的尝试上做得一塌糊涂\N{\i1}Death Stranding{\i0} fails miserably at humanizing the world that it's trying to convince you to save.
 Dialogue: 0,0:57:19.32,0:57:24.03,辉中,,0,0,0,,此外 游戏世界中几乎没有动物 这就有点离谱了\NFurthermore, this world is so void of life, it's kind of ridiculous.
 Dialogue: 0,0:57:24.03,0:57:27.64,辉中,,0,0,0,,之前提到 我们只在开场动画中看到了一些野生动物\NWe see wildlife in the opening sequence of the game as I mentioned earlier.
@@ -1020,98 +1020,98 @@ Dialogue: 0,1:00:34.94,1:00:38.76,辉中,,0,0,0,,无论游戏开场部分做得�
 Dialogue: 0,1:00:38.76,1:00:41.28,辉中,,0,0,0,,但我认为 这么多玩家在玩游戏的前几个小时就放弃了\NBut I think the fact that so many players
 Dialogue: 0,1:00:41.28,1:00:45.23,辉中,,0,0,0,,但我认为 这么多玩家在玩游戏的前几个小时就放弃了\Ndropped out in the first few hours of playing the game
 Dialogue: 0,1:00:45.23,1:00:48.40,辉中,,0,0,0,,说明游戏的前几个小时内容出了问题\Nshows that something was wrong with the first few hours.
-Dialogue: 0,1:00:48.40,1:00:54.59,辉中,,0,0,0,,Again these people are paying $60 presumably to play this game.
-Dialogue: 0,1:00:54.59,1:00:56.73,辉中,,0,0,0,,They put their money on the line,
-Dialogue: 0,1:00:56.73,1:01:02.13,辉中,,0,0,0,,which by itself lends these opinions credibility, at least in my opinion.
-Dialogue: 0,1:01:02.13,1:01:05.74,辉中,,0,0,0,,But this brings us to the mid-game, where episodes 5 through 10.
-Dialogue: 0,1:01:05.74,1:01:08.19,辉中,,0,0,0,,This really is deliveries galore.
-Dialogue: 0,1:01:08.19,1:01:13.17,辉中,,0,0,0,,You're slowly expanding the map, exploring it, delivering packages to your heart's content.
-Dialogue: 0,1:01:13.17,1:01:15.03,辉中,,0,0,0,,This is where the game shines.
-Dialogue: 0,1:01:15.03,1:01:18.46,辉中,,0,0,0,,This is where the gameplay reaches its highest potential.
-Dialogue: 0,1:01:18.46,1:01:22.35,辉中,,0,0,0,,You unlock all sorts of new tools, vehicles, and things that you can do,
-Dialogue: 0,1:01:22.35,1:01:24.21,辉中,,0,0,0,,crafting, and much much more.
-Dialogue: 0,1:01:24.21,1:01:27.25,辉中,,0,0,0,,This was the act of the game that I found myself enjoying the most.
-Dialogue: 0,1:01:27.25,1:01:32.28,辉中,,0,0,0,,Mostly because I was able to just look forward to making some deliveries and relaxing
-Dialogue: 0,1:01:32.28,1:01:36.74,辉中,,0,0,0,,as I ran across the open countryside when I got back from a long day.
-Dialogue: 0,1:01:36.74,1:01:41.94,辉中,,0,0,0,,I racked my brain a lot as to why this was so relaxing to me and why I enjoyed it,
-Dialogue: 0,1:01:41.94,1:01:45.07,辉中,,0,0,0,,because on its face, it really is pretty simplistic.
-Dialogue: 0,1:01:45.07,1:01:48.40,辉中,,0,0,0,,Sure you might occasionally encounter some MULEs or BTs
-Dialogue: 0,1:01:48.40,1:01:51.55,辉中,,0,0,0,,that require some stealth approaches to getting around them.
-Dialogue: 0,1:01:51.55,1:01:58.05,辉中,,0,0,0,,But writ large, this is just a game about delivering packages from one location to the other.
-Dialogue: 0,1:01:58.05,1:02:00.38,辉中,,0,0,0,,It is extremely repetitive.
-Dialogue: 0,1:02:00.38,1:02:03.86,辉中,,0,0,0,,So why did I enjoy it? It was a little baffling to me.
-Dialogue: 0,1:02:03.86,1:02:08.43,辉中,,0,0,0,,But after a lot of thought I think it's for the same reason that hiking is enjoyable.
-Dialogue: 0,1:02:08.43,1:02:13.57,辉中,,0,0,0,,Because the game allows you to play it in just passive enough a state
-Dialogue: 0,1:02:13.57,1:02:15.76,辉中,,0,0,0,,that you can let your mind wander.
-Dialogue: 0,1:02:15.76,1:02:20.38,辉中,,0,0,0,,You'll find yourself daydreaming about other things as you explore this vast expanse.
-Dialogue: 0,1:02:20.38,1:02:21.97,辉中,,0,0,0,,And it's relaxing.
-Dialogue: 0,1:02:21.97,1:02:26.25,辉中,,0,0,0,,Plus it's no mystery that the world of {\i1}Death Stranding{\i0} is very beautiful,
-Dialogue: 0,1:02:26.25,1:02:30.42,辉中,,0,0,0,,especially in a lot of individualized places that are heavily trafficked.
-Dialogue: 0,1:02:30.42,1:02:36.79,辉中,,0,0,0,,Other less trafficked areas show a significant lack of polish in terms of the graphic fidelity,
-Dialogue: 0,1:02:36.79,1:02:38.28,辉中,,0,0,0,,but we'll get to that later.
-Dialogue: 0,1:02:38.28,1:02:42.35,辉中,,0,0,0,,But here I'm actually gonna say something that makes me sound like a fanboy.
-Dialogue: 0,1:02:42.35,1:02:47.12,辉中,,0,0,0,,And that's that, if you don't see the appeal of {\i1}Death Stranding{\i0}'s gameplay system,
-Dialogue: 0,1:02:47.12,1:02:48.84,辉中,,0,0,0,,I think you might need to try it.
-Dialogue: 0,1:02:48.84,1:02:53.92,辉中,,0,0,0,,Now I'm not saying that you should go out and pay $60 for the game or 40 if it's on sale.
-Dialogue: 0,1:02:53.92,1:02:57.88,辉中,,0,0,0,,Just to try this, and that if you don't do that your opinion is invalid.
-Dialogue: 0,1:02:57.88,1:02:58.94,辉中,,0,0,0,,That's not what I'm saying.
-Dialogue: 0,1:02:58.94,1:03:02.71,辉中,,0,0,0,,What I am saying is that the relaxing nature of {\i1}Death Stranding{\i0}'s gameplay
-Dialogue: 0,1:03:02.71,1:03:07.05,辉中,,0,0,0,,is something that you will only experience if you are the one doing it.
-Dialogue: 0,1:03:07.05,1:03:10.88,辉中,,0,0,0,,In the same way that watching somebody hike isn't satisfying
-Dialogue: 0,1:03:10.88,1:03:13.54,辉中,,0,0,0,,in the same way that hiking itself is.
-Dialogue: 0,1:03:13.54,1:03:17.78,辉中,,0,0,0,,If you want to enjoy nature, you have to be the one in it.
-Dialogue: 0,1:03:17.78,1:03:23.65,辉中,,0,0,0,,If you want to enjoy the world of {\i1}Death Stranding{\i0}, you have to be the one exploring it.
-Dialogue: 0,1:03:23.65,1:03:28.36,辉中,,0,0,0,,This is why for a lot of people who say that they watched people played the game on Twitch
-Dialogue: 0,1:03:28.36,1:03:33.02,辉中,,0,0,0,,and they don't understand the appeal of the gameplay system even though the streamer enjoyed it.
-Dialogue: 0,1:03:33.02,1:03:34.89,辉中,,0,0,0,,It doesn't make much sense to me.
-Dialogue: 0,1:03:34.89,1:03:37.86,辉中,,0,0,0,,Because having played, it it's pretty self-explanatory.
-Dialogue: 0,1:03:37.86,1:03:39.64,辉中,,0,0,0,,If you want to enjoy the world,
-Dialogue: 0,1:03:39.64,1:03:42.24,辉中,,0,0,0,,you have to be the one walking through it,
-Dialogue: 0,1:03:42.24,1:03:45.51,辉中,,0,0,0,,building things in it, driving your motorcycle across it,
-Dialogue: 0,1:03:45.51,1:03:47.10,辉中,,0,0,0,,you have to do it.
-Dialogue: 0,1:03:47.10,1:03:51.04,辉中,,0,0,0,,But as to whether or not this is something that's going to appeal to everybody
-Dialogue: 0,1:03:51.04,1:03:54.75,辉中,,0,0,0,,is a much larger and more difficult question to answer.
-Dialogue: 0,1:03:54.75,1:03:59.58,辉中,,0,0,0,,And it seems to me that this is something that just isn't going to appeal to everybody,
-Dialogue: 0,1:03:59.58,1:04:03.27,辉中,,0,0,0,,which is why I said at the beginning you should rely on your instincts.
-Dialogue: 0,1:04:03.27,1:04:07.86,辉中,,0,0,0,,If the game has repelled you or has been simply uninteresting to you,
-Dialogue: 0,1:04:07.86,1:04:12.28,辉中,,0,0,0,,it likely isn't going to change that opinion even after 10 hours.
-Dialogue: 0,1:04:12.28,1:04:15.40,辉中,,0,0,0,,Anyway, throughout the mid-game, you make a ton of deliveries.
-Dialogue: 0,1:04:15.40,1:04:19.33,辉中,,0,0,0,,You go from location to location, unlocking new areas and meeting new people.
-Dialogue: 0,1:04:19.33,1:04:22.03,辉中,,0,0,0,,I'm hesitant to use the word "exploring",
-Dialogue: 0,1:04:22.03,1:04:27.18,辉中,,0,0,0,,even though that's definitely the word that Kojima Productions wants you to use.
-Dialogue: 0,1:04:27.18,1:04:31.69,辉中,,0,0,0,,For one because in my mind exploring is something that you initiate yourself.
-Dialogue: 0,1:04:31.69,1:04:33.66,辉中,,0,0,0,,It's not something that you're pushed to do.
-Dialogue: 0,1:04:33.66,1:04:38.59,辉中,,0,0,0,,Just because a quest can ask you to go from one location to a remote location.
-Dialogue: 0,1:04:38.59,1:04:41.87,辉中,,0,0,0,,To me that doesn't make you explore those locations.
-Dialogue: 0,1:04:41.87,1:04:45.18,辉中,,0,0,0,,That's just having you traverse to that location.
-Dialogue: 0,1:04:45.18,1:04:50.59,辉中,,0,0,0,,Exploring, to me, seems like something that you're going to do for the sake of itself.
-Dialogue: 0,1:04:50.59,1:04:53.19,辉中,,0,0,0,,An example would be like in {\i1}Breath of the Wild{\i0},
-Dialogue: 0,1:04:53.19,1:04:56.21,辉中,,0,0,0,,when you find yourself just exploring the world,
-Dialogue: 0,1:04:56.21,1:05:01.64,辉中,,0,0,0,,going through it, without any quests without anything specifically to do,
-Dialogue: 0,1:05:01.64,1:05:06.94,辉中,,0,0,0,,just exploring it for the sake of interacting with, and exploring it.
-Dialogue: 0,1:05:06.94,1:05:09.89,辉中,,0,0,0,,It's adventure in its purest form.
-Dialogue: 0,1:05:09.89,1:05:14.10,辉中,,0,0,0,,{\i1}Death Stranding{\i0} really doesn't encourage you to do this ever.
-Dialogue: 0,1:05:14.10,1:05:17.30,辉中,,0,0,0,,There are very few secrets, very few things that you can interact with.
-Dialogue: 0,1:05:17.30,1:05:20.25,辉中,,0,0,0,,And of course there are basically no NPCs
-Dialogue: 0,1:05:20.25,1:05:25.03,辉中,,0,0,0,,or individuals that you can interact with within the world that make it worth exploring.
-Dialogue: 0,1:05:25.03,1:05:28.33,辉中,,0,0,0,,But again, I know I've said this a billion times,
-Dialogue: 0,1:05:28.33,1:05:31.98,辉中,,0,0,0,,we're gonna talk about that more at length in just a few minutes.
-Dialogue: 0,1:05:31.98,1:05:35.51,辉中,,0,0,0,,But once we plow through all of that, we get to the finale of the game,
-Dialogue: 0,1:05:35.51,1:05:37.65,辉中,,0,0,0,,or in other words act 3.
-Dialogue: 0,1:05:37.65,1:05:39.96,辉中,,0,0,0,,The ending that never ends.
-Dialogue: 0,1:05:39.96,1:05:42.92,辉中,,0,0,0,,This is comprised of episodes 11 through 14.
-Dialogue: 0,1:05:42.92,1:05:48.32,辉中,,0,0,0,,And it has big reveals, such as Amelie and Bridget being the same person
-Dialogue: 0,1:05:48.98,1:05:50.24,辉中,,0,0,0,,O … Okay.
-Dialogue: 0,1:05:50.24,1:05:55.02,辉中,,0,0,0,,You find out that Amelie / Bridget are an extinction entity
-Dialogue: 0,1:05:55.02,1:06:00.43,辉中,,0,0,0,,and that they can bring on the end of the world which … again, is … okay.
-Dialogue: 0,1:06:00.43,1:06:03.68,辉中,,0,0,0,,And a lot of things are revealed in this sequence
-Dialogue: 0,1:06:03.68,1:06:08.74,辉中,,0,0,0,,which to be honest I'm not entirely sure I could explain concisely,
-Dialogue: 0,1:06:08.74,1:06:11.53,辉中,,0,0,0,,even if I spent a week writing it out.
-Dialogue: 0,1:06:11.53,1:06:13.56,辉中,,0,0,0,,Chances are if you made it this far into the video,
-Dialogue: 0,1:06:13.56,1:06:17.36,辉中,,0,0,0,,you probably already have a decent idea of what happens in these final hours.
-Dialogue: 0,1:06:17.36,1:06:21.16,辉中,,0,0,0,,So … I won't bore you with explaining all of it over again.
-Dialogue: 0,1:06:21.16,1:06:25.31,辉中,,0,0,0,,The point is that Kojima actually explains a lot of the stuff that goes on
-Dialogue: 0,1:06:25.31,1:06:26.71,辉中,,0,0,0,,during these sequences.
+Dialogue: 0,1:00:48.40,1:00:54.59,辉中,,0,0,0,,再次强调 玩家们可是花了60美元买了这款游戏\NAgain these people are paying $60 presumably to play this game.
+Dialogue: 0,1:00:54.59,1:00:56.73,辉中,,0,0,0,,他们把钱押在这上\NThey put their money on the line,
+Dialogue: 0,1:00:56.73,1:01:02.13,辉中,,0,0,0,,至少在我看来 这件事本身就让他们的看法更可信\Nwhich by itself lends these opinions credibility, at least in my opinion.
+Dialogue: 0,1:01:02.13,1:01:05.74,辉中,,0,0,0,,于是我们就来到了游戏的中期部分 第五到十章\NBut this brings us to the mid-game, where episodes 5 through 10.
+Dialogue: 0,1:01:05.74,1:01:08.19,辉中,,0,0,0,,配送订单源源不断\NThis really is deliveries galore.
+Dialogue: 0,1:01:08.19,1:01:13.17,辉中,,0,0,0,,玩家慢慢拓展、探索游戏地图 尽情送快递\NYou're slowly expanding the map, exploring it, delivering packages to your heart's content.
+Dialogue: 0,1:01:13.17,1:01:15.03,辉中,,0,0,0,,这里是游戏的高光处\NThis is where the game shines.
+Dialogue: 0,1:01:15.03,1:01:18.46,辉中,,0,0,0,,是挖掘出游戏玩法全部潜力的地方\NThis is where the gameplay reaches its highest potential.
+Dialogue: 0,1:01:18.46,1:01:22.35,辉中,,0,0,0,,玩家可以解锁所有的新工具、载具 能做的事情更多了\NYou unlock all sorts of new tools, vehicles, and things that you can do,
+Dialogue: 0,1:01:22.35,1:01:24.21,辉中,,0,0,0,,能制造的东西更多了 等等\Ncrafting, and much much more.
+Dialogue: 0,1:01:24.21,1:01:27.25,辉中,,0,0,0,,我发现这是我游玩时最享受的一段内容\NThis was the act of the game that I found myself enjoying the most.
+Dialogue: 0,1:01:27.25,1:01:32.28,辉中,,0,0,0,,主要是因为自己忙碌的一天回来后\NMostly because I was able to just look forward to making some deliveries and relaxing
+Dialogue: 0,1:01:32.28,1:01:36.74,辉中,,0,0,0,,就期待在空旷的野外放松奔跑送点快递的感觉\Nas I ran across the open countryside when I got back from a long day.
+Dialogue: 0,1:01:36.74,1:01:41.94,辉中,,0,0,0,,我思考了很久 为何这种玩法如此令人放松 我为何如此享受\NI racked my brain a lot as to why this was so relaxing to me and why I enjoyed it,
+Dialogue: 0,1:01:41.94,1:01:45.07,辉中,,0,0,0,,因为表面上看 这种玩法真的很简单\Nbecause on its face, it really is pretty simplistic.
+Dialogue: 0,1:01:45.07,1:01:48.40,辉中,,0,0,0,,诚然路上偶尔会遇到一些米尔人或BT\NSure you might occasionally encounter some MULEs or BTs
+Dialogue: 0,1:01:48.40,1:01:51.55,辉中,,0,0,0,,需要一些潜行技巧避开他们\Nthat require some stealth approaches to getting around them.
+Dialogue: 0,1:01:51.55,1:01:58.05,辉中,,0,0,0,,但总的来说 这就是一款把包裹从一个地方配送到另一个地方的游戏\NBut writ large, this is just a game about delivering packages from one location to the other.
+Dialogue: 0,1:01:58.05,1:02:00.38,辉中,,0,0,0,,充满重复内容\NIt is extremely repetitive.
+Dialogue: 0,1:02:00.38,1:02:03.86,辉中,,0,0,0,,所以我为什么很爱玩呢？我开始有点迷惑\NSo why did I enjoy it? It was a little baffling to me.
+Dialogue: 0,1:02:03.86,1:02:08.43,辉中,,0,0,0,,但想了很久后 我感觉就像远足也很有趣一样\NBut after a lot of thought I think it's for the same reason that hiking is enjoyable.
+Dialogue: 0,1:02:08.43,1:02:13.57,辉中,,0,0,0,,这个游戏可以让你在很被动的情况下去进行游戏\NBecause the game allows you to play it in just passive enough a state
+Dialogue: 0,1:02:13.57,1:02:15.76,辉中,,0,0,0,,让你思绪完全不在游戏上\Nthat you can let your mind wander.
+Dialogue: 0,1:02:15.76,1:02:20.38,辉中,,0,0,0,,你会发现自己一边徜徉在广阔地图中 一边脑子里在想其他乱七八糟的事情\NYou'll find yourself daydreaming about other things as you explore this vast expanse.
+Dialogue: 0,1:02:20.38,1:02:21.97,辉中,,0,0,0,,这很放松\NAnd it's relaxing.
+Dialogue: 0,1:02:21.97,1:02:26.25,辉中,,0,0,0,,另外 我们也都认可 《死亡搁浅》的世界非常美\NPlus it's no mystery that the world of {\i1}Death Stranding{\i0} is very beautiful,
+Dialogue: 0,1:02:26.25,1:02:30.42,辉中,,0,0,0,,尤其是在人们经常走的一些地方\Nespecially in a lot of individualized places that are heavily trafficked.
+Dialogue: 0,1:02:30.42,1:02:36.79,辉中,,0,0,0,,而很少有人去的地方就显得很粗糙 模型分辨率都低\NOther less trafficked areas show a significant lack of polish in terms of the graphic fidelity,
+Dialogue: 0,1:02:36.79,1:02:38.28,辉中,,0,0,0,,我们稍后会讲\Nbut we'll get to that later.
+Dialogue: 0,1:02:38.28,1:02:42.35,辉中,,0,0,0,,但接下来我可能要说一些很饭圈的话\NBut here I'm actually gonna say something that makes me sound like a fanboy.
+Dialogue: 0,1:02:42.35,1:02:47.12,辉中,,0,0,0,,就是说 如果你觉得《死亡搁浅》这款游戏没什么吸引力\NAnd that's that, if you don't see the appeal of {\i1}Death Stranding{\i0}'s gameplay system,
+Dialogue: 0,1:02:47.12,1:02:48.84,辉中,,0,0,0,,那我觉得你应该亲自去玩一玩\NI think you might need to try it.
+Dialogue: 0,1:02:48.84,1:02:53.92,辉中,,0,0,0,,倒不是推荐你必须花60美元或者等打折的时候40美元喜加一\NNow I'm not saying that you should go out and pay $60 for the game or 40 if it's on sale.
+Dialogue: 0,1:02:53.92,1:02:57.88,辉中,,0,0,0,,玩了再说 不玩的话你怎么说都没用之类的话\NJust to try this, and that if you don't do that your opinion is invalid.
+Dialogue: 0,1:02:57.88,1:02:58.94,辉中,,0,0,0,,我并不是这个意思\NThat's not what I'm saying.
+Dialogue: 0,1:02:58.94,1:03:02.71,辉中,,0,0,0,,我想说的是 《死亡搁浅》这款游戏那种放松的感觉\NWhat I am saying is that the relaxing nature of {\i1}Death Stranding{\i0}'s gameplay
+Dialogue: 0,1:03:02.71,1:03:07.05,辉中,,0,0,0,,只有自己亲自去玩才能体会到\Nis something that you will only experience if you are the one doing it.
+Dialogue: 0,1:03:07.05,1:03:10.88,辉中,,0,0,0,,这就好比你看别人远足不会觉得有趣\NIn the same way that watching somebody hike isn't satisfying
+Dialogue: 0,1:03:10.88,1:03:13.54,辉中,,0,0,0,,只有身体力行才能感受个中妙趣\Nin the same way that hiking itself is.
+Dialogue: 0,1:03:13.54,1:03:17.78,辉中,,0,0,0,,想要感受自然 必须先融入自然\NIf you want to enjoy nature, you have to be the one in it.
+Dialogue: 0,1:03:17.78,1:03:23.65,辉中,,0,0,0,,同样 想要享受《死亡搁浅》的世界 你必须亲自去探索\NIf you want to enjoy the world of {\i1}Death Stranding{\i0}, you have to be the one exploring it.
+Dialogue: 0,1:03:23.65,1:03:28.36,辉中,,0,0,0,,这也是为什么很多人看别人直播玩这款游戏\NThis is why for a lot of people who say that they watched people played the game on Twitch
+Dialogue: 0,1:03:28.36,1:03:33.02,辉中,,0,0,0,,说自己完全看不出这款游戏好玩在哪 但主播却乐在其中\Nand they don't understand the appeal of the gameplay system even though the streamer enjoyed it.
+Dialogue: 0,1:03:33.02,1:03:34.89,辉中,,0,0,0,,我觉得他们的想法没什么道理\NIt doesn't make much sense to me.
+Dialogue: 0,1:03:34.89,1:03:37.86,辉中,,0,0,0,,因为这些问题的答案 玩了以后不言自明\NBecause having played it, it's pretty self-explanatory.
+Dialogue: 0,1:03:37.86,1:03:39.64,辉中,,0,0,0,,如果你想找到这个世界的乐趣 就必须亲历其中\NIf you want to enjoy the world,
+Dialogue: 0,1:03:39.64,1:03:42.24,辉中,,0,0,0,,如果你想找到这个世界的乐趣 就必须亲历其中\Nyou have to be the one walking through it,
+Dialogue: 0,1:03:42.24,1:03:45.51,辉中,,0,0,0,,自己造些东西 自己开摩托走一走\Nbuilding things in it, driving your motorcycle across it,
+Dialogue: 0,1:03:45.51,1:03:47.10,辉中,,0,0,0,,一定要身体力行\Nyou have to do it.
+Dialogue: 0,1:03:47.10,1:03:51.04,辉中,,0,0,0,,但至于说这款游戏是否会吸引所有玩家\NBut as to whether or not this is something that's going to appeal to everybody
+Dialogue: 0,1:03:51.04,1:03:54.75,辉中,,0,0,0,,那就是更大更复杂的问题了\Nis a much larger and more difficult question to answer.
+Dialogue: 0,1:03:54.75,1:03:59.58,辉中,,0,0,0,,在我看来 它就不是一个能吸引所有玩家的游戏\NAnd it seems to me that this is something that just isn't going to appeal to everybody,
+Dialogue: 0,1:03:59.58,1:04:03.27,辉中,,0,0,0,,也因此 我最开始就说 你们应该听自己的直觉\Nwhich is why I said at the beginning you should rely on your instincts.
+Dialogue: 0,1:04:03.27,1:04:07.86,辉中,,0,0,0,,如果这个游戏让你感到厌恶 或者你根本不感兴趣\NIf the game has repelled you or has been simply uninteresting to you,
+Dialogue: 0,1:04:07.86,1:04:12.28,辉中,,0,0,0,,那就算玩上10个小时 它也还那样\Nit likely isn't going to change that opinion even after 10 hours.
+Dialogue: 0,1:04:12.28,1:04:15.40,辉中,,0,0,0,,总之 在整个游戏的中期 玩家完成了大量的配送订单\NAnyway, throughout the mid-game, you make a ton of deliveries.
+Dialogue: 0,1:04:15.40,1:04:19.33,辉中,,0,0,0,,你从一个地方到另一个地方 "解锁"新的区域 认识新的人\NYou go from location to location, unlocking new areas and meeting new people.
+Dialogue: 0,1:04:19.33,1:04:22.03,辉中,,0,0,0,,我不太爱用"探索"这个词\NI'm hesitant to use the word "exploring",
+Dialogue: 0,1:04:22.03,1:04:27.18,辉中,,0,0,0,,虽然小岛制作公司肯定希望我们用这样的词\Neven though that's definitely the word that Kojima Productions wants you to use.
+Dialogue: 0,1:04:27.18,1:04:31.69,辉中,,0,0,0,,因为在我看来 "探索"是玩家自发的行为\NFor one because in my mind exploring is something that you initiate yourself.
+Dialogue: 0,1:04:31.69,1:04:33.66,辉中,,0,0,0,,而不是要求玩家去做的事情\NIt's not something that you're pushed to do.
+Dialogue: 0,1:04:33.66,1:04:38.59,辉中,,0,0,0,,比如一个任务要求你从一个地方到另一个遥远的地方\NJust because a quest can ask you to go from one location to a remote location.
+Dialogue: 0,1:04:38.59,1:04:41.87,辉中,,0,0,0,,在我看来这并不能称为 让玩家"探索"那里\NTo me that doesn't make you explore those locations.
+Dialogue: 0,1:04:41.87,1:04:45.18,辉中,,0,0,0,,游戏只是让你到那罢了\NThat's just having you traverse to that location.
+Dialogue: 0,1:04:45.18,1:04:50.59,辉中,,0,0,0,,"探索"一词 于我而言 更像是玩家为了自己去做的事情\NExploring, to me, seems like something that you're going to do for the sake of itself.
+Dialogue: 0,1:04:50.59,1:04:53.19,辉中,,0,0,0,,比如在《塞尔达传说 旷野之息》中\NAn example would be like in {\i1}Breath of the Wild{\i0},
+Dialogue: 0,1:04:53.19,1:04:56.21,辉中,,0,0,0,,玩家发现自己只是在探索世界\Nwhen you find yourself just exploring the world,
+Dialogue: 0,1:04:56.21,1:05:01.64,辉中,,0,0,0,,到各种地方 没有背负什么特定的任务\Ngoing through it, without any quests without anything specifically to do,
+Dialogue: 0,1:05:01.64,1:05:06.94,辉中,,0,0,0,,只是为了互动而到地图各处去探索\Njust exploring it for the sake of interacting with, and exploring it.
+Dialogue: 0,1:05:06.94,1:05:09.89,辉中,,0,0,0,,这是最纯粹的冒险形式\NIt's adventure in its purest form.
+Dialogue: 0,1:05:09.89,1:05:14.10,辉中,,0,0,0,,而《死亡搁浅》真的并不鼓励玩家这样做\N{\i1}Death Stranding{\i0} really doesn't encourage you to do this ever.
+Dialogue: 0,1:05:14.10,1:05:17.30,辉中,,0,0,0,,地图中的秘密很少 能互动的东西也非常少\NThere are very few secrets, very few things that you can interact with.
+Dialogue: 0,1:05:17.30,1:05:20.25,辉中,,0,0,0,,当然游戏世界中基本上也没什么能互动的NPC值得你去探索\NAnd of course there are basically no NPCs
+Dialogue: 0,1:05:20.25,1:05:25.03,辉中,,0,0,0,,当然游戏世界中基本上也没什么能互动的NPC值得你去探索\Nor individuals that you can interact with within the world that make it worth exploring.
+Dialogue: 0,1:05:25.03,1:05:28.33,辉中,,0,0,0,,但抱歉 我还要说 我们几分钟后会详细讲解此事\NBut again, I know I've said this a billion times,
+Dialogue: 0,1:05:28.33,1:05:31.98,辉中,,0,0,0,,但抱歉 我还要说 我们几分钟后会详细讲解此事\Nwe're gonna talk about that more at length in just a few minutes.
+Dialogue: 0,1:05:31.98,1:05:35.51,辉中,,0,0,0,,而当游玩上述内容后 我们就进入了游戏的结尾 第三幕\NBut once we plow through all of that, we get to the finale of the game,
+Dialogue: 0,1:05:35.51,1:05:37.65,辉中,,0,0,0,,而当游玩上述内容后 我们就进入了游戏的结尾 第三幕\Nor in other words act 3.
+Dialogue: 0,1:05:37.65,1:05:39.96,辉中,,0,0,0,,永无止境的结局\NThe ending that never ends.
+Dialogue: 0,1:05:39.96,1:05:42.92,辉中,,0,0,0,,该部分包括第11至14章\NThis is comprised of episodes 11 through 14.
+Dialogue: 0,1:05:42.92,1:05:48.32,辉中,,0,0,0,,揭示了很多东西 比如亚美莉和布丽吉特其实是一个人\NAnd it has big reveals, such as Amelie and Bridget being the same person
+Dialogue: 0,1:05:48.98,1:05:50.24,辉中,,0,0,0,,行……行吧\NO … Okay.
+Dialogue: 0,1:05:50.24,1:05:55.02,辉中,,0,0,0,,玩家还发现亚美莉/布丽吉特是一个灭绝体\NYou find out that Amelie / Bridget are an extinction entity
+Dialogue: 0,1:05:55.02,1:06:00.43,辉中,,0,0,0,,灭绝体可以触发世界末日 ……也行吧\Nand that they can bring on the end of the world which … again, is … okay.
+Dialogue: 0,1:06:00.43,1:06:03.68,辉中,,0,0,0,,这部分游戏解释了非常多的内容\NAnd a lot of things are revealed in this sequence
+Dialogue: 0,1:06:03.68,1:06:08.74,辉中,,0,0,0,,我感觉我自己哪怕写了一周的稿子可能都讲不太清楚\Nwhich to be honest I'm not entirely sure I could explain concisely,
+Dialogue: 0,1:06:08.74,1:06:11.53,辉中,,0,0,0,,我感觉我自己哪怕写了一周的稿子可能都讲不太清楚\Neven if I spent a week writing it out.
+Dialogue: 0,1:06:11.53,1:06:13.56,辉中,,0,0,0,,不过既然大家都看到这里了\NChances are if you made it this far into the video,
+Dialogue: 0,1:06:13.56,1:06:17.36,辉中,,0,0,0,,相信你们自己也已经对游戏的后期内容有所认识\Nyou probably already have a decent idea of what happens in these final hours.
+Dialogue: 0,1:06:17.36,1:06:21.16,辉中,,0,0,0,,所以我就不在这里浪费大家时间重新讲剧情了\NSo … I won't bore you with explaining all of it over again.
+Dialogue: 0,1:06:21.16,1:06:25.31,辉中,,0,0,0,,重点是 小岛实际上在这些剧情中解释了很多事情\NThe point is that Kojima actually explains a lot of the stuff that goes on
+Dialogue: 0,1:06:25.31,1:06:26.71,辉中,,0,0,0,,重点是 小岛实际上在这些剧情中解释了很多事情\Nduring these sequences.
 Dialogue: 0,1:06:26.71,1:06:31.17,辉中,,0,0,0,,Now don't get me wrong, I think he could have done it in a tenth the time,
 Dialogue: 0,1:06:31.17,1:06:32.88,辉中,,0,0,0,,but I'll take what I can get.
 Dialogue: 0,1:06:32.88,1:06:35.60,辉中,,0,0,0,,There are a few things however I do want to touch on.
@@ -1984,6 +1984,16 @@ Dialogue: 0,1:59:11.72,1:59:14.97,辉中,,0,0,0,,You only see traces of them, wh
 Dialogue: 0,1:59:14.97,1:59:18.70,辉中,,0,0,0,,And the game actually tries to turn this into some sort of profound statement,
 Dialogue: 0,1:59:18.70,1:59:22.53,辉中,,0,0,0,,but I think it's just an attempt at explaining why other players are absent.
 Dialogue: 0,1:59:22.53,1:59:24.77,辉中,,0,0,0,,I don't know, you let me know in the comments.
+Dialogue: 0,1:59:25.05,1:59:28.12,辉中 Script,,0,0,0,,我们用自己的足迹开辟了道路，山姆。
+Dialogue: 0,1:59:28.62,1:59:30.19,辉中 Script,,0,0,0,,看到你身后的足迹了吗？
+Dialogue: 0,1:59:30.73,1:59:31.99,辉中 Script,,0,0,0,,那都是故事。
+Dialogue: 0,1:59:32.49,1:59:35.73,辉中 Script,,0,0,0,,还好你不是在执行间谍任务，不然，你早就失败了。
+Dialogue: 0,1:59:36.23,1:59:43.10,辉中 Script,,0,0,180,,作为派送员，你成功了。你要为这些足迹感到骄傲。\N这是你存在的证明。
+Dialogue: 0,1:59:43.61,1:59:45.21,辉中 Script,,0,0,0,,继续留下这样的证明吧。
+Dialogue: 0,1:59:45.73,1:59:50.88,辉中 Script,,0,0,180,,让人们知道你一直都在，\N给他们勇气，让他们再次团结起来。
+Dialogue: 0,1:59:51.41,1:59:54.98,辉中 Script,,0,0,0,,在你扩展开罗尔网络、帮助美国同胞的同时……
+Dialogue: 0,1:59:55.48,1:59:58.19,辉中 Script,,0,0,0,,……也在加深我们所有人之间的羁绊……
+Dialogue: 0,1:59:59.62,2:00:01.86,辉中 Script,,0,0,0,,……并为我们开辟一条值得跟随的道路。
 Dialogue: 0,2:00:02.86,2:00:07.83,辉中,,0,0,0,,And honestly having this in mind, why not have other players visible and present.
 Dialogue: 0,2:00:07.83,2:00:12.23,辉中,,0,0,0,,You could give them other skins, so that they don't look like Sam to avoid griefing.
 Dialogue: 0,2:00:12.23,2:00:14.36,辉中,,0,0,0,,And even have their movements recorded,
