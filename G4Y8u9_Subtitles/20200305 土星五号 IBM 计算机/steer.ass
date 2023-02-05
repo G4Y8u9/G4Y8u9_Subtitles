@@ -13,8 +13,8 @@ Video File: How did NASA Steer the Saturn V- Smarter Every Day 223.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 336
-Active Line: 344
+Scroll Position: 495
+Active Line: 502
 Video Position: 25528
 
 [V4+ Styles]
@@ -47,7 +47,7 @@ Dialogue: 1,0:00:28.94,0:00:30.94,辉中,,0,0,0,,然后这个素未相识的哥�
 Dialogue: 2,0:00:28.94,0:00:30.94,辉英,,0,0,0,,and before you know it, you're in a parking lot,
 Dialogue: 1,0:00:30.94,0:00:34.70,辉中,,0,0,0,,借给你一套土星五号的存储模块
 Dialogue: 2,0:00:30.94,0:00:34.70,辉英,,0,0,0,,receiving a Saturn V memory module from a guy you just met,
-Dialogue: 1,0:00:34.70,0:00:36.95,辉中,,0,0,0,,而他也会完全信任你 相信你之后会归还给他
+Dialogue: 1,0:00:34.70,0:00:36.95,辉中,,0,0,0,,他完全信任你 相信你之后一定会归还给他
 Dialogue: 2,0:00:34.70,0:00:36.95,辉英,,0,0,0,,and he just trusts that you're gonna give it back to him.
 Dialogue: 1,0:00:36.95,0:00:40.81,辉中,,0,0,0,,我手里这是14KB的数据 真的很有意思
 Dialogue: 2,0:00:36.95,0:00:40.81,辉英,,0,0,0,,This is 14 kilobytes of data, which is really interesting
@@ -67,7 +67,7 @@ Dialogue: 1,0:00:58.26,0:01:02.21,辉中,,0,0,0,,仔细看看这个存储模块 
 Dialogue: 2,0:00:58.26,0:01:02.21,辉英,,0,0,0,,and take a closer look at this memory module and how it works.
 Dialogue: 1,0:01:02.21,0:01:09.08,辉中,,0,0,0,,我们来看看 现代计算机技术宅是如何看待60年代的尖端科技的吧
 Dialogue: 2,0:01:02.21,0:01:09.08,辉英,,0,0,0,,Let's sit back and watch a modern computer nerd learn about the cutting edge technology from the 1960s.
-Dialogue: 1,0:01:09.08,0:01:11.44,辉中,,0,0,0,,我是Destin 让我们进入今天的《SmarterEveryDay》
+Dialogue: 1,0:01:09.08,0:01:11.44,辉中,,0,0,0,,我是Destin 让我们一起天天大聪明
 Dialogue: 2,0:01:09.08,0:01:11.44,辉英,,0,0,0,,I'm Destin, let's go get smarter every day.
 Dialogue: 1,0:01:11.44,0:01:13.05,辉中,,0,0,0,,你见过土星五号吗？
 Dialogue: 2,0:01:11.44,0:01:13.05,辉英,,0,0,0,,Have you ever seen a Saturn V rocket?
@@ -93,7 +93,7 @@ Dialogue: 1,0:01:37.28,0:01:41.60,辉中,,0,0,0,,屁股底下是一个超大号�
 Dialogue: 2,0:01:37.28,0:01:41.60,辉英,,0,0,0,,you know, the equivalent of a very large bomb strapped to your butt.
 Dialogue: 1,0:01:41.60,0:01:45.02,辉中,,0,0,0,,这就是土星五号火箭的大脑
 Dialogue: 2,0:01:41.60,0:01:45.02,辉英,,0,0,0,,So this is the brain for the Saturn V rocket.
-Dialogue: 1,0:01:45.02,0:01:50.02,辉中,,0,0,0,,抬头看这里 这个环里就是控制设备
+Dialogue: 1,0:01:45.02,0:01:50.02,辉中,,0,0,0,,抬头看这里 这个环就是仪器舱
 Dialogue: 2,0:01:45.02,0:01:50.02,辉英,,0,0,0,,If you look up right here, this is the instrumentation ring,
 Dialogue: 1,0:01:50.02,0:01:53.11,辉中,,0,0,0,,上面就是数字计算机
 Dialogue: 2,0:01:50.02,0:01:53.11,辉英,,0,0,0,,and so they had computers on here that were digital.
@@ -175,7 +175,7 @@ Dialogue: 1,0:03:19.74,0:03:21.25,辉中,,0,0,0,,这是存储模块
 Dialogue: 2,0:03:19.74,0:03:21.25,辉英,,0,0,0,,So that's a memory module.
 Dialogue: 1,0:03:21.25,0:03:22.62,辉中,,0,0,0,,嗯 一整个存储模块
 Dialogue: 2,0:03:21.25,0:03:22.62,辉英,,0,0,0,,That's a whole memory module, yeah.
-Dialogue: 1,0:03:22.62,0:03:24.40,辉中,,0,0,0,,你俩从哪偷来的这是？
+Dialogue: 1,0:03:22.62,0:03:24.40,辉中,,0,0,0,,你俩从哪抢来的这是？
 Dialogue: 2,0:03:22.62,0:03:24.40,辉英,,0,0,0,,You musta shot somebody to get that.
 Dialogue: 1,0:03:24.40,0:03:26.52,辉中,,0,0,0,,您觉得这东西有多珍贵？
 Dialogue: 2,0:03:24.40,0:03:26.52,辉英,,0,0,0,,So how valuable would you say that is?
@@ -245,7 +245,7 @@ Dialogue: 1,0:04:39.36,0:04:40.19,辉中,,0,0,0,,重新再写入？
 Dialogue: 2,0:04:39.36,0:04:40.19,辉英,,0,0,0,,Write it again.
 Dialogue: 1,0:04:40.19,0:04:42.06,辉中,,0,0,0,,重新写入进去 防止数据丢失
 Dialogue: 2,0:04:40.19,0:04:42.06,辉英,,0,0,0,,Write it back in there, so that it's not missing.
-Dialogue: 1,0:04:42.06,0:04:43.27,辉中,,0,0,0,,不会吧！
+Dialogue: 1,0:04:42.06,0:04:43.27,辉中,,0,0,0,,我去！
 Dialogue: 2,0:04:42.06,0:04:43.27,辉英,,0,0,0,,Oh, no!
 Dialogue: 1,0:04:43.27,0:04:46.36,辉中,,0,0,0,,所以现在 你手里有一个模块
 Dialogue: 2,0:04:43.27,0:04:46.36,辉英,,0,0,0,,So there's one of these in this,
@@ -253,9 +253,9 @@ Dialogue: 1,0:04:46.36,0:04:51.75,辉中,,0,0,0,,然后这边这面墙上 每一
 Dialogue: 2,0:04:46.36,0:04:51.75,辉英,,0,0,0,,and then there's one of these now in each one of these blocks on this wall over here.
 Dialogue: 1,0:04:51.75,0:04:53.10,辉中,,0,0,0,,明白了
 Dialogue: 2,0:04:51.75,0:04:53.10,辉英,,0,0,0,,Got it.
-Dialogue: 1,0:04:53.10,0:04:56.63,辉中,,0,0,0,,这边有16字的存储
+Dialogue: 1,0:04:53.10,0:04:56.63,辉中,,0,0,0,,这边有16千字的存储
 Dialogue: 2,0:04:53.10,0:04:56.63,辉英,,0,0,0,,So we have four, 8, 12, 16 thousand words of memory,
-Dialogue: 1,0:04:56.63,0:04:59.74,辉中,,0,0,0,,另一边也是16字的存储
+Dialogue: 1,0:04:56.63,0:04:59.74,辉中,,0,0,0,,另一边也是16千字的存储
 Dialogue: 2,0:04:56.63,0:04:59.74,辉英,,0,0,0,,another four, 8, 12, 16 thousand words of memory.
 Dialogue: 1,0:04:59.74,0:05:04.76,辉中,,0,0,0,,当土星系列火箭飞行的时候 两边的存储会执行完全相同的飞行程序
 Dialogue: 2,0:04:59.74,0:05:04.76,辉英,,0,0,0,,Now when the Saturn's flying, both of these memories are executing the same flight program.
@@ -363,13 +363,13 @@ Dialogue: 1,0:07:15.53,0:07:18.72,辉中,,0,0,0,,把10比特的八进制数字 �
 Dialogue: 2,0:07:15.53,0:07:18.72,辉英,,0,0,0,,10-bit octal numbers, so you'd have, there were four characters.
 Dialogue: 1,0:07:18.72,0:07:22.01,辉中,,0,0,0,,八进制的话数字是0-7
 Dialogue: 2,0:07:18.72,0:07:22.01,辉英,,0,0,0,,Zero to seven's as high as you go with octal arithmetic.
-Dialogue: 1,0:07:22.01,0:07:28.80,辉中,,0,0,0,,全印下来的话 我想想 大概每页应该是40行30列左右
+Dialogue: 1,0:07:22.01,0:07:28.80,辉中,,0,0,0,,全印下来的话 我想想 每页差不多40列30行
 Dialogue: 2,0:07:22.01,0:07:28.80,辉英,,0,0,0,,So you got all these things, I think it was like, maybe 40 columns and 30 rows or something like that,
 Dialogue: 1,0:07:28.80,0:07:30.35,辉中,,0,0,0,,然后我们把所有数据全印出来
 Dialogue: 2,0:07:28.80,0:07:30.35,辉英,,0,0,0,,so we would get this thing printed out,
 Dialogue: 1,0:07:30.35,0:07:35.85,辉中,,0,0,0,,每页都全是数字 我们要找的错误数字就藏在这里某个地方
 Dialogue: 2,0:07:30.35,0:07:35.85,辉英,,0,0,0,,and all it's just numbers, well, the piece we're looking for is in a particular place down here.
-Dialogue: 1,0:07:36.01,0:07:40.84,辉中,,0,0,0,,而我们可以先把遥测数据丢失的地方打印出来
+Dialogue: 1,0:07:36.01,0:07:40.84,辉中,,0,0,0,,我们先把遥测导出的数据打印出来
 Dialogue: 2,0:07:36.01,0:07:40.84,辉英,,0,0,0,,Well, the drop out is where we, you know, telemetry dropout, we would actually get this printed out
 Dialogue: 1,0:07:40.92,0:07:45.61,辉中,,0,0,0,,打印到11x7的折叠纸上 沿着走廊铺开
 Dialogue: 2,0:07:40.92,0:07:45.61,辉英,,0,0,0,,11 by 7 fanfold paper, spread it down this hallway,
@@ -527,6 +527,7 @@ Dialogue: 1,0:11:40.58,0:11:41.53,辉中,,0,0,0,,太有意思了
 Dialogue: 2,0:11:40.58,0:11:41.53,辉英,,0,0,0,,Oh, this is fascinating.
 Dialogue: 1,0:11:41.53,0:11:42.80,辉中,,0,0,0,,非常感谢您！
 Dialogue: 2,0:11:41.53,0:11:42.80,辉英,,0,0,0,,Thank you very much, by the way.
+Dialogue: 1,0:11:42.80,0:13:15.01,辉中,,0,0,0,,恰饭环节 跳转13:15
 Dialogue: 1,0:13:15.01,0:13:17.63,辉中,,0,0,0,,欢迎前往老莱的频道 Linus Tech Tips
 Dialogue: 2,0:13:15.01,0:13:17.63,辉英,,0,0,0,,Go check out Linus's channel, Linus Tech Tips.
 Dialogue: 1,0:13:17.63,0:13:19.41,辉中,,0,0,0,,他要讲讲……讲啥来着？
@@ -537,9 +538,9 @@ Dialogue: 1,0:13:23.32,0:13:25.42,辉中,,0,0,0,,但Destin这方面懂得多一�
 Dialogue: 2,0:13:23.32,0:13:25.42,辉英,,0,0,0,,but Destin's got a little more information on that,
 Dialogue: 1,0:13:25.42,0:13:28.21,辉中,,0,0,0,,而我真的很喜欢这东西上的冷却系统
 Dialogue: 2,0:13:25.42,0:13:28.21,辉英,,0,0,0,,but I really love the cooling system on this thing,
-Dialogue: 1,0:13:28.21,0:13:31.06,辉中,,0,0,0,,震撼你妈一整年
+Dialogue: 1,0:13:28.21,0:13:31.06,辉中,,0,0,0,,看完我人都惊呆了
 Dialogue: 2,0:13:28.21,0:13:31.06,辉英,,0,0,0,,it's gonna blow your guys's mind. Unreal.
-Dialogue: 1,0:13:31.06,0:13:33.16,辉中,,0,0,0,,真的很牛逼 控制设备单元在火箭顶部
+Dialogue: 1,0:13:31.06,0:13:33.16,辉中,,0,0,0,,真的很牛 控制设备单元在火箭顶部
 Dialogue: 2,0:13:31.06,0:13:33.16,辉英,,0,0,0,,It's awesome, it's at the top of the rocket
 Dialogue: 1,0:13:33.16,0:13:37.61,辉中,,0,0,0,,因为土星五号有三级 你需要控制设备单元一直呆在火箭上
 Dialogue: 2,0:13:33.16,0:13:37.61,辉英,,0,0,0,,because as you got all three stages of the Saturn V, you need your instrument unit way up here
