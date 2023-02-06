@@ -16,9 +16,9 @@ Video File: ../../../../../Video/给没组/DS/RAW.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 1072
-Active Line: 1079
-Video Position: 119440
+Scroll Position: 1094
+Active Line: 1102
+Video Position: 121538
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1112,27 +1112,28 @@ Dialogue: 0,1:06:13.56,1:06:17.36,辉中,,0,0,0,,相信你们自己也已经对�
 Dialogue: 0,1:06:17.36,1:06:21.16,辉中,,0,0,0,,所以我就不在这里浪费大家时间重新讲剧情了\NSo … I won't bore you with explaining all of it over again.
 Dialogue: 0,1:06:21.16,1:06:25.31,辉中,,0,0,0,,重点是 小岛实际上在这些剧情中解释了很多事情\NThe point is that Kojima actually explains a lot of the stuff that goes on
 Dialogue: 0,1:06:25.31,1:06:26.71,辉中,,0,0,0,,重点是 小岛实际上在这些剧情中解释了很多事情\Nduring these sequences.
-Dialogue: 0,1:06:26.71,1:06:31.17,辉中,,0,0,0,,Now don't get me wrong, I think he could have done it in a tenth the time,
-Dialogue: 0,1:06:31.17,1:06:32.88,辉中,,0,0,0,,but I'll take what I can get.
-Dialogue: 0,1:06:32.88,1:06:35.60,辉中,,0,0,0,,There are a few things however I do want to touch on.
-Dialogue: 0,1:06:35.60,1:06:39.38,辉中,,0,0,0,,For instance, the endless cutscenes at the very end of the game.
-Dialogue: 0,1:06:39.38,1:06:44.68,辉中,,0,0,0,,The last three or four hours of the game are almost exclusively cutscenes or sequences
-Dialogue: 0,1:06:44.68,1:06:48.64,辉中,,0,0,0,,within which there is very little player control or interaction.
-Dialogue: 0,1:06:48.64,1:06:52.75,辉中,,0,0,0,,There's no big gameplay finale other than a large BT fight I guess.
-Dialogue: 0,1:06:52.75,1:06:55.73,辉中,,0,0,0,,You could say qualifies as a boss fight.
-Dialogue: 0,1:06:55.73,1:06:59.13,辉中,,0,0,0,,There's also the sequence with Higgs fistfight with him
-Dialogue: 0,1:06:59.13,1:07:04.10,辉中,,0,0,0,,which is clunkier than almost anything else in the game, it's … really terrible.
-Dialogue: 0,1:07:04.10,1:07:05.71,辉中,,0,0,0,,But I don't want to address all of that.
-Dialogue: 0,1:07:05.71,1:07:08.66,辉中,,0,0,0,,I want to talk about the purgatory cutscenes
-Dialogue: 0,1:07:08.66,1:07:12.24,辉中,,0,0,0,,that Amelie presents to you as you run around the Beach.
-Dialogue: 0,1:07:12.24,1:07:16.06,辉中,,0,0,0,,Basically you're sent to your Beach with the help of Fragile and everybody else,
-Dialogue: 0,1:07:16.06,1:07:17.60,辉中,,0,0,0,,and you're just sitting here.
-Dialogue: 0,1:07:17.60,1:07:20.72,辉中,,0,0,0,,And they play off some credits and it's very peaceful.
-Dialogue: 0,1:07:20.72,1:07:22.37,辉中,,0,0,0,,And it does feel like purgatory.
-Dialogue: 0,1:07:22.37,1:07:25.55,辉中,,0,0,0,,Because as you run from one end of the Beach to the other,
-Dialogue: 0,1:07:25.55,1:07:28.17,辉中,,0,0,0,,you will eventually just get spawned back further.
-Dialogue: 0,1:07:28.17,1:07:32.80,辉中,,0,0,0,,It's basically the story of Sisyphus and it's actually pretty cool.
-Dialogue: 0,1:07:32.80,1:07:35.31,辉中,,0,0,0,,I really liked this when I first came to this area.
+Dialogue: 0,1:06:26.71,1:06:31.17,辉中,,0,0,0,,但不要误会 我觉得他完全可以在十分之一的时间内讲明白这些\NNow don't get me wrong, I think he could have done it in a tenth the time,
+Dialogue: 0,1:06:31.17,1:06:32.88,辉中,,0,0,0,,但这样我也还能接受\Nbut I'll take what I can get.
+Dialogue: 0,1:06:32.88,1:06:35.60,辉中,,0,0,0,,然而 有几点我还是想谈谈\NThere are a few things however I do want to touch on.
+Dialogue: 0,1:06:35.60,1:06:39.38,辉中,,0,0,0,,比如游戏结尾超长的播片内容\NFor instance, the endless cutscenes at the very end of the game.
+Dialogue: 0,1:06:39.38,1:06:44.68,辉中,,0,0,0,,游戏最后三四个小时几乎全是过场动画\NThe last three or four hours of the game are almost exclusively cutscenes or sequences
+Dialogue: 0,1:06:44.68,1:06:48.64,辉中,,0,0,0,,其中很少有玩家的操作或互动\Nwithin which there is very little player control or interaction.
+Dialogue: 0,1:06:48.64,1:06:52.75,辉中,,0,0,0,,除了一场大型BT的BOSS战外 几乎没什么宏大的游戏结局\NThere's no big gameplay finale other than a large BT fight I guess.
+Dialogue: 0,1:06:52.75,1:06:55.73,辉中,,0,0,0,,你可以把这当成一场最终BOSS战\NYou could say qualifies as a boss fight.
+Dialogue: 0,1:06:55.73,1:06:59.13,辉中,,0,0,0,,还有一段和希格斯赤手空拳的战斗\NThere's also the sequence with Higgs fistfight with him
+Dialogue: 0,1:06:59.13,1:07:04.10,辉中,,0,0,0,,简直是全游戏最蠢的战斗了 真的 太烂了\Nwhich is clunkier than almost anything else in the game, it's … really terrible.
+Dialogue: 0,1:07:04.10,1:07:05.71,辉中,,0,0,0,,但我不想讨论上述这些\NBut I don't want to address all of that.
+Dialogue: 0,1:07:05.71,1:07:08.66,辉中,,0,0,0,,我想谈谈亚美莉在你在海滩上乱跑时带给玩家的一种磨炼\NI want to talk about the purgatory cutscenes
+Dialogue: 0,1:07:08.66,1:07:12.24,辉中,,0,0,0,,我想谈谈亚美莉在你在海滩上乱跑时带给玩家的一种磨炼\Nthat Amelie presents to you as you run around the Beach.
+Dialogue: 0,1:07:12.24,1:07:16.06,辉中,,0,0,0,,在芙拉吉尔等人的帮助下 你被传送到了你的冥滩\NBasically you're sent to your Beach with the help of Fragile and everybody else,
+Dialogue: 0,1:07:16.06,1:07:17.60,辉中,,0,0,0,,而你只是坐在那里\Nand you're just sitting here.
+Dialogue: 0,1:07:17.60,1:07:20.72,辉中,,0,0,0,,游戏播放了一些制作组名单\NAnd they play off some credits and it's very peaceful.
+Dialogue: 0,1:07:20.72,1:07:22.37,辉中,,0,0,0,,而这里的感觉真的很炼狱\NAnd it does feel like purgatory.
+Dialogue: 0,1:07:22.37,1:07:25.55,辉中,,0,0,0,,因为如果你从冥滩一头跑到另一头\NBecause as you run from one end of the Beach to the other,
+Dialogue: 0,1:07:25.55,1:07:28.17,辉中,,0,0,0,,最后都会被传送回去\Nyou will eventually just get spawned back further.
+Dialogue: 0,1:07:28.17,1:07:32.80,辉注,,0,0,0,,西西弗斯 希腊神话中的人物\N受到众神的惩罚 每天把大石头推上山顶
+Dialogue: 0,1:07:28.17,1:07:32.80,辉中,,0,0,0,,就好像西西弗斯的故事一样 确实挺酷的\NIt's basically the story of Sisyphus and it's actually pretty cool.
+Dialogue: 0,1:07:32.80,1:07:35.31,辉中,,0,0,0,,我第一次进来时还真挺喜欢的\NI really liked this when I first came to this area.
 Dialogue: 0,1:07:35.31,1:07:39.53,辉中,,0,0,0,,However after the first 10 minutes or so it starts to get pretty horrible.
 Dialogue: 0,1:07:39.53,1:07:43.34,辉中,,0,0,0,,Again is this just a poorly designed way of forcing the player
 Dialogue: 0,1:07:43.34,1:07:47.20,辉中,,0,0,0,,to sit through all of the credits rolling incredibly slowly?
@@ -2125,20 +2126,20 @@ Dialogue: 0,2:07:31.50,2:07:35.54,辉中,,0,0,0,,And while I'm glad that Kojima 
 Dialogue: 0,2:07:35.54,2:07:40.89,辉中,,0,0,0,,I do hope that his next attempt is far more coherent, more polished,
 Dialogue: 0,2:07:40.89,2:07:43.63,辉中,,0,0,0,,and much more fun.
 Dialogue: 0,2:07:43.63,2:07:45.02,辉中,,0,0,0,,But that's all from me.
-Dialogue: 0,2:07:45.02,2:07:48.13,辉中,,0,0,0,,Thank you so much for watching if you've made it all the way to this point.
-Dialogue: 0,2:07:48.13,2:07:49.96,辉中,,0,0,0,,You are a scholar and the Saint.
-Dialogue: 0,2:07:49.96,2:07:54.74,辉中,,0,0,0,,Special thank you again to the patrons that funded the production of this video.
-Dialogue: 0,2:07:54.74,2:07:59.22,辉中,,0,0,0,,Again, it would not have happened without the generosity of these individuals.
-Dialogue: 0,2:07:59.22,2:08:03.08,辉中,,0,0,0,,And a very special thank you to Zachary Johnson, Mike Holland,
-Dialogue: 0,2:08:03.08,2:08:07.02,辉中,,0,0,0,,Christopher Scott and Paige Richardson, for their generosity.
-Dialogue: 0,2:08:07.02,2:08:09.52,辉中,,0,0,0,,Let me know all of your thoughts on {\i1}Death Stranding{\i0} below.
-Dialogue: 0,2:08:09.52,2:08:13.38,辉中,,0,0,0,,And if you'd like to vote on and help fund the next critique,
-Dialogue: 0,2:08:13.38,2:08:16.17,辉中,,0,0,0,,make sure you go and check out my patreon page.
-Dialogue: 0,2:08:16.17,2:08:21.04,辉中,,0,0,0,,In addition to getting all sorts of behind-the-scenes peeks at the development of these critiques,
-Dialogue: 0,2:08:21.04,2:08:23.58,辉中,,0,0,0,,helping pick the thumbnails and much much more,
-Dialogue: 0,2:08:23.58,2:08:29.04,辉中,,0,0,0,,you also get access to exclusive monthly Q&As, free merchandise,
-Dialogue: 0,2:08:29.04,2:08:32.54,辉中,,0,0,0,,early access to these critiques before anybody else,
-Dialogue: 0,2:08:32.54,2:08:35.76,辉中,,0,0,0,,and exclusive videos just for patrons.
-Dialogue: 0,2:08:35.76,2:08:37.53,辉中,,0,0,0,,But thank you all for watching,
-Dialogue: 0,2:08:37.53,2:08:40.28,辉中,,0,0,0,,I love you all more than you could possibly know,
-Dialogue: 0,2:08:40.28,2:08:42.98,辉中,,0,0,0,,and I'll see you in the next video.
+Dialogue: 0,2:07:45.02,2:07:48.13,辉中,,0,0,0,,非常感谢每一位能看到这里的大家\NThank you so much for watching if you've made it all the way to this point.
+Dialogue: 0,2:07:48.13,2:07:49.96,辉中,,0,0,0,,你们都是最棒的\NYou are a scholar and the Saint.
+Dialogue: 0,2:07:49.96,2:07:54.74,辉中,,0,0,0,,另外特别鸣谢赞助本期视频的观众\NSpecial thank you again to the patrons that funded the production of this video.
+Dialogue: 0,2:07:54.74,2:07:59.22,辉中,,0,0,0,,没有你们的慷慨援助 就不可能有这期视频\NAgain, it would not have happened without the generosity of these individuals.
+Dialogue: 0,2:07:59.22,2:08:03.08,辉中,,0,0,0,,特别特别鸣谢Zachary Johnson、Mike Holland\NAnd a very special thank you to Zachary Johnson, Mike Holland,
+Dialogue: 0,2:08:03.08,2:08:07.02,辉中,,0,0,0,,Christopher Scott、Paige Richardson的慷慨捐助\NChristopher Scott and Paige Richardson, for their generosity.
+Dialogue: 0,2:08:07.02,2:08:09.52,辉中,,0,0,0,,欢迎大家在评论区分享自己对《死亡搁浅》的看法\NLet me know all of your thoughts on {\i1}Death Stranding{\i0} below.
+Dialogue: 0,2:08:09.52,2:08:13.38,辉中,,0,0,0,,如果您也想参加投票 赞助下一期评测\NAnd if you'd like to vote on and help fund the next critique,
+Dialogue: 0,2:08:13.38,2:08:16.17,辉中,,0,0,0,,请查看我的Patreon页面\Nmake sure you go and check out my Patreon page.
+Dialogue: 0,2:08:16.17,2:08:21.04,辉中,,0,0,0,,不但能看到这些评测内容幕后的制作\NIn addition to getting all sorts of behind-the-scenes peeks at the development of these critiques,
+Dialogue: 0,2:08:21.04,2:08:23.58,辉中,,0,0,0,,帮助挑选视频封面等等\Nhelping pick the thumbnails and much much more,
+Dialogue: 0,2:08:23.58,2:08:29.04,辉中,,0,0,0,,还能获得每月的独家问答机会 免费礼物\Nyou also get access to exclusive monthly Q&As, free merchandise,
+Dialogue: 0,2:08:29.04,2:08:32.54,辉中,,0,0,0,,还能提前观看这些评测视频\Nearly access to these critiques before anybody else,
+Dialogue: 0,2:08:32.54,2:08:35.76,辉中,,0,0,0,,还有赞助者独家视频内容\Nand exclusive videos just for patrons.
+Dialogue: 0,2:08:35.76,2:08:37.53,辉中,,0,0,0,,总之 感谢大家的观看\NBut thank you all for watching,
+Dialogue: 0,2:08:37.53,2:08:40.28,辉中,,0,0,0,,我超级爱你们大家\NI love you all more than you could possibly know,
+Dialogue: 0,2:08:40.28,2:08:42.98,辉中,,0,0,0,,我们下期视频再见\Nand I'll see you in the next video.
