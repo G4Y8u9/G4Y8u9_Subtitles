@@ -10,3 +10,6 @@
 - [我的B站页面](https://space.bilibili.com/744058)
 
 - [全部字幕Excel统计](https://docs.google.com/spreadsheets/d/1EJvB34SrzXTdagMdZqXBc8vHbBHQpa5t/edit?usp=sharing&ouid=102275685117162176730&rtpof=true&sd=true)
+
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+[![LICENSE](https://badges.frapsoft.com/os/mit/mit.svg)](https://opensource.org/licenses/mit-license.php)
