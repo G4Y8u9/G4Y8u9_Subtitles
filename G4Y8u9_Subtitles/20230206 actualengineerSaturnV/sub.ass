@@ -14,9 +14,9 @@ Video File: ../../../../../Video/给没组/actualengineerSaturnV/raw.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 1784
-Active Line: 1792
-Video Position: 54853
+Scroll Position: 2198
+Active Line: 2211
+Video Position: 235295
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -32,7 +32,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 1,0:00:15.98,0:00:16.83,辉中,,0,0,0,,大家好 我是Destin
 Dialogue: 2,0:00:15.98,0:00:16.83,辉英,,0,0,0,,Hey, it's me, Destin.
 Dialogue: 1,0:00:16.83,0:00:18.72,辉中,,0,0,0,,欢迎观看天天大聪明
-Dialogue: 2,0:00:16.83,0:00:18.72,辉英,,0,0,0,,Welcome back to Smarter Every Day, 2.
+Dialogue: 2,0:00:16.83,0:00:18.72,辉英,,0,0,0,,Welcome back to SmarterEveryDay2.
 Dialogue: 1,0:00:18.72,0:00:20.01,辉中,,0,0,0,,很高兴遇到大家
 Dialogue: 2,0:00:18.72,0:00:20.01,辉英,,0,0,0,,Glad to have you.
 Dialogue: 1,0:00:20.01,0:00:23.54,辉中,,0,0,0,,今天我们将对Luke Talley进行一次超长采访
@@ -42,23 +42,23 @@ Dialogue: 2,0:00:23.54,0:00:24.51,辉英,,0,0,0,,There's a shorter version
 Dialogue: 1,0:00:24.51,0:00:27.53,辉中,,0,0,0,,主频道上有一个剪辑版 短一点 这个视频是完整版
 Dialogue: 2,0:00:24.51,0:00:27.53,辉英,,0,0,0,,over on the main channel, but this is like the whole shebang.
 Dialogue: 1,0:00:27.56,0:00:31.88,辉中,,0,0,0,,今天采访的这位Luke Talley是六十年代IBM的一位工程师
-Dialogue: 2,0:00:27.56,0:00:31.88,辉英,,0,0,0,,Today we are going to talk to Luke Talley, who is an IBM engineer in the sixties,
+Dialogue: 2,0:00:27.56,0:00:31.88,辉英,,0,0,0,,Today we are going to talk to Luke Talley, who is an IBM engineer in the 60s,
 Dialogue: 1,0:00:32.13,0:00:34.58,辉中,,0,0,0,,他曾参与研发土星五号火箭顶端的仪器舱
 Dialogue: 2,0:00:32.13,0:00:34.58,辉英,,0,0,0,,and he worked on the instrument unit right up near
 Dialogue: 1,0:00:34.60,0:00:36.27,辉中,,0,0,0,,他曾参与研发土星五号火箭顶端的仪器舱
-Dialogue: 2,0:00:34.60,0:00:36.27,辉英,,0,0,0,,the top of the Saturn five rocket.
+Dialogue: 2,0:00:34.60,0:00:36.27,辉英,,0,0,0,,the top of the Saturn V rocket.
 Dialogue: 1,0:00:36.27,0:00:39.87,辉中,,0,0,0,,这个部分控制土星五号所有的分级 比如一级关机 二级点火等
-Dialogue: 2,0:00:36.27,0:00:39.87,辉英,,0,0,0,,And it controlled all the different stages of the Saturn five, things
+Dialogue: 2,0:00:36.27,0:00:39.87,辉英,,0,0,0,,And it controlled all the different stages of the Saturn V, things
 Dialogue: 1,0:00:39.87,0:00:43.71,辉中,,0,0,0,,这个部分控制土星五号所有的分级 比如一级关机 二级点火等
 Dialogue: 2,0:00:39.87,0:00:43.71,辉英,,0,0,0,,like main engine cutoff, for example, and then that would launch the second stage.
 Dialogue: 1,0:00:43.71,0:00:47.00,辉中,,0,0,0,,这个仪器舱会控制所有这些东西
 Dialogue: 2,0:00:43.71,0:00:47.00,辉英,,0,0,0,,So this instrument unit controlled all of that stuff.
 Dialogue: 1,0:00:47.25,0:00:50.94,辉中,,0,0,0,,因为请他来介绍土星五号的各部分再合适不过了
-Dialogue: 2,0:00:47.25,0:00:50.94,辉英,,0,0,0,,And so he's an ideal person to talk to about how the Saturn five work.
+Dialogue: 2,0:00:47.25,0:00:50.94,辉英,,0,0,0,,And so he's an ideal person to talk to about how the Saturn V worked.
 Dialogue: 1,0:00:50.94,0:00:54.21,辉中,,0,0,0,,不仅如此 他还是个得过奖的工程师
-Dialogue: 2,0:00:50.94,0:00:54.21,辉英,,0,0,0,,But not only that, he is an award winning engineer,
+Dialogue: 2,0:00:50.94,0:00:54.21,辉英,,0,0,0,,But not only that, he is an award-winning engineer.
 Dialogue: 1,0:00:54.21,0:00:59.09,辉中,,0,0,0,,在60年代 他们整了个"载人航天意识流企划"
-Dialogue: 2,0:00:54.21,0:00:59.09,辉英,,0,0,0,,for example, back in the sixties they had this thing called the manned spaceflight Awareness program.
+Dialogue: 2,0:00:54.21,0:00:59.09,辉英,,0,0,0,,For example, back in the '60s they had this thing called the Manned Spaceflight Awareness Program.
 Dialogue: 1,0:00:59.28,0:01:03.08,辉中,,0,0,0,,简单来讲就是告诉他们 "你们的工作非常重要"
 Dialogue: 2,0:00:59.28,0:01:03.08,辉英,,0,0,0,,And the whole idea was to tell employees like, Hey, your job matters
 Dialogue: 1,0:01:03.33,0:01:06.48,辉中,,0,0,0,,因为宇航员的命都在你们手里
@@ -105,19 +105,19 @@ Dialogue: 2,0:01:58.52,0:02:02.39,辉英,,0,0,0,,consider supporting on patreon.
 Dialogue: 1,0:02:02.39,0:02:03.54,辉中,,0,0,0,,不去也没事
 Dialogue: 2,0:02:02.39,0:02:03.54,辉英,,0,0,0,,If not, no big deal.
 Dialogue: 1,0:02:03.54,0:02:06.33,辉中,,0,0,0,,我很期待能听些关于土星五号的第一手消息
-Dialogue: 2,0:02:03.54,0:02:06.33,辉英,,0,0,0,,I'm just excited to learn more about the Saturn five rocket straight
+Dialogue: 2,0:02:03.54,0:02:06.33,辉英,,0,0,0,,I'm just excited to learn more about the Saturn V rocket straight
 Dialogue: 1,0:02:06.33,0:02:07.61,辉中,,0,0,0,,我很期待能听些关于土星五号的第一手消息
 Dialogue: 2,0:02:06.33,0:02:07.61,辉英,,0,0,0,,from the horse's mouth.
 Dialogue: 1,0:02:07.61,0:02:09.96,辉中,,0,0,0,,我们一起跟随Luke Talley 一起天天大聪明吧~
-Dialogue: 2,0:02:07.61,0:02:09.96,辉英,,0,0,0,,Let's go get smarter every day with Luke Talley.
+Dialogue: 2,0:02:07.61,0:02:09.96,辉英,,0,0,0,,Let's go get SmarterEveryDay with Luke Talley.
 Dialogue: 1,0:02:10.26,0:02:12.33,辉中,,0,0,0,,您想怎么讲 从火箭尖开始还是从下面开始?
-Dialogue: 2,0:02:10.26,0:02:12.33,辉英,,0,0,0,,How do you want to do it? Tip tail or tail tip.
+Dialogue: 2,0:02:10.26,0:02:12.33,辉英,,0,0,0,,How do you want to do it? Tip to tail? Tail to tip?
 Dialogue: 1,0:02:12.33,0:02:14.30,辉中,,0,0,0,,我们从尾巴开始吧 一路往火箭尖走
 Dialogue: 2,0:02:12.33,0:02:14.30,辉英,,0,0,0,,We'll start the tail and walk our way up.
 Dialogue: 1,0:02:14.30,0:02:14.72,辉中,,0,0,0,,行
 Dialogue: 2,0:02:14.30,0:02:14.72,辉英,,0,0,0,,Okay.
 Dialogue: 1,0:02:14.72,0:02:17.42,辉中,,0,0,0,,我们接下来要听亲历者关于土星五号的第一手的讲解
-Dialogue: 2,0:02:14.72,0:02:17.42,辉英,,0,0,0,,We're going to learn all about the Saturn five from the horse's mouth.
+Dialogue: 2,0:02:14.72,0:02:17.42,辉英,,0,0,0,,We're going to learn all about the Saturn V from the horse's mouth.
 Dialogue: 1,0:02:17.52,0:02:20.49,辉中,,0,0,0,,那我们先往尾巴走吧 到了再开始
 Dialogue: 2,0:02:17.52,0:02:20.49,辉英,,0,0,0,,So we'll head down there and we'll get started.
 Dialogue: 1,0:02:21.14,0:02:23.21,辉中,,0,0,0,,-一共三级的火箭是吧  -嗯
@@ -125,7 +125,7 @@ Dialogue: 2,0:02:21.14,0:02:23.21,辉英,,0,0,0,,So three stages, right? Yep.
 Dialogue: 1,0:02:24.59,0:02:25.34,辉中,,0,0,0,,三级
 Dialogue: 2,0:02:24.59,0:02:25.34,辉英,,0,0,0,,Three stages.
 Dialogue: 1,0:02:25.35,0:02:27.39,辉中,,0,0,0,,一套仪器舱
-Dialogue: 2,0:02:25.35,0:02:27.39,辉英,,0,0,0,,An instrument unit.
+Dialogue: 2,0:02:25.35,0:02:27.39,辉英,,0,0,0,,And an instrument unit.
 Dialogue: 1,0:02:27.86,0:02:32.47,辉中,,0,0,0,,这里面您最喜欢哪一部分?
 Dialogue: 2,0:02:27.86,0:02:32.47,辉英,,0,0,0,,Which. What's your most favorite what's your favorite part of the whole thing?
 Dialogue: 1,0:02:34.70,0:02:38.35,辉中,,0,0,0,,我倒无所谓什么"最喜欢" 但我觉得最……
@@ -135,7 +135,7 @@ Dialogue: 2,0:02:38.51,0:02:42.26,辉英,,0,0,0,,phenomenal is the engines that 
 Dialogue: 1,0:02:42.45,0:02:46.93,辉中,,0,0,0,,光是看到发动机的体积 想想它们怎么工作的就头皮发麻
 Dialogue: 2,0:02:42.45,0:02:46.93,辉英,,0,0,0,,Really just the sheer size and magnitude of
 Dialogue: 1,0:02:46.93,0:02:49.29,辉中,,0,0,0,,光是看到发动机的体积 想想它们怎么工作的就头皮发麻
-Dialogue: 2,0:02:46.93,0:02:49.29,辉英,,0,0,0,,how those things operate is mind boggling.
+Dialogue: 2,0:02:46.93,0:02:49.29,辉英,,0,0,0,,how those things operate is mind-boggling.
 Dialogue: 1,0:02:49.29,0:02:52.85,辉中,,0,0,0,,今天的计算机系统已经非常非常小了
 Dialogue: 2,0:02:49.29,0:02:52.85,辉英,,0,0,0,,That's the computer system in today's
 Dialogue: 1,0:02:52.85,0:02:56.12,辉中,,0,0,0,,今天的计算机系统已经非常非常小了
@@ -164,7 +164,7 @@ Dialogue: 2,0:03:27.36,0:03:28.71,辉英,,0,0,0,,Quite a big difference there.
 Dialogue: 1,0:03:28.71,0:03:32.78,辉中,,0,0,0,,是吧 世界有一点点变化~
 Dialogue: 2,0:03:28.71,0:03:32.78,辉英,,0,0,0,,So things have changed a little bit.
 Dialogue: 1,0:03:32.78,0:03:36.00,辉中,,0,0,0,,说真的 咱们真的很佩服那些
-Dialogue: 2,0:03:32.78,0:03:36.00,辉英,,0,0,0,,Let's say all you've got to you've got
+Dialogue: 2,0:03:32.78,0:03:36.00,辉英,,0,0,0,,Still you've got to
 Dialogue: 1,0:03:36.00,0:03:41.22,辉中,,0,0,0,,参与项目的人 设计这些东西的人
 Dialogue: 2,0:03:36.00,0:03:41.22,辉英,,0,0,0,,to admire the people that program, that thing and designed
 Dialogue: 1,0:03:42.12,0:03:45.24,辉中,,0,0,0,,他们创造了这样庞大复杂的机器
@@ -177,8 +177,8 @@ Dialogue: 1,0:03:52.95,0:03:55.07,辉中,,0,0,0,,没有发生过严重事故的�
 Dialogue: 2,0:03:52.95,0:03:55.07,辉英,,0,0,0,,that never had a catastrophic failure.
 Dialogue: 1,0:03:56.07,0:03:59.27,辉中,,0,0,0,,确实有过这样那样的地方工作异常
 Dialogue: 2,0:03:56.07,0:03:59.27,辉英,,0,0,0,,We had things that didn't work once in a while here and there.
-Dialogue: 1,0:03:59.27,0:04:01.64,辉中,,0,0,0,,而且阿波罗一号飞船还有过亡人事故
-Dialogue: 2,0:03:59.27,0:04:01.64,辉英,,0,0,0,,And, you know, we had a victim on the next flight.
+Dialogue: 1,0:03:59.27,0:04:01.64,辉中,,0,0,0,,我们也会在下一次飞行中进行修复
+Dialogue: 2,0:03:59.27,0:04:01.64,辉英,,0,0,0,,And, you know, we had to fix them on the next flight.
 Dialogue: 1,0:04:02.66,0:04:06.03,辉中,,0,0,0,,但总体来说 土星系列火箭仍然是非常成功的
 Dialogue: 2,0:04:02.66,0:04:06.03,辉英,,0,0,0,,All in all, this was a really successful project.
 Dialogue: 1,0:04:06.68,0:04:08.13,辉中,,0,0,0,,太牛了
@@ -190,35 +190,35 @@ Dialogue: 2,0:04:12.72,0:04:13.70,辉英,,0,0,0,,Where you start.
 Dialogue: 1,0:04:15.09,0:04:16.78,辉中,,0,0,0,,我猜咱们肯定会讲喷管的吧?
 Dialogue: 2,0:04:15.09,0:04:16.78,辉英,,0,0,0,,I guess we got to see the bell, don't we?
 Dialogue: 1,0:04:16.78,0:04:21.59,辉中,,0,0,0,,-就从这开始吧  -好
-Dialogue: 2,0:04:16.78,0:04:21.59,辉英,,0,0,0,,Just start back here  All right
+Dialogue: 2,0:04:16.78,0:04:21.59,辉英,,0,0,0,,Just start back here.  All right.
 Dialogue: 1,0:04:23.28,0:04:26.52,辉中,,0,0,0,,我管这个叫
-Dialogue: 2,0:04:23.28,0:04:26.52,辉英,,0,0,0,,Well, I call this the.
+Dialogue: 2,0:04:23.28,0:04:26.52,辉英,,0,0,0,,Well, I call this the
 Dialogue: 1,0:04:26.70,0:04:30.37,辉中,,0,0,0,,这个土星五号展厅里一进来就让人惊掉下巴的地方
-Dialogue: 2,0:04:26.70,0:04:30.37,辉英,,0,0,0,,This is the mouth dropping entrance of the Saturn hall
-Dialogue: 1,0:04:30.37,0:04:34.26,辉 下注,,0,0,0,,12.2英尺 3.7米
+Dialogue: 2,0:04:26.70,0:04:30.37,辉英,,0,0,0,,this is the mouth-dropping entrance of the Saturn hall.
+Dialogue: 1,0:04:30.37,0:04:34.26,辉 下注,,1200,0,0,,12.2英尺 3.7米
 Dialogue: 1,0:04:30.37,0:04:34.26,辉中,,0,0,0,,你一进展厅就能看到这五台直径大约12英尺的发动机
 Dialogue: 2,0:04:30.37,0:04:34.26,辉英,,0,0,0,,You come in here and you see these Each of these about 12 feet in diameter.
 Dialogue: 1,0:04:35.06,0:04:40.70,辉 下注,,300,0,0,,690吨
 Dialogue: 1,0:04:35.06,0:04:40.70,辉中,,0,0,0,,每台都能提供150万磅的推力
 Dialogue: 2,0:04:35.06,0:04:40.70,辉英,,0,0,0,,Each of these engines now produce one and a half million pounds of thrust each.
 Dialogue: 1,0:04:40.70,0:04:43.20,辉中,,0,0,0,,外围四个发动机可以摆动
-Dialogue: 2,0:04:40.70,0:04:43.20,辉英,,0,0,0,,The four outer engines are gimble.
+Dialogue: 2,0:04:40.70,0:04:43.20,辉英,,0,0,0,,The four outer engines are gimballed.
 Dialogue: 1,0:04:43.20,0:04:44.34,辉中,,0,0,0,,说白了可以动
 Dialogue: 2,0:04:43.20,0:04:44.34,辉英,,0,0,0,,That is, they can move.
 Dialogue: 1,0:04:44.34,0:04:48.80,辉中,,0,0,0,,任意方向 5度的摆动
 Dialogue: 2,0:04:44.34,0:04:48.80,辉英,,0,0,0,,They can move anywhere within a one and anywhere within a five degree circle
 Dialogue: 1,0:04:49.59,0:04:51.77,辉中,,0,0,0,,在飞行中由三级顶部的仪器舱控制
 Dialogue: 2,0:04:49.59,0:04:51.77,辉英,,0,0,0,,controlled by the computer up in the instrument unit,
-Dialogue: 1,0:04:51.77,0:04:55.28,辉中,,0,0,0,,在飞行中由三级顶部的仪器舱控制
-Dialogue: 2,0:04:51.77,0:04:55.28,辉英,,0,0,0,,which is on top of the third stage during the flight.
-Dialogue: 1,0:04:55.28,0:04:59.78,辉中,,0,0,0,,一级大约会在一分钟的时候达到音速
-Dialogue: 2,0:04:55.28,0:04:59.78,辉英,,0,0,0,,The first stage will go through the speed of sound at about 60 seconds.
+Dialogue: 1,0:04:51.77,0:04:53.62,辉中,,0,0,0,,在飞行中由三级顶部的仪器舱控制
+Dialogue: 2,0:04:51.77,0:04:53.62,辉英,,0,0,0,,which is on top of the third stage.
+Dialogue: 1,0:04:54.27,0:04:59.78,辉中,,0,0,0,,一级大约会在一分钟的时候达到音速
+Dialogue: 2,0:04:54.27,0:04:59.78,辉英,,0,0,0,,During the flight, the first stage will go through the speed of sound at about 60 seconds.
 Dialogue: 1,0:04:59.78,0:05:03.80,辉中,,0,0,0,,随后就是火箭的最大动压点
 Dialogue: 2,0:04:59.78,0:05:03.80,辉英,,0,0,0,,Shortly after that, you get the maximum aerodynamic pressure on this vehicle
 Dialogue: 1,0:05:03.80,0:05:08.05,辉中,,0,0,0,,就像两只大手抓着火箭疯狂蹂躏一样
 Dialogue: 2,0:05:03.80,0:05:08.05,辉英,,0,0,0,,and it is like two giant hands have it shaking it for all it's worth.
-Dialogue: 1,0:05:08.39,0:05:10.71,辉中,,0,0,0,,麻烦您能转过身看这里吗?
-Dialogue: 2,0:05:08.39,0:05:10.71,辉英,,0,0,0,,Look at your eye here. Can you turn around?
+Dialogue: 1,0:05:08.20,0:05:10.71,辉中,,0,0,0,,我在这里拍您吧 麻烦您能转过身看这里吗?
+Dialogue: 2,0:05:08.20,0:05:10.71,辉英,,0,0,0,,I'm gonna look at you right here, Luke. Can you turn around?
 Dialogue: 1,0:05:10.71,0:05:11.36,辉中,,0,0,0,,好的好的
 Dialogue: 2,0:05:10.71,0:05:11.36,辉英,,0,0,0,,There we go.
 Dialogue: 1,0:05:11.36,0:05:14.75,辉中,,0,0,0,,好 您继续
@@ -231,11 +231,10 @@ Dialogue: 1,0:05:21.72,0:05:24.36,辉中,,0,0,0,,发动机大约会摆动1.5度�
 Dialogue: 2,0:05:21.72,0:05:24.36,辉英,,0,0,0,,we would see them move about one and a half degrees.
 Dialogue: 1,0:05:24.36,0:05:27.78,辉中,,0,0,0,,绝大多数时间我们能看到的最大摆动就是这样了
 Dialogue: 2,0:05:24.36,0:05:27.78,辉英,,0,0,0,,That's the most we ever saw move most of the time,
-Dialogue: 1,0:05:27.78,0:05:33.66,辉 下注,,0,0,0,,这两句存疑
-Dialogue: 1,0:05:27.78,0:05:31.21,辉中,,0,0,0,,除了在一些振动的时候
-Dialogue: 2,0:05:27.78,0:05:31.21,辉英,,0,0,0,,except in that half vibration period.
+Dialogue: 1,0:05:27.78,0:05:31.21,辉中,,0,0,0,,除了在一些振动严重的情况
+Dialogue: 2,0:05:27.78,0:05:31.21,辉英,,0,0,0,,except in that high vibration period,
 Dialogue: 1,0:05:31.35,0:05:33.66,辉中,,0,0,0,,可能摆动会小到半度
-Dialogue: 2,0:05:31.35,0:05:33.66,辉英,,0,0,0,,They would move at maybe a half a degree.
+Dialogue: 2,0:05:31.35,0:05:33.66,辉英,,0,0,0,,they would move at maybe a half a degree.
 Dialogue: 1,0:05:34.43,0:05:36.35,辉中,,0,0,0,,-而它们以此控制火箭的指向?  -是的
 Dialogue: 2,0:05:34.43,0:05:36.35,辉英,,0,0,0,,And that was actually pointing the rocket. Yes.
 Dialogue: 1,0:05:36.35,0:05:37.59,辉中,,0,0,0,,它们控制火箭往哪飞
@@ -320,15 +319,15 @@ Dialogue: 2,0:07:40.91,0:07:43.38,辉英,,0,0,0,,So the mass of this thing chang
 Dialogue: 1,0:07:43.56,0:07:45.30,辉中,,0,0,0,,从而影响火箭的弯曲模态
 Dialogue: 2,0:07:43.56,0:07:45.30,辉英,,0,0,0,,and that affects these blending modes.
 Dialogue: 1,0:07:45.30,0:07:48.60,辉中,,0,0,0,,所以我们要对这些进行测试 然后编写程序
-Dialogue: 2,0:07:45.30,0:07:48.60,辉英,,0,0,0,,So we had to measure that kind of stuff and program again
-Dialogue: 1,0:07:48.60,0:07:52.09,辉中,,0,0,0,,让计算机知道不能……
-Dialogue: 2,0:07:48.60,0:07:52.09,辉英,,0,0,0,,to the computer system so that we knew not to.
+Dialogue: 2,0:07:45.30,0:07:48.60,辉英,,0,0,0,,So we had to measure that kind of stuff and program it in
+Dialogue: 1,0:07:48.60,0:07:52.09,辉中,,0,0,0,,让计算机知道不能修正过度
+Dialogue: 2,0:07:48.60,0:07:52.09,辉英,,0,0,0,,to the computer system so that we knew not to try to overcorrect.
 Dialogue: 1,0:07:52.37,0:07:57.14,辉中,,0,0,0,,所以您刚刚提到这些发动机是可以摆动的
 Dialogue: 2,0:07:52.37,0:07:57.14,辉英,,0,0,0,,So you're saying each of these each of these engines can move.
 Dialogue: 1,0:07:57.14,0:08:01.21,辉中,,0,0,0,,外围四个可以摆动 中央是固定的
 Dialogue: 2,0:07:57.14,0:08:01.21,辉英,,0,0,0,,Each of the four out or engines can move the center engine fixed, it doesn't move.
-Dialogue: 1,0:08:01.21,0:08:02.33,辉中,,0,0,0,,呃 是怎么摆动的?
-Dialogue: 2,0:08:01.21,0:08:02.33,辉英,,0,0,0,,Well. How do they move it?
+Dialogue: 1,0:08:01.21,0:08:02.33,辉中,,0,0,0,,呃 是怎么摆动的? 靠哪种活塞吗?
+Dialogue: 2,0:08:01.21,0:08:02.33,辉英,,0,0,0,,Well. How do they move it? Do they have pistons?
 Dialogue: 1,0:08:02.33,0:08:04.05,辉中,,0,0,0,,有作动器
 Dialogue: 2,0:08:02.33,0:08:04.05,辉英,,0,0,0,,They have they have actuators.
 Dialogue: 1,0:08:04.05,0:08:05.97,辉中,,0,0,0,,-您能指出在哪吗?  -这里
@@ -337,11 +336,11 @@ Dialogue: 1,0:08:05.97,0:08:07.07,辉中,,0,0,0,,能看到红点吗?
 Dialogue: 2,0:08:05.97,0:08:07.07,辉英,,0,0,0,,Can you see this pointer?
 Dialogue: 1,0:08:08.22,0:08:09.24,辉中,,0,0,0,,嗯 勉强能看到
 Dialogue: 2,0:08:08.22,0:08:09.24,辉英,,0,0,0,,Yeah, a little bit.
-Dialogue: 1,0:08:09.81,0:08:12.66,辉中,,0,0,0,,这就是火箭的摆动作动器
-Dialogue: 2,0:08:09.81,0:08:12.66,辉英,,0,0,0,,This engine has an actuator.
+Dialogue: 1,0:08:09.81,0:08:12.66,辉中,,0,0,0,,-那就是作动器吗?  每台发动机有两个
+Dialogue: 2,0:08:09.81,0:08:12.66,辉英,,0,0,0,,So, so that thing right there's an actuator? Each engine has an actuator.
 Dialogue: 1,0:08:12.66,0:08:16.26,辉中,,0,0,0,,这里有一个 靠外侧还有一个
 Dialogue: 2,0:08:12.66,0:08:16.26,辉英,,0,0,0,,There's an actuator here and then there's another one up on the other side of it up there.
-Dialogue: 1,0:08:16.26,0:08:18.38,辉中,,0,0,0,,每台发动机两个作动器
+Dialogue: 1,0:08:16.26,0:08:18.38,辉中,,0,0,0,,所以是每台两个作动器
 Dialogue: 2,0:08:16.26,0:08:18.38,辉英,,0,0,0,,So two actuators per engine.
 Dialogue: 1,0:08:18.38,0:08:25.40,辉中,,0,0,0,,作动器是液压的 伺服控制 由仪器舱电脑下达指令
 Dialogue: 2,0:08:18.38,0:08:25.40,辉英,,0,0,0,,The actuator is a hydraulic actuator servo mechanism under control of the computer in the instrument unit.
@@ -366,7 +365,7 @@ Dialogue: 2,0:08:55.32,0:08:55.95,辉英,,0,0,0,,Interesting.
 Dialogue: 1,0:08:55.95,0:08:59.24,辉中,,0,0,0,,这样能省下一大堆管路
 Dialogue: 2,0:08:55.95,0:08:59.24,辉英,,0,0,0,,And in that saves a whole set of piping.
 Dialogue: 1,0:08:59.24,0:09:03.67,辉中,,0,0,0,,没错 减少复杂度 提高可靠性
-Dialogue: 2,0:08:59.24,0:09:03.67,辉英,,0,0,0,,Oh, more set of piping complexity affects your reliability.
+Dialogue: 2,0:08:59.24,0:09:03.67,辉英,,0,0,0,,A whole more set of piping, complexity affects your reliability.
 Dialogue: 1,0:09:03.67,0:09:08.20,辉中,,0,0,0,,这个东西最最重要的就是 可靠性
 Dialogue: 2,0:09:03.67,0:09:08.20,辉英,,0,0,0,,Number one concern is reliability in this thing.
 Dialogue: 1,0:09:08.20,0:09:11.41,辉中,,0,0,0,,你需要让每个部件尽可能完美 毕竟它……
@@ -374,7 +373,7 @@ Dialogue: 2,0:09:08.20,0:09:11.41,辉英,,0,0,0,,You ought to have it as perfect
 Dialogue: 1,0:09:11.87,0:09:14.87,辉中,,0,0,0,,加起来可能有五百万个零件
 Dialogue: 2,0:09:11.87,0:09:14.87,辉英,,0,0,0,,you know, there's 5 million parts or something like that in this thing.
 Dialogue: 1,0:09:14.87,0:09:21.90,辉中,,0,0,0,,所以如果每个部件可靠性只有0.9 那五百万次方就没法看了
-Dialogue: 2,0:09:14.87,0:09:21.90,辉英,,0,0,0,,So every part, if it's point nine times, I got 5 million of them and that ain't real good.
+Dialogue: 2,0:09:14.87,0:09:21.90,辉英,,0,0,0,,So every part, if it's 0.9, times, I got 5 million of them and that ain't real good.
 Dialogue: 1,0:09:21.90,0:09:22.93,辉中,,0,0,0,,所以我需要可靠性是零点九九九九……
 Dialogue: 2,0:09:21.90,0:09:22.93,辉英,,0,0,0,,So I need point nine.
 Dialogue: 1,0:09:22.93,0:09:26.85,辉中,,0,0,0,,我需要可靠性99.999% 才能达到任务需求 让整个火箭飞上天
@@ -390,7 +389,7 @@ Dialogue: 2,0:09:38.06,0:09:40.98,辉英,,0,0,0,,I can barely see your laser, bu
 Dialogue: 1,0:09:41.36,0:09:45.30,辉中,,0,0,0,,上面是燃烧室 后面是喷管和延伸段
 Dialogue: 2,0:09:41.36,0:09:45.30,辉英,,0,0,0,,So we have the thrust chamber and then we have a nozzle extension on the back.
 Dialogue: 1,0:09:45.69,0:09:51.50,辉中,,0,0,0,,但这台发动机有趣的地方在画面上方这个圆柱的地方
-Dialogue: 2,0:09:45.69,0:09:51.50,辉英,,0,0,0,,But the interesting part of this engine is all this is a magnet up above the thrust chamber.
+Dialogue: 2,0:09:45.69,0:09:51.50,辉英,,0,0,0,,But the interesting part of this engine is all this that's mounted up above the thrust chamber.
 Dialogue: 1,0:09:52.01,0:09:54.96,辉中,,0,0,0,,这是一个驱动泵的涡轮发动机
 Dialogue: 2,0:09:52.01,0:09:54.96,辉英,,0,0,0,,Okay? This is a jet engine to drive the pumps
 Dialogue: 1,0:09:55.28,0:09:58.47,辉中,,0,0,0,,它保证了发动机每秒三吨燃料的供给
@@ -426,13 +425,13 @@ Dialogue: 2,0:10:50.59,0:10:55.47,辉英,,0,0,0,,And the flow of that in the wal
 Dialogue: 1,0:10:55.47,0:10:57.99,辉中,,0,0,0,,我记得氧化剂是液氧对吧?
 Dialogue: 2,0:10:55.47,0:10:57.99,辉英,,0,0,0,,Now, the oxygen was was liquid oxygen, right?
 Dialogue: 1,0:10:58.16,0:11:00.16,辉中,,0,0,0,,那煤油会用过冷的煤油吗? 还是
-Dialogue: 2,0:10:58.16,0:11:00.16,辉英,,0,0,0,,Was the kerosene super cold or.
+Dialogue: 2,0:10:58.16,0:11:00.16,辉英,,0,0,0,,Was the kerosene super cold or …
 Dialogue: 1,0:11:00.16,0:11:02.58,辉中,,0,0,0,,不 只是普通的液体煤油
 Dialogue: 2,0:11:00.16,0:11:02.58,辉英,,0,0,0,,No, it's just plain old liquid kerosene.
-Dialogue: 1,0:11:03.11,0:11:06.05,辉中,,0,0,0,,现在不少火箭开始使用甲烷做燃料了
+Dialogue: 1,0:11:03.11,0:11:06.05,辉中,,0,0,0,,现在不少火箭 比如SpaceX等公司的 开始使用甲烷做燃料了
 Dialogue: 2,0:11:03.11,0:11:06.05,辉英,,0,0,0,,Now, a lot of the engine, a lot of the rockets today
-Dialogue: 1,0:11:06.05,0:11:08.94,辉中,,0,0,0,,现在不少火箭开始使用甲烷做燃料了
-Dialogue: 2,0:11:06.05,0:11:08.94,辉英,,0,0,0,,as basic somebody like that, they're using methane.
+Dialogue: 1,0:11:06.05,0:11:08.94,辉中,,0,0,0,,现在不少火箭 比如SpaceX等公司的 开始使用甲烷做燃料了
+Dialogue: 2,0:11:06.05,0:11:08.94,辉英,,0,0,0,,SpaceX, somebody like that, they're using methane.
 Dialogue: 1,0:11:09.42,0:11:12.36,辉中,,0,0,0,,甲烷 煤油这些都是碳氢化合物嘛
 Dialogue: 2,0:11:09.42,0:11:12.36,辉英,,0,0,0,,Well, methane, kerosene, still hydrocarbons and so forth.
 Dialogue: 1,0:11:12.59,0:11:14.19,辉中,,0,0,0,,而甲烷是比较能压缩的
@@ -452,13 +451,13 @@ Dialogue: 2,0:11:32.88,0:11:35.88,辉英,,0,0,0,,oxygen tank, of course, it's pr
 Dialogue: 1,0:11:36.30,0:11:39.72,辉中,,0,0,0,,氧箱是靠把热的氧气泵回储箱顶部来加压的
 Dialogue: 2,0:11:36.30,0:11:39.72,辉英,,0,0,0,,heated oxygen back into top of the tank, create pressure.
 Dialogue: 1,0:11:39.72,0:11:43.47,辉中,,0,0,0,,但在燃料箱里 我们用的是氦
-Dialogue: 2,0:11:39.72,0:11:43.47,辉英,,0,0,0,,But now in the fuel tank, we actually use helium to take helium.
+Dialogue: 2,0:11:39.72,0:11:43.47,辉英,,0,0,0,,But now in the fuel tank, we actually use helium. We take helium.
 Dialogue: 1,0:11:43.77,0:11:47.09,辉中,,0,0,0,,实际上在涡轮的出口这里
 Dialogue: 2,0:11:43.77,0:11:47.09,辉英,,0,0,0,,And in fact, on the output of the turbine up there,
 Dialogue: 1,0:11:47.39,0:11:50.24,辉中,,0,0,0,,涡轮废气这有几组换热器
 Dialogue: 2,0:11:47.39,0:11:50.24,辉英,,0,0,0,,there are a couple of heat exchangers in the turbine exhaust.
 Dialogue: 1,0:11:50.24,0:11:55.23,辉中,,0,0,0,,它本质是一个驱动泵的涡轮发动机 所以这里相当于是发动机的排气口
-Dialogue: 2,0:11:50.24,0:11:55.23,辉英,,0,0,0,,It's a it's a jet turbine driving the pumps, which is like in a jet engine exhaust.
+Dialogue: 2,0:11:50.24,0:11:55.23,辉英,,0,0,0,,It's a it's a jet turbine driving the pumps, so it's just like any jet engine, it's got an exhaust.
 Dialogue: 1,0:11:55.23,0:11:57.83,辉中,,0,0,0,,所以废气这里会有几组换热器
 Dialogue: 2,0:11:55.23,0:11:57.83,辉英,,0,0,0,,So that exhaust has a couple of heat exchangers in there.
 Dialogue: 1,0:11:57.83,0:12:00.12,辉中,,0,0,0,,一部分液氧会从氧箱带过来
@@ -476,7 +475,7 @@ Dialogue: 2,0:12:15.35,0:12:18.62,辉英,,0,0,0,,heated up and put it back into 
 Dialogue: 1,0:12:18.87,0:12:20.79,辉中,,0,0,0,,可不能把氧气怼进燃料箱里
 Dialogue: 2,0:12:18.87,0:12:20.79,辉英,,0,0,0,,You don't put oxygen in the fuel tank.
 Dialogue: 1,0:12:20.79,0:12:24.14,辉中,,0,0,0,,不然就成大号烟花了
-Dialogue: 2,0:12:20.79,0:12:24.14,辉英,,0,0,0,,Oh, yeah. Okay. And because it blow up.
+Dialogue: 2,0:12:20.79,0:12:24.14,辉英,,0,0,0,,Oh, yeah. Not but once, okay. Because it'd blow up.
 Dialogue: 1,0:12:25.86,0:12:27.86,辉中,,0,0,0,,所以燃料箱使用的是氦气增压
 Dialogue: 2,0:12:25.86,0:12:27.86,辉英,,0,0,0,,So it's a pressure and use helium as a pressure.
 Dialogue: 1,0:12:27.86,0:12:30.45,辉中,,0,0,0,,选择氦气是因为它是惰性气体
@@ -490,13 +489,13 @@ Dialogue: 2,0:12:37.59,0:12:41.74,辉英,,0,0,0,,And what does that look like? T
 Dialogue: 1,0:12:42.36,0:12:47.67,辉中,,0,0,0,,喷注盘就是一个特别大的 有大约6000个孔的圆盘
 Dialogue: 2,0:12:42.36,0:12:47.67,辉英,,0,0,0,,The injector plate is just a large diameter plate has about 6000 holes in it.
 Dialogue: 1,0:12:47.93,0:12:52.29,辉中,,0,0,0,,有的孔喷煤油 有的孔喷液氧
-Dialogue: 2,0:12:47.93,0:12:52.29,辉英,,0,0,0,,Some of the holes are squirt kerosene, some of the holes are squirting liquid oxygen.
-Dialogue: 1,0:12:52.29,0:12:54.39,辉中,,0,0,0,,这个馆内有展示吗?
-Dialogue: 2,0:12:52.29,0:12:54.39,辉英,,0,0,0,,Do we have something here in the museum?
-Dialogue: 1,0:12:54.39,0:12:56.88,辉中,,0,0,0,,-有的  -好 那我们一会看看吧
-Dialogue: 2,0:12:54.39,0:12:56.88,辉英,,0,0,0,,They says. Yeah, so we can see that. Interesting.
+Dialogue: 2,0:12:47.93,0:12:52.29,辉英,,0,0,0,,Some of the holes are squirting kerosene, some of the holes are squirting liquid oxygen.
+Dialogue: 1,0:12:52.29,0:12:54.95,辉中,,0,0,0,,这个馆内有展示吗?
+Dialogue: 2,0:12:52.29,0:12:54.95,辉英,,0,0,0,,Do we have something here in the museum that shows it?
+Dialogue: 1,0:12:54.95,0:12:56.88,辉中,,0,0,0,,-有的  -好 那我们一会看看吧
+Dialogue: 2,0:12:54.95,0:12:56.88,辉英,,0,0,0,,Yeah, so we can see that. Interesting.
 Dialogue: 1,0:12:56.88,0:13:00.78,辉中,,0,0,0,,您刚刚说外围的四台发动机是可摆动的对吧
-Dialogue: 2,0:12:56.88,0:13:00.78,辉英,,0,0,0,,And so you said the four on the outside would gimbal it, Right?
+Dialogue: 2,0:12:56.88,0:13:00.78,辉英,,0,0,0,,And so you said the four on the outside would gimbal. Right?
 Dialogue: 1,0:13:00.78,0:13:02.52,辉中,,0,0,0,,而中央的发动机并不摆动
 Dialogue: 2,0:13:00.78,0:13:02.52,辉英,,0,0,0,,But the one in the middle does not.
 Dialogue: 1,0:13:02.52,0:13:05.91,辉中,,0,0,0,,那您的计算机是如何知道该控制哪一个的?
@@ -504,7 +503,7 @@ Dialogue: 2,0:13:02.52,0:13:05.91,辉英,,0,0,0,,So how do you with the computer
 Dialogue: 1,0:13:06.95,0:13:13.19,辉中,,0,0,0,,在仪器舱里有一个制导平台 可以告诉火箭自己在哪里
 Dialogue: 2,0:13:06.95,0:13:13.19,辉英,,0,0,0,,Well your guidance your you have a guidance platform in the instrument unit and this tell you where you are
 Dialogue: 1,0:13:13.19,0:13:15.93,辉中,,0,0,0,,同时还存储了发射数据 告诉火箭自己应该在哪
-Dialogue: 2,0:13:13.19,0:13:15.93,辉英,,0,0,0,,and you have a stored profile of where you ought to be.
+Dialogue: 2,0:13:13.19,0:13:15.93,辉英,,0,0,0,,and you have a stored profile of where you want to be.
 Dialogue: 1,0:13:16.38,0:13:23.87,辉中,,0,0,0,,然后火箭会每秒25次读取制导平台的数值进行计算
 Dialogue: 2,0:13:16.38,0:13:23.87,辉英,,0,0,0,,So 25 times a second, he's reading the guidance platform and calculating or part of the calculation.
 Dialogue: 1,0:13:23.87,0:13:26.94,辉中,,0,0,0,,对比火箭现在在哪 与火箭应该在哪
@@ -512,11 +511,11 @@ Dialogue: 2,0:13:23.87,0:13:26.94,辉英,,0,0,0,,About where where am I versus w
 Dialogue: 1,0:13:26.94,0:13:30.44,辉中,,0,0,0,,基于计算结果 仪器舱发出指令 让哪台发动机怎么动 让火箭往哪飞
 Dialogue: 2,0:13:26.94,0:13:30.44,辉英,,0,0,0,,And so based on that, he determines which engines
 Dialogue: 1,0:13:30.44,0:13:33.63,辉中,,0,0,0,,基于计算结果 仪器舱发出指令 让哪台发动机怎么动 让火箭往哪飞
-Dialogue: 2,0:13:30.44,0:13:33.63,辉英,,0,0,0,,need to be gimbled in order to steer you in the right direction.
+Dialogue: 2,0:13:30.44,0:13:33.63,辉英,,0,0,0,,need to be gimballed in order to steer you in the right direction.
 Dialogue: 1,0:13:33.90,0:13:37.85,辉中,,0,0,0,,什么时候俯仰 偏航 滚转
 Dialogue: 2,0:13:33.90,0:13:37.85,辉英,,0,0,0,,Do I need pitch? Do I need yaw? Do I need roll? Do I need all the above?
 Dialogue: 1,0:13:38.37,0:13:40.42,辉中,,0,0,0,,就是这样运行的
-Dialogue: 2,0:13:38.37,0:13:40.42,辉英,,0,0,0,,And all of that's done in the.
+Dialogue: 2,0:13:38.37,0:13:40.42,辉英,,0,0,0,,And all of that's done in the...
 Dialogue: 1,0:13:40.50,0:13:42.89,辉中,,0,0,0,,-而这是一套闭环系统  -是的
 Dialogue: 2,0:13:40.50,0:13:42.89,辉英,,0,0,0,,And it's a closed loop system. Yeah.
 Dialogue: 1,0:13:42.89,0:13:46.11,辉中,,0,0,0,,有意思 真厉害
@@ -552,7 +551,7 @@ Dialogue: 2,0:14:36.66,0:14:40.46,辉英,,0,0,0,,The problem we have with this t
 Dialogue: 1,0:14:40.65,0:14:44.52,辉中,,0,0,0,,中央发动机会吸入周围发动机废气的热量
 Dialogue: 2,0:14:40.65,0:14:44.52,辉英,,0,0,0,,that center engine gets extremely hot from all the heat coming off of these.
 Dialogue: 1,0:14:44.52,0:14:47.99,辉中,,0,0,0,,所以我们要尽量保证中央发动机不会过热
-Dialogue: 2,0:14:44.52,0:14:47.99,辉英,,0,0,0,,So you're trying to keep as much heat as you can away from that center.
+Dialogue: 2,0:14:44.52,0:14:47.99,辉英,,0,0,0,,So you're trying to keep as much heat as you can away from that center engine.
 Dialogue: 1,0:14:47.99,0:14:51.89,辉中,,0,0,0,,啊 有意思 因为飞行的时候中央的部分会形成低压区
 Dialogue: 2,0:14:47.99,0:14:51.89,辉英,,0,0,0,,And oh, interesting, because you're kind of in a low pressure zone back here.
 Dialogue: 1,0:14:52.01,0:14:52.64,辉中,,0,0,0,,没错没错
@@ -568,14 +567,14 @@ Dialogue: 2,0:15:00.55,0:15:02.07,辉英,,0,0,0,,No, the engines are the same.
 Dialogue: 1,0:15:02.07,0:15:05.99,辉中,,0,0,0,,我们只是单纯用隔热毯给它们包起来
 Dialogue: 2,0:15:02.07,0:15:05.99,辉英,,0,0,0,,So we just everything is blanketed with an insulating blanket
 Dialogue: 1,0:15:05.99,0:15:11.40,辉中,,0,0,0,,别让其他四台发动机的热量倾泻到中央发动机上
-Dialogue: 2,0:15:05.99,0:15:11.40,辉英,,0,0,0,,to try to keep all the heat in the engines instead of dumping it over at four to center engine.
+Dialogue: 2,0:15:05.99,0:15:11.40,辉英,,0,0,0,,to try to keep all the heat in the engines instead of dumping it over on that poor center engine.
 Dialogue: 1,0:15:11.96,0:15:12.53,辉中,,0,0,0,,有意思
 Dialogue: 2,0:15:11.96,0:15:12.53,辉英,,0,0,0,,Interesting.
 Dialogue: 1,0:15:12.53,0:15:14.90,辉中,,0,0,0,,我第一次知道这个 有意思
 Dialogue: 2,0:15:12.53,0:15:14.90,辉英,,0,0,0,,I didn't know that. That's amazing.
-Dialogue: 1,0:15:15.13,0:15:17.90,辉中,,0,0,0,,我们这有句话是这样说的 ↓
-Dialogue: 0,0:15:15.13,0:15:17.90,辉注,,0,0,0,,"hotter than a two-dollar pistol" 俚语 形容很热/很生气\NGeorge Jones一首歌有提到
-Dialogue: 2,0:15:15.13,0:15:17.90,辉英,,0,0,0,,We say in south Alabama, it's hotter than a two-dollar pistol.
+Dialogue: 1,0:15:15.13,0:15:17.90,辉中,,0,0,0,,用阿拉巴马这边话说就是"它比廉价的土枪还要烫"
+Dialogue: 0,0:15:15.13,0:15:17.90,辉注,,0,0,0,,"hotter than a two-dollar pistol" 俚语 形容很热/很生气\NGeorge Jones一首歌有提到\N便宜的土枪容易过热
+Dialogue: 2,0:15:15.13,0:15:17.90,辉英,,0,0,0,,We say in south Alabama, "he's hotter than a two-dollar pistol".
 Dialogue: 1,0:15:18.77,0:15:21.27,辉中,,0,0,0,,哈哈哈 我也喜欢那首歌
 Dialogue: 2,0:15:18.77,0:15:21.27,辉英,,0,0,0,,Yeah. I like that song, too.
 Dialogue: 1,0:15:21.27,0:15:22.22,辉中,,0,0,0,,太逗了
@@ -586,8 +585,8 @@ Dialogue: 1,0:15:28.13,0:15:31.12,辉中,,0,0,0,,所有黄色的部件都是地�
 Dialogue: 2,0:15:28.13,0:15:31.12,辉英,,0,0,0,,Anything in here that's yellow is ground handling equipment.
 Dialogue: 1,0:15:31.12,0:15:33.65,辉中,,0,0,0,,你看到那些黄色的托盘了吗
 Dialogue: 2,0:15:31.12,0:15:33.65,辉英,,0,0,0,,So you see those those plates are there.
-Dialogue: 1,0:15:33.65,0:15:37.14,辉中,,0,0,0,,这样火箭才能沿着那个方向躺下去
-Dialogue: 2,0:15:33.65,0:15:37.14,辉英,,0,0,0,,And that's so this thing will sag as it's laying on its side.
+Dialogue: 1,0:15:33.65,0:15:37.14,辉中,,0,0,0,,这样才能保证火箭躺倒时自身结构不会塌下来
+Dialogue: 2,0:15:33.65,0:15:37.14,辉英,,0,0,0,,and that's so this thing won't sag as it's laying on its side.
 Dialogue: 1,0:15:37.14,0:15:39.14,辉中,,0,0,0,,当火箭竖起在发射台的时候
 Dialogue: 2,0:15:37.14,0:15:39.14,辉英,,0,0,0,,So once you get it up, stand on the pad.
 Dialogue: 1,0:15:39.14,0:15:40.86,辉中,,0,0,0,,就要把黄色的部分移走
@@ -602,7 +601,7 @@ Dialogue: 1,0:15:48.60,0:15:52.20,辉中,,0,0,0,,这就是一级火箭了 它要
 Dialogue: 2,0:15:48.60,0:15:52.20,辉英,,0,0,0,,So that's the first stage. How long would the first stage fire?
 Dialogue: 1,0:15:52.47,0:16:00.26,辉 下注,,1500,0,0,,64km       2.2km/s
 Dialogue: 1,0:15:52.47,0:16:00.26,辉中,,0,0,0,,一级会燃烧两分半钟 把火箭送到40英里高空 时速5000英里
-Dialogue: 2,0:15:52.47,0:16:00.26,辉英,,0,0,0,,Okay, so the first stage burn, two and a half minutes takes them up to about 40 miles and 5000 miles an hour.
+Dialogue: 2,0:15:52.47,0:16:00.26,辉英,,0,0,0,,Okay, so the first stage burn 2.5 minutes, takes them up to about 40 miles and 5000 miles an hour.
 Dialogue: 1,0:16:01.04,0:16:03.44,辉中,,0,0,0,,那个高度
 Dialogue: 2,0:16:01.04,0:16:03.44,辉英,,0,0,0,,Now, at that altitude,
 Dialogue: 1,0:16:03.45,0:16:07.39,辉 下注,,600,0,0,,64km
@@ -613,7 +612,7 @@ Dialogue: 2,0:16:07.83,0:16:11.57,辉英,,0,0,0,,Well, he's still climbing as hi
 Dialogue: 1,0:16:11.57,0:16:17.28,辉中,,0,0,0,,在分离的时候 你想想 后面每个发动机就要9吨
 Dialogue: 2,0:16:11.57,0:16:17.28,辉英,,0,0,0,,So when things separate, you think each of these engines back here is 9 tons.
 Dialogue: 1,0:16:17.29,0:16:22.46,辉中,,0,0,0,,加一起就是45吨的发动机 接在一个超大的铝罐上
-Dialogue: 2,0:16:17.29,0:16:22.46,辉英,,0,0,0,,So we've got 45 tons of engines they attached to a craft member of aluminum.
+Dialogue: 2,0:16:17.29,0:16:22.46,辉英,,0,0,0,,So we've got 45 tons of engines they attached to a cross member of aluminum
 Dialogue: 1,0:16:22.46,0:16:24.30,辉中,,0,0,0,,铝罐又是20吨
 Dialogue: 2,0:16:22.46,0:16:24.30,辉英,,0,0,0,,That's another about 20 tons.
 Dialogue: 1,0:16:24.30,0:16:26.60,辉中,,0,0,0,,加起来就是个六七十吨的东西
@@ -622,7 +621,7 @@ Dialogue: 1,0:16:27.00,0:16:28.85,辉中,,0,0,0,,可能你会觉得火箭还会�
 Dialogue: 2,0:16:27.00,0:16:28.85,辉英,,0,0,0,,So you would think the rocket is climbing.
 Dialogue: 1,0:16:28.85,0:16:31.19,辉中,,0,0,0,,而下面级会这样直接掉下来
 Dialogue: 2,0:16:28.85,0:16:31.19,辉英,,0,0,0,,He would do this and fall.
-Dialogue: 1,0:16:31.19,0:16:33.39,辉 下注,,0,0,0,,2.2km/s
+Dialogue: 1,0:16:31.19,0:16:33.39,辉 下注,,1000,0,0,,2.2km/s
 Dialogue: 1,0:16:31.19,0:16:33.39,辉中,,0,0,0,,但当时它的速度有每小时5000英里
 Dialogue: 2,0:16:31.19,0:16:33.39,辉英,,0,0,0,,But he's going 5000 miles an hour.
 Dialogue: 1,0:16:33.66,0:16:37.86,辉中,,0,0,0,,当它和二级分离的时候 它的确会稍微向上倾斜一下
@@ -633,7 +632,7 @@ Dialogue: 2,0:16:37.86,0:16:45.14,辉英,,0,0,0,,But this thing will go almost 7
 Dialogue: 1,0:16:45.14,0:16:48.51,辉中,,0,0,0,,当它掉进大西洋的时候 就直接摔烂了
 Dialogue: 2,0:16:45.14,0:16:48.51,辉英,,0,0,0,,When it hits the Atlantic, it pieces just go everywhere.
 Dialogue: 1,0:16:48.62,0:16:50.62,辉中,,0,0,0,,-粉身碎骨?  -是的
-Dialogue: 2,0:16:48.62,0:16:50.62,辉英,,0,0,0,,Bluey Yakubu going.
+Dialogue: 2,0:16:48.62,0:16:50.62,辉英,,0,0,0,,Kablooey. Yeah, kablooey.
 Dialogue: 1,0:16:50.89,0:16:54.87,辉中,,0,0,0,,跟大家科普一下 火箭分离的目的是要把那些额外不需要的重量抛掉
 Dialogue: 2,0:16:50.89,0:16:54.87,辉英,,0,0,0,,To be clear, the reason you separate the rocket is you've got all this extra mass.
 Dialogue: 1,0:16:54.87,0:16:57.03,辉中,,0,0,0,,对 用过的东西一个不留
@@ -662,9 +661,9 @@ Dialogue: 2,0:17:30.90,0:17:34.22,辉英,,0,0,0,,is the USA on it, is the fuel t
 Dialogue: 1,0:17:34.25,0:17:36.44,辉中,,0,0,0,,这里装的是煤油
 Dialogue: 2,0:17:34.25,0:17:36.44,辉英,,0,0,0,,So that's where the kerosene is.
 Dialogue: 1,0:17:36.44,0:17:44.06,辉 下注,,0,0,0,,约1.9cm
-Dialogue: 1,0:17:36.44,0:17:44.06,辉中,,0,0,0,,它是从厚度大约为四分之三英寸的铝板加工而来的
-Dialogue: 1,0:17:36.44,0:17:44.06,辉注,,0,0,0,,实际上各处厚度不一样\N煤油罐厚度从下到上0.193-0.170英寸\N液氧罐厚度从下到上0.254-0.190英寸
-Dialogue: 2,0:17:36.44,0:17:44.06,辉英,,0,0,0,,This thing is made out of aluminum plate, inch, insta inch and three quarter inch thickness.
+Dialogue: 1,0:17:36.44,0:17:44.06,辉中,,0,0,0,,它是从厚度不到四分之一英寸的铝板加工而来的
+Dialogue: 1,0:17:36.44,0:17:44.06,辉注,,0,0,0,,实际上各处厚度不一样\N煤油罐厚度从下到上0.193-0.170英寸\N4.90-4.32mm\N液氧罐厚度从下到上0.254-0.190英寸\N6.45-4.83mm
+Dialogue: 2,0:17:36.44,0:17:44.06,辉英,,0,0,0,,This thing is made out of aluminum plate, an inch, to inch and three quarter thickness.
 Dialogue: 1,0:17:44.06,0:17:51.50,辉中,,0,0,0,,从最初平展的铝板 在内表面铣出各种形状用于加强结构
 Dialogue: 0,0:17:44.06,0:18:10.17,辉注,,0,0,0,,这部分的详细内容可以查看\Nav718781179
 Dialogue: 2,0:17:44.06,0:17:51.50,辉英,,0,0,0,,They form a flat plate, they mill the inner surface for strength and some slosh baffling.
@@ -686,14 +685,14 @@ Dialogue: 1,0:18:20.67,0:18:23.61,辉中,,0,0,0,,做出测试件来
 Dialogue: 2,0:18:20.67,0:18:23.61,辉英,,0,0,0,,put up these what we call test coupons, just to, you know,
 Dialogue: 1,0:18:24.09,0:18:27.54,辉中,,0,0,0,,就是铝板的试样品 检查焊接是否合格
 Dialogue: 2,0:18:24.09,0:18:27.54,辉英,,0,0,0,,a piece of aluminum to check out the weld to make sure that's okay.
-Dialogue: 1,0:18:27.92,0:18:30.66,辉中,,0,0,0,,把做好的筒切开
-Dialogue: 2,0:18:27.92,0:18:30.66,辉英,,0,0,0,,So they make the wells and they take this thing, slice it up,
+Dialogue: 1,0:18:27.92,0:18:30.66,辉中,,0,0,0,,先焊接好 然后再从焊缝切开
+Dialogue: 2,0:18:27.92,0:18:30.66,辉英,,0,0,0,,So they make the welds and they take this thing, slice it up,
 Dialogue: 1,0:18:30.66,0:18:33.18,辉中,,0,0,0,,放在显微镜下观观察 然后告诉你
 Dialogue: 2,0:18:30.66,0:18:33.18,辉英,,0,0,0,,put it on the microscope, and they said, you
 Dialogue: 1,0:18:33.18,0:18:39.45,辉中,,0,0,0,,多数时候 很难能分辨出焊缝和原材料 真的超级超级精确
-Dialogue: 2,0:18:33.18,0:18:39.45,辉英,,0,0,0,,be hard pressed in most cases to tell the virgin aluminum from the well, they were very, very precise.
+Dialogue: 2,0:18:33.18,0:18:39.45,辉英,,0,0,0,,be hard pressed in most cases to tell the virgin aluminum from the weld, they were very, very precise.
 Dialogue: 1,0:18:39.45,0:18:40.92,辉中,,0,0,0,,都是非常强的工匠
-Dialogue: 2,0:18:39.45,0:18:40.92,辉英,,0,0,0,,So they were super skilled craft.
+Dialogue: 2,0:18:39.45,0:18:40.92,辉英,,0,0,0,,So they were super skilled craftsmen.
 Dialogue: 1,0:18:40.92,0:18:43.47,辉中,,0,0,0,,-没错 没错  -太牛了
 Dialogue: 2,0:18:40.92,0:18:43.47,辉英,,0,0,0,,Yes. Yes. That's amazing.
 Dialogue: 1,0:18:44.69,0:18:48.89,辉中,,0,0,0,,对于波纹段来说 这些燃料箱…… 我得先讲一下背景
@@ -702,11 +701,11 @@ Dialogue: 1,0:18:50.58,0:18:51.98,辉中,,0,0,0,,火箭发动机……
 Dialogue: 2,0:18:50.58,0:18:51.98,辉英,,0,0,0,,The engines.
 Dialogue: 1,0:18:51.98,0:18:56.25,辉中,,0,0,0,,来自发动机的推力会沿着我们刚才走过的结构传递
 Dialogue: 2,0:18:51.98,0:18:56.25,辉英,,0,0,0,,The forces from the engines are transmitted out through the structure we were talking about.
-Dialogue: 1,0:18:56.25,0:18:59.24,辉中,,0,0,0,,所有力都会沿着箭体表面传递
+Dialogue: 1,0:18:56.25,0:18:59.24,辉中,,0,0,0,,所有力都会沿着箭体外壳传递
 Dialogue: 2,0:18:56.25,0:18:59.24,辉英,,0,0,0,,And all the forces are transmitted upward through the skin.
 Dialogue: 1,0:18:59.87,0:19:02.39,辉中,,0,0,0,,火箭中央没有什么横梁之类的传力结构
 Dialogue: 2,0:18:59.87,0:19:02.39,辉英,,0,0,0,,There's no internal beams or anything like that.
-Dialogue: 1,0:19:02.94,0:19:05.09,辉中,,0,0,0,,所以所有力都是沿箭体表面传递的
+Dialogue: 1,0:19:02.94,0:19:05.09,辉中,,0,0,0,,所以所有力都是靠箭体外壳传递的
 Dialogue: 2,0:19:02.94,0:19:05.09,辉英,,0,0,0,,So all your forces are going through the skin.
 Dialogue: 1,0:19:05.09,0:19:08.18,辉中,,0,0,0,,因此 燃料箱不但要承受垂直方向的力
 Dialogue: 2,0:19:05.09,0:19:08.18,辉英,,0,0,0,,Well, the tank now has to withstand the upward force,
@@ -715,7 +714,7 @@ Dialogue: 2,0:19:08.18,0:19:10.92,辉英,,0,0,0,,plus the pressure in the tank c
 Dialogue: 1,0:19:10.95,0:19:12.32,辉中,,0,0,0,,-明白  -OK
 Dialogue: 2,0:19:10.95,0:19:12.32,辉英,,0,0,0,,Yes. Okay.
 Dialogue: 1,0:19:12.32,0:19:19.91,辉中,,0,0,0,,因此 相比于箱间段 燃料箱本身要承受更多的力
-Dialogue: 2,0:19:12.32,0:19:19.91,辉英,,0,0,0,,So the tank area is has to withstand more forces then do the inner tank areas.
+Dialogue: 2,0:19:12.32,0:19:19.91,辉英,,0,0,0,,So the tank area is has to withstand more forces then do the inter-tank areas.
 Dialogue: 1,0:19:20.19,0:19:24.98,辉中,,0,0,0,,所以箱间段可以使用这种波纹结构
 Dialogue: 0,0:19:20.19,0:19:30.11,辉注,,0,0,0,,箱体采用2219-Y87铝合金 密度2.84g/cm³\N箱间段采用7075-T6铝合金 密度2.80g/cm³
 Dialogue: 2,0:19:20.19,0:19:24.98,辉英,,0,0,0,,So the inner tank areas are made with this corrugated material.
@@ -746,7 +745,7 @@ Dialogue: 2,0:19:59.63,0:20:01.13,辉英,,0,0,0,,If you look inside the tank,
 Dialogue: 1,0:20:01.13,0:20:05.52,辉 下注,,0,800,0,,"隧道管"
 Dialogue: 1,0:20:01.13,0:20:05.52,辉中,,0,0,0,,你会发现液氧管路是从燃料箱内部横穿过去的
 Dialogue: 2,0:20:01.13,0:20:05.52,辉英,,0,0,0,,you can see that the liquid oxygen lines actually run through the fuel tank.
-Dialogue: 1,0:20:05.90,0:20:08.00,辉 下注,,0,0,0,,约0.46米
+Dialogue: 1,0:20:05.90,0:20:08.00,辉 下注,,500,0,0,,约0.46米
 Dialogue: 1,0:20:05.90,0:20:08.00,辉中,,0,0,0,,直径大约18英寸
 Dialogue: 2,0:20:05.90,0:20:08.00,辉英,,0,0,0,,Those things about 18 inches in diameter.
 Dialogue: 1,0:20:08.02,0:20:11.34,辉中,,0,0,0,,如果设计成从箱体外侧走 就会打乱火箭表面的管路设计
@@ -789,8 +788,8 @@ Dialogue: 1,0:21:01.29,0:21:04.65,辉中,,0,0,0,,它们会从煤油箱出来 接
 Dialogue: 2,0:21:01.29,0:21:04.65,辉英,,0,0,0,,then they come out and they go into the top end of the engine
 Dialogue: 1,0:21:06.15,0:21:08.90,辉中,,0,0,0,,而煤油管路直接从煤油箱底部出来
 Dialogue: 2,0:21:06.15,0:21:08.90,辉英,,0,0,0,,and the fuel lines now come out of the bottom of the fuel tank
-Dialogue: 1,0:21:09.27,0:21:12.14,辉中,,0,0,0,,这样每台发动机就有两条管路 一条燃料 一条氧化剂
-Dialogue: 2,0:21:09.27,0:21:12.14,辉英,,0,0,0,,and you have to look to fuel line for each engine.
+Dialogue: 1,0:21:09.27,0:21:12.14,辉中,,0,0,0,,这样每台发动机就有两条管路
+Dialogue: 2,0:21:09.27,0:21:12.14,辉英,,0,0,0,,and you have two fuel line for each engine.
 Dialogue: 1,0:21:12.99,0:21:15.03,辉中,,0,0,0,,每条各自进各自的泵
 Dialogue: 2,0:21:12.99,0:21:15.03,辉英,,0,0,0,,One go in each side of the pump.
 Dialogue: 1,0:21:15.03,0:21:21.98,辉中,,0,0,0,,发动机处理这些主要在顶端的涡轮
@@ -840,17 +839,17 @@ Dialogue: 2,0:22:19.56,0:22:22.64,辉英,,0,0,0,,Kerosene like seven, I think. R
 Dialogue: 1,0:22:22.94,0:22:26.07,辉中,,0,0,0,,-我们现在还在一级下面  -是的 还在一级下面
 Dialogue: 2,0:22:22.94,0:22:26.07,辉英,,0,0,0,,So we're still under stage one. We're still under the first stage.
 Dialogue: 1,0:22:26.07,0:22:28.83,辉中,,0,0,0,,那有个发动机 要去唠唠吗?
-Dialogue: 2,0:22:26.07,0:22:28.83,辉英,,0,0,0,,There's the engine. You talk about.
+Dialogue: 2,0:22:26.07,0:22:28.83,辉英,,0,0,0,,There's the engine. You want to talk about it?
 Dialogue: 1,0:22:28.83,0:22:30.08,辉中,,0,0,0,,您想讲讲铬镍铁合金吗?
-Dialogue: 2,0:22:28.83,0:22:30.08,辉英,,0,0,0,,You talk about the inconel now.
+Dialogue: 2,0:22:28.83,0:22:30.08,辉英,,0,0,0,,You want to talk about the inconel?
 Dialogue: 1,0:22:30.08,0:22:33.17,辉中,,0,0,0,,看你意愿 你想聊聊那个喷注盘吗?
-Dialogue: 2,0:22:30.08,0:22:33.17,辉英,,0,0,0,,If you will, if you want to talk about that injector plate.
+Dialogue: 2,0:22:30.08,0:22:33.17,辉英,,0,0,0,,If you well, if you want to talk about that injector plate.
 Dialogue: 1,0:22:33.54,0:22:37.48,辉中,,0,0,0,,您别问我呀 您是向导 我听您的!
-Dialogue: 2,0:22:33.54,0:22:37.48,辉英,,0,0,0,,Well, I want you to talk about your more knowledgeable than I am.
+Dialogue: 2,0:22:33.54,0:22:37.48,辉英,,0,0,0,,Well, I want you to talk about it, you're more knowledgeable than I am.
 Dialogue: 1,0:22:37.62,0:22:41.81,辉中,,0,0,0,,我们之前说的喷注盘 就在这个发动机的喉部
-Dialogue: 2,0:22:37.62,0:22:41.81,辉英,,0,0,0,,Well, we were talking about the injector plate down in the throat of the engine.
+Dialogue: 2,0:22:37.62,0:22:41.81,辉英,,0,0,0,,Well, we were talking about the injector plate down in the throat of the engine
 Dialogue: 1,0:22:41.81,0:22:46.80,辉中,,0,0,0,,喷注盘上面大约有5000来个孔
-Dialogue: 2,0:22:41.81,0:22:46.80,辉英,,0,0,0,,Is this injector plate got something like 5000 holes or something like that.
+Dialogue: 2,0:22:41.81,0:22:46.80,辉英,,0,0,0,,is this injector plate got something like 5000 holes or something like that.
 Dialogue: 1,0:22:47.28,0:22:51.74,辉中,,0,0,0,,有的喷煤油 有的喷液氧
 Dialogue: 2,0:22:47.28,0:22:51.74,辉英,,0,0,0,,And some of the holes are spraying kerosene, some are spraying liquid oxygen.
 Dialogue: 1,0:22:52.02,0:22:53.29,辉中,,0,0,0,,喷注盘上有挡板
@@ -873,9 +872,9 @@ Dialogue: 1,0:23:21.08,0:23:23.38,辉中,,0,0,0,,最开始没有那些挡板
 Dialogue: 2,0:23:21.08,0:23:23.38,辉英,,0,0,0,,Originally did not have the baffles.
 Dialogue: 1,0:23:23.38,0:23:27.99,辉中,,0,0,0,,问题是喷注盘喷出燃料后会开始旋转
 Dialogue: 2,0:23:23.38,0:23:27.99,辉英,,0,0,0,,The problem is this stuff spraying in here starts a circular rotating motion.
-Dialogue: 1,0:23:27.99,0:23:31.95,辉中,,0,0,0,,像一锅粥一样在里面转 转速能到2000RPM
-Dialogue: 2,0:23:27.99,0:23:31.95,辉英,,0,0,0,,So this gas starts circulating in this job like
-Dialogue: 1,0:23:31.95,0:23:35.73,辉中,,0,0,0,,像一锅粥一样在里面转 转速能到2000RPM
+Dialogue: 1,0:23:27.99,0:23:31.95,辉中,,0,0,0,,燃料和氧化剂在这样庞大的燃烧室内搅动 转速能到2000RPM
+Dialogue: 2,0:23:27.99,0:23:31.95,辉英,,0,0,0,,So this gas starts circulating in this giant like..
+Dialogue: 1,0:23:31.95,0:23:35.73,辉中,,0,0,0,,燃料和氧化剂在这样庞大的燃烧室内搅动 转速能到2000RPM
 Dialogue: 2,0:23:31.95,0:23:35.73,辉英,,0,0,0,,we're talking about stuff swirling around, maybe 2000 RPM.
 Dialogue: 1,0:23:35.73,0:23:37.55,辉中,,0,0,0,,里面就很混乱
 Dialogue: 2,0:23:35.73,0:23:37.55,辉英,,0,0,0,,I mean, it's really moving in there.
@@ -887,8 +886,8 @@ Dialogue: 1,0:23:45.29,0:23:47.64,辉中,,0,0,0,,所以最后整个发动机就�
 Dialogue: 2,0:23:45.29,0:23:47.64,辉英,,0,0,0,,So you wind up you can get an engine that
 Dialogue: 1,0:23:47.64,0:23:51.21,辉中,,0,0,0,,一块区域可能氧太多了 煤油不够
 Dialogue: 2,0:23:47.64,0:23:51.21,辉英,,0,0,0,,I'm getting too much oxygen in an area, not enough kerosene.
-Dialogue: 1,0:23:51.41,0:23:55.13,辉中,,0,0,0,,最后会冲击钟形喷管的末端
-Dialogue: 2,0:23:51.41,0:23:55.13,辉英,,0,0,0,,It turns into settle and torsion cuts the end of the bell, really.
+Dialogue: 1,0:23:51.41,0:23:55.13,辉中,,0,0,0,,最终会变成乙炔喷灯一样直接把喷管下半部分烧掉
+Dialogue: 2,0:23:51.41,0:23:55.13,辉英,,0,0,0,,It turns into an acetylene torch and cuts the end off the bell. Really?
 Dialogue: 1,0:23:55.62,0:23:59.38,辉中,,0,0,0,,同样 还会有一块区域煤油太多 氧又不够
 Dialogue: 2,0:23:55.62,0:23:59.38,辉英,,0,0,0,,And then the other problem we have is if I get too much kerosene and not enough oxygen
 Dialogue: 1,0:23:59.49,0:24:03.09,辉中,,0,0,0,,这时候就像拖拉机上路一样突突突
@@ -905,24 +904,24 @@ Dialogue: 1,0:24:23.40,0:24:26.15,辉中,,0,0,0,,图中纸面向外是发动机�
 Dialogue: 2,0:24:23.40,0:24:26.15,辉英,,0,0,0,,First few inches into the engine of the injector.
 Dialogue: 1,0:24:26.15,0:24:28.89,辉中,,0,0,0,,这些挡板就足够解决问题了
 Dialogue: 2,0:24:26.15,0:24:28.89,辉英,,0,0,0,,So these baffles were enough to solve the problem.
-Dialogue: 1,0:24:29.33,0:24:33.52,辉中,,0,0,0,,我们测试了几种喷注盘设计 用于提高燃烧稳定余量
-Dialogue: 2,0:24:29.33,0:24:33.52,辉英,,0,0,0,,Several injector designs, such as this lock's dispersion injector,
-Dialogue: 1,0:24:33.52,0:24:39.45,辉中,,0,0,0,,我们测试了几种喷注盘设计 用于提高燃烧稳定余量
-Dialogue: 2,0:24:33.52,0:24:39.45,辉英,,0,0,0,,have been tested in an effort to increase combustion stability margins.
-Dialogue: 1,0:24:39.45,0:24:43.43,辉中,,0,0,0,,包括多层同心圆形喷注盘
-Dialogue: 2,0:24:39.45,0:24:43.43,辉英,,0,0,0,,Other designs tested include the baffled divergent ring injector,
-Dialogue: 1,0:24:44.28,0:24:47.30,辉中,,0,0,0,,低燃料三角翼喷注盘
-Dialogue: 2,0:24:44.28,0:24:47.30,辉英,,0,0,0,,low fuel delta fin injector
-Dialogue: 1,0:24:47.30,0:24:49.47,辉中,,0,0,0,,21分区喷注盘
-Dialogue: 2,0:24:47.30,0:24:49.47,辉英,,0,0,0,,21 compartment baffled injector,
-Dialogue: 1,0:24:50.39,0:24:53.81,辉中,,0,0,0,,放射形同心圆喷注盘
-Dialogue: 2,0:24:50.39,0:24:53.81,辉英,,0,0,0,,and the divergent ring injector.
-Dialogue: 1,0:24:54.18,0:24:56.52,辉中,,0,0,0,,作为液氧与燃料隔离研究的一部分
-Dialogue: 2,0:24:54.18,0:24:56.52,辉英,,0,0,0,,As part of the LOX fuel isolation study,
-Dialogue: 1,0:24:56.93,0:25:02.34,辉中,,0,0,0,,我们已经在洛克达因的高流量试验台上进行了不同压力的测试
-Dialogue: 2,0:24:56.93,0:25:02.34,辉英,,0,0,0,,tests have been conducted on Rocketdyne's high flow test bench at varying pressures.
-Dialogue: 1,0:25:02.34,0:25:05.93,辉中,,0,0,0,,数据将进行评估 并与热试车结果进行比对
-Dialogue: 2,0:25:02.34,0:25:05.93,辉英,,0,0,0,,This data will be evaluated and compared with data from hot testing.
+Dialogue: 1,0:24:29.33,0:24:33.52,辉中-黑,,0,0,260,,我们测试了几种喷注盘设计 用于提高燃烧稳定余量
+Dialogue: 2,0:24:29.33,0:24:33.52,辉英-黑,,0,0,200,,Several injector designs, such as this lock's dispersion injector,
+Dialogue: 1,0:24:33.52,0:24:39.45,辉中-黑,,0,0,260,,我们测试了几种喷注盘设计 用于提高燃烧稳定余量
+Dialogue: 2,0:24:33.52,0:24:39.45,辉英-黑,,0,0,200,,have been tested in an effort to increase combustion stability margins.
+Dialogue: 1,0:24:39.45,0:24:43.43,辉中-黑,,0,0,260,,包括多层同心圆形喷注盘
+Dialogue: 2,0:24:39.45,0:24:43.43,辉英-黑,,0,0,200,,Other designs tested include the baffled divergent ring injector,
+Dialogue: 1,0:24:44.28,0:24:47.30,辉中-黑,,0,0,260,,低燃料△P喷注盘
+Dialogue: 2,0:24:44.28,0:24:47.30,辉英-黑,,0,0,200,,low fuel delta P injector,
+Dialogue: 1,0:24:47.30,0:24:49.47,辉中-黑,,0,0,260,,21分区喷注盘
+Dialogue: 2,0:24:47.30,0:24:49.47,辉英-黑,,0,0,200,,21 compartment baffled injector,
+Dialogue: 1,0:24:50.39,0:24:53.81,辉中-黑,,0,0,260,,放射形同心圆喷注盘
+Dialogue: 2,0:24:50.39,0:24:53.81,辉英-黑,,0,0,200,,and the divergent ring injector.
+Dialogue: 1,0:24:54.18,0:24:56.52,辉中-黑,,0,0,260,,作为液氧圆底振动研究的一部分
+Dialogue: 2,0:24:54.18,0:24:56.52,辉英-黑,,0,0,200,,As part of the LOX dome oscillation study,
+Dialogue: 1,0:24:56.93,0:25:02.34,辉中-黑,,0,0,260,,我们已经在洛克达因的高流量试验台上进行了不同压力的测试
+Dialogue: 2,0:24:56.93,0:25:02.34,辉英-黑,,0,0,200,,tests have been conducted on Rocketdyne's high flow test bench at varying pressures.
+Dialogue: 1,0:25:02.34,0:25:05.93,辉中-黑,,0,0,260,,数据将进行评估 并与热试车结果进行比对
+Dialogue: 2,0:25:02.34,0:25:05.93,辉英-黑,,0,0,200,,This data will be evaluated and compared with data from hot testing.
 Dialogue: 1,0:25:06.35,0:25:09.62,辉中,,0,0,0,,所以简单来讲 这些挡板就是在控制燃烧室内的巨型乱流
 Dialogue: 2,0:25:06.35,0:25:09.62,辉英,,0,0,0,,So so basically what they're doing is they're they're controlling
 Dialogue: 1,0:25:09.62,0:25:13.37,辉中,,0,0,0,,所以简单来讲 这些挡板就是在控制燃烧室内的巨型乱流
@@ -930,7 +929,7 @@ Dialogue: 2,0:25:09.62,0:25:13.37,辉英,,0,0,0,,they're controlling a very huge
 Dialogue: 1,0:25:13.38,0:25:15.60,辉中,,0,0,0,,它把乱流化整为零
 Dialogue: 2,0:25:13.38,0:25:15.60,辉英,,0,0,0,,They're cutting it into smaller chunks.
 Dialogue: 1,0:25:15.60,0:25:18.89,辉中,,0,0,0,,在每个小分区内就能有更充分的燃烧
-Dialogue: 2,0:25:15.60,0:25:18.89,辉英,,0,0,0,,And then that way you can get more complete mixing in these centers, right?
+Dialogue: 2,0:25:15.60,0:25:18.89,辉英,,0,0,0,,And then that way you can get more complete mixing in these sections, right?
 Dialogue: 1,0:25:18.90,0:25:22.17,辉中,,0,0,0,,-侧面这个是您刚刚提到的小管路吗?  -对
 Dialogue: 2,0:25:18.90,0:25:22.17,辉英,,0,0,0,,Are these the pipes you were talking about here? Yeah.
 Dialogue: 1,0:25:22.59,0:25:25.98,辉中,,0,0,0,,这些就是铬镍铁合金管路 里面流的是冷却液
@@ -940,9 +939,9 @@ Dialogue: 2,0:25:26.73,0:25:30.75,辉英,,0,0,0,,Now, this big baffle around thi
 Dialogue: 1,0:25:30.75,0:25:34.54,辉中,,0,0,0,,发动机后面还有一段延伸的喷管 这里没有展示出来
 Dialogue: 2,0:25:30.75,0:25:34.54,辉英,,0,0,0,,there's a nozzle extension on the engine, which is not in this one,
 Dialogue: 1,0:25:34.54,0:25:38.79,辉中,,0,0,0,,沿着我指的方向 大约还有六七英尺的发动机喷管
-Dialogue: 2,0:25:34.54,0:25:38.79,辉英,,0,0,0,,laying alone side another six, seven feet of engine out here.
-Dialogue: 1,0:25:39.14,0:25:43.31,辉中,,0,0,0,,两部分的喷管 是由高强度不锈钢制造的
-Dialogue: 2,0:25:39.14,0:25:43.31,辉英,,0,0,0,,The two nozzle extension, well, it's made out of high strength stainless.
+Dialogue: 2,0:25:34.54,0:25:38.79,辉英,,0,0,0,,laying on its side, there's another six, seven feet of engine out here.
+Dialogue: 1,0:25:39.14,0:25:43.31,辉中,,0,0,0,,延伸段的喷管 是由高强度不锈钢制造的
+Dialogue: 2,0:25:39.14,0:25:43.31,辉英,,0,0,0,,That's a nozzle nozzle extension, well, it's made out of high strength stainless.
 Dialogue: 1,0:25:44.04,0:25:49.64,辉中,,0,0,0,,工程师们取富燃燃烧的涡轮泵的废气
 Dialogue: 2,0:25:44.04,0:25:49.64,辉英,,0,0,0,,And what they actually do is they take the turbine, exhaust the turbine now running a fuel rich mixture.
 Dialogue: 1,0:25:49.95,0:25:53.00,辉中,,0,0,0,,因为是富燃燃烧 所以废气只有1200度左右
@@ -950,9 +949,9 @@ Dialogue: 2,0:25:49.95,0:25:53.00,辉英,,0,0,0,,So its exhaust temperature is o
 Dialogue: 1,0:25:53.52,0:25:57.62,辉中,,0,0,0,,把废气的排气管围在这一圈
 Dialogue: 2,0:25:53.52,0:25:57.62,辉英,,0,0,0,,So by capturing that exhaust and routing it around here
 Dialogue: 1,0:25:57.96,0:26:01.30,辉中,,0,0,0,,对着延伸段的内壁排放废气
-Dialogue: 2,0:25:57.96,0:26:01.30,辉英,,0,0,0,,and then injecting an end to the walls of this nozzle extension
+Dialogue: 2,0:25:57.96,0:26:01.30,辉英,,0,0,0,,and then injecting it into the walls of this nozzle extension
 Dialogue: 1,0:26:01.64,0:26:04.76,辉中,,0,0,0,,这一圈管子内壁有小孔
-Dialogue: 2,0:26:01.64,0:26:04.76,辉英,,0,0,0,,and then having little openings around the interior, the extension,
+Dialogue: 2,0:26:01.64,0:26:04.76,辉英,,0,0,0,,and then having little openings around the interior of the extension,
 Dialogue: 1,0:26:05.10,0:26:10.36,辉中,,0,0,0,,延伸段内壁的一层涡轮泵废气就是冷却延伸段的方法
 Dialogue: 2,0:26:05.10,0:26:10.36,辉英,,0,0,0,,the flow of that exhaust in the walls is how you're cooling the nozzle extension.
 Dialogue: 1,0:26:10.92,0:26:13.32,辉中,,0,0,0,,800度的《冷却》 可能有点抽象
@@ -965,17 +964,17 @@ Dialogue: 1,0:26:21.57,0:26:26.68,辉中,,0,0,0,,还会朝喷的方向额外得�
 Dialogue: 2,0:26:21.57,0:26:26.68,辉英,,0,0,0,,and that way you're extra thrust you're getting out of that is put in the direction you're going.
 Dialogue: 1,0:26:27.47,0:26:31.34,辉 下注,,0,0,0,,约8.2-9.1吨
 Dialogue: 1,0:26:27.47,0:26:31.34,辉中,,0,0,0,,产生大约18-20千磅的推力
-Dialogue: 2,0:26:27.47,0:26:31.34,辉英,,0,0,0,,That thing will produce about 18 to 20000 pounds of thrust.
+Dialogue: 2,0:26:27.47,0:26:31.34,辉英,,0,0,0,,That thing will produce about 18000 to 20000 pounds of thrust.
 Dialogue: 1,0:26:31.34,0:26:35.51,辉中,,0,0,0,,如果往一侧排 还得费劲想办法平衡它
-Dialogue: 2,0:26:31.34,0:26:35.51,辉英,,0,0,0,,So if you squirted it out to the side, you forever be correcting with this.
+Dialogue: 2,0:26:31.34,0:26:35.51,辉英,,0,0,0,,So if you squirted it out to the side, you forever be correcting with another.
 Dialogue: 1,0:26:35.51,0:26:37.64,辉中,,0,0,0,,冷却段是这18千磅推力吗?
-Dialogue: 2,0:26:35.51,0:26:37.64,辉英,,0,0,0,,The cooling section is 18,000 pounds?
+Dialogue: 2,0:26:35.51,0:26:37.64,辉英,,0,0,0,,Just the cooling section is 18,000 pounds?
 Dialogue: 1,0:26:37.64,0:26:41.30,辉中,,0,0,0,,就是涡轮的废气
 Dialogue: 2,0:26:37.64,0:26:41.30,辉英,,0,0,0,,Just the well, the exhaust from the turbine.
 Dialogue: 1,0:26:41.30,0:26:43.17,辉中,,0,0,0,,所以不然还得控制怎么排
 Dialogue: 2,0:26:41.30,0:26:43.17,辉英,,0,0,0,,So you have to control where.
 Dialogue: 1,0:26:43.17,0:26:46.52,辉中,,0,0,0,,我们直接就送进喷管里了
-Dialogue: 2,0:26:43.17,0:26:46.52,辉英,,0,0,0,,Your drive goes directed into the thrust chamber.
+Dialogue: 2,0:26:43.17,0:26:46.52,辉英,,0,0,0,,Your direct it into the thrust chamber.
 Dialogue: 1,0:26:46.52,0:26:48.86,辉中,,0,0,0,,这样排的方向刚好和飞行方向对上了
 Dialogue: 2,0:26:46.52,0:26:48.86,辉英,,0,0,0,,So it's going in the direction you're going.
 Dialogue: 1,0:26:48.86,0:26:49.98,辉中,,0,0,0,,OK
@@ -1036,7 +1035,7 @@ Dialogue: 2,0:28:24.57,0:28:28.17,辉英,,0,0,0,,The astronauts after that, occa
 Dialogue: 1,0:28:28.17,0:28:32.38,辉中,,0,0,0,,他们正说话呢 突然一句"准备好要脱轨了" 说的就是火箭分离
 Dialogue: 2,0:28:28.17,0:28:32.38,辉英,,0,0,0,,you hear them talking, okay, here comes the train wreck, you know, and that's the separation
 Dialogue: 1,0:28:32.38,0:28:35.08,辉中,,0,0,0,,因为的确动静不小
-Dialogue: 2,0:28:32.38,0:28:35.08,辉英,,0,0,0,,because it bit it rattling around pretty good.
+Dialogue: 2,0:28:32.38,0:28:35.08,辉英,,0,0,0,,because it bit it rattled them around pretty good.
 Dialogue: 1,0:28:35.08,0:28:36.72,辉中,,0,0,0,,真的? 是因为瞬间的加速度吗?
 Dialogue: 2,0:28:35.08,0:28:36.72,辉英,,0,0,0,,Really? And it was the acceleration?
 Dialogue: 1,0:28:36.72,0:28:42.42,辉中,,0,0,0,,就是突然间分离 分离面火工品各种咣咣咣
@@ -1058,7 +1057,7 @@ Dialogue: 2,0:29:01.18,0:29:03.17,辉英,,0,0,0,,MECO Main engine cutoff.
 Dialogue: 1,0:29:03.96,0:29:06.71,辉中,,0,0,0,,火箭发动机底部有四个小翼
 Dialogue: 2,0:29:03.96,0:29:06.71,辉英,,0,0,0,,And then there are four fins on the base.
 Dialogue: 1,0:29:07.20,0:29:11.25,辉中,,0,0,0,,小翼下面有整流罩 保护发动机在大气中摆动时不被大风吹到
-Dialogue: 2,0:29:07.20,0:29:11.25,辉英,,0,0,0,,Those fairing that flares out so that your engine, when you can gimlet
+Dialogue: 2,0:29:07.20,0:29:11.25,辉英,,0,0,0,,There's a fairing that flares out so that your engine, when you can gimbal it
 Dialogue: 1,0:29:11.25,0:29:16.52,辉中,,0,0,0,,小翼下面有整流罩 保护发动机在大气中摆动时不被大风吹到
 Dialogue: 2,0:29:11.25,0:29:16.52,辉英,,0,0,0,,without the atmosphere streaking by and holding you, keep you from getting all right.
 Dialogue: 1,0:29:16.52,0:29:20.94,辉中,,0,0,0,,发动机整流罩上有小翼 一圈一共四个
@@ -1074,12 +1073,12 @@ Dialogue: 1,0:29:38.36,0:29:43.52,辉中,,0,0,0,,计算机一看 该关机了 �
 Dialogue: 2,0:29:38.36,0:29:43.52,辉英,,0,0,0,,So you computer says, all right, time to shut it down, main engine cut off,
 Dialogue: 1,0:29:43.52,0:29:49.97,辉中,,0,0,0,,火工品启动 把连接两边的张力带炸开
 Dialogue: 2,0:29:43.52,0:29:49.97,辉英,,0,0,0,,fires this ordnance this ordnance now separates the stages of strap together with tension straps
-Dialogue: 1,0:29:50.31,0:29:56.83,辉中,,0,0,0,,张力带内圈就是火工品 计算机下令炸开几组火工品
-Dialogue: 2,0:29:50.31,0:29:56.83,辉英,,0,0,0,,around the interior of those straps is the ordnance, computer fires the ordnance, several of these.
+Dialogue: 1,0:29:50.31,0:29:56.83,辉中,,0,0,0,,张力带内圈就是火工品 计算机下令炸开火工品
+Dialogue: 2,0:29:50.31,0:29:56.83,辉英,,0,0,0,,around the interior of those straps is the ordnance, computer fires the ordnance, severs these.
 Dialogue: 1,0:29:56.83,0:29:59.15,辉中,,0,0,0,,同时启动刚刚提到的反推火箭
-Dialogue: 2,0:29:56.83,0:29:59.15,辉英,,0,0,0,,Same time fires those retro rockets.
+Dialogue: 2,0:29:56.83,0:29:59.15,辉英,,0,0,0,,Same time fires those retro rockets,
 Dialogue: 1,0:29:59.15,0:30:02.48,辉中,,0,0,0,,让一级部分减速 不会让它倒车 只是稍稍减速
-Dialogue: 2,0:29:59.15,0:30:02.48,辉英,,0,0,0,,To slow this thing down, doesn't back it up, just slows it a little bit.
+Dialogue: 2,0:29:59.15,0:30:02.48,辉英,,0,0,0,,to slow this thing down, doesn't back it up, just slows it a little bit.
 Dialogue: 1,0:30:02.85,0:30:05.87,辉中,,0,0,0,,这里没有展示的级间段
 Dialogue: 2,0:30:02.85,0:30:05.87,辉英,,0,0,0,,This piece that is missing up here, the interstage,
 Dialogue: 1,0:30:06.09,0:30:09.03,辉中,,0,0,0,,一圈还有八个固体火箭
@@ -1087,7 +1086,7 @@ Dialogue: 2,0:30:06.09,0:30:09.03,辉英,,0,0,0,,there are eight more solid rock
 Dialogue: 1,0:30:09.24,0:30:15.52,辉中,,0,0,0,,它们也会同时点火 推动上面的二级
 Dialogue: 2,0:30:09.24,0:30:15.52,辉英,,0,0,0,,and they're fired at the same time to put thrust on the upper on the second stage
 Dialogue: 1,0:30:15.52,0:30:19.39,辉中,,0,0,0,,为二级燃料沉底 并启动二级发动机
-Dialogue: 2,0:30:15.52,0:30:19.39,辉英,,0,0,0,,to keep the propellant seeded in the tanks and get these engines started.
+Dialogue: 2,0:30:15.52,0:30:19.39,辉英,,0,0,0,,to keep the propellant seated in the tanks and get these engines started.
 Dialogue: 1,0:30:19.39,0:30:21.05,辉中,,0,0,0,,-因为液体会往前晃动  -没错
 Dialogue: 2,0:30:19.39,0:30:21.05,辉英,,0,0,0,,Because of slosh. That's right.
 Dialogue: 1,0:30:21.05,0:30:23.34,辉中,,0,0,0,,必须让燃料在箱体内沉底
@@ -1101,7 +1100,7 @@ Dialogue: 2,0:30:32.75,0:30:36.30,辉英,,0,0,0,,Once you get these engines goin
 Dialogue: 1,0:30:36.72,0:30:38.72,辉中,,0,0,0,,从而抛掉多余的重量
 Dialogue: 2,0:30:36.72,0:30:38.72,辉英,,0,0,0,,and that's to get rid of excess weight.
 Dialogue: 1,0:30:38.90,0:30:43.46,辉中,,0,0,0,,所以一二级分离里面说道还真不少 我捋一捋 您看我说得对不对
-Dialogue: 2,0:30:38.90,0:30:43.46,辉英,,0,0,0,,So there's a lot more going on inside separation. Okay, So check me here.
+Dialogue: 2,0:30:38.90,0:30:43.46,辉英,,0,0,0,,So there's a lot more going on inside separation. Okay, so check me here.
 Dialogue: 1,0:30:43.46,0:30:46.38,辉中,,0,0,0,,-首先一级发动机关机  -嗯
 Dialogue: 2,0:30:43.46,0:30:46.38,辉英,,0,0,0,,So engines cut off. Yeah.
 Dialogue: 1,0:30:46.38,0:30:49.65,辉中,,0,0,0,,-然后炸开级间段与一级的张力带  -嗯
@@ -1113,7 +1112,7 @@ Dialogue: 2,0:30:57.44,0:30:59.19,辉英,,0,0,0,,And then we have a kick right h
 Dialogue: 1,0:30:59.19,0:31:02.46,辉中,,0,0,0,,-上面这八个固推称为沉底发动机  -哦 OK
 Dialogue: 2,0:30:59.19,0:31:02.46,辉英,,0,0,0,,And we have these, these are called ullage rockets. Oh, okay.
 Dialogue: 1,0:31:02.46,0:31:07.05,辉中,,0,0,0,,轻轻推一下上面的部分 让燃料沉底
-Dialogue: 2,0:31:02.46,0:31:07.05,辉英,,0,0,0,,So we have a loose forward a little bit. Yeah. We'll kick in a
+Dialogue: 2,0:31:02.46,0:31:07.05,辉英,,0,0,0,,So we have a push forward a little bit. Yeah. We'll kick in a …
 Dialogue: 1,0:31:07.05,0:31:11.42,辉中,,0,0,0,,沉底后 启动这些发动机
 Dialogue: 2,0:31:07.05,0:31:11.42,辉英,,0,0,0,,Tank fuel, propellant tanks and then start these engines.
 Dialogue: 1,0:31:11.42,0:31:15.24,辉 下注,,1800,0,0,,690吨
@@ -1128,9 +1127,9 @@ Dialogue: 2,0:31:23.30,0:31:27.90,辉英,,0,0,0,,Now, the difference is engine.
 Dialogue: 1,0:31:28.17,0:31:29.22,辉中,,0,0,0,,有点长 你想听吗?
 Dialogue: 2,0:31:28.17,0:31:29.22,辉英,,0,0,0,,You want to go there?
 Dialogue: 1,0:31:29.22,0:31:32.87,辉中,,0,0,0,,我啥都想听!
-Dialogue: 2,0:31:29.22,0:31:32.87,辉英,,0,0,0,,Do I want to go everywhere
+Dialogue: 2,0:31:29.22,0:31:32.87,辉英,,0,0,0,,Do it! I want to go everywhere
 Dialogue: 1,0:31:33.10,0:31:37.65,辉中,,0,0,0,,发动机有一个很重要的参数 叫"比冲"
-Dialogue: 2,0:31:33.10,0:31:37.65,辉英,,0,0,0,,You write these engine is by impulse, specific impulse.
+Dialogue: 2,0:31:33.10,0:31:37.65,辉英,,0,0,0,,The way you rate these engines is by impulse, specific impulse.
 Dialogue: 1,0:31:37.76,0:31:47.53,辉中,,0,0,0,,如果用发动机的推力 除以 推进剂的流量
 Dialogue: 2,0:31:37.76,0:31:47.53,辉英,,0,0,0,,If you take the amount of thrust you're getting and divide that by the flow rate of your propellant.
 Dialogue: 1,0:31:48.47,0:31:53.39,辉中,,0,0,0,,多少磅的推力 除以 每秒多少磅的推进剂流量
@@ -1140,7 +1139,7 @@ Dialogue: 2,0:31:53.39,0:31:56.30,辉英,,0,0,0,,If I take pounds, divide by pou
 Dialogue: 1,0:31:56.30,0:32:03.12,辉中,,0,0,0,,两个磅约掉了 单位就只留下一个"秒" 也就是比冲的单位
 Dialogue: 2,0:31:56.30,0:32:03.12,辉英,,0,0,0,,Do all that canceling stuff in ninth grade, algebra, whatever it was, you wound up with an answer in seconds.
 Dialogue: 1,0:32:03.50,0:32:09.52,辉中,,0,0,0,,比冲越高 发动机效率就越高
-Dialogue: 2,0:32:03.50,0:32:09.52,辉英,,0,0,0,,Okay, well, the more seconds you get, the more efficient you're in.
+Dialogue: 2,0:32:03.50,0:32:09.52,辉英,,0,0,0,,Okay, well, the more seconds you get, the more efficient your engine is.
 Dialogue: 1,0:32:10.35,0:32:17.35,辉中,,0,0,0,,一级的发动机 也就两百出头 我忘记具体多少了
 Dialogue: 0,0:32:10.35,0:32:19.74,辉注,,0,0,0,,F-1发动机海平面比冲263秒 真空比冲304秒
 Dialogue: 2,0:32:10.35,0:32:17.35,辉英,,0,0,0,,Well, first stage engine efficiencies is down 200, and I don't remember the exact number.
@@ -1245,9 +1244,9 @@ Dialogue: 1,0:34:56.93,0:34:59.28,辉中,,0,0,0,,那计算机是怎么连到…�
 Dialogue: 2,0:34:56.93,0:34:59.28,辉英,,0,0,0,,How do you connect the computer.
 Dialogue: 1,0:34:59.28,0:35:02.13,辉中,,0,0,0,,-有线缆一路连着 从头连到尾  -它们在哪?
 Dialogue: 2,0:34:59.28,0:35:02.13,辉英,,0,0,0,,Cables going down, all the way down. Where would they be?
-Dialogue: 1,0:35:03.77,0:35:09.32,辉中,,0,0,0,,分级的地方能看到
-Dialogue: 2,0:35:03.77,0:35:09.32,辉英,,0,0,0,,They would be in going between the stages and you will see them all here.
-Dialogue: 1,0:35:09.74,0:35:11.34,辉中,,0,0,0,,级间段上
+Dialogue: 1,0:35:03.77,0:35:09.32,辉中,,0,0,0,,分级的地方能看到 这里看不出来
+Dialogue: 2,0:35:03.77,0:35:09.32,辉英,,0,0,0,,They would be in going between the stages and you won't see them on here.
+Dialogue: 1,0:35:09.74,0:35:11.34,辉中,,0,0,0,,它们在级间段上
 Dialogue: 2,0:35:09.74,0:35:11.34,辉英,,0,0,0,,They are on the interstages.
 Dialogue: 1,0:35:11.34,0:35:13.79,辉中,,0,0,0,,上面还有分离插头
 Dialogue: 2,0:35:11.34,0:35:13.79,辉英,,0,0,0,,They have a they have disconnects.
@@ -1256,7 +1255,7 @@ Dialogue: 2,0:35:15.41,0:35:18.08,辉英,,0,0,0,,And then they have a backup gui
 Dialogue: 1,0:35:18.08,0:35:22.87,辉中,,0,0,0,,必须得把后面这玩意斩断 可不能晃荡根线还连着
 Dialogue: 2,0:35:18.08,0:35:22.87,辉英,,0,0,0,,Make sure that sucker's cut free, I don't want this like hanging on a cable.
 Dialogue: 1,0:35:22.87,0:35:24.77,辉中,,0,0,0,,-就像闸刀一样吗?  -咔嚓
-Dialogue: 2,0:35:22.87,0:35:24.77,辉英,,0,0,0,,So it's blade. You chooooop.
+Dialogue: 2,0:35:22.87,0:35:24.77,辉英,,0,0,0,,So it's blade. You "Chompf".
 Dialogue: 1,0:35:26.06,0:35:32.09,辉中,,0,0,0,,所以每一级都有独立的线缆与仪器舱连接
 Dialogue: 2,0:35:26.06,0:35:32.09,辉英,,0,0,0,,So and the stages are all connected through their independent lines from the instrument unit.
 Dialogue: 1,0:35:32.36,0:35:38.15,辉中,,0,0,0,,其实没那么多线 可能也就二三十根?
@@ -2241,8 +2240,8 @@ Dialogue: 1,1:05:15.98,1:05:20.88,辉中,,0,0,0,,结果我们错过了月球 偏
 Dialogue: 2,1:05:15.98,1:05:20.88,辉英,,0,0,0,,Well, turns out we missed the moon... several thousand miles.
 Dialogue: 1,1:05:21.87,1:05:24.83,辉中,,0,0,0,,最后它进入了一个非常非常高的绕地轨道
 Dialogue: 2,1:05:21.87,1:05:24.83,辉英,,0,0,0,,It goes into very, very high orbit about the earth,
-Dialogue: 1,1:05:25.49,1:05:30.48,辉 下注,,500,0,0,,1.13万x80万 公里
-Dialogue: 1,1:05:25.49,1:05:30.48,辉中,,0,0,0,,我记得大约是70000x50000英里吧
+Dialogue: 1,1:05:25.49,1:05:30.48,辉 下注,,500,0,0,,11.3万x80万公里
+Dialogue: 1,1:05:25.49,1:05:30.48,辉中,,0,0,0,,我记得大约是7万x50万英里吧
 Dialogue: 2,1:05:25.49,1:05:30.48,辉英,,0,0,0,,something like a 70,000 mile by maybe 500,000 miles something.
 Dialogue: 1,1:05:30.48,1:05:33.52,辉中,,0,0,0,,是个非常非常高的轨道
 Dialogue: 2,1:05:30.48,1:05:33.52,辉英,,0,0,0,,It's it's really very high orbit.
@@ -2930,7 +2929,7 @@ Dialogue: 2,1:26:54.84,1:26:58.37,辉英,,0,0,0,,So you guys were controlling th
 Dialogue: 1,1:26:58.37,1:27:02.68,辉中,,0,0,0,,-牛啊 是您控制的  -对
 Dialogue: 2,1:26:58.37,1:27:02.68,辉英,,0,0,0,,That's amazing, you could point it. Yeah. That's amazing.
 Dialogue: 1,1:27:02.78,1:27:05.42,辉中,,0,0,0,,我们之前提过箱间段吧
-Dialogue: 2,1:27:02.78,1:27:05.42,辉英,,0,0,0,,We were talking about that intertank.
+Dialogue: 2,1:27:02.78,1:27:05.42,辉英,,0,0,0,,We were talking about that inter-tank.
 Dialogue: 1,1:27:05.52,1:27:07.14,辉中,,0,0,0,,-嗯  -储箱共底部分
 Dialogue: 2,1:27:05.52,1:27:07.14,辉英,,0,0,0,,Yeah. The bulkhead.
 Dialogue: 1,1:27:07.15,1:27:09.56,辉中,,0,0,0,,这就是共底储箱中间的……
