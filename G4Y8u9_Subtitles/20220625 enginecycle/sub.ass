@@ -14,9 +14,9 @@ Video File: raw_with_subs.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 1218
-Active Line: 1234
-Video Position: 63809
+Scroll Position: 830
+Active Line: 834
+Video Position: 49074
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -375,8 +375,8 @@ Dialogue: 1,0:10:58.41,0:11:02.89,辉中,,0,0,0,,还有一个装有惰性气体�
 Dialogue: 2,0:10:58.41,0:11:02.89,辉英,,0,0,0,,there's a high pressure tank with an inert gas, usually helium or nitrogen,
 Dialogue: 1,0:11:02.89,0:11:07.41,辉中,,0,0,0,,而低压储箱内的燃料通常是肼
 Dialogue: 2,0:11:02.89,0:11:07.41,辉英,,0,0,0,,and a lower pressure tank with a propellant, often hydrazine.
-Dialogue: 1,0:11:07.41,0:11:08.42,辉中,,0,300,0,,想要启动发动机 只需打开通往发动机的阀门并维持燃料罐压力即可
-Dialogue: 2,0:11:07.41,0:11:08.42,辉英,,0,300,0,,When you want to run your engine,
+Dialogue: 1,0:11:07.41,0:11:08.52,辉中,,0,300,0,,想要启动发动机 只需打开通往发动机的阀门并维持燃料罐压力即可
+Dialogue: 2,0:11:07.41,0:11:08.52,辉英,,0,300,0,,When you want to run your engine,
 Dialogue: 1,0:11:08.52,0:11:13.30,辉中,,0,300,0,,想要启动发动机 只需打开通往发动机的阀门并维持燃料罐压力即可
 Dialogue: 2,0:11:08.52,0:11:13.30,辉英,,0,300,0,,you just simply open the main valve to the engine and maintain pressure in your propellant tank
 Dialogue: 1,0:11:13.30,0:11:18.94,辉中,,0,400,0,,期间需要调节加压罐与燃料罐之间的阀门 也叫压力调节器
@@ -523,7 +523,7 @@ Dialogue: 1,0:15:55.90,0:16:00.73,辉中,,0,0,0,,因为整体性能有限 火箭
 Dialogue: 2,0:15:55.90,0:16:00.73,辉英,,0,0,0,,it's considered basically impossible due to its limited overall performance.
 Dialogue: 1,0:16:00.73,0:16:03.69,辉中,,0,0,0,,但有一家公司找到了解决办法 那就是萤火虫公司
 Dialogue: 2,0:16:00.73,0:16:03.69,辉英,,0,0,0,,But one company did have a solution, that was Firefly.
-Dialogue: 1,0:16:03.69,0:16:07.37,辉中,,0,0,0,,他们的阿尔法火箭设计上使用的是塞式发动机
+Dialogue: 1,0:16:03.69,0:16:07.37,辉中,,0,0,0,,他们的Alpha火箭设计上使用的是塞式发动机
 Dialogue: 2,0:16:03.69,0:16:07.37,辉英,,0,0,0,,Their original Alpha design was going to utilize an aerospike engine
 Dialogue: 1,0:16:07.37,0:16:10.89,辉中,,0,0,0,,用来克服挤压循环系统的种种限制
 Dialogue: 2,0:16:07.37,0:16:10.89,辉英,,0,0,0,,to overcome some of the limitations of a pressure fed system.
@@ -830,7 +830,7 @@ Dialogue: 1,0:26:11.85,0:26:13.37,辉中,,0,1800,0,,我们显然不希望如此
 Dialogue: 2,0:26:11.85,0:26:13.37,辉英,,0,1800,0,,And of course that's not good.
 Dialogue: 1,0:26:13.37,0:26:16.63,辉中,,0,0,0,,但如果你用的是煤油等碳基燃料
 Dialogue: 2,0:26:13.37,0:26:16.63,辉英,,0,0,0,,But also if you're using RP-1 or any other carbon based fuel,
-Dialogue: 1,0:26:16.63,0:26:21.56,辉中,,0,0,0,,充满煤烟的废气对喷注器和再生通道等一切都是毁灭性的
+Dialogue: 1,0:26:16.63,0:26:21.56,辉中,,0,0,0,,充满煤烟的废气对喷注器和再生冷却通道等一切都是毁灭性的
 Dialogue: 2,0:26:16.63,0:26:21.56,辉英,,0,0,0,,that sooty exhaust is terrible for injectors and regen channels and all sorts of things.
 Dialogue: 1,0:26:21.56,0:26:25.88,辉中,,0,0,0,,发动机很可能会在一瞬间熄火报废
 Dialogue: 2,0:26:21.56,0:26:25.88,辉英,,0,0,0,,So you'd likely clog your engine up, and it would cease to function in a hurry.
@@ -861,9 +861,9 @@ Dialogue: 2,0:27:05.31,0:27:07.91,辉英,,0,0,0,,since it was the first closed c
 Dialogue: 1,0:27:07.91,0:27:12.29,辉中,,0,0,0,,看过我的《苏联火箭发动机历史大全》的朋友可能有印象
 Dialogue: 2,0:27:07.91,0:27:12.29,辉注,,0,0,0,,av294439869\N感谢@天外飞舰
 Dialogue: 2,0:27:07.91,0:27:12.29,辉英,,0,0,0,,as those of you who watched my "Complete guide to Soviet rocket engine history" would know.
-Dialogue: 1,0:27:12.29,0:27:17.41,辉中,,0,0,0,,苏联工程师早在1950年研发的S1.5400发动机就拿下了富氧分级燃烧
+Dialogue: 1,0:27:12.29,0:27:17.41,辉中,,0,0,0,,苏联工程师早在50年代末研发的S1.5400发动机就拿下了富氧分级燃烧
 Dialogue: 2,0:27:12.29,0:27:17.41,辉英,,0,0,0,,Soviet engineers were able to overcome the challenges of oxidizer rich stage combustion
-Dialogue: 1,0:27:17.41,0:27:22.82,辉中,,0,0,0,,苏联工程师早在五十年代研发的S1.5400发动机就拿下了富氧分级燃烧
+Dialogue: 1,0:27:17.41,0:27:22.82,辉中,,0,0,0,,苏联工程师早在50年代末研发的S1.5400发动机就拿下了富氧分级燃烧
 Dialogue: 2,0:27:17.41,0:27:22.82,辉英,,0,0,0,,in the late 1950s, already with the S1.5400.
 Dialogue: 1,0:27:22.82,0:27:26.15,辉中,,0,0,0,,苏联选择了富氧分级燃烧
 Dialogue: 2,0:27:22.82,0:27:26.15,辉英,,0,0,0,,The Soviets chose to go with the oxygen-rich stage combustion cycle
@@ -1096,16 +1096,16 @@ Dialogue: 2,0:34:54.04,0:34:56.68,辉英,,0,0,0,,developed for an upgraded N1 va
 Dialogue: 1,0:34:56.68,0:35:01.40,辉中,,0,0,0,,他们还有RD-0120发动机 用于能源号火箭的芯级
 Dialogue: 2,0:34:56.68,0:35:01.40,辉英,,0,0,0,,They also made the RD-0120, which was at the heart of the Energia rocket.
 Dialogue: 1,0:35:01.40,0:35:06.96,辉中,,0,0,0,,是苏联发射过的推力最大的单燃烧室火箭发动机
-Dialogue: 2,0:35:01.40,0:35:06.96,辉英,,0,0,0,,It's the most powerful single chambered rocket engine the Soviet union ever flew.
+Dialogue: 2,0:35:01.40,0:35:06.96,辉英,,0,0,0,,It's the most powerful single chambered rocket engine the Soviet Union ever flew.
 Dialogue: 1,0:35:06.96,0:35:12.38,辉中,,0,0,0,,因此 富燃分级燃烧循环在泵的复杂度上做出妥协
 Dialogue: 2,0:35:06.96,0:35:12.38,辉英,,0,0,0,,So the fuel rich stage combustion cycle trades one bit of complexity for the other,
 Dialogue: 1,0:35:12.38,0:35:17.77,辉中,,0,0,0,,但即使这样 还有一种发动机结合了两种循环的优劣
 Dialogue: 2,0:35:12.38,0:35:17.77,辉英,,0,0,0,,but even so there's still one cycle type that combines many of the pros and cons of both cycle types
 Dialogue: 1,0:35:17.77,0:35:20.27,辉中,,0,0,0,,造就了发动机的终级复杂的形态
 Dialogue: 2,0:35:17.77,0:35:20.27,辉英,,0,0,0,,to form one ultimate and confusing engine,
-Dialogue: 1,0:35:20.27,0:35:23.64,辉中,,0,0,0,,但即使再复杂 它的优点 也值得那些艺高人胆大的工程师去冒这个险
+Dialogue: 1,0:35:20.27,0:35:23.64,辉中,,0,0,0,,但即使再复杂 它的优点 也令无数艺高人胆大的工程师去挑战
 Dialogue: 2,0:35:20.27,0:35:23.64,辉英,,0,0,0,,but one pro makes it worth pursuing,
-Dialogue: 1,0:35:23.64,0:35:27.07,辉中,,0,0,0,,但即使再复杂 它的优点 也值得那些艺高人胆大的工程师去冒这个险
+Dialogue: 1,0:35:23.64,0:35:27.07,辉中,,0,0,0,,但即使再复杂 它的优点 也令无数艺高人胆大的工程师去挑战
 Dialogue: 2,0:35:23.64,0:35:27.07,辉英,,0,0,0,,but only for those daring enough to try.
 Dialogue: 1,0:35:29.07,0:35:33.47,辉中,,0,0,0,,就你了 全流量分级燃烧循环发动机
 Dialogue: 2,0:35:29.07,0:35:33.47,辉英,,0,0,0,,Full flow staged combustion engines is exactly what it sounds like.
@@ -1484,6 +1484,7 @@ Dialogue: 1,0:47:33.87,0:47:36.60,辉中,,0,0,0,,燃料会吸收一部分热能
 Dialogue: 2,0:47:33.87,0:47:36.60,辉英,,0,0,0,,where it will absorb some of that heat energy.
 Dialogue: 1,0:47:36.60,0:47:39.28,辉中,,0,0,0,,有些燃料的吸热能力很强
 Dialogue: 2,0:47:36.60,0:47:39.28,辉英,,0,0,0,,Some fuels can take on heat better than others.
+Dialogue: 1,0:47:39.28,0:47:44.97,辉注,,0,0,0,,液氢的比热容 14.304 J/g K\N水的比热容 4.184 J/g K
 Dialogue: 1,0:47:39.28,0:47:44.97,辉中,,0,0,0,,这种情况下氢就是很好的选择 因为它的比热容很高
 Dialogue: 2,0:47:39.28,0:47:44.97,辉英,,0,0,0,,And in this sense, hydrogen is a very good fuel because of its heat capacity.
 Dialogue: 1,0:47:44.97,0:47:46.67,辉中,,0,0,0,,在其他发动机循环中
@@ -1691,7 +1692,7 @@ Dialogue: 1,0:54:19.62,0:54:23.60,辉中,,0,0,0,,因为我觉得 它们值得被
 Dialogue: 2,0:54:19.62,0:54:23.60,辉英,,0,0,0,,because in my opinion, each of those deserves their own dedicated video.
 Dialogue: 1,0:54:23.60,0:54:28.04,辉中,,0,1200,390,,再次无比感谢我的赞助者们让这期视频\N这个频道成为可能
 Dialogue: 2,0:54:23.60,0:54:28.04,辉英,,0,1200,250,,As always, I owe a huge thank you to my\NPatreon supporters for helping make videos like this,
-Dialogue: 1,0:54:28.04,0:54:31.11,辉中,,0,1200,320,,再次无比感谢我的赞助者们让这期视频 这个频道成为可能
+Dialogue: 1,0:54:28.04,0:54:31.11,辉中,,0,1200,390,,再次无比感谢我的赞助者们让这期视频\N这个频道成为可能
 Dialogue: 2,0:54:28.04,0:54:31.11,辉英,,0,1200,250,,and everything else we do at Everyday Astronaut possible.
 Dialogue: 1,0:54:31.11,0:54:35.13,辉中-黑,,0,0,300,,如果你想加入我们独家Discord群 想看些限定直播
 Dialogue: 2,0:54:31.11,0:54:35.13,辉英-黑,,0,0,230,,If you want to gain access to our awesome Discord community or some extra live streams,
@@ -1699,7 +1700,7 @@ Dialogue: 1,0:54:35.13,0:54:37.37,辉中-黑,,0,0,300,,或者只是想看看幕�
 Dialogue: 2,0:54:35.13,0:54:37.37,辉英-黑,,0,0,230,,or just some fun behind the scenes content,
 Dialogue: 1,0:54:37.37,0:54:40.73,辉中-黑,,0,0,300,,欢迎去patreon.com/everydayastronaut赞助我
 Dialogue: 2,0:54:37.37,0:54:40.73,辉英-黑,,0,0,230,,head on over to {\i1}patreon.com/everydayastronaut{\i0}.
-Dialogue: 1,0:54:40.73,0:54:44.45,辉中,,0,0,300,,希望网上冲浪的还可以来我的网店看看
+Dialogue: 1,0:54:40.73,0:54:44.45,辉中,,0,0,300,,喜欢网上冲浪的还可以来我的网店看看
 Dialogue: 2,0:54:40.73,0:54:44.45,辉英,,0,0,230,,And while you're online, be sure and check out our awesome web store for things like this,
 Dialogue: 1,0:54:44.45,0:54:46.79,辉中,,0,0,300,,比如这件全流量分级燃烧循环帽衫
 Dialogue: 2,0:54:44.45,0:54:46.79,辉英,,0,0,230,,our full flow staged combustion cycle hoodie,

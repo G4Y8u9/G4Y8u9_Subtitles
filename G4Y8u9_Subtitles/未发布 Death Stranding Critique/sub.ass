@@ -15,10 +15,10 @@ Audio File: ../../../../../Video/给没组/DS/RAW.mkv
 Video File: ../../../../../Video/给没组/DS/RAW.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 1094
-Active Line: 1102
-Video Position: 121538
+Video Zoom Percent: 0.625000
+Scroll Position: 1109
+Active Line: 1122
+Video Position: 123829
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1134,26 +1134,27 @@ Dialogue: 0,1:07:25.55,1:07:28.17,辉中,,0,0,0,,最后都会被传送回去\Nyo
 Dialogue: 0,1:07:28.17,1:07:32.80,辉注,,0,0,0,,西西弗斯 希腊神话中的人物\N受到众神的惩罚 每天把大石头推上山顶
 Dialogue: 0,1:07:28.17,1:07:32.80,辉中,,0,0,0,,就好像西西弗斯的故事一样 确实挺酷的\NIt's basically the story of Sisyphus and it's actually pretty cool.
 Dialogue: 0,1:07:32.80,1:07:35.31,辉中,,0,0,0,,我第一次进来时还真挺喜欢的\NI really liked this when I first came to this area.
-Dialogue: 0,1:07:35.31,1:07:39.53,辉中,,0,0,0,,However after the first 10 minutes or so it starts to get pretty horrible.
-Dialogue: 0,1:07:39.53,1:07:43.34,辉中,,0,0,0,,Again is this just a poorly designed way of forcing the player
-Dialogue: 0,1:07:43.34,1:07:47.20,辉中,,0,0,0,,to sit through all of the credits rolling incredibly slowly?
-Dialogue: 0,1:07:47.20,1:07:51.67,辉中,,0,0,0,,Or, is this some sort of meta discussion of the purgatory
-Dialogue: 0,1:07:51.67,1:07:58.68,辉中,,0,0,0,,that we all experience when talking about post-credit scenes in games and move …
-Dialogue: 0,1:07:58.84,1:08:00.82,辉中,,0,0,0,,I don't kno … Point is Kojima Syndrome.
-Dialogue: 0,1:08:00.82,1:08:03.24,辉中,,0,0,0,,And every time you get transported back after a few minutes,
-Dialogue: 0,1:08:03.24,1:08:08.09,辉中,,0,0,0,,Amelie will show up and present a cut sequence where she offered some exposition.
-Dialogue: 0,1:08:08.09,1:08:12.28,辉中,,0,0,0,,Again, I'm glad that all of this is here and that it is expositive
-Dialogue: 0,1:08:12.28,1:08:16.83,辉中,,0,0,0,,and there are reasons that all of this stuff in this world take place.
-Dialogue: 0,1:08:16.83,1:08:19.77,辉中,,0,0,0,,But I think it could have been done much more efficiently.
-Dialogue: 0,1:08:19.77,1:08:23.06,辉中,,0,0,0,,Now before* all of this happened to end up talking with Amelie at length,
-Dialogue: 0,1:08:23.06,1:08:29.23,辉中,,0,0,0,,and there is what VICE referred to as "the gameplay mechanic of the year".
-Dialogue: 0,1:08:29.23,1:08:33.18,辉中,,0,0,0,,Thank You Ryan on Twitter for sending me this, I thought this was pretty funny.
-Dialogue: 0,1:08:33.18,1:08:36.01,辉中,,0,0,0,,Basically Amelie describes that she's going to end the world
-Dialogue: 0,1:08:36.01,1:08:41.66,辉中,,0,0,0,,and that you can stop her, or you can not, and let it happen.
-Dialogue: 0,1:08:41.66,1:08:43.98,辉中,,0,0,0,,Of course most players are gonna try to stop her,
-Dialogue: 0,1:08:43.98,1:08:46.41,辉中,,0,0,0,,but … I don't know. Let me know what you did below
-Dialogue: 0,1:08:46.41,1:08:51.76,辉中,,0,0,0,,Point is you have a gun, and you can choose to shoot her or you can run after her and hug her,
-Dialogue: 0,1:08:51.76,1:08:54.95,辉中,,0,0,0,,which is what VICE referred to as the mechanic of the year.
+Dialogue: 0,1:07:35.31,1:07:39.53,辉中,,0,0,0,,但玩了十来分钟后 就越发感觉这段做得真的很糟糕\NHowever after the first 10 minutes or so it starts to get pretty horrible.
+Dialogue: 0,1:07:39.53,1:07:42.53,辉中,,0,0,0,,同样 这到底是游戏设计上的失误\NAgain is this just a poorly designed way of
+Dialogue: 0,1:07:42.53,1:07:47.20,辉中,,0,0,0,,强迫玩家坐着慢慢看完又臭又长的制作组名单\Nforcing the player to sit through all of the credits rolling incredibly slowly?
+Dialogue: 0,1:07:47.20,1:07:50.38,辉中,,0,0,0,,还是说这是某种元讨论\NOr, is this some sort of meta discussion of
+Dialogue: 0,1:07:50.38,1:07:58.68,辉中,,0,0,0,,关于我们在游戏中都会遇到的那种彩蛋……\Nthe purgatory that we all experience when talking about post-credit scenes in games and move …
+Dialogue: 0,1:07:58.68,1:08:00.82,辉中,,0,0,0,,我编不下去了 反正就是小岛秀夫综合征\NI don't kno … Point is Kojima Syndrome.
+Dialogue: 0,1:08:00.82,1:08:03.24,辉中,,0,0,0,,而每当你在几分钟后被传送回来时\NAnd every time you get transported back after a few minutes,
+Dialogue: 0,1:08:03.24,1:08:08.09,辉中,,0,0,0,,亚美莉就会出现 放一小段动画 做出一些解释\NAmelie will show up and present a cut sequence where she offered some exposition.
+Dialogue: 0,1:08:08.09,1:08:12.28,辉中,,0,0,0,,同样 我很高兴所有这些说明性的内容都展示了出来\NAgain, I'm glad that all of this is here and that it is expositive
+Dialogue: 0,1:08:12.28,1:08:16.83,辉中,,0,0,0,,游戏世界里发生的一切也都有其背后的原因\Nand there are reasons that all of this stuff in this world take place.
+Dialogue: 0,1:08:16.83,1:08:19.77,辉中,,0,0,0,,但我认为这一切或许有更高效的表现手法\NBut I think it could have been done much more efficiently.
+Dialogue: 0,1:08:19.77,1:08:23.06,辉中,,0,0,0,,直到最后我与亚美莉的长对话的发生之前\NNow before* all of this happened to end up talking with Amelie at length,
+Dialogue: 0,1:08:23.06,1:08:29.23,辉注,,0,0,0,,VICE 北美杂志 专注国际艺术 文化和新闻方面主题\N截图内文章认为山姆上前拥抱亚美莉的互动内容(按R2拥抱)\N是"年度最佳游戏机制"
+Dialogue: 0,1:08:23.06,1:08:29.23,辉中,,0,0,0,,这里也是VICE杂志认为的"年度最佳游戏机制"\Nand there is what VICE referred to as "the gameplay mechanic of the year".
+Dialogue: 0,1:08:29.23,1:08:33.18,辉中,,0,0,0,,感谢推特上的Ryan告诉我这件事 我觉得挺逗的\NThank You Ryan on Twitter for sending me this, I thought this was pretty funny.
+Dialogue: 0,1:08:33.18,1:08:36.01,辉中,,0,0,0,,这段大致上就是亚美莉说她要毁灭世界\NBasically Amelie describes that she's going to end the world
+Dialogue: 0,1:08:36.01,1:08:41.66,辉中,,0,0,0,,你能阻止她 或者不去阻止 放任不管\Nand that you can stop her, or you can not, and let it happen.
+Dialogue: 0,1:08:41.66,1:08:43.98,辉中,,0,0,0,,很多玩家当然会选择上去阻止她\NOf course most players are gonna try to stop her,
+Dialogue: 0,1:08:43.98,1:08:46.41,辉中,,0,0,0,,呃……我也不好说 欢迎大家交流自己的选择\Nbut … I don't know. Let me know what you did below
+Dialogue: 0,1:08:46.41,1:08:51.76,辉中,,0,0,0,,重点是 你手里有一把枪 你可以选择向她开枪 也可以上去给她个拥抱\NPoint is you have a gun, and you can choose to shoot her or you can run after her and hug her,
+Dialogue: 0,1:08:51.76,1:08:54.95,辉中,,0,0,0,,也因此VICE杂志将这段评价为"年度最佳游戏机制"\Nwhich is what VICE referred to as the mechanic of the year.
 Dialogue: 0,1:08:54.95,1:08:57.67,辉中,,0,0,0,,Now she gives a bunch of forewarning and she says
 Dialogue: 0,1:08:57.67,1:09:01.70,辉中,,0,0,0,,that you should have known how this was going to play out and you know what to do,
 Dialogue: 0,1:09:01.70,1:09:04.14,辉中,,0,0,0,,because it's the entire point of your journey.
