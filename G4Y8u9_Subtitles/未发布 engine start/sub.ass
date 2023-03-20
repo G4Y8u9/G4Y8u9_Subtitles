@@ -13,10 +13,10 @@ Audio File: raw.mp4
 Video File: raw.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.200000
-Scroll Position: 307
-Active Line: 313
-Video Position: 37590
+Video Zoom Percent: 0.325000
+Scroll Position: 611
+Active Line: 618
+Video Position: 73971
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -48,7 +48,7 @@ Dialogue: 0,0:00:57.66,0:01:03.08,中,,0,0,0,,因此 我们今天将要深入探
 Dialogue: 0,0:01:03.15,0:01:06.77,中,,0,0,0,,尽量讲得全一点 从简单的固体火箭发动机\NWe'll cover pretty much everything from a simple solid rocket motor
 Dialogue: 0,0:01:06.77,0:01:10.35,中,,0,0,0,,到错综复杂的液体火箭发动机\Nto all of the intricacies of liquid fueled rocket engines,
 Dialogue: 0,0:01:10.35,0:01:13.47,中,,0,0,0,,内容涵盖发动机热环境管理 起转\Nincluding thermally conditioning the engine, the spin up process,
-Dialogue: 0,0:01:13.47,0:01:17.97,中,,0,0,0,,惊心动魄的过渡期 和燃料的点火方式\Nthe scary transient regions, and the actual ignition of the propellants.
+Dialogue: 0,0:01:13.47,0:01:17.97,中,,0,0,0,,惊心动魄的瞬态过程 和燃料的点火方式\Nthe scary transient regions, and the actual ignition of the propellants.
 Dialogue: 0,0:01:18.12,0:01:22.56,中,,0,0,0,,还会探讨其他难点 比如如何在太空启动发动机\NThen we'll talk about some of the extra challenges like starting a rocket engine in space,
 Dialogue: 0,0:01:22.56,0:01:25.02,中,,0,0,0,,然后我们将一步一步探索\Nand then we're going to actually go step by step
 Dialogue: 0,0:01:25.02,0:01:27.96,中,,0,0,0,,一台发动机启动时内部的情况\Ninside a rocket engine during its startup.
@@ -113,7 +113,7 @@ Dialogue: 0,0:04:56.50,0:05:02.25,中,,0,0,0,,小炸药音引爆中型炸药 然
 Dialogue: 0,0:05:02.25,0:05:06.55,中,,0,0,0,,就像我刚说的 基本就是在固推顶部引燃了一个炸弹\NLike I said, it's basically more or less a bomb that's lit at the top of the booster or
 Dialogue: 0,0:05:06.55,0:05:10.71,中,,0,0,0,,或者说是固推前段启动了点火程序\Notherwise known as the forward segment that starts the ignition process.
 Dialogue: 0,0:05:10.71,0:05:15.22,中,,0,0,0,,整体而言 就是这么简单\NIt's really just about that easy. That's kind of their whole point.
-Dialogue: 0,0:05:15.34,0:05:19.90,中,,0,0,0,,点火流程简便 结构简单 非常可靠\NThey're super simple and because of their easy ignition process, they're very reliable,
+Dialogue: 0,0:05:15.34,0:05:19.90,中,,0,0,0,,点火程序简便 结构简单 非常可靠\NThey're super simple and because of their easy ignition process, they're very reliable,
 Dialogue: 0,0:05:19.90,0:05:23.74,中,,0,0,0,,当然缺点也很明显 就是点火后无法关机\Nbut they definitely have limitations such as not being able to be shut down,
 Dialogue: 0,0:05:23.74,0:05:27.80,中,,0,0,0,,固推的效率也不如液体火箭发动机高\Nand they aren't nearly as high performing as a liquid fueled rocket engine.
 Dialogue: 0,0:05:27.80,0:05:32.89,中,,0,0,0,,但液体火箭发动机的启动可远没有这么简单\NBut starting a liquid fueled rocket engine is just not anywhere near that easy.
@@ -155,7 +155,7 @@ Dialogue: 0,0:07:54.06,0:07:55.71,中,,0,0,0,,一级发动机冷却开始\NStage
 Dialogue: 0,0:07:56.30,0:07:59.75,中,,0,0,0,,好的 我们已经听到"一级发动机冷却开始"的口令了\NAll right, there's that call that "Stage one engine chill has started".
 Dialogue: 0,0:07:59.75,0:08:02.90,中,,0,0,0,,当发动机的吹除作业完成后\NOkay, so once the engine has been purged of moisture,
 Dialogue: 0,0:08:03.05,0:08:07.86,中,,0,0,0,,我们就可以开始使用低温燃料调控发动机的热环境了\Nwe can start to actually thermally condition the engine with the cryogenic propellants.
-Dialogue: 0,0:08:07.86,0:08:11.14,中,,0,0,0,,这一流程首先开启一个叫"预阀"的阀门\NThis process involves opening what's known as a pre-valve,
+Dialogue: 0,0:08:07.86,0:08:11.14,中,,0,0,0,,这一流程首先开启一个叫"预阀"的阀门\NThis process involves opening what's known as a prevalve,
 Dialogue: 0,0:08:11.14,0:08:14.48,中,,0,0,0,,它是连接发动机与燃料箱的大阀门\Nwhich is the big valve that connects the engines to the propellant tanks.
 Dialogue: 0,0:08:14.48,0:08:18.10,中,,0,0,0,,推进剂随后填充泵 一路流到主阀\NThe propellant will fill the pumps and fill all the way down to the main valves,
 Dialogue: 0,0:08:18.10,0:08:22.38,中,,0,0,0,,主阀通常是燃料或氧化剂的一个或多个阀门\Nwhich is usually one or a number of valves for fuel and oxidizer.
@@ -174,7 +174,7 @@ Dialogue: 0,0:09:10.06,0:09:13.44,中,,0,0,0,,要么以可控的方式排出\Nor
 Dialogue: 0,0:09:13.44,0:09:17.21,中,,0,0,0,,比如使用火炬排放可以防止积累的可燃气体发生爆炸\Nwhere a flare can prevent a buildup from accidentally detonating.
 Dialogue: 0,0:09:17.47,0:09:23.10,中,,0,0,0,,因为如果随意将甲烷或氢气排放到大气中\NBecause if you just vent gaseous methane or hydrogen out into the atmosphere in an uncontrolled manner,
 Dialogue: 0,0:09:23.39,0:09:25.62,中,,0,0,0,,后果可能有一点点糟糕\Ndon't expect very good things to happen.
-Dialogue: 0,0:09:28.45,0:09:33.75,中,,0,0,0,,因此 在航天飞机 SLS Delta IV等火箭发射前会有这些火花\NThis is why you see those giant sparkler lit before Space Shuttle, SLS or Delta IV Heavy launches.
+Dialogue: 0,0:09:28.45,0:09:33.75,中,,0,0,0,,因此 在航天飞机 SLS 德尔塔-4等火箭发射前会有这些火花\NThis is why you see those giant sparkler lit before Space Shuttle, SLS or Delta IV Heavy launches.
 Dialogue: 0,0:09:33.96,0:09:37.44,中,,0,0,0,,它们不是给发动机本身点火的\NIt's not to light the actual engines and start combustion,
 Dialogue: 0,0:09:37.44,0:09:42.86,中,,0,0,0,,而是为了在主燃烧室点火前消耗掉启动过程中从发动机逸出的大量氢气\Nit's to burn off the gassiest hydrogen that will exit the engine during the startup process
 Dialogue: 0,0:09:42.86,0:09:45.33,中,,0,0,0,,而是为了在主燃烧室点火前消耗掉启动过程中从发动机逸出的大量氢气\Nbefore main combustion chamber ignition.
@@ -223,7 +223,7 @@ Dialogue: 0,0:12:19.19,0:12:22.47,中,,0,0,0,,因此 这些发动机并不需要
 Dialogue: 0,0:12:22.47,0:12:28.33,中,,0,0,0,,实际上 很多洲际导弹可以加满燃料放上好几年 随时待命\NIn fact, many intercontinental ballistic missiles can sit for years fueled up and ready to go,
 Dialogue: 0,0:12:28.33,0:12:30.95,中,,0,0,0,,并且可以在很短时间内发射\Nand can be fired within a moment's notice.
 Dialogue: 0,0:12:30.95,0:12:34.46,中,,0,0,0,,美国有过几款接触自燃燃料的入轨级火箭发动机\NThere've been a handful of US-based hypergolic orbital rocket engines
-Dialogue: 0,0:12:34.46,0:12:40.84,中,,0,0,0,,比如Titan II的LR-87发动机 Delta II上面级的AJ-10发动机\Nsuch as the LR-87 used on the Titan II or the AJ-10 on the Delta II's upper stage.
+Dialogue: 0,0:12:34.46,0:12:40.84,中,,0,0,0,,比如大力神2号的LR-87发动机 德尔塔-2上面级的AJ-10发动机\Nsuch as the LR-87 used on the Titan II or the AJ-10 on the Delta II's upper stage.
 Dialogue: 0,0:12:41.08,0:12:45.82,中,,0,0,0,,而苏联研发了一大堆毒发\NBut the Soviet Union developed a ton of hypergolic rocket engines.
 Dialogue: 0,0:12:45.82,0:12:50.32,中,,0,0,0,,看过我那期"苏联火箭发动机历史"视频的观众可能记得\NFor those of you who have watched my entire history of Soviet rocket engines video may know
 Dialogue: 0,0:12:50.32,0:12:57.52,中,,0,0,0,,苏联 尤其那位推进工程的传奇 瓦连京·格鲁什科 超级喜欢毒发\Nthe Soviets, well, specifically propulsion engineering legend, Валенти́н Глушко́, loved hypergolic rockets.
@@ -340,316 +340,314 @@ Dialogue: 0,0:20:22.36,0:20:27.36,中,,0,0,0,,启转所需的转速可以非常�
 Dialogue: 0,0:20:27.36,0:20:29.42,中,,0,0,0,,当然 理想情况是直接压头启动(自身启动)\NYeah, the dream would be to deadhead start it,
 Dialogue: 0,0:20:30.62,0:20:32.06,中,,0,0,0,,但我们暂时还没这么大胆\Nbut we haven't gotten that brave yet.
 Dialogue: 0,0:20:32.06,0:20:37.98,中,,0,0,0,,但自身启动明显是一个反馈环路 需要非常精准的控制才能达速\NBut bootstrapping is definitely a feedback loop that takes very precise control to get up to speed.
-Dialogue: 0,0:20:37.98,0:20:44.99,中,,0,0,0,,实际上 自身启动难度极大 因为发动机需要经历很长的"过渡阶段"\NIn fact, bootstrapping is extra difficult because the engine spends a lot of time in what's called a transient,
+Dialogue: 0,0:20:37.98,0:20:44.99,中,,0,0,0,,实际上 自身启动难度极大 因为发动机需要经历很长的"瞬态过程"\NIn fact, bootstrapping is extra difficult because the engine spends a lot of time in what's called a transient,
 Dialogue: 0,0:20:45.15,0:20:48.44,中,,0,0,0,,即发动机从静止到全功率运行的阶段\Nwhich is the time between being off and up to full power.
 Dialogue: 0,0:20:48.87,0:20:54.11,中,,0,0,0,,而这个阶段可能是火箭发动机启动中最困难最复杂的部分了\NAnd this is perhaps one of the most complicated and challenging pieces of this puzzle.
-Dialogue: 0,0:20:57.69,0:21:00.19,中,,0,0,0,,Transients are the in between moments.
-Dialogue: 0,0:21:00.19,0:21:05.14,中,,0,0,0,,So in between the engine being stationary and at full power and vice versa,
-Dialogue: 0,0:21:05.14,0:21:09.21,中,,0,0,0,,or even between throttle settings, the engine is actually in a transient state,
-Dialogue: 0,0:21:09.35,0:21:12.35,中,,0,0,0,,but once the engine is running and at a steady state,
-Dialogue: 0,0:21:12.55,0:21:14.78,中,,0,0,0,,it's relatively easy to keep running.
-Dialogue: 0,0:21:14.78,0:21:17.63,中,,0,0,0,,But why is the transient so hard?
-Dialogue: 0,0:21:17.63,0:21:21.20,中,,0,0,0,,Well, remember this whole chicken and egg scenario we had.
-Dialogue: 0,0:21:21.20,0:21:23.52,中,,0,0,0,,We're just getting the pumps up to speed.
-Dialogue: 0,0:21:23.76,0:21:29.89,中,,0,0,0,,How do the pumps run if they're powered by a gas generator that itself runs on the pumps?
-Dialogue: 0,0:21:29.92,0:21:32.59,中,,0,0,0,,While the biggest challenge with the whole startup process
-Dialogue: 0,0:21:32.59,0:21:35.21,中,,0,0,0,,is the fact that everything is intertwined
-Dialogue: 0,0:21:35.21,0:21:37.32,中,,0,0,0,,and a change anywhere in the system
-Dialogue: 0,0:21:37.32,0:21:42.34,中,,0,0,0,,will immediately have an effect upstream and downstream from the change.
-Dialogue: 0,0:21:42.34,0:21:45.92,中,,0,0,0,,So let's say you're trying to bootstrap an engine such as the RS-25.
-Dialogue: 0,0:21:46.11,0:21:51.62,中,,0,0,0,,Like we touched on earlier, the first thing you're going to do after you purge and thermally condition the engine
-Dialogue: 0,0:21:51.62,0:21:56.77,中,,0,0,0,,is you're going to introduce some liquid hydrogen into the pumps and the preburner.
-Dialogue: 0,0:21:56.77,0:22:00.15,中,,0,0,0,,On its way in, it will flash boil into a gas.
-Dialogue: 0,0:22:00.15,0:22:05.33,中,,0,0,0,,That gas expands and that expanding gas is what's going to start to blow through our turbine,
-Dialogue: 0,0:22:05.33,0:22:06.97,中,,0,0,0,,and get our pumps spinning up.
-Dialogue: 0,0:22:06.97,0:22:11.14,中,,0,0,0,,Stoke Space CEO, Andy Lapsa, explained this to me when I was standing with him
-Dialogue: 0,0:22:11.14,0:22:14.62,中,,0,0,0,,on their test stand with their incredible engine that bootstraps.
-Dialogue: 0,0:22:14.75,0:22:19.57,中,,0,0,0,,The start transient and to some extent also the shutdown transient are
-Dialogue: 0,0:22:19.57,0:22:22.70,中,,0,0,0,,some of the highest risk moments in a rocket engine, right?
-Dialogue: 0,0:22:22.70,0:22:25.58,中,,0,0,0,,And if you think about it, like our little engine,
-Dialogue: 0,0:22:25.70,0:22:32.47,中,,0,0,0,,a thousand HP in the pumps, bigger engines have tens of thousands of HP going through the pumps,
-Dialogue: 0,0:22:32.66,0:22:38.89,中,,0,0,0,,and they go from zero to full power in maybe a couple seconds, right?
-Dialogue: 0,0:22:39.04,0:22:43.40,中,,0,0,0,,So you've gotta control all those horses,
-Dialogue: 0,0:22:43.40,0:22:46.45,中,,0,0,0,,and make sure they're running in the right direction during that time.
-Dialogue: 0,0:22:46.45,0:22:52.61,中,,0,0,0,,So in early development is usually one of the higher risk activities for rocket engine.
-Dialogue: 0,0:22:52.61,0:22:57.42,中,,0,0,0,,Quick little side note, wow, this is honestly one of my favorite conversations,
-Dialogue: 0,0:22:57.42,0:23:00.42,中,,0,0,0,,and Andy Lapsa and his company, Stoke Aerospace,
-Dialogue: 0,0:23:00.42,0:23:04.54,中,,0,0,0,,is working on an absolutely incredible rocket.
-Dialogue: 0,0:23:04.54,0:23:09.13,中,,0,0,0,,Okay, but that boil off is spinning up the turbine, which spins the pumps,
-Dialogue: 0,0:23:09.13,0:23:12.28,中,,0,0,0,,so now the propellant is starting to flow a little faster.
-Dialogue: 0,0:23:12.58,0:23:16.31,中,,0,0,0,,As long as the pressure in the system continues flowing in this direction
-Dialogue: 0,0:23:16.31,0:23:19.26,中,,0,0,0,,during this transient region, you're golden.
-Dialogue: 0,0:23:19.46,0:23:23.38,中,,0,0,0,,The problem is there's often slight delays between action and reaction.
-Dialogue: 0,0:23:23.66,0:23:27.83,中,,0,0,0,,So it's almost like there's waves of pressure changes moving throughout the system,
-Dialogue: 0,0:23:27.99,0:23:30.11,中,,0,0,0,,and if those get too extreme,
-Dialogue: 0,0:23:30.11,0:23:33.32,中,,0,0,0,,the pressure gradient might actually start to flow backwards,
-Dialogue: 0,0:23:33.32,0:23:38.35,中,,0,0,0,,and you can stall out your startup sequence, or even worse, potentially blow up your engine.
-Dialogue: 0,0:23:38.35,0:23:40.21,中,,0,0,0,,Take a valve opening, for example,
-Dialogue: 0,0:23:40.21,0:23:44.89,中,,0,0,0,,as a valve opens and introduces say the oxygen into the preburners,
-Dialogue: 0,0:23:45.18,0:23:48.54,中,,0,0,0,,that too will have an effect on the pressure and the flow,
-Dialogue: 0,0:23:48.71,0:23:52.40,中,,0,0,0,,and then the preburner ignition will affect the pressure and the flow.
-Dialogue: 0,0:23:52.59,0:23:55.85,中,,0,0,0,,It's all just a constant back and forth feedback loop.
-Dialogue: 0,0:23:55.85,0:23:59.58,中,,0,0,0,,But now we've touched upon another piece of the puzzle: ignition.
-Dialogue: 0,0:23:59.82,0:24:03.44,中,,0,0,0,,We mentioned how the preburner will light under relatively low pressure,
-Dialogue: 0,0:24:03.54,0:24:08.77,中,,0,0,0,,but how does it actually light, what starts the ignition process?
-Dialogue: 0,0:24:12.23,0:24:17.28,中,,0,0,0,,Just because you combine your fuel and your oxidizer doesn't mean you're going to get combustion.
-Dialogue: 0,0:24:17.66,0:24:21.95,中,,0,0,0,,In fact, most repellants, to the dismay of rocket engineers,
-Dialogue: 0,0:24:22.17,0:24:25.68,中,,0,0,0,,will kind of happily coexist in the same space and
-Dialogue: 0,0:24:25.68,0:24:30.54,中,,0,0,0,,may even exit the system without unleashing their fiery goodness at all.
-Dialogue: 0,0:24:30.54,0:24:36.17,中,,0,0,0,,Or even worse, they may accidentally ignite at the wrong time or place, which is often catastrophic.
-Dialogue: 0,0:24:36.17,0:24:38.60,中,,0,0,0,,Perhaps you've heard the term hard start.
-Dialogue: 0,0:24:38.72,0:24:42.24,中,,0,0,0,,This is basically when the propellant combust at the wrong ratios
-Dialogue: 0,0:24:42.24,0:24:44.74,中,,0,0,0,,or perhaps at the wrong time or place.
-Dialogue: 0,0:24:44.74,0:24:48.23,中,,0,0,0,,The worst hard starts can severely over pressure the engine
-Dialogue: 0,0:24:48.23,0:24:54.86,中,,0,0,0,,or maybe overspin the turbines or cause an energetic detonation that can completely destroy the engine
-Dialogue: 0,0:24:54.86,0:24:59.66,中,,0,0,0,,and sometimes even the test stand and or the rocket that they're actually attached to.
-Dialogue: 0,0:24:59.98,0:25:03.70,中,,0,0,0,,So the timing and precision of ignition is vital.
-Dialogue: 0,0:25:03.70,0:25:05.58,中,,0,0,0,,Like most engines,
-Dialogue: 0,0:25:05.66,0:25:11.31,中,,0,0,0,,rocket engines typically require an external source of ignition to begin the combustion process.
-Dialogue: 0,0:25:11.31,0:25:16.28,中,,0,0,0,,But what if we just use propellants that don't need an ignition source at all?
-Dialogue: 0,0:25:16.28,0:25:17.93,中,,0,0,0,,Yes, you know, hypergolics,
-Dialogue: 0,0:25:17.93,0:25:21.60,中,,0,0,0,,we've already touched on them earlier and, and almost every video I've made,
-Dialogue: 0,0:25:21.73,0:25:26.46,中,,0,0,0,,but being able to spontaneously combust is one of their biggest advantages.
-Dialogue: 0,0:25:26.46,0:25:31.55,中,,0,0,0,,And the fact that they don't need any additional considerations to keep liquid at cryogenic temperature,
-Dialogue: 0,0:25:31.55,0:25:33.50,中,,0,0,0,,is just really a pure bonus.
-Dialogue: 0,0:25:33.50,0:25:34.46,中,,0,0,0,,I mean, don't get me wrong,
-Dialogue: 0,0:25:34.46,0:25:39.54,中,,0,0,0,,they're a total pain in the butt in other ways like being super toxic and carcinogenic,
-Dialogue: 0,0:25:39.54,0:25:42.94,中,,0,0,0,,but in the case of ignition and sheer reliability,
-Dialogue: 0,0:25:43.31,0:25:44.72,中,,0,0,0,,they're hard to beat.
-Dialogue: 0,0:25:44.72,0:25:48.94,中,,0,0,0,,Which is why they're so common for maneuvering thrusters and on orbit engines
-Dialogue: 0,0:25:48.94,0:25:53.90,中,,0,0,0,,where reliability and long duration missions matter, since they won't boil off.
-Dialogue: 0,0:25:53.90,0:25:55.80,中,,0,0,0,,But for LOx based propellants,
-Dialogue: 0,0:25:55.80,0:26:01.85,中,,0,0,0,,if you put your fuel and oxidizer in contact with each other, it likely won't lead to combustion.
-Dialogue: 0,0:26:02.03,0:26:06.36,中,,0,0,0,,If you took liquid methane and you poured it into a container of liquid oxygen,
-Dialogue: 0,0:26:06.86,0:26:09.08,中,,0,0,0,,don't really expect anything to happen.
-Dialogue: 0,0:26:09.08,0:26:12.54,中,,0,0,0,,Even if you swirled it around without a source of ignition,
-Dialogue: 0,0:26:12.71,0:26:15.92,中,,0,0,0,,the two will coexist surprisingly peacefully.
-Dialogue: 0,0:26:15.92,0:26:19.21,中,,0,0,0,,Even in gaseous form, this is true for the most part,
-Dialogue: 0,0:26:19.21,0:26:25.10,中,,0,0,0,,but as a gas, it's much more likely to ignite with just a small ignition source.
-Dialogue: 0,0:26:25.10,0:26:31.14,中,,0,0,0,,So non-hypergolic fuels and oxidizers not only need to be properly mixed for stable combustion,
-Dialogue: 0,0:26:31.30,0:26:36.06,中,,0,0,0,,they also need an ignition source to initiate the combustion process in the first place.
-Dialogue: 0,0:26:36.06,0:26:38.07,中,,0,0,0,,But once stable combustion has been achieved,
-Dialogue: 0,0:26:38.07,0:26:41.87,中,,0,0,0,,and assuming there's adequate and stable flow of your propellants,
-Dialogue: 0,0:26:42.05,0:26:47.22,中,,0,0,0,,the initial ignition process is no longer necessary, and it can actually be self-sustaining.
-Dialogue: 0,0:26:47.22,0:26:50.78,中,,0,0,0,,The combustion in the chamber acts as a continual source of ignition.
-Dialogue: 0,0:26:50.78,0:26:53.43,中,,0,0,0,,Okay, so we've actually got to light up our propellants.
-Dialogue: 0,0:26:53.58,0:26:57.26,中,,0,0,0,,Perhaps the simplest option outside of hypergolic propellants
-Dialogue: 0,0:26:57.26,0:27:03.65,中,,0,0,0,,is what the Soviet Union decided to do with the R7 and what Russia still uses today on the Soyuz,
-Dialogue: 0,0:27:03.90,0:27:07.53,中,,0,0,0,,which is basically just some giant matchsticks.
-Dialogue: 0,0:27:07.53,0:27:14.90,中,,0,0,0,,Yep, literally just some large braces with a pair of pyrotechnics that are put inside each combustion chamber
-Dialogue: 0,0:27:14.90,0:27:18.54,中,,0,0,0,,and are all lit prior to the propellants arriving in the combustion chamber.
-Dialogue: 0,0:27:18.54,0:27:23.70,中,,0,0,0,,Now, this is also possible because the gas generator on the RD-107 and RD-108
-Dialogue: 0,0:27:23.80,0:27:28.46,中,,0,0,0,,is basically just a monoprop thruster, so it doesn't need a separate source of ignition.
-Dialogue: 0,0:27:28.46,0:27:31.55,中,,0,0,0,,So you could, the main thing you really have to worry about on those engines
-Dialogue: 0,0:27:31.55,0:27:33.78,中,,0,0,0,,is actually igniting the main combustion chamber.
-Dialogue: 0,0:27:33.78,0:27:39.30,中,,0,0,0,,But it's not very elegant and it's probably not a great option once you're in space either.
-Dialogue: 0,0:27:39.30,0:27:46.05,中,,0,0,0,,So for that, we'll have to look into some other options that are capable of space starts and potentially restarts.
-Dialogue: 0,0:27:46.05,0:27:49.85,中,,0,0,0,,Perhaps one of the most common methods is to basically use a spark plug.
-Dialogue: 0,0:27:49.85,0:27:54.22,中,,0,0,0,,Okay, maybe not your off the shelf spark plug from a Ford Fiesta,
-Dialogue: 0,0:27:54.46,0:27:56.14,中,,0,0,0,,but the concept is the same,
-Dialogue: 0,0:27:56.22,0:27:59.58,中,,0,0,0,,take a high electrical voltage and have it jump a gap,
-Dialogue: 0,0:27:59.70,0:28:05.09,中,,0,0,0,,which provides the perfect opportunity to ignite the propellant with ionized electrical energy.
-Dialogue: 0,0:28:05.09,0:28:06.57,中,,0,0,0,,As you can probably imagine,
-Dialogue: 0,0:28:06.57,0:28:12.32,中,,0,0,0,,it does require a good amount of electrical energy to power a rocket engine size spark plug.
-Dialogue: 0,0:28:12.68,0:28:16.62,中,,0,0,0,,So rockets using this approach may need to carry heavy batteries,
-Dialogue: 0,0:28:16.62,0:28:21.42,中,,0,0,0,,or utilize ground support equipment to run current through the igniter at startup.
-Dialogue: 0,0:28:21.42,0:28:24.65,中,,0,0,0,,Another method is similar to a spark igniter,
-Dialogue: 0,0:28:24.65,0:28:29.01,中,,0,0,0,,actually, it's again similar to the automobile industry with diesel engines,
-Dialogue: 0,0:28:29.19,0:28:31.06,中,,0,0,0,,and that's using a glow plug.
-Dialogue: 0,0:28:31.30,0:28:35.05,中,,0,0,0,,Glow plugs also require a lot of electricity to convert to heat,
-Dialogue: 0,0:28:35.22,0:28:39.87,中,,0,0,0,,similar to an incandescent light bulb, an electrical heater coil, or a toaster.
-Dialogue: 0,0:28:39.87,0:28:43.05,中,,0,0,0,,There needs to be enough heat energy on the surface of the glow plug,
-Dialogue: 0,0:28:43.05,0:28:45.30,中,,0,0,0,,to initiate combustion of the propellants.
-Dialogue: 0,0:28:45.30,0:28:50.52,中,,0,0,0,,And again, once stable combustion has been achieved, the glow plug can just be turned off.
-Dialogue: 0,0:28:50.52,0:28:52.47,中,,0,0,0,,Another method is to use a laser.
-Dialogue: 0,0:28:52.68,0:28:58.02,中,,0,0,0,,Lasers can very precisely focus the beam of energy and tune it to excite the propellant molecules,
-Dialogue: 0,0:28:58.22,0:29:03.29,中,,0,0,0,,so it has the potential to be more efficient than other electrically driven devices.
-Dialogue: 0,0:29:03.29,0:29:04.73,中,,0,0,0,,Now, it's not very common yet,
-Dialogue: 0,0:29:04.73,0:29:08.82,中,,0,0,0,,although Airbus does have some variance of optical ignition for some of their boosters.
-Dialogue: 0,0:29:08.82,0:29:11.53,中,,0,0,0,,These methods are all great and commonplace,
-Dialogue: 0,0:29:11.53,0:29:14.94,中,,0,0,0,,but they all require massive amounts of electrical power,
-Dialogue: 0,0:29:15.08,0:29:19.08,中,,0,0,0,,which is likely stored in big and not so energy dense batteries.
-Dialogue: 0,0:29:19.27,0:29:24.45,中,,0,0,0,,So what if you actually could just use a chemical reaction to start the ignition process?
-Dialogue: 0,0:29:24.45,0:29:27.92,中,,0,0,0,,This is actually pretty common and extremely effective.
-Dialogue: 0,0:29:27.92,0:29:31.38,中,,0,0,0,,In fact, if you've ever seen a Falcon 9 or Heavy launch,
-Dialogue: 0,0:29:31.50,0:29:35.81,中,,0,0,0,,you may have noticed a green flash right at the beginning of ignition.
-Dialogue: 0,0:29:36.42,0:29:40.38,中,,0,0,0,,That, my friends, is the injection of a pyrophoric ignition fluid
-Dialogue: 0,0:29:40.38,0:29:43.78,中,,0,0,0,,coming in contact with oxygen to begin stable combustion.
-Dialogue: 0,0:29:43.78,0:29:45.96,中,,0,0,0,,Pyroforks are a type of hypergolic.
-Dialogue: 0,0:29:46.12,0:29:51.87,中,,0,0,0,,It's a fluid that will spontaneously and virtually instantaneously react with oxygen.
-Dialogue: 0,0:29:52.01,0:29:57.83,中,,0,0,0,,So just inject some pyrophoric fluids into the combustion chamber along with oxygen,
-Dialogue: 0,0:29:57.83,0:30:00.92,中,,0,0,0,,and ta-da, you've got yourself a flame.
-Dialogue: 0,0:30:00.92,0:30:06.21,中,,0,0,0,,SpaceX uses an ignition fluid called TEA-TEB or triethyl aluminum triethyl borine.
-Dialogue: 0,0:30:06.46,0:30:12.80,中,,0,0,0,,It's stored in their own canisters onboard the rocket and allows for multiple restarts of their Merlin engines.
-Dialogue: 0,0:30:12.80,0:30:16.24,中,,0,0,0,,Now, not every engine is connected to a TEA-TEB canister,
-Dialogue: 0,0:30:16.34,0:30:18.55,中,,0,0,0,,only the engines that would do a relight,
-Dialogue: 0,0:30:18.55,0:30:24.35,中,,0,0,0,,so 3 of the 9 Merlin engines on the booster and the vacuum Merlin engine on the upper stage.
-Dialogue: 0,0:30:24.35,0:30:28.98,中,,0,0,0,,But on the ground, the Falcon 9 and Falcon Heavy are lit using ground supplied TEA-TEB,
-Dialogue: 0,0:30:28.98,0:30:33.06,中,,0,0,0,,because why not keep those systems and their weight on the ground
-Dialogue: 0,0:30:33.06,0:30:35.96,中,,0,0,0,,if you don't need to carry that mass off the launch pad?
-Dialogue: 0,0:30:35.96,0:30:40.90,中,,0,0,0,,Now, SpaceX has taken a little bit of a hybrid approach to ignition with their new Raptor engine.
-Dialogue: 0,0:30:41.11,0:30:43.92,中,,0,0,0,,The Raptor engine uses what are called a torch igniters.
-Dialogue: 0,0:30:44.06,0:30:49.13,中,,0,0,0,,Torch igniters are basically just a fancy version of the lighters that you might use to light a candle.
-Dialogue: 0,0:30:49.30,0:30:54.46,中,,0,0,0,,You may or may not hear them called ASIs or Augmented Spark Igniters.
-Dialogue: 0,0:30:54.46,0:30:57.13,中,,0,0,0,,The ASI has its own little small spark ignition
-Dialogue: 0,0:30:57.13,0:31:00.76,中,,0,0,0,,and then its own supply of methylox that allows for the torch to burn.
-Dialogue: 0,0:31:00.76,0:31:06.56,中,,0,0,0,,So it in itself is almost like a little flame thrower that's initially lit with a spark ignition.
-Dialogue: 0,0:31:06.86,0:31:10.51,中,,0,0,0,,Then that torch remains lit through the rest of the startup sequence.
-Dialogue: 0,0:31:10.51,0:31:14.30,中,,0,0,0,,So it's kind of like the cascading effect of the solid rocket booster ignition,
-Dialogue: 0,0:31:14.30,0:31:19.40,中,,0,0,0,,this uses a smaller electrical ignition source to ignite a small baby flame thrower.
-Dialogue: 0,0:31:19.40,0:31:22.99,中,,0,0,0,,But surprisingly, this is only done on the preburners,
-Dialogue: 0,0:31:22.99,0:31:28.03,中,,0,0,0,,because believe it or not, the Raptor engine has no igniters in the main combustion chamber.
-Dialogue: 0,0:31:28.03,0:31:30.16,中,,0,0,0,,So you got torch igniters for the main chamber,
-Dialogue: 0,0:31:31.80,0:31:34.78,中,,0,0,0,,but Raptor 2 has no torch igniters in the main chamber.
-Dialogue: 0,0:31:34.78,0:31:37.05,中,,0,0,0,,So you can see it's much cleaner around the chamber area.
-Dialogue: 0,0:31:37.74,0:31:39.51,中,,0,0,0,,How do you... how does it light then?
-Dialogue: 0,0:31:41.23,0:31:43.09,中,,0,0,0,,Well, that's secret sauce!
-Dialogue: 0,0:31:43.92,0:31:49.30,中,,0,0,0,,Although Elon was tight-lipped about how exactly they get away with ignition in the main combustion chamber,
-Dialogue: 0,0:31:49.70,0:31:54.02,中,,0,0,0,,it's actually assumed that SpaceX is getting away with homogenous combustion,
-Dialogue: 0,0:31:54.02,0:31:59.28,中,,0,0,0,,or basically spontaneous combustion when the methane and oxygen come in contact with each other.
-Dialogue: 0,0:31:59.28,0:32:04.39,中,,0,0,0,,But the main reason that they can get away with that is because in the Raptors full flow stage combustion cycle,
-Dialogue: 0,0:32:04.39,0:32:09.20,中,,0,0,0,,both the fuel and the oxidizer are preburned in their own preburners,
-Dialogue: 0,0:32:09.35,0:32:13.36,中,,0,0,0,,and then they arrive in the main combustion chamber as hot gases already.
-Dialogue: 0,0:32:13.36,0:32:16.00,中,,0,0,0,,So take the fact that it's a gas-gas interaction
-Dialogue: 0,0:32:16.00,0:32:20.04,中,,0,0,0,,along with ridiculously high pressures seen in the combustion chamber,
-Dialogue: 0,0:32:20.04,0:32:22.48,中,,0,0,0,,no ignition source is necessary,
-Dialogue: 0,0:32:22.48,0:32:26.85,中,,0,0,0,,the propellant is already plenty hot and bothered and ready to burn.
-Dialogue: 0,0:32:26.85,0:32:31.36,中,,0,0,0,,Well, I think that pretty much covers all the major parts of starting a rocket engine,
-Dialogue: 0,0:32:31.36,0:32:33.70,中,,0,0,0,,but before we get into some examples,
-Dialogue: 0,0:32:33.86,0:32:36.58,中,,0,0,0,,let's actually cover one more challenge:
-Dialogue: 0,0:32:36.58,0:32:39.18,中,,0,0,0,,starting a rocket engine in space.
-Dialogue: 0,0:32:44.14,0:32:46.88,中,,0,0,0,,Starting a rocket engine on the ground is pretty challenging,
-Dialogue: 0,0:32:46.88,0:32:49.39,中,,0,0,0,,but at least it has a few things going its way.
-Dialogue: 0,0:32:49.39,0:32:53.63,中,,0,0,0,,First off, the rocket can utilize a lot of ground support equipment for startup.
-Dialogue: 0,0:32:54.01,0:32:59.05,中,,0,0,0,,This means the rocket doesn't need to provide crazy amounts of high pressure starting propellant,
-Dialogue: 0,0:32:59.05,0:33:03.22,中,,0,0,0,,electricity, ignition fluid, or whatever else you may need.
-Dialogue: 0,0:33:03.22,0:33:08.27,中,,0,0,0,,And best of all, gravity is pulling down on the rocket and the propellant held inside.
-Dialogue: 0,0:33:08.41,0:33:12.53,中,,0,0,0,,So the more dense liquid propellant will sit at the bottom of the tanks,
-Dialogue: 0,0:33:12.53,0:33:17.84,中,,0,0,0,,while only at the very top of the tank, opposite of the feed tubes will have gases.
-Dialogue: 0,0:33:17.84,0:33:21.94,中,,0,0,0,,But the same thing isn't true when trying to light an engine in space.
-Dialogue: 0,0:33:22.17,0:33:24.05,中,,0,0,0,,Well, not just specifically in space,
-Dialogue: 0,0:33:24.18,0:33:27.85,中,,0,0,0,,but more when you are not accelerating or not on the ground.
-Dialogue: 0,0:33:27.85,0:33:29.66,中,,0,0,0,,Because when not accelerating,
-Dialogue: 0,0:33:29.66,0:33:32.36,中,,0,0,0,,everything is in the same inertial reference frame.
-Dialogue: 0,0:33:32.36,0:33:37.19,中,,0,0,0,,In other words, when the engines are off and the spacecraft is just floating in space,
-Dialogue: 0,0:33:37.19,0:33:39.03,中,,0,0,0,,there is no acceleration,
-Dialogue: 0,0:33:39.03,0:33:43.39,中,,0,0,0,,meaning the propellant is more or less just a blob floating around in a tank.
-Dialogue: 0,0:33:43.53,0:33:46.58,中,,0,0,0,,So in order to start a rocket engine in space,
-Dialogue: 0,0:33:46.58,0:33:50.90,中,,0,0,0,,we first need to make sure the liquid propellant is at the bottom of the tank,
-Dialogue: 0,0:33:50.90,0:33:56.74,中,,0,0,0,,so the pumps engine and or the thrusters can suck up the liquid as intended
-Dialogue: 0,0:33:56.74,0:34:00.04,中,,0,0,0,,and not get gas bubbles, which can be really bad.
-Dialogue: 0,0:34:00.04,0:34:04.36,中,,0,0,0,,A common method for doing this is by using what's known as ullage thrusters.
-Dialogue: 0,0:34:04.52,0:34:08.84,中,,0,0,0,,This is where you either use a small solid rocket motor or cold gas thruster
-Dialogue: 0,0:34:08.84,0:34:10.47,中,,0,0,0,,to settle the propellants.
-Dialogue: 0,0:34:10.47,0:34:14.38,中,,0,0,0,,You can almost think of it like a butterfly net trying to catch butterflies.
-Dialogue: 0,0:34:14.38,0:34:16.25,中,,0,0,0,,By moving through space,
-Dialogue: 0,0:34:16.25,0:34:19.64,中,,0,0,0,,it'll basically catch and collect all of the liquid propellant.
-Dialogue: 0,0:34:19.64,0:34:23.80,中,,0,0,0,,You'll see footage of ullage thrusters at stage separation for many rockets.
-Dialogue: 0,0:34:23.94,0:34:29.43,中,,0,0,0,,This incredibly iconic imagery of the S-IVB ignition is actually from a Saturn IB,
-Dialogue: 0,0:34:29.43,0:34:33.58,中,,0,0,0,,but it's the same stage that was used on the upper stage of the Saturn V.
-Dialogue: 0,0:34:33.86,0:34:37.22,中,,0,0,0,,Not only did the ullage motors help separate the stages,
-Dialogue: 0,0:34:37.22,0:34:39.40,中,,0,0,0,,but it also did the propellant settling.
-Dialogue: 0,0:34:39.55,0:34:43.38,中,,0,0,0,,This may also need to be done for any restart in space.
-Dialogue: 0,0:34:43.38,0:34:47.30,中,,0,0,0,,Say you have a circularization burn or a geostationary transfer burn,
-Dialogue: 0,0:34:47.30,0:34:52.28,中,,0,0,0,,or a direct to geostationary orbital insertion burn, or whatever you might have.
-Dialogue: 0,0:34:52.64,0:34:57.35,中,,0,0,0,,If it's a liquid fueled rocket engine, you'll likely have to do an ullage burn.
-Dialogue: 0,0:34:57.42,0:35:00.63,中,,0,0,0,,And similar to a rocket needing to do a spin start again.
-Dialogue: 0,0:35:00.75,0:35:02.66,中,,0,0,0,,If you need to do multiple burns,
-Dialogue: 0,0:35:02.87,0:35:07.81,中,,0,0,0,,you might need to either have multiple solid rocket cartridges or use a cold gas thruster
-Dialogue: 0,0:35:07.81,0:35:09.80,中,,0,0,0,,so you can fire it up whenever you need to.
-Dialogue: 0,0:35:09.80,0:35:12.21,中,,0,0,0,,Cold gas is pretty common for ullage thrusters
-Dialogue: 0,0:35:12.21,0:35:15.83,中,,0,0,0,,since it might also be used as maneuvering propellant for stages.
-Dialogue: 0,0:35:16.15,0:35:19.66,中,,0,0,0,,Even the Falcon 9 booster has to use cold gas thrusters
-Dialogue: 0,0:35:19.66,0:35:22.61,中,,0,0,0,,to settle the propellant before boost back and entry burns.
-Dialogue: 0,0:35:22.61,0:35:28.84,中,,0,0,0,,You can use a cold gas thruster in space because it uses gaseous propellant stored at high pressure,
-Dialogue: 0,0:35:28.84,0:35:33.86,中,,0,0,0,,so there is equal pressure throughout the entire tank, the gases won't blob about.
-Dialogue: 0,0:35:33.86,0:35:36.77,中,,0,0,0,,But some spacecraft don't need ullage thrusters at all.
-Dialogue: 0,0:35:36.77,0:35:42.46,中,,0,0,0,,In fact, many maneuvering thrusters run on liquid by propellants, usually hypergolics,
-Dialogue: 0,0:35:42.61,0:35:45.75,中,,0,0,0,,and when they're in space in order to do precise maneuvering,
-Dialogue: 0,0:35:45.75,0:35:49.98,中,,0,0,0,,they can't do an ullage burn every single time they need to do a maneuver.
-Dialogue: 0,0:35:49.98,0:35:52.83,中,,0,0,0,,Take SpaceX's Dragon capsule, for example.
-Dialogue: 0,0:35:52.83,0:35:55.27,中,,0,0,0,,As it approaches the International Space Station,
-Dialogue: 0,0:35:55.27,0:35:58.90,中,,0,0,0,,you'll see it firing its Draco thrusters like crazy.
-Dialogue: 0,0:35:58.90,0:36:04.87,中,,0,0,0,,These little tiny impulses help precisely control and maneuver the vehicle with extreme accuracy.
-Dialogue: 0,0:36:04.87,0:36:08.02,中,,0,0,0,,The Dracos run on hypergolic liquid propellants.
-Dialogue: 0,0:36:08.31,0:36:14.01,中,,0,0,0,,So how do they fire these engines in space when the tanks have liquids in them?
-Dialogue: 0,0:36:14.01,0:36:15.31,中,,0,0,0,,There's a few ways to actually do this,
-Dialogue: 0,0:36:15.31,0:36:20.38,中,,0,0,0,,but perhaps the most simple is with a propellant management device or a PMD.
-Dialogue: 0,0:36:20.70,0:36:27.01,中,,0,0,0,,This can be a simple device like a vein screen or sponge to wick the propellant towards the tank outlets
-Dialogue: 0,0:36:27.01,0:36:30.22,中,,0,0,0,,using surface tension and some other really cool tricks.
-Dialogue: 0,0:36:30.22,0:36:32.57,中,,0,0,0,,Another way is with tank bladders.
-Dialogue: 0,0:36:33.12,0:36:34.95,中,,0,0,0,,Yep, believe it or not,
-Dialogue: 0,0:36:34.95,0:36:41.24,中,,0,0,0,,many in-space tanks will have a bladder inside to separate the liquid from the pressuring gases.
-Dialogue: 0,0:36:41.24,0:36:45.10,中,,0,0,0,,This way, the propellants can still be pressurized to necessary pressures,
-Dialogue: 0,0:36:45.10,0:36:48.54,中,,0,0,0,,and the bladder will help keep gas bubbles out of the liquid.
-Dialogue: 0,0:36:48.82,0:36:51.57,中,,0,0,0,,These are most commonly used on spherical tanks,
-Dialogue: 0,0:36:51.57,0:36:54.87,中,,0,0,0,,but there's also some piston tanks that do a similar thing,
-Dialogue: 0,0:36:55.14,0:36:59.25,中,,0,0,0,,but these are more common on elongated cylinders, as you can imagine.
-Dialogue: 0,0:36:59.25,0:37:02.85,中,,0,0,0,,Although it is a piston, it's usually just a moving seal.
-Dialogue: 0,0:37:02.85,0:37:05.22,中,,0,0,0,,They're still actually pressurized by helium.
-Dialogue: 0,0:37:05.22,0:37:11.26,中,,0,0,0,,Most in space thrusters and engines will utilize one or a combination of a few of these devices
-Dialogue: 0,0:37:11.26,0:37:13.53,中,,0,0,0,,to best handle propellants in space.
-Dialogue: 0,0:37:13.53,0:37:18.35,中,,0,0,0,,But what if I told you that there's an even crazier way to light an engine in space
-Dialogue: 0,0:37:18.35,0:37:21.93,中,,0,0,0,,without ullage thrusters or bladder tanks or anything?
-Dialogue: 0,0:37:22.15,0:37:27.35,中,,0,0,0,,Have you ever noticed the grided fence-looking section of the Soyuz or Proton rockets,
-Dialogue: 0,0:37:27.35,0:37:30.80,中,,0,0,0,,or maybe you've seen these cutouts on the interstage of the Titan 2?
-Dialogue: 0,0:37:30.93,0:37:34.72,中,,0,0,0,,Well, these are necessary to perform the ultimate endearing space events,
-Dialogue: 0,0:37:34.90,0:37:37.79,中,,0,0,0,,hot firing, otherwise known as hot staging.
-Dialogue: 0,0:37:37.90,0:37:41.06,中,,0,0,0,,This is where you light the engines on the upper stage,
-Dialogue: 0,0:37:41.06,0:37:45.27,中,,0,0,0,,while the stage below it is still attached and running.
-Dialogue: 0,0:37:45.58,0:37:50.62,中,,0,0,0,,Yep, you just light that engine while there's still a rocket attached to the bottom of it.
-Dialogue: 0,0:37:50.87,0:37:54.48,中,,0,0,0,,This is called "Fire in the Hole" for obvious reasons.
-Dialogue: 0,0:37:54.48,0:37:58.32,中,,0,0,0,,But by doing this, propellant is already experiencing acceleration.
-Dialogue: 0,0:37:58.43,0:38:01.72,中,,0,0,0,,So liquid will obviously be at the bottom of the tanks,
-Dialogue: 0,0:38:01.94,0:38:05.40,中,,0,0,0,,but when you light an engine, the exhaust will have to go somewhere,
-Dialogue: 0,0:38:05.75,0:38:09.90,中,,0,0,0,,and now you know why there's so much of an open gap between the stages.
-Dialogue: 0,0:38:09.90,0:38:12.96,中,,0,0,0,,All right, that pretty much sums up how to start a rocket engine,
-Dialogue: 0,0:38:13.30,0:38:17.95,中,,0,0,0,,but now let's actually go over a real life example and see if we can follow along.
-Dialogue: 0,0:38:21.35,0:38:27.13,中,,0,0,0,,Okay, my friends, I think in order to really put all this together and dive really deep into this,
-Dialogue: 0,0:38:27.46,0:38:30.22,中,,0,0,0,,we need to get inside a rocket engine during startup,
-Dialogue: 0,0:38:30.22,0:38:35.86,中,,0,0,0,,and go step by step through the entire startup process of one of the most complicated rocket engines,
-Dialogue: 0,0:38:36.25,0:38:37.43,中,,0,0,0,,the RS-25.
-Dialogue: 0,0:38:37.56,0:38:39.73,中,,0,0,0,,If we can walk all the way through this one,
-Dialogue: 0,0:38:39.73,0:38:41.56,中,,0,0,0,,I'm not gonna say that we've mastered it,
-Dialogue: 0,0:38:41.56,0:38:45.49,中,,0,0,0,,but we should definitely have a very good understanding.
-Dialogue: 0,0:38:45.49,0:38:49.20,中,,0,0,0,,Oh, what's best of all with the RS-25 is we have some incredible insights
-Dialogue: 0,0:38:49.20,0:38:51.42,中,,0,0,0,,on how exactly this engine starts up
-Dialogue: 0,0:38:51.42,0:38:56.03,中,,0,0,0,,because the startup process is actually really, really well publicly documented.
-Dialogue: 0,0:38:56.03,0:39:01.07,中,,0,0,0,,So we can go really, really deep and actually explain what's going on inside the engine
-Dialogue: 0,0:39:01.07,0:39:02.80,中,,0,0,0,,for the entire startup process.
-Dialogue: 0,0:39:02.80,0:39:08.75,中,,0,0,0,,And for this, I actually bought a book called {\i1}Space Shuttle Main Engine, The First Ten Years{\i0} by Robert E. Biggs,
-Dialogue: 0,0:39:08.75,0:39:12.61,中,,0,0,0,,and it's an awesome book, it goes really, really in depth into this process.
-Dialogue: 0,0:39:12.61,0:39:15.73,中,,0,0,0,,But the coolest thing about this book is it has these charts
-Dialogue: 0,0:39:15.73,0:39:18.90,中,,0,0,0,,showing the pressure and valve openings during the startup process.
-Dialogue: 0,0:39:18.90,0:39:21.82,中,,0,0,0,,So we'll draw these out a little bit more cleanly
-Dialogue: 0,0:39:21.82,0:39:23.96,中,,0,0,0,,along with a diagram of the engine,
-Dialogue: 0,0:39:23.96,0:39:26.88,中,,0,0,0,,so we can go just step by step really slowly
-Dialogue: 0,0:39:26.88,0:39:29.58,中,,0,0,0,,and watch all the things change throughout the entire process.
-Dialogue: 0,0:39:29.58,0:39:35.18,中,,0,0,0,,Now, I must warn you again, if you haven't watched my "How to power a rocket engine" video,
-Dialogue: 0,0:39:35.34,0:39:40.09,中,,0,0,0,,you really will need to have a good understanding of the fuel rich closed cycle engine
-Dialogue: 0,0:39:40.09,0:39:42.00,中,,0,0,0,,before you go through this portion of the video.
-Dialogue: 0,0:39:42.00,0:39:46.39,中,,0,0,0,,Because we get really, really in depth with the exact components.
-Dialogue: 0,0:39:46.39,0:39:50.21,中,,0,0,0,,But as a quick review, the RS-25 has two preburners.
-Dialogue: 0,0:39:50.21,0:39:54.78,中,,0,0,0,,Since it's fuel rich closed cycle, both preburners are fuel rich,
-Dialogue: 0,0:39:54.78,0:39:58.17,中,,0,0,0,,meaning all of the fuel will flow through the preburners,
-Dialogue: 0,0:39:58.17,0:40:02.51,中,,0,0,0,,one preburner powers the oxygen pumps and the other powers the fuel pumps.
-Dialogue: 0,0:40:02.51,0:40:06.40,中,,0,0,0,,Then there's a small boost pump on the oxygen side that feeds the preburners,
-Dialogue: 0,0:40:06.40,0:40:09.57,中,,0,0,0,,the higher pressure liquid oxygen that they need to operate,
-Dialogue: 0,0:40:09.72,0:40:12.04,中,,0,0,0,,and there's a handful of valves.
-Dialogue: 0,0:40:12.25,0:40:15.16,中,,0,0,0,,The prevalve that shuts off the tanks to the engines.
-Dialogue: 0,0:40:15.30,0:40:20.68,中,,0,0,0,,Then there's the main fuel valve, which feeds the preburners and the regen cooling channels.
-Dialogue: 0,0:40:20.82,0:40:24.67,中,,0,0,0,,But the regen system has a separate valve called the chamber coolant valve,
-Dialogue: 0,0:40:24.67,0:40:29.69,中,,0,0,0,,which can be throttled to redirect fuel between the main combustion chamber and the regen system.
-Dialogue: 0,0:40:29.69,0:40:34.04,中,,0,0,0,,Then there's three oxygen valves, one that feeds each of the three combustion chambers,
-Dialogue: 0,0:40:34.04,0:40:37.62,中,,0,0,0,,so both of the preburners and the main combustion chamber.
-Dialogue: 0,0:40:37.76,0:40:41.65,中,,0,0,0,,There's a few recirculation pipes that feed boiling off gaseous propellant
-Dialogue: 0,0:40:41.65,0:40:45.21,中,,0,0,0,,either back into the tanks or vents them out into the atmosphere.
-Dialogue: 0,0:40:45.33,0:40:48.67,中,,0,0,0,,There's also what's called ASIs or Augmented Spark Igniters.
-Dialogue: 0,0:40:48.67,0:40:53.78,中,,0,0,0,,There are three sets of ASIs, one in each preburner and one in the main combustion chamber.
-Dialogue: 0,0:40:53.78,0:40:56.94,中,,0,0,0,,These ASIs have their own fuel and oxygen supply lines
-Dialogue: 0,0:40:56.94,0:41:00.40,中,,0,0,0,,and will be the first items to receive each propellant in the system.
-Dialogue: 0,0:41:00.40,0:41:05.68,中,,0,0,0,,Now there's obviously a million other small tubes and pipes and sensors littering the real engine,
-Dialogue: 0,0:41:05.68,0:41:09.48,中,,0,0,0,,but to try to keep this understandable, I think we'll just leave it at this for now.
+Dialogue: 0,0:20:57.69,0:21:00.19,中,,0,0,0,,瞬态 指两种状态中间的阶段\NTransients are the in between moments,
+Dialogue: 0,0:21:00.19,0:21:05.14,中,,0,0,0,,比如发动机从静止到全功率运行 或是相反\Nso in between the engine being stationary and at full power and vice versa,
+Dialogue: 0,0:21:05.14,0:21:09.21,中,,0,0,0,,甚至节流中的发动机也属于一种瞬态过程\Nor even between throttle settings, the engine is actually in a transient state,
+Dialogue: 0,0:21:09.35,0:21:12.35,中,,0,0,0,,而当发动机稳定运行时\Nbut once the engine is running and at a steady state,
+Dialogue: 0,0:21:12.55,0:21:14.78,中,,0,0,0,,维持这种运行就相对简单了\Nit's relatively easy to keep running.
+Dialogue: 0,0:21:14.78,0:21:17.63,中,,0,0,0,,那么瞬态阶段难点在哪?\NBut why is the transient so hard?
+Dialogue: 0,0:21:17.63,0:21:21.20,中,,0,0,0,,还记得之前提到的鸡生蛋蛋生鸡的情况吧\NWell, remember this whole chicken and egg scenario we had.
+Dialogue: 0,0:21:21.20,0:21:23.52,中,,0,0,0,,现在泵的速度起来了\NWe're just getting the pumps up to speed.
+Dialogue: 0,0:21:23.76,0:21:29.89,中,,0,0,0,,泵由燃气发生器供能 燃气发生器又需要泵提供燃料 那泵要怎样运行?\NHow do the pumps run if they're powered by a gas generator that itself runs on the pumps?
+Dialogue: 0,0:21:29.92,0:21:32.59,中,,0,0,0,,启动程序中最大的挑战在于\NWell, the biggest challenge with the whole startup process
+Dialogue: 0,0:21:32.59,0:21:35.21,中,,0,0,0,,各个组件都是相互关联的\Nis the fact that everything is intertwined
+Dialogue: 0,0:21:35.21,0:21:37.32,中,,0,0,0,,系统中任何地方的小改变都会瞬间影响其上下游\Nand a change anywhere in the system
+Dialogue: 0,0:21:37.32,0:21:42.34,中,,0,0,0,,系统中任何地方的小改变都会瞬间影响其上下游\Nwill immediately have an effect upstream and downstream from the change.
+Dialogue: 0,0:21:42.34,0:21:45.92,中,,0,0,0,,我们以RS-25发动机的自身启动为例\NSo let's say you're trying to bootstrap an engine such as the RS-25.
+Dialogue: 0,0:21:46.11,0:21:51.62,中,,0,0,0,,如前所述 对发动机进行吹扫与热环境调控后的第一件事\NLike we touched on earlier, the first thing you're going to do after you purge and thermally condition the engine
+Dialogue: 0,0:21:51.62,0:21:56.77,中,,0,0,0,,是要把一部分液氢引入泵与预燃室\Nis you're going to introduce some liquid hydrogen into the pumps and the preburner.
+Dialogue: 0,0:21:56.77,0:22:00.15,中,,0,0,0,,液氢流经这些地方时会瞬间气化\NOn its way in, it will flash boil into a gas.
+Dialogue: 0,0:22:00.15,0:22:05.33,中,,0,0,0,,膨胀的氢气开始吹动发动机的涡轮 从而让泵起转\NThat gas expands and that expanding gas is what's going to start to blow through our turbine,
+Dialogue: 0,0:22:05.33,0:22:06.97,中,,0,0,0,,膨胀的氢气开始吹动发动机的涡轮 从而让泵起转\Nand get our pumps spinning up.
+Dialogue: 0,0:22:06.97,0:22:09.86,中,,0,0,0,,煽燃太空的CEO Andy Lapsa在访谈中和我解释过此事\NStoke Space CEO, Andy Lapsa, explained this to me
+Dialogue: 0,0:22:09.86,0:22:14.62,中,,0,0,0,,当时我和他站在测试台上 旁边就是他们特牛的自身启动发动机\Nwhen I was standing with him on their test stand with their incredible engine that bootstraps.
+Dialogue: 0,0:22:14.75,0:22:19.57,中,,0,0,0,,启动瞬态 有时还有关机瞬态 是火箭发动机上一些风险最高的时刻\NThe start transient and to some extent also the shutdown transient are
+Dialogue: 0,0:22:19.57,0:22:22.70,中,,0,0,0,,启动瞬态 有时还有关机瞬态 是火箭发动机上一些风险最高的时刻\Nsome of the highest risk moments in a rocket engine, right?
+Dialogue: 0,0:22:22.70,0:22:27.68,中,,0,0,0,,你可以想想 像我们这种泵功率一千马力的小发动机\NAnd if you think about it, like our little engine, a thousand HP in the pumps,
+Dialogue: 0,0:22:27.68,0:22:32.47,中,,0,0,0,,大一点的发动机 泵功率可能上万马力了\Nbigger engines have tens of thousands of HP going through the pumps,
+Dialogue: 0,0:22:32.66,0:22:38.89,中,,0,0,0,,它们从零到全功率运行也就几秒的时间?\Nand they go from zero to full power in maybe a couple seconds, right?
+Dialogue: 0,0:22:39.04,0:22:43.40,中,,0,0,0,,因此这期间你要控制住每一匹的马力\NSo you've gotta control all those horses,
+Dialogue: 0,0:22:43.40,0:22:46.45,中,,0,0,0,,保证在瞬态期间一切都正确运行\Nand make sure they're running in the right direction during that time.
+Dialogue: 0,0:22:46.45,0:22:52.61,中,,0,0,0,,所以 火箭发动机的研发早期通常风险很高\NSo in early development is usually one of the higher risk activities for rocket engine.
+Dialogue: 0,0:22:52.61,0:22:57.42,中,,0,0,0,,另外多说一句 我真的特别享受这段对话过程\NQuick little side note, wow, this is honestly one of my favorite conversations,
+Dialogue: 0,0:22:57.42,0:23:00.42,中,,0,0,0,,Andy Lapsa和他的公司煽燃太空也在制造非常厉害的火箭\Nand Andy Lapsa and his company, Stoke Aerospace,
+Dialogue: 0,0:23:00.42,0:23:04.54,中,,0,0,0,,Andy Lapsa和他的公司煽燃太空也在制造非常厉害的火箭\Nis working on an absolutely incredible rocket.
+Dialogue: 0,0:23:04.54,0:23:09.13,中,,0,0,0,,好 至此沸腾后的氢气让涡轮起转 带动了泵的运转\NOkay, but that boil off is spinning up the turbine, which spins the pumps,
+Dialogue: 0,0:23:09.13,0:23:12.28,中,,0,0,0,,推进剂的流动开始加快了\Nso now the propellant is starting to flow a little faster.
+Dialogue: 0,0:23:12.58,0:23:18.31,中,,0,0,0,,只要在启动瞬态期间系统内流体持续向正确方向流动\NAs long as the pressure in the system continues flowing in this direction during this transient region,
+Dialogue: 0,0:23:18.31,0:23:19.38,中,,0,0,0,,就万事大吉了\Nyou're golden.
+Dialogue: 0,0:23:19.46,0:23:23.38,中,,0,0,0,,但问题是 动作与反应之间通常有些许的延迟\NThe problem is there's often slight delays between action and reaction.
+Dialogue: 0,0:23:23.66,0:23:27.83,中,,0,0,0,,就好像系统内有一波又一波的压力变化\NSo it's almost like there's waves of pressure changes moving throughout the system.
+Dialogue: 0,0:23:27.99,0:23:30.11,中,,0,0,0,,如果这样的变化太剧烈\NAnd if those get too extreme,
+Dialogue: 0,0:23:30.11,0:23:33.32,中,,0,0,0,,压力的梯度可能会导致倒流\Nthe pressure gradient might actually start to flow backwards,
+Dialogue: 0,0:23:33.32,0:23:38.35,中,,0,0,0,,导致启动程序停滞 甚至可能炸毁发动机\Nand you can stall out your startup sequence, or even worse, potentially blow up your engine.
+Dialogue: 0,0:23:38.35,0:23:40.21,中,,0,0,0,,以阀门开度为例\NTake a valve opening, for example,
+Dialogue: 0,0:23:40.21,0:23:44.89,中,,0,0,0,,当阀门打开 比如将氧气引入预燃室时\Nas a valve opens and introduces say the oxygen into the preburners,
+Dialogue: 0,0:23:45.18,0:23:48.54,中,,0,0,0,,同样也会对压力和流量产生影响\Nthat too will have an effect on the pressure and the flow,
+Dialogue: 0,0:23:48.71,0:23:52.40,中,,0,0,0,,然后预燃室的点火也会影响压力和流量\Nand then the preburner ignition will affect the pressure and the flow.
+Dialogue: 0,0:23:52.59,0:23:55.85,中,,0,0,0,,这些都是往复不断的反馈循环\NIt's all just a constant back and forth feedback loop.
+Dialogue: 0,0:23:55.85,0:23:59.58,中,,0,0,0,,不过我们刚刚提到了另一话题——点火\NBut now we've touched upon another piece of the puzzle: ignition.
+Dialogue: 0,0:23:59.82,0:24:03.44,中,,0,0,0,,我们刚刚提到 预燃室会在压力相对较低的情况下点火\NWe mentioned how the preburner will light under relatively low pressure,
+Dialogue: 0,0:24:03.54,0:24:08.77,中,,0,0,0,,那它究竟是如何点燃的? 什么触发了点火流程?\Nbut how does it actually light, what starts the ignition process?
+Dialogue: 0,0:24:12.23,0:24:17.28,中,,0,0,0,,燃料与氧化剂的混合并不必然导致燃烧反应的发生\NJust because you combine your fuel and your oxidizer doesn't mean you're going to get combustion.
+Dialogue: 0,0:24:17.66,0:24:21.95,中,,0,0,0,,实际上 另火箭工程师们失望的是\NIn fact, most propellants, to the dismay of rocket engineers,
+Dialogue: 0,0:24:22.17,0:24:25.68,中,,0,0,0,,多数推进剂完全可以在同一空间内共存\Nwill kind of happily coexist in the same space and
+Dialogue: 0,0:24:25.68,0:24:30.54,中,,0,0,0,,一些情况下甚至还会完全不经燃烧就一同排放出体系\Nmay even exit the system without unleashing their fiery goodness at all.
+Dialogue: 0,0:24:30.54,0:24:36.17,中,,0,0,0,,更糟心的是 不想让它们点燃的时候 偏偏还可能造成严重的后果\NOr even worse, they may accidentally ignite at the wrong time or place, which is often catastrophic.
+Dialogue: 0,0:24:36.17,0:24:38.60,中,,0,0,0,,大家可能听说过"硬启动"这个词\NPerhaps you've heard the term hard start.
+Dialogue: 0,0:24:38.72,0:24:42.24,中,,0,0,0,,指的基本就是推进剂以错误配比 在错误时间或错误的地方发生燃烧\NThis is basically when the propellant combust at the wrong ratios
+Dialogue: 0,0:24:42.24,0:24:44.74,中,,0,0,0,,指的基本就是推进剂以错误配比 在错误时间或错误的地方发生燃烧\Nor perhaps at the wrong time or place.
+Dialogue: 0,0:24:44.74,0:24:48.23,中,,0,0,0,,在最坏的情况 硬启动会让发动机压力严重超限\NThe worst hard starts can severely over pressure the engine
+Dialogue: 0,0:24:48.23,0:24:54.86,中,,0,0,0,,让涡轮超速 甚至导致猛烈爆炸 完全摧毁发动机\Nor maybe overspin the turbines or cause an energetic detonation that can completely destroy the engine
+Dialogue: 0,0:24:54.86,0:24:59.66,中,,0,0,0,,甚至还会殃及测试台架 或者与发动机连接的火箭\Nand sometimes even the test stand and or the rocket that they're actually attached to.
+Dialogue: 0,0:24:59.98,0:25:03.70,中,,0,0,0,,因此 点火的时机与精度至关重要\NSo the timing and precision of ignition is vital.
+Dialogue: 0,0:25:03.70,0:25:05.58,中,,0,0,0,,大多数火箭发动机都需要一个外部点火源来启动燃烧过程\NLike most engines,
+Dialogue: 0,0:25:05.58,0:25:11.31,中,,0,0,0,,大多数火箭发动机都需要一个外部点火源来启动燃烧过程\Nrocket engines typically require an external source of ignition to begin the combustion process.
+Dialogue: 0,0:25:11.31,0:25:16.28,中,,0,0,0,,那能不能使用无需点火源的推进剂呢?\NBut what if we just use propellants that don't need an ignition source at all?
+Dialogue: 0,0:25:16.28,0:25:17.93,中,,0,0,0,,当然可以 接触自燃燃料嘛\NYes, you know, hypergolics,
+Dialogue: 0,0:25:17.93,0:25:21.60,中,,0,0,0,,这一点在我之前每个视频几乎都提到过\Nwe've already touched on them earlier and, and almost every video I've made,
+Dialogue: 0,0:25:21.73,0:25:26.46,中,,0,0,0,,接触自燃是这类燃料最大的优势之一\Nbut being able to spontaneously combust is one of their biggest advantages.
+Dialogue: 0,0:25:26.46,0:25:31.55,中,,0,0,0,,加之这类燃料还不需要额外措施保持低温\NAnd the fact that they don't need any additional considerations to keep liquid at cryogenic temperature,
+Dialogue: 0,0:25:31.55,0:25:33.50,中,,0,0,0,,这都是实打实的优势\Nis just really a pure bonus.
+Dialogue: 0,0:25:33.50,0:25:34.46,中,,0,0,0,,当然 别误会 它们缺点也很明显 比如剧毒又致癌\NI mean, don't get me wrong,
+Dialogue: 0,0:25:34.46,0:25:39.54,中,,0,0,0,,当然 别误会 它们缺点也很明显 比如剧毒又致癌\Nthey're a total pain in the butt in other ways like being super toxic and carcinogenic.
+Dialogue: 0,0:25:39.54,0:25:42.94,中,,0,0,0,,但对于点火与可靠性来讲\NBut in the case of ignition and sheer reliability,
+Dialogue: 0,0:25:43.31,0:25:44.72,中,,0,0,0,,它们简直无敌\Nthey're hard to beat,
+Dialogue: 0,0:25:44.72,0:25:48.94,中,,0,0,0,,因此它们普遍应用在在轨机动推进器和轨道发动机上\Nwhich is why they're so common for maneuvering thrusters and on orbit engines
+Dialogue: 0,0:25:48.94,0:25:53.90,中,,0,0,0,,因为它们不会沸腾 对高可靠性需求与长时间的任务很重要\Nwhere reliability and long duration missions matter, since they won't boil off.
+Dialogue: 0,0:25:53.90,0:25:55.80,中,,0,0,0,,但对于使用液氧的推进剂\NBut for LOX based propellants,
+Dialogue: 0,0:25:55.80,0:26:01.85,中,,0,0,0,,如果把燃料和氧化剂简单混合 很可能并不会自发燃烧\Nif you put your fuel and oxidizer in contact with each other, it likely won't lead to combustion.
+Dialogue: 0,0:26:02.03,0:26:06.36,中,,0,0,0,,如果把液态甲烷和液氧倒进同一个容器中\NIf you took liquid methane and you poured it into a container of liquid oxygen,
+Dialogue: 0,0:26:06.86,0:26:09.08,中,,0,0,0,,真不太会有什么现象发生\Ndon't really expect anything to happen.
+Dialogue: 0,0:26:09.08,0:26:12.71,中,,0,0,0,,只要没有点火源 哪怕你搅拌几下 两者也会和平共处\NEven if you swirled it around without a source of ignition,
+Dialogue: 0,0:26:12.71,0:26:15.92,中,,0,0,0,,只要没有点火源 哪怕你搅拌几下 两者也会和平共处\Nthe two will coexist surprisingly peacefully.
+Dialogue: 0,0:26:15.92,0:26:19.21,中,,0,0,0,,哪怕两者是气体状态 也是如此\NEven in gaseous form, this is true for the most part,
+Dialogue: 0,0:26:19.21,0:26:25.10,中,,0,0,0,,但在气体状态下 一个小小的火苗就很容易点燃\Nbut as a gas, it's much more likely to ignite with just a small ignition source.
+Dialogue: 0,0:26:25.10,0:26:31.14,中,,0,0,0,,因此 非接触自燃燃料与氧化剂不但需要适当混合以稳定燃烧\NSo non-hypergolic fuels and oxidizers not only need to be properly mixed for stable combustion,
+Dialogue: 0,0:26:31.30,0:26:36.06,中,,0,0,0,,还要为了启动初始燃烧提供一个点火源\Nthey also need an ignition source to initiate the combustion process in the first place.
+Dialogue: 0,0:26:36.06,0:26:38.07,中,,0,0,0,,不过当建立起稳定燃烧后\NBut once stable combustion has been achieved,
+Dialogue: 0,0:26:38.07,0:26:41.87,中,,0,0,0,,有了足量且稳定的推进剂供应\Nand assuming there's adequate and stable flow of your propellants,
+Dialogue: 0,0:26:42.05,0:26:47.22,中,,0,0,0,,就不再需要初始的点火程序 发动机可以自持运行了\Nthe initial ignition process is no longer necessary, and it can actually be self-sustaining.
+Dialogue: 0,0:26:47.22,0:26:50.78,中,,0,0,0,,燃烧室内的燃烧本身就是一个持续的点火源\NThe combustion in the chamber acts as a continual source of ignition.
+Dialogue: 0,0:26:50.78,0:26:53.43,中,,0,0,0,,好 现在我们的目标就是点燃推进剂\NOkay, so we've actually got to light up our propellants.
+Dialogue: 0,0:26:53.58,0:26:57.26,中,,0,0,0,,除了接触自燃燃料外 另一个最简单的方法\NPerhaps the simplest option outside of hypergolic propellants
+Dialogue: 0,0:26:57.26,0:27:03.65,中,,0,0,0,,可能是苏联在R7火箭上的方案 且至今仍在联盟号上使用\Nis what the Soviet Union decided to do with the R7 and what Russia still uses today on the Soyuz,
+Dialogue: 0,0:27:03.90,0:27:07.53,中,,0,0,0,,本质就是一个巨型火柴棍\Nwhich is basically just some giant matchsticks.
+Dialogue: 0,0:27:07.53,0:27:14.90,中,,0,0,0,,没错 就是在巨型支架上放一组烟火 伸入主燃烧室内\NYep, literally just some large braces with a pair of pyrotechnics that are put inside each combustion chamber
+Dialogue: 0,0:27:14.90,0:27:18.54,中,,0,0,0,,在推进剂到达燃烧室之前点燃\Nand are all lit prior to the propellants arriving in the combustion chamber.
+Dialogue: 0,0:27:18.54,0:27:23.70,中,,0,0,0,,这种操作能够实现原因是RD-107和RD108发动机的燃气发生器\NNow, this is also possible because the gas generator on the RD-107 and RD-108
+Dialogue: 0,0:27:23.80,0:27:28.46,中,,0,0,0,,本质上是一款单组元推进器 不需要额外的点火源\Nis basically just a monoprop thruster, so it doesn't need a separate source of ignition.
+Dialogue: 0,0:27:28.46,0:27:31.55,中,,0,0,0,,因此整台发动机上唯一要操心的就是主燃烧室的点火\NSo you could, the main thing you really have to worry about on those engines
+Dialogue: 0,0:27:31.55,0:27:33.78,中,,0,0,0,,因此整台发动机上唯一要操心的就是主燃烧室的点火\Nis actually igniting the main combustion chamber.
+Dialogue: 0,0:27:33.78,0:27:39.30,中,,0,0,0,,但这种方法有点粗暴 在太空也没什么发挥空间\NBut it's not very elegant and it's probably not a great option once you're in space either.
+Dialogue: 0,0:27:39.30,0:27:46.05,中,,0,0,0,,因此 我们还需寻求一种适用于在太空的单次或多次点火的方法\NSo for that, we'll have to look into some other options that are capable of space starts and potentially restarts.
+Dialogue: 0,0:27:46.05,0:27:49.85,中,,0,0,0,,或许最常见的办法是使用"火花塞"\NPerhaps one of the most common methods is to basically use a spark plug.
+Dialogue: 0,0:27:49.85,0:27:54.22,中,,0,0,0,,好吧 可能和大家在4S店能买到的那种火花塞不太一样\NOkay, maybe not your off the shelf spark plug from a Ford Fiesta,
+Dialogue: 0,0:27:54.46,0:27:56.14,中,,0,0,0,,但概念是相通的\Nbut the concept is the same,
+Dialogue: 0,0:27:56.14,0:27:59.63,中,,0,0,0,,在一个缝隙间施加高电压\Ntake a high electrical voltage and have it jump a gap,
+Dialogue: 0,0:27:59.70,0:28:05.09,中,,0,0,0,,中间电火花的能量刚好可以点燃推进剂\Nwhich provides the perfect opportunity to ignite the propellant with ionized electrical energy.
+Dialogue: 0,0:28:05.09,0:28:06.57,中,,0,0,0,,可以想象到\NAs you can probably imagine,
+Dialogue: 0,0:28:06.57,0:28:12.32,中,,0,0,0,,驱动一台火箭发动机的火花塞需要大量的电能\Nit does require a good amount of electrical energy to power a rocket engine size spark plug.
+Dialogue: 0,0:28:12.68,0:28:16.62,中,,0,0,0,,所以使用这种方法的发动机可能需要笨重的电池\NSo rockets using this approach may need to carry heavy batteries,
+Dialogue: 0,0:28:16.62,0:28:21.42,中,,0,0,0,,或者使用地面辅助设备在启动时提供电能\Nor utilize ground support equipment to run current through the igniter at startup.
+Dialogue: 0,0:28:21.42,0:28:24.65,中,,0,0,0,,另一种方法与电火花启动类似\NAnother method is similar to a spark igniter,
+Dialogue: 0,0:28:24.65,0:28:29.01,中,,0,0,0,,这种方法类似于汽车工业的柴油发动机\Nactually, it's again similar to the automobile industry with diesel engines,
+Dialogue: 0,0:28:29.19,0:28:31.06,中,,0,0,0,,即使用辉光塞进行热面点火\Nand that's using a glow plug.
+Dialogue: 0,0:28:31.30,0:28:35.05,中,,0,0,0,,辉光塞也需要大量电能转化成热量\NGlow plugs also require a lot of electricity to convert to heat,
+Dialogue: 0,0:28:35.22,0:28:39.87,中,,0,0,0,,类似于白炽灯泡 电热器线圈或烤面包机\Nsimilar to an incandescent light bulb, an electrical heater coil, or a toaster.
+Dialogue: 0,0:28:39.87,0:28:43.05,中,,0,0,0,,辉光塞表面需要有足够的热量\NThere needs to be enough heat energy on the surface of the glow plug,
+Dialogue: 0,0:28:43.05,0:28:45.30,中,,0,0,0,,才能触发推进剂的燃烧\Nto initiate combustion of the propellants.
+Dialogue: 0,0:28:45.30,0:28:50.52,中,,0,0,0,,同样 当建立起稳定燃烧后 辉光塞就可以关闭了\NAnd again, once stable combustion has been achieved, the glow plug can just be turned off.
+Dialogue: 0,0:28:50.52,0:28:52.47,中,,0,0,0,,还有一种方法是使用激光\NAnother method is to use a laser.
+Dialogue: 0,0:28:52.68,0:28:58.02,中,,0,0,0,,激光可以非常精确地聚焦能量束 用来激发推进剂分子\NLasers can very precisely focus the beam of energy and tune it to excite the propellant molecules,
+Dialogue: 0,0:28:58.22,0:29:03.29,中,,0,0,0,,因此它有可能比其他电驱动装置更有效率\Nso it has the potential to be more efficient than other electrically driven devices.
+Dialogue: 0,0:29:03.29,0:29:04.73,中,,0,0,0,,这种方法目前用得不多\NNow, it's not very common yet,
+Dialogue: 0,0:29:04.73,0:29:08.82,中,,0,0,0,,不过空中客车公司的确为自家的一些助推器提供了一些光学点火装置\Nalthough Airbus does have some variance of optical ignition for some of their boosters.
+Dialogue: 0,0:29:08.82,0:29:11.53,中,,0,0,0,,以上这些方法都很棒 都有所应用\NThese methods are all great and commonplace,
+Dialogue: 0,0:29:11.53,0:29:14.94,中,,0,0,0,,但它们都需要大量电能\Nbut they all require massive amounts of electrical power,
+Dialogue: 0,0:29:15.08,0:29:19.08,中,,0,0,0,,而电能通常存储于能量密度不那么高的电池中\Nwhich is likely stored in big and not so energy dense batteries.
+Dialogue: 0,0:29:19.27,0:29:24.45,中,,0,0,0,,那么可不可以只使用化学反应的能量来触发点火程序呢?\NSo what if you actually could just use a chemical reaction to start the ignition process?
+Dialogue: 0,0:29:24.45,0:29:27.92,中,,0,0,0,,其实这种方法也很常见 而且非常有效\NThis is actually pretty common and extremely effective.
+Dialogue: 0,0:29:27.92,0:29:31.38,中,,0,0,0,,实际上 如果大家看过猎鹰九号或重型猎鹰的发射\NIn fact, if you've ever seen a Falcon 9 or Heavy launch,
+Dialogue: 0,0:29:31.50,0:29:35.81,中,,0,0,0,,可能曾注意到点火前一瞬间闪过的绿光\Nyou may have noticed a green flash right at the beginning of ignition.
+Dialogue: 0,0:29:36.42,0:29:40.38,中,,0,0,0,,这正是注入的自燃点火剂与氧气接触并开始稳定燃烧的现象\NThat, my friends, is the injection of a pyrophoric ignition fluid
+Dialogue: 0,0:29:40.38,0:29:43.78,中,,0,0,0,,这正是注入的自燃点火剂与氧气接触并开始稳定燃烧的现象\Ncoming in contact with oxygen to begin stable combustion.
+Dialogue: 0,0:29:43.78,0:29:45.96,中,,0,0,0,,自燃点火剂也是一种自燃燃料\NPyroforks are a type of hypergolic.
+Dialogue: 0,0:29:46.12,0:29:51.87,中,,0,0,0,,这种液体会在接触氧气后瞬间自发燃烧\NIt's a fluid that will spontaneously and virtually instantaneously react with oxygen.
+Dialogue: 0,0:29:52.01,0:29:57.83,中,,0,0,0,,因此 只要将一些点火剂液体和氧气一起注入燃烧室\NSo just inject some pyrophoric fluids into the combustion chamber along with oxygen,
+Dialogue: 0,0:29:57.83,0:30:00.92,中,,0,0,0,,就燃起来啦!\Nand ta-da, you've got yourself a flame.
+Dialogue: 0,0:30:00.92,0:30:06.21,中,,0,0,0,,SpaceX使用一种名为"TEA-TEB"或"三乙基铝三乙基硼"的点火剂\NSpaceX uses an ignition fluid called TEA-TEB or triethyl aluminum triethyl borine.
+Dialogue: 0,0:30:06.46,0:30:12.80,中,,0,0,0,,储存在自家火箭上的储罐内 可以让梅林发动机多次重启\NIt's stored in their own canisters onboard the rocket and allows for multiple restarts of their Merlin engines.
+Dialogue: 0,0:30:12.80,0:30:16.24,中,,0,0,0,,并不是每台发动机都与TEA-TEB储罐相连\NNow, not every engine is connected to a TEA-TEB canister,
+Dialogue: 0,0:30:16.34,0:30:18.55,中,,0,0,0,,只有需要重启的发动机才有\Nonly the engines that would do a relight,
+Dialogue: 0,0:30:18.55,0:30:24.35,中,,0,0,0,,即一级九台梅林发动机中的三台 与二级上的真空梅林发动机\Nso 3 of the 9 Merlin engines on the booster and the vacuum Merlin engine on the upper stage.
+Dialogue: 0,0:30:24.35,0:30:28.98,中,,0,0,0,,但在起飞前 猎鹰九号和重型猎鹰的点火来自地面供应的TEA-TEB\NBut on the ground, the Falcon 9 and Falcon Heavy are lit using ground supplied TEA-TEB,
+Dialogue: 0,0:30:28.98,0:30:33.06,中,,0,0,0,,因为这样就可以把这套系统的重量留在地面\Nbecause why not keep those systems and their weight on the ground
+Dialogue: 0,0:30:33.06,0:30:35.96,中,,0,0,0,,不需要把它带上天了\Nif you don't need to carry that mass off the launch pad?
+Dialogue: 0,0:30:35.96,0:30:40.90,中,,0,0,0,,目前 SpaceX的猛禽发动机使用了多种启动方式\NNow, SpaceX has taken a little bit of a hybrid approach to ignition with their new Raptor engine.
+Dialogue: 0,0:30:41.11,0:30:43.92,中,,0,0,0,,猛禽发动机使用的是"火炬点火器"\NThe Raptor engine uses what are called a torch igniters.
+Dialogue: 0,0:30:44.06,0:30:49.13,中,,0,0,0,,火炬点火器本质上就是点蜡烛用的打火机的高级版本\NTorch igniters are basically just a fancy version of the lighters that you might use to light a candle.
+Dialogue: 0,0:30:49.30,0:30:54.46,中,,0,0,0,,不知大家是否听过ASI 全称"增强火花点火器"\NYou may or may not hear them called ASIs or Augmented Spark Igniters.
+Dialogue: 0,0:30:54.46,0:30:57.13,中,,0,0,0,,ASI自带一个小火花塞\NThe ASI has its own little small spark ignition
+Dialogue: 0,0:30:57.13,0:31:00.76,中,,0,0,0,,并且有独立的氧气甲烷供应 保证火炬的燃烧\Nand then its own supply of methylox that allows for the torch to burn.
+Dialogue: 0,0:31:00.76,0:31:06.56,中,,0,0,0,,所以它就像一个由火花塞点着的小型火焰喷射器\NSo it in itself is almost like a little flame thrower that's initially lit with a spark ignition.
+Dialogue: 0,0:31:06.86,0:31:10.51,中,,0,0,0,,之后这个火炬会在后续点火程序中一直亮着\NThen that torch remains lit through the rest of the startup sequence.
+Dialogue: 0,0:31:10.51,0:31:14.30,中,,0,0,0,,有点像固推点火程序中的连锁反应\NSo it's kind of like the cascading effect of the solid rocket booster ignition,
+Dialogue: 0,0:31:14.30,0:31:19.40,中,,0,0,0,,这里用的是一个小型火花塞点燃一个迷你火焰喷射器\Nthis uses a smaller electrical ignition source to ignite a small baby flame thrower.
+Dialogue: 0,0:31:19.40,0:31:22.99,中,,0,0,0,,但出人意料的是 它只用来点燃猛禽发动机的预燃室\NBut surprisingly, this is only done on the preburners,
+Dialogue: 0,0:31:22.99,0:31:28.03,中,,0,0,0,,因为实际上 猛禽发动机的主燃烧室内并没有点火装置\Nbecause believe it or not, the Raptor engine has no igniters in the main combustion chamber.
+Dialogue: 0,0:31:28.03,0:31:30.69,中,,0,0,0,,这款(一代猛禽发动机)主燃烧室内有火炬点火器\NSo you got torch igniters for the main chamber,
+Dialogue: 0,0:31:31.80,0:31:34.78,中,,0,0,0,,但在二代猛禽发动机的主燃烧室中就没有火炬点火器了\Nbut Raptor 2 has no torch igniters in the main chamber.
+Dialogue: 0,0:31:34.78,0:31:37.21,中,,0,0,0,,你能看出它的燃烧室外围干净多了\NSo you can see it's much cleaner around the chamber area.
+Dialogue: 0,0:31:37.74,0:31:39.51,中,,0,0,0,,这怎么……怎么点火的?\NHow do you... how does it light then?
+Dialogue: 0,0:31:41.23,0:31:43.44,中,,0,0,0,,呃……那就是秘密啦!\NWell, that's secret sauce!
+Dialogue: 0,0:31:43.92,0:31:49.30,中,,0,0,0,,虽然伊龙对自家发动机主燃烧室移除点火器的方法讳莫如深\NAlthough Elon was tight-lipped about how exactly they get away with ignition in the main combustion chamber,
+Dialogue: 0,0:31:49.70,0:31:54.02,中,,0,0,0,,但大家认为SpaceX靠的是均质燃烧\Nit's actually assumed that SpaceX is getting away with homogenous combustion,
+Dialogue: 0,0:31:54.02,0:31:59.28,中,,0,0,0,,也就是说 甲烷和氧气互相接触时基本上是自发燃烧\Nor basically spontaneous combustion when the methane and oxygen come in contact with each other.
+Dialogue: 0,0:31:59.28,0:32:04.39,中,,0,0,0,,但移除点火器的根本原因是猛禽发动机为全流量分级燃烧循环\NBut the main reason that they can get away with that is because in the Raptors full flow stage combustion cycle,
+Dialogue: 0,0:32:04.39,0:32:09.20,中,,0,0,0,,所有燃料与氧化剂都流经过各自的预燃室\Nboth the fuel and the oxidizer are preburned in their own preburners,
+Dialogue: 0,0:32:09.35,0:32:13.36,中,,0,0,0,,两者在主燃烧室内相遇时都已是高温燃气\Nand then they arrive in the main combustion chamber as hot gases already.
+Dialogue: 0,0:32:13.36,0:32:16.00,中,,0,0,0,,这种发生在主燃烧室内高压环境下的气-气反应\NSo take the fact that it's a gas-gas interaction
+Dialogue: 0,0:32:16.00,0:32:20.04,中,,0,0,0,,这种发生在主燃烧室内高压环境下的气-气反应\Nalong with ridiculously high pressures seen in the combustion chamber,
+Dialogue: 0,0:32:20.04,0:32:22.48,中,,0,0,0,,可能也不需要点火源了\Nno ignition source is necessary,
+Dialogue: 0,0:32:22.48,0:32:26.85,中,,0,0,0,,推进剂已经足够高温 混合足够均匀 一触即燃\Nthe propellant is already plenty hot and bothered and ready to burn.
+Dialogue: 0,0:32:26.85,0:32:31.36,中,,0,0,0,,到这里 我觉得已经把火箭发动机启动所涉及的内容讲差不多了\NWell, I think that pretty much covers all the major parts of starting a rocket engine,
+Dialogue: 0,0:32:31.36,0:32:33.70,中,,0,0,0,,但在我们讲实例之前\Nbut before we get into some examples,
+Dialogue: 0,0:32:33.86,0:32:36.58,中,,0,0,0,,我们先来看看另一个难题——\Nlet's actually cover one more challenge:
+Dialogue: 0,0:32:36.58,0:32:39.18,中,,0,0,0,,在太空启动火箭发动机\Nstarting a rocket engine in space.
+Dialogue: 0,0:32:44.14,0:32:46.88,中,,0,0,0,,在地面上启动火箭发动机就已经很难了\NStarting a rocket engine on the ground is pretty challenging,
+Dialogue: 0,0:32:46.88,0:32:49.39,中,,0,0,0,,但地面至少还有些能帮上忙的东西\Nbut at least it has a few things going its way.
+Dialogue: 0,0:32:49.39,0:32:53.63,中,,0,0,0,,首先 火箭发动机可以使用地面支持设备来辅助启动\NFirst off, the rocket can utilize a lot of ground support equipment for startup.
+Dialogue: 0,0:32:54.01,0:32:59.05,中,,0,0,0,,这意味着火箭不需要自带大量用于起转的高压物质\NThis means the rocket doesn't need to provide crazy amounts of high pressure starting propellant,
+Dialogue: 0,0:32:59.05,0:33:03.22,中,,0,0,0,,还有电能 点火剂 各种所需都可以留在地面\Nelectricity, ignition fluid, or whatever else you may need.
+Dialogue: 0,0:33:03.22,0:33:08.27,中,,0,0,0,,而最大的优势是重力可以让燃料在火箭箱体中沉底\NAnd best of all, gravity is pulling down on the rocket and the propellant held inside.
+Dialogue: 0,0:33:08.41,0:33:12.53,中,,0,0,0,,因此 密度更大的液体燃料会稳稳沉在箱底\NSo the more dense liquid propellant will sit at the bottom of the tanks,
+Dialogue: 0,0:33:12.53,0:33:17.84,中,,0,0,0,,气体只会出现在箱体顶端 最远离输油管入口的地方\Nwhile only at the very top of the tank, opposite of the feed tubes will have gases.
+Dialogue: 0,0:33:17.84,0:33:21.94,中,,0,0,0,,但在太空点燃发动机就没那么简单了\NBut the same thing isn't true when trying to light an engine in space.
+Dialogue: 0,0:33:22.17,0:33:24.05,中,,0,0,0,,不仅仅是在太空\NWell, not just specifically in space,
+Dialogue: 0,0:33:24.18,0:33:27.85,中,,0,0,0,,一切不在地面 不在加速的情况下都是如此\Nbut more when you are not accelerating or not on the ground.
+Dialogue: 0,0:33:27.85,0:33:29.66,中,,0,0,0,,因为当火箭不在加速的时候\NBecause when not accelerating,
+Dialogue: 0,0:33:29.66,0:33:32.36,中,,0,0,0,,一切物体都在同一个惯性参考系中\Neverything is in the same inertial reference frame.
+Dialogue: 0,0:33:32.36,0:33:37.19,中,,0,0,0,,换句话说 发动机关机后 航天器漂浮在太空中\NIn other words, when the engines are off and the spacecraft is just floating in space,
+Dialogue: 0,0:33:37.19,0:33:39.03,中,,0,0,0,,是没有加速度的\Nthere is no acceleration,
+Dialogue: 0,0:33:39.03,0:33:43.39,中,,0,0,0,,推进剂会变成漂浮在箱体内的液球\Nmeaning the propellant is more or less just a blob floating around in a tank.
+Dialogue: 0,0:33:43.53,0:33:46.58,中,,0,0,0,,因此 为了在太空中启动发动机\NSo in order to start a rocket engine in space,
+Dialogue: 0,0:33:46.58,0:33:50.90,中,,0,0,0,,我们首先要保证液体推进剂在箱中沉底\Nwe first need to make sure the liquid propellant is at the bottom of the tank,
+Dialogue: 0,0:33:50.90,0:33:56.74,中,,0,0,0,,让泵 发动机 或者推进器能顺利吸取到燃料\Nso the pumps, engine, and or the thrusters can suck up the liquid as intended
+Dialogue: 0,0:33:56.74,0:34:00.04,中,,0,0,0,,而不是吸取到充满气体的气泡 那样情况会很糟\Nand not get gas bubbles, which can be really bad.
+Dialogue: 0,0:34:00.04,0:34:04.36,中,,0,0,0,,通常的解决办法是使用沉底发动机\NA common method for doing this is by using what's known as ullage thrusters.
+Dialogue: 0,0:34:04.52,0:34:10.47,中,,0,0,0,,通常使用小型固推火箭或冷气推进器来让发动机沉底\NThis is where you either use a small solid rocket motor or cold gas thruster to settle the propellants.
+Dialogue: 0,0:34:10.47,0:34:14.38,中,,0,0,0,,你可以想象自己在用兜网抓蝴蝶\NYou can almost think of it like a butterfly net trying to catch butterflies.
+Dialogue: 0,0:34:14.38,0:34:16.25,中,,0,0,0,,在太空中一脚加速\NBy moving through space,
+Dialogue: 0,0:34:16.25,0:34:19.64,中,,0,0,0,,箱底就把液体推进剂全兜住了\Nit'll basically catch and collect all of the liquid propellant.
+Dialogue: 0,0:34:19.64,0:34:23.80,中,,0,0,0,,我们可以在很多火箭上看到分离时的沉底发动机\NYou'll see footage of ullage thrusters at stage separation for many rockets.
+Dialogue: 0,0:34:23.94,0:34:29.43,中,,0,0,0,,视频中这个震撼的S-IVB级点火画面实际来自土星IB火箭(二级)\NThis incredibly iconic imagery of the S-IVB ignition is actually from a Saturn IB,
+Dialogue: 0,0:34:29.43,0:34:33.58,中,,0,0,0,,而它同时也是土星五号火箭的上面级(三级)\Nbut it's the same stage that was used on the upper stage of the Saturn V.
+Dialogue: 0,0:34:33.86,0:34:37.22,中,,0,0,0,,上面的沉底发动机不但可以辅助分离\NNot only did the ullage motors help separate the stages,
+Dialogue: 0,0:34:37.22,0:34:39.40,中,,0,0,0,,还起到了燃料沉底的作用\Nbut it also did the propellant settling.
+Dialogue: 0,0:34:39.55,0:34:43.38,中,,0,0,0,,此类操作还适用于太空中发动机的多次启动\NThis may also need to be done for any restart in space.
+Dialogue: 0,0:34:43.38,0:34:47.30,中,,0,0,0,,比如圆化轨道的点火 或同步转移轨道的点火\NSay you have a circularization burn or a geostationary transfer burn,
+Dialogue: 0,0:34:47.30,0:34:52.28,中,,0,0,0,,或者同步轨道直送任务的轨道插入点火 等任何你需要的场合\Nor a direct to geostationary orbital insertion burn, or whatever you might have.
+Dialogue: 0,0:34:52.64,0:34:57.35,中,,0,0,0,,如果是液体火箭 很可能需要先进行沉底点火\NIf it's a liquid fueled rocket engine, you'll likely have to do an ullage burn.
+Dialogue: 0,0:34:57.42,0:35:00.63,中,,0,0,0,,就像火箭发动机的泵起转一样\NAnd similar to a rocket needing to do a spin start again,
+Dialogue: 0,0:35:00.75,0:35:02.66,中,,0,0,0,,如果想要进行多次点火\Nif you need to do multiple burns,
+Dialogue: 0,0:35:02.87,0:35:07.81,中,,0,0,0,,就要有多组固体火箭或使用冷气推进器\Nyou might need to either have multiple solid rocket cartridges or use a cold gas thruster
+Dialogue: 0,0:35:07.81,0:35:09.80,中,,0,0,0,,在需要的时候随时点火\Nso you can fire it up whenever you need to.
+Dialogue: 0,0:35:09.80,0:35:12.21,中,,0,0,0,,冷气推进器在沉底发动机中很常见\NCold gas is pretty common for ullage thrusters
+Dialogue: 0,0:35:12.21,0:35:15.83,中,,0,0,0,,因为它还可以用于火箭各级的调姿发动机\Nsince it might also be used as maneuvering propellant for stages.
+Dialogue: 0,0:35:16.15,0:35:19.66,中,,0,0,0,,就连猎鹰九号的一级用的也是冷气推进器\NEven the Falcon 9 booster has to use cold gas thrusters
+Dialogue: 0,0:35:19.66,0:35:22.61,中,,0,0,0,,让它在反推 再入点火中燃料可以沉底\Nto settle the propellant before boost back and entry burns.
+Dialogue: 0,0:35:22.61,0:35:28.84,中,,0,0,0,,太空中可以使用冷气推进器 因为推进剂是以高压气体形式储存的\NYou can use a cold gas thruster in space because it uses gaseous propellant stored at high pressure,
+Dialogue: 0,0:35:28.84,0:35:33.86,中,,0,0,0,,气瓶内压力是均等的 不会有"气泡"这样的东西出现\Nso there is equal pressure throughout the entire tank, the gases won't blob about.
+Dialogue: 0,0:35:33.86,0:35:36.77,中,,0,0,0,,但有些航天器根本不需要沉底发动机\NBut some spacecraft don't need ullage thrusters at all.
+Dialogue: 0,0:35:36.77,0:35:42.46,中,,0,0,0,,实际上 许多调姿发动机使用液体双组元推进 通常是接触自燃燃料\NIn fact, many maneuvering thrusters run on liquid bi-propellants, usually hypergolics,
+Dialogue: 0,0:35:42.61,0:35:45.75,中,,0,0,0,,当它们在太空中需要进行精确机动时\Nand when they're in space in order to do precise maneuvering,
+Dialogue: 0,0:35:45.75,0:35:49.98,中,,0,0,0,,不可能每次机动前先花时间让燃料沉底\Nthey can't do an ullage burn every single time they need to do a maneuver.
+Dialogue: 0,0:35:49.98,0:35:52.83,中,,0,0,0,,拿SpaceX的龙飞船举例\NTake SpaceX's Dragon capsule, for example.
+Dialogue: 0,0:35:52.83,0:35:55.27,中,,0,0,0,,它逐渐接近国际空间站时\NAs it approaches the International Space Station,
+Dialogue: 0,0:35:55.27,0:35:58.90,中,,0,0,0,,可以看到它的Draco发动机不停在喷喷喷\Nyou'll see it firing its Draco thrusters like crazy.
+Dialogue: 0,0:35:58.90,0:36:04.87,中,,0,0,0,,这些小的脉冲可以让飞船有很高精度的机动控制\NThese little tiny impulses help precisely control and maneuver the vehicle with extreme accuracy.
+Dialogue: 0,0:36:04.87,0:36:08.02,中,,0,0,0,,Draco发动机使用接触自燃的液体燃料\NThe Dracos run on hypergolic liquid propellants.
+Dialogue: 0,0:36:08.31,0:36:14.01,中,,0,0,0,,那么在燃料箱中有液体的太空中 他们是如何启动这些发动机的?\NSo how do they fire these engines in space when the tanks have liquids in them?
+Dialogue: 0,0:36:14.01,0:36:15.31,中,,0,0,0,,其实有几种方法实现\NThere's a few ways to actually do this,
+Dialogue: 0,0:36:15.31,0:36:20.38,中,,0,0,0,,其中最简单的可能是推进剂管理装置 简称PMD\Nbut perhaps the most simple is with a propellant management device or a PMD.
+Dialogue: 0,0:36:20.70,0:36:24.18,中,,0,0,0,,可以是像叶脉或海绵一样的简单装置\NThis can be a simple device like a vein screen or sponge
+Dialogue: 0,0:36:24.18,0:36:30.22,中,,0,0,0,,利用表面张力和其他一些非常酷的技巧将推进剂导向储箱出口\Nto wick the propellant towards the tank outlets using surface tension and some other really cool tricks.
+Dialogue: 0,0:36:30.22,0:36:32.57,中,,0,0,0,,还可以在储箱内放置液囊\NAnother way is with tank bladders.
+Dialogue: 0,0:36:33.12,0:36:34.95,中,,0,0,0,,没错 听上去挺离谱\NYep, believe it or not,
+Dialogue: 0,0:36:34.95,0:36:41.24,中,,0,0,0,,但太空中很多储箱内部还有个液囊 把液体和加压气体分隔开\Nmany in-space tanks will have a bladder inside to separate the liquid from the pressuring gases.
+Dialogue: 0,0:36:41.24,0:36:45.10,中,,0,0,0,,这样 推进剂仍然可以加压到所需压力\NThis way, the propellants can still be pressurized to necessary pressures,
+Dialogue: 0,0:36:45.10,0:36:48.54,中,,0,0,0,,而液囊还可以防止液体燃料出现气泡\Nand the bladder will help keep gas bubbles out of the liquid.
+Dialogue: 0,0:36:48.82,0:36:51.57,中,,0,0,0,,它们在球形储箱中非常常见\NThese are most commonly used on spherical tanks,
+Dialogue: 0,0:36:51.57,0:36:54.87,中,,0,0,0,,不过有些活塞式的储箱也有类似的机构\Nbut there's also some piston tanks that do a similar thing,
+Dialogue: 0,0:36:55.14,0:36:59.25,中,,0,0,0,,但这个操作在细长形状的储箱中更常见 应该可以想象到\Nbut these are more common on elongated cylinders, as you can imagine.
+Dialogue: 0,0:36:59.25,0:37:02.85,中,,0,0,0,,虽说叫活塞 但通常只是一个能动的密封件\NAlthough it is a piston, it's usually just a moving seal.
+Dialogue: 0,0:37:02.85,0:37:05.22,中,,0,0,0,,实际上仍是由氦气加压的\NThey're still actually pressurized by helium.
+Dialogue: 0,0:37:05.22,0:37:11.26,中,,0,0,0,,多数太空中的推进器与发动机会使用上述几种方法的组合\NMost in space thrusters and engines will utilize one or a combination of a few of these devices
+Dialogue: 0,0:37:11.26,0:37:13.53,中,,0,0,0,,来最优化太空中推进剂的使用\Nto best handle propellants in space.
+Dialogue: 0,0:37:13.53,0:37:18.35,中,,0,0,0,,接下来我还要告诉大家另一种在太空中启动发动机的方法\NBut what if I told you that there's an even crazier way to light an engine in space
+Dialogue: 0,0:37:18.35,0:37:21.93,中,,0,0,0,,不用沉底发动机 不用储箱液囊 啥都不用!\Nwithout ullage thrusters or bladder tanks or anything?
+Dialogue: 0,0:37:22.15,0:37:27.35,中,,0,0,0,,大家有没有注意过联盟号或质子号火箭中间网格连接的部分?\NHave you ever noticed the grided fence-looking section of the Soyuz or Proton rockets,
+Dialogue: 0,0:37:27.35,0:37:30.80,中,,0,0,0,,或者大力神2号级间段上开洞的部分?\Nor maybe you've seen these cutouts on the interstage of the Titan II?
+Dialogue: 0,0:37:30.93,0:37:37.79,中,,0,0,0,,隆重向大家介绍——热分离 也叫热分级\NWell, these are necessary to perform the ultimate endearing space events, hot firing, otherwise known as hot staging.
+Dialogue: 0,0:37:37.90,0:37:41.06,中,,0,0,0,,指下面级仍未分离 还在运行时就先点燃上面级的发动机\NThis is where you light the engines on the upper stage,
+Dialogue: 0,0:37:41.06,0:37:45.27,中,,0,0,0,,指下面级仍未分离 还在运行时就先点燃上面级的发动机\Nwhile the stage below it is still attached and running.
+Dialogue: 0,0:37:45.58,0:37:50.62,中,,0,0,0,,没错 下面火箭还没烧完的时候 就先把上面的点了\NYep, you just light that engine while there's still a rocket attached to the bottom of it.
+Dialogue: 0,0:37:50.87,0:37:54.48,中,,0,0,0,,字面意思上的"菊花冒火"\NThis is called "Fire in the Hole" for obvious reasons.
+Dialogue: 0,0:37:54.48,0:37:58.32,中,,0,0,0,,在这样的操作下 推进剂仍在加速中\NBut by doing this, propellant is already experiencing acceleration.
+Dialogue: 0,0:37:58.43,0:38:01.72,中,,0,0,0,,因此液体会一直乖乖待在箱底\NSo liquid will obviously be at the bottom of the tanks,
+Dialogue: 0,0:38:01.94,0:38:05.40,中,,0,0,0,,但上面级点火时 尾焰总要有一个出路\Nbut when you light an engine, the exhaust will have to go somewhere,
+Dialogue: 0,0:38:05.75,0:38:09.90,中,,0,0,0,,所以上述这些火箭级间段都有开放的空隙\Nand now you know why there's so much of an open gap between the stages.
+Dialogue: 0,0:38:09.90,0:38:12.96,中,,0,0,0,,到这里 火箭发动机的启动方式基本就说完了\NAll right, that pretty much sums up how to start a rocket engine,
+Dialogue: 0,0:38:13.30,0:38:17.95,中,,0,0,0,,接下来找一个现实中的例子 看看大家能不能跟上我的思路\Nbut now let's actually go over a real life example and see if we can follow along.
+Dialogue: 0,0:38:21.35,0:38:27.13,中,,0,0,0,,亲爱的观众朋友们 为了把刚讲的内容攥在一起深入探究\NOkay, my friends, I think in order to really put all this together and dive really deep into this,
+Dialogue: 0,0:38:27.46,0:38:30.22,中,,0,0,0,,我决定带大家了解一下火箭发动机启动时的内部\Nwe need to get inside a rocket engine during startup,
+Dialogue: 0,0:38:30.22,0:38:35.86,中,,0,0,0,,一步一步了解这台最复杂的火箭发动机之一的完整启动程序\Nand go step by step through the entire startup process of one of the most complicated rocket engines,
+Dialogue: 0,0:38:36.25,0:38:37.43,中,,0,0,0,,RS-25发动机\Nthe RS-25.
+Dialogue: 0,0:38:37.56,0:38:39.73,中,,0,0,0,,看完了它的启动程序\NIf we can walk all the way through this one,
+Dialogue: 0,0:38:39.73,0:38:41.56,中,,0,0,0,,倒不敢说大伙都完全懂了吧\NI'm not gonna say that we've mastered it,
+Dialogue: 0,0:38:41.56,0:38:45.49,中,,0,0,0,,但至少也能有个相当不错的理解了\Nbut we should definitely have a very good understanding.
+Dialogue: 0,0:38:45.49,0:38:51.42,中,,0,0,0,,RS-25这款发动机最大的优点是我们对它的启动程序了解得非常深刻\NOh, what's best of all with the RS-25 is we have some incredible insights on how exactly this engine starts up
+Dialogue: 0,0:38:51.42,0:38:56.03,中,,0,0,0,,因为整个启动程序都非常非常详细地公开出来了\Nbecause the startup process is actually really, really well publicly documented.
+Dialogue: 0,0:38:56.03,0:39:01.07,中,,0,0,0,,让我们得以非常非常深入地了解在启动程序中发动机内部发生了什么\NSo we can go really, really deep and actually explain what's going on inside the engine
+Dialogue: 0,0:39:01.07,0:39:02.80,中,,0,0,0,,让我们得以非常非常深入地了解在启动程序中发动机内部发生了什么\Nfor the entire startup process.
+Dialogue: 0,0:39:02.80,0:39:08.75,中,,0,0,0,,为此我还买了Robert E. Biggs写的《航天飞机主发动机 最初的十年》\NAnd for this, I actually bought a book called {\i1}Space Shuttle Main Engine, The First Ten Years{\i0} by Robert E. Biggs,
+Dialogue: 0,0:39:08.75,0:39:12.61,中,,0,0,0,,这书真的超级牛 把启动程序讲得相当深\Nand it's an awesome book, it goes really, really in depth into this process.
+Dialogue: 0,0:39:12.61,0:39:15.73,中,,0,0,0,,这本书最牛的是上面这些图表\NBut the coolest thing about this book is it has these charts
+Dialogue: 0,0:39:15.73,0:39:18.90,中,,0,0,0,,展示了启动程序中压力与阀门状态的变化\Nshowing the pressure and valve openings during the startup process.
+Dialogue: 0,0:39:18.90,0:39:21.82,中,,0,0,0,,我把它简单整理了一下\NSo we'll draw these out a little bit more cleanly
+Dialogue: 0,0:39:21.82,0:39:23.96,中,,0,0,0,,并在旁边放上发动机的动画\Nalong with a diagram of the engine,
+Dialogue: 0,0:39:23.96,0:39:26.88,中,,0,0,0,,大家可以一步步慢慢看\Nso we can go just step by step really slowly
+Dialogue: 0,0:39:26.88,0:39:29.58,中,,0,0,0,,了解整个启动程序中的变化\Nand watch all the things change throughout the entire process.
+Dialogue: 0,0:39:29.58,0:39:42.00,注,,0,0,0,,av300259217\N31分钟开始
+Dialogue: 0,0:39:29.58,0:39:35.18,中,,0,0,0,,现在我要再次提醒大家 如果你没看过《火箭发动机循环方式介绍》\NNow, I must warn you again, if you haven't watched my "How to power a rocket engine" video,
+Dialogue: 0,0:39:35.34,0:39:40.09,中,,0,0,0,,请务必先去看那期视频 了解富燃闭式循环发动机的原理\Nyou really will need to have a good understanding of the fuel rich closed cycle engine
+Dialogue: 0,0:39:40.09,0:39:42.00,中,,0,0,0,,再回来看这个视频\Nbefore you go through this portion of the video.
+Dialogue: 0,0:39:42.00,0:39:46.39,中,,0,0,0,,因为我们将反复深入讲上面的各个部件\NBecause we get really, really in depth with the exact components.
+Dialogue: 0,0:39:46.39,0:39:50.21,中,,0,0,0,,不过快速复习一下 RS-25发动机有两个预燃室\NBut as a quick review, the RS-25 has two preburners.
+Dialogue: 0,0:39:50.21,0:39:54.78,中,,0,0,0,,因为发动机是富燃闭式循环 所以两个预燃室都是富燃运行的\NSince it's fuel rich closed cycle, both preburners are fuel rich,
+Dialogue: 0,0:39:54.78,0:39:58.17,中,,0,0,0,,所有燃料(氢)都会流经预燃室\Nmeaning all of the fuel will flow through the preburners,
+Dialogue: 0,0:39:58.17,0:40:02.51,中,,0,0,0,,一个预燃室驱动氧泵 另一个驱动氢泵\None preburner powers the oxygen pumps and the other powers the fuel pumps.
+Dialogue: 0,0:40:02.51,0:40:05.07,中,,0,0,0,,氧泵有一个小的二级加压\NThen there's a small boost pump on the oxygen side
+Dialogue: 0,0:40:05.07,0:40:09.57,中,,0,0,0,,用于供给两个需要更高压力液氧的预燃室\Nthat feeds the preburners, the higher pressure liquid oxygen that they need to operate,
+Dialogue: 0,0:40:09.72,0:40:12.04,中,,0,0,0,,还有几个阀门\Nand there's a handful of valves.
+Dialogue: 0,0:40:12.25,0:40:15.16,中,,0,0,0,,预阀用来隔离箱体与发动机\NThe prevalve that shuts off the tanks to the engines.
+Dialogue: 0,0:40:15.30,0:40:20.68,中,,0,0,0,,然后是主燃料阀 供给两个预燃室与再生冷却通道\NThen there's the main fuel valve, which feeds the preburners and the regen cooling channels.
+Dialogue: 0,0:40:20.82,0:40:24.67,中,,0,0,0,,再生冷却系统有一个单独的阀门 称为推力室冷却阀门\NBut the regen system has a separate valve called the chamber coolant valve,
+Dialogue: 0,0:40:24.67,0:40:29.69,中,,0,0,0,,调整阀门可以控制燃料流向主燃烧室或再生冷却系统\Nwhich can be throttled to redirect fuel between the main combustion chamber and the regen system.
+Dialogue: 0,0:40:29.69,0:40:34.04,中,,0,0,0,,然后是三个氧阀 各自负责供给三个燃烧室\NThen there's three oxygen valves, one that feeds each of the three combustion chambers,
+Dialogue: 0,0:40:34.04,0:40:37.62,中,,0,0,0,,即两个预燃室和一个主燃烧室\Nso both of the preburners and the main combustion chamber.
+Dialogue: 0,0:40:37.76,0:40:41.65,中,,0,0,0,,还有一些再循环管路 将沸腾的气态推进剂送回罐体或排放至大气\NThere's a few recirculation pipes that feed boiling off gaseous propellant
+Dialogue: 0,0:40:41.65,0:40:45.21,中,,0,0,0,,还有一些再循环管路 将沸腾的气态推进剂送回罐体或排放至大气\Neither back into the tanks or vents them out into the atmosphere.
+Dialogue: 0,0:40:45.33,0:40:48.67,中,,0,0,0,,还有增强火花点火器(ASI)\NThere's also what's called ASIs or Augmented Spark Igniters.
+Dialogue: 0,0:40:48.67,0:40:53.78,中,,0,0,0,,一共有三组ASI 两个预燃室加主燃烧室各一个\NThere are three sets of ASIs, one in each preburner and one in the main combustion chamber.
+Dialogue: 0,0:40:53.78,0:40:56.94,中,,0,0,0,,这些ASI有自己独立的燃料与氧化剂供应管路\NThese ASIs have their own fuel and oxygen supply lines
+Dialogue: 0,0:40:56.94,0:41:00.40,中,,0,0,0,,它们是系统中最先接收到燃料的部分\Nand will be the first items to receive each propellant in the system.
+Dialogue: 0,0:41:00.40,0:41:05.68,中,,0,0,0,,在真实的发动机上显然还有无数其他的小管路和传感器\NNow there's obviously a million other small tubes and pipes and sensors littering the real engine,
+Dialogue: 0,0:41:05.68,0:41:09.48,中,,0,0,0,,但为了尽量便于大家理解 我就暂时只展示这么多\Nbut to try to keep this understandable, I think we'll just leave it at this for now.
 Dialogue: 0,0:41:09.48,0:41:13.01,中,,0,0,0,,As we know, the first thing a cryogenic liquid propellant engine needs to do
 Dialogue: 0,0:41:13.01,0:41:15.40,中,,0,0,0,,is be purged and thermally conditioned for launch.
 Dialogue: 0,0:41:15.40,0:41:20.19,中,,0,0,0,,So the RS-25 first goes into what they call the Start Preparation Phase.
@@ -892,48 +890,47 @@ Dialogue: 0,0:53:01.52,0:53:03.74,中,,0,0,0,,I mean, that's about as deep as I 
 Dialogue: 0,0:53:03.74,0:53:06.81,中,,0,0,0,,so I think it's time we wrap up by touching on throttling
 Dialogue: 0,0:53:06.81,0:53:09.50,中,,0,0,0,,and the opposite of startup shutting the engine down,
 Dialogue: 0,0:53:09.58,0:53:11.82,中,,0,0,0,,and then we'll do some final thoughts and a summary.
-Dialogue: 0,0:53:19.51,0:53:23.72,中,,0,0,0,,Of course, startup isn't the only dynamic situation a rocket engine faces.
-Dialogue: 0,0:53:23.72,0:53:25.95,中,,0,0,0,,Sure, once an engine running,
-Dialogue: 0,0:53:25.95,0:53:30.84,中,,0,0,0,,it's in a steady state, and there shouldn't really be any real surprises.
-Dialogue: 0,0:53:30.84,0:53:35.90,中,,0,0,0,,But what happens when an engine throttles down for maximum aerodynamic pressure or MaxQ,
-Dialogue: 0,0:53:35.90,0:53:39.42,中,,0,0,0,,maintaining desired peak G loads or even when it's landing?
-Dialogue: 0,0:53:39.42,0:53:43.26,中,,0,0,0,,As you can likely imagine, this varies very much from engine to engine,
-Dialogue: 0,0:53:43.26,0:53:46.72,中,,0,0,0,,and frankly, this is probably a topic for another video.
-Dialogue: 0,0:53:46.72,0:53:52.14,中,,0,0,0,,But in short, engines generally throttle by reducing the flow to the preburner or the gas generator,
-Dialogue: 0,0:53:52.14,0:53:57.80,中,,0,0,0,,so usually with one of the control valves and often by reducing the flow of oxygen
-Dialogue: 0,0:53:57.80,0:53:59.64,中,,0,0,0,,to maintain a fuel rich state.
-Dialogue: 0,0:53:59.64,0:54:02.03,中,,0,0,0,,The same thing goes for shutting an engine down.
-Dialogue: 0,0:54:02.03,0:54:03.70,中,,0,0,0,,It's another dynamic event,
-Dialogue: 0,0:54:03.70,0:54:08.43,中,,0,0,0,,and the general rule of thumb is you never want to get close to stoichiometric conditions.
-Dialogue: 0,0:54:08.43,0:54:10.97,中,,0,0,0,,Since engines usually run fuel rich,
-Dialogue: 0,0:54:11.06,0:54:15.30,中,,0,0,0,,you do this by first reducing the oxygen flow and then the fuel flow.
-Dialogue: 0,0:54:15.30,0:54:18.84,中,,0,0,0,,Generally, you want to shut an engine down pretty much as quickly as possible,
-Dialogue: 0,0:54:18.84,0:54:23.73,中,,0,0,0,,but you often have limits on how quickly you can do that to avoid high G loads.
-Dialogue: 0,0:54:23.95,0:54:26.76,中,,0,0,0,,For example, when the RS-25 was on the Space Shuttle,
-Dialogue: 0,0:54:26.76,0:54:29.87,中,,0,0,0,,there was a limit to how quickly the thrust could decay,
-Dialogue: 0,0:54:29.87,0:54:32.61,中,,0,0,0,,so as not to exceed the orbiter's structural limit.
-Dialogue: 0,0:54:32.61,0:54:36.13,中,,0,0,0,,The initial oxygen preburner oxygen valve motion
-Dialogue: 0,0:54:36.13,0:54:38.88,中,,0,0,0,,was limited to 45% per second.
-Dialogue: 0,0:54:39.02,0:54:42.60,中,,0,0,0,,The main oxygen valve also had to be closed at a particular rate,
-Dialogue: 0,0:54:42.78,0:54:46.38,中,,0,0,0,,but mostly to ensure there was sufficient back pressure on the turbines,
-Dialogue: 0,0:54:46.38,0:54:49.67,中,,0,0,0,,so they wouldn't accidentally over speed during the shutdown process.
-Dialogue: 0,0:54:49.67,0:54:55.28,中,,0,0,0,,To me, it's just crazy how many considerations there are to absolutely every single input and condition.
-Dialogue: 0,0:54:55.58,0:54:58.25,中,,0,0,0,,Like I feel like there's a million lessons to be learned that
-Dialogue: 0,0:54:58.25,0:55:03.25,中,,0,0,0,,frankly can really only be learned the hard way by examining scraps of an engine
-Dialogue: 0,0:55:03.25,0:55:05.08,中,,0,0,0,,and trying to figure out what went wrong.
-Dialogue: 0,0:55:05.08,0:55:10.22,中,,0,0,0,,I think it's kind of this mindset that drives SpaceX to test their Raptor engines so quickly.
-Dialogue: 0,0:55:10.30,0:55:13.02,中,,0,0,0,,They truly believe that by just getting them out on the stand,
-Dialogue: 0,0:55:13.13,0:55:17.03,中,,0,0,0,,not treating them as some one-off golden pony or something,
-Dialogue: 0,0:55:17.18,0:55:18.62,中,,0,0,0,,they can learn more quickly.
-Dialogue: 0,0:55:18.74,0:55:20.94,中,,0,0,0,,There's countless lessons that they have learned,
-Dialogue: 0,0:55:20.94,0:55:24.81,中,,0,0,0,,that have shaped safe operation during startup throttling and shut down.
-Dialogue: 0,0:55:24.81,0:55:29.01,中,,0,0,0,,And I know that many of you are probably wanting to know how exactly the Raptor engine starts.
-Dialogue: 0,0:55:29.10,0:55:34.66,中,,0,0,0,,Its startup process isn't as well publicly documented, of course, as say the RS-25,
-Dialogue: 0,0:55:34.66,0:55:36.64,中,,0,0,0,,but it does have some similarities.
-Dialogue: 0,0:55:36.64,0:55:39.62,中,,0,0,0,,It of course, has two preburners, like the RS-25,
-Dialogue: 0,0:55:39.62,0:55:44.52,中,,0,0,0,,but the biggest difference is that one preburner is fuel rich and the other is oxidizer rich.
-Dialogue: 0,0:55:44.52,0:55:49.10,中,,0,0,0,,So this means the interaction between the two preburners is even more intertwined.
-Dialogue: 0,0:55:49.18,0:55:54.12,中,,0,0,0,,Changing the speed of one has a very direct correlation and impact on the other one.
+Dialogue: 0,0:53:19.51,0:53:23.72,中,,0,0,0,,当然了 启动并不是火箭发动机唯一要面对的动态过程\NOf course, startup isn't the only dynamic situation a rocket engine faces.
+Dialogue: 0,0:53:23.72,0:53:25.95,中,,0,0,0,,诚然 发动机运行起来\NSure, once an engine running,
+Dialogue: 0,0:53:25.95,0:53:30.84,中,,0,0,0,,状态就稳定多了 不太会有什么以外情况\Nit's in a steady state, and there shouldn't really be any real surprises.
+Dialogue: 0,0:53:30.84,0:53:35.90,中,,0,0,0,,但当发动机在最大动压处收油门\NBut what happens when an engine throttles down for maximum aerodynamic pressure or MaxQ,
+Dialogue: 0,0:53:35.90,0:53:39.42,中,,0,0,0,,维持峰值加速度 甚至着陆回收时又发生了什么呢?\Nmaintaining desired peak G loads or even when it's landing?
+Dialogue: 0,0:53:39.42,0:53:43.26,中,,0,0,0,,相信大家也能想象到 不同发动机肯定各不相同\NAs you can likely imagine, this varies very much from engine to engine,
+Dialogue: 0,0:53:43.26,0:53:46.72,中,,0,0,0,,而且说实话 这些都够再做一期视频了\Nand frankly, this is probably a topic for another video.
+Dialogue: 0,0:53:46.72,0:53:52.14,中,,0,0,0,,不过简言之 火箭发动机通常靠减少预燃室或燃气发生器的流量实现节流\NBut in short, engines generally throttle by reducing the flow to the preburner or the gas generator,
+Dialogue: 0,0:53:52.14,0:53:57.80,中,,0,0,0,,因此 通常只靠一个阀门 一般是减少氧的供应\Nso usually with one of the control valves and often by reducing the flow of oxygen
+Dialogue: 0,0:53:57.80,0:53:59.64,中,,0,0,0,,来维持发动机的富燃状态\Nto maintain a fuel rich state.
+Dialogue: 0,0:53:59.64,0:54:02.03,中,,0,0,0,,发动机的关机也是类似的情况\NThe same thing goes for shutting an engine down.
+Dialogue: 0,0:54:02.03,0:54:03.70,中,,0,0,0,,这是另一个动态过程\NIt's another dynamic event,
+Dialogue: 0,0:54:03.70,0:54:08.43,中,,0,0,0,,基本规则就是永远不要让发动机跑到理想化学比燃烧\Nand the general rule of thumb is you never want to get close to stoichiometric conditions.
+Dialogue: 0,0:54:08.43,0:54:10.97,中,,0,0,0,,因为发动机通常是处在富燃状态的\NSince engines usually run fuel rich,
+Dialogue: 0,0:54:11.06,0:54:15.30,中,,0,0,0,,所以先减少氧气供应 再降低燃料供应\Nyou do this by first reducing the oxygen flow and then the fuel flow.
+Dialogue: 0,0:54:15.30,0:54:18.84,中,,0,0,0,,一般来说 发动机的关机过程越快越好\NGenerally, you want to shut an engine down pretty much as quickly as possible,
+Dialogue: 0,0:54:18.84,0:54:23.73,中,,0,0,0,,但这个速度经常会有一个限制 避免过高的过载\Nbut you often have limits on how quickly you can do that to avoid high G loads.
+Dialogue: 0,0:54:23.95,0:54:26.76,中,,0,0,0,,比如对于航天飞机上的RS-25发动机\NFor example, when the RS-25 was on the Space Shuttle,
+Dialogue: 0,0:54:26.76,0:54:29.87,中,,0,0,0,,就有一个推力衰减速率的限制\Nthere was a limit to how quickly the thrust could decay,
+Dialogue: 0,0:54:29.87,0:54:32.61,中,,0,0,0,,防止过载超出轨道器的结构限制\Nso as not to exceed the orbiter's structural limit.
+Dialogue: 0,0:54:32.61,0:54:38.88,中,,0,0,0,,氧预燃室氧化阀的初始移动限制为每秒45%\NThe initial oxygen preburner oxygen valve motion was limited to 45% per second.
+Dialogue: 0,0:54:39.02,0:54:42.60,中,,0,0,0,,氧主阀也有一个特定的关闭速率\NThe main oxygen valve also had to be closed at a particular rate,
+Dialogue: 0,0:54:42.78,0:54:46.38,中,,0,0,0,,但这主要是为了确保涡轮上有足够的背压\Nbut mostly to ensure there was sufficient back pressure on the turbines,
+Dialogue: 0,0:54:46.38,0:54:49.67,中,,0,0,0,,保证涡轮在关闭过程中不会意外超速\Nso they wouldn't accidentally over speed during the shutdown process.
+Dialogue: 0,0:54:49.67,0:54:55.28,中,,0,0,0,,对我来说 要考虑到每一个输入和条件等因素 想想都太恐怖了\NTo me, it's just crazy how many considerations there are to absolutely every single input and condition.
+Dialogue: 0,0:54:55.58,0:54:58.25,中,,0,0,0,,我觉得这当中有无数要学习的\NLike I feel like there's a million lessons to be learned that
+Dialogue: 0,0:54:58.25,0:55:03.25,中,,0,0,0,,而且说实话 很多时候只能靠一次次炸毁发动机\Nfrankly can really only be learned the hard way by examining scraps of an engine
+Dialogue: 0,0:55:03.25,0:55:05.08,中,,0,0,0,,才能发现问题 积累经验\Nand trying to figure out what went wrong.
+Dialogue: 0,0:55:05.08,0:55:10.22,中,,0,0,0,,我觉得正是这样的想法 才驱动SpaceX不停地测试他们的猛禽发动机\NI think it's kind of this mindset that drives SpaceX to test their Raptor engines so quickly.
+Dialogue: 0,0:55:10.30,0:55:13.02,中,,0,0,0,,他们深知 只有让发动机在试车台上受尽折磨\NThey truly believe that by just getting them out on the stand,
+Dialogue: 0,0:55:13.13,0:55:17.03,中,,0,0,0,,而不是像供一尊佛一样摆在那供着\Nnot treating them as some one-off golden pony or something,
+Dialogue: 0,0:55:17.18,0:55:18.62,中,,0,0,0,,才能真正学到东西\Nthey can learn more quickly.
+Dialogue: 0,0:55:18.74,0:55:20.94,中,,0,0,0,,他们也从中吸取了无数教训\NThere's countless lessons that they have learned,
+Dialogue: 0,0:55:20.94,0:55:24.81,中,,0,0,0,,让猛禽发动机现在终于能够安全启停\Nthat have shaped safe operation during startup throttling and shut down.
+Dialogue: 0,0:55:24.81,0:55:29.01,中,,0,0,0,,我相信很多人很想知道猛禽发动机具体是如何启动的\NAnd I know that many of you are probably wanting to know how exactly the Raptor engine starts.
+Dialogue: 0,0:55:29.10,0:55:34.66,中,,0,0,0,,它的启动程序并不像RS-25发动机那样完善地公开过\NIts startup process isn't as well publicly documented, of course, as say the RS-25,
+Dialogue: 0,0:55:34.66,0:55:36.64,中,,0,0,0,,但也的确是有一些相似的\Nbut it does have some similarities.
+Dialogue: 0,0:55:36.64,0:55:39.62,中,,0,0,0,,显然 猛禽像RS-25一样有两个预燃室\NIt of course, has two preburners, like the RS-25,
+Dialogue: 0,0:55:39.62,0:55:44.52,中,,0,0,0,,但最大的不同在于 猛禽的预燃室一个富燃一个富氧\Nbut the biggest difference is that one preburner is fuel rich and the other is oxidizer rich.
+Dialogue: 0,0:55:44.52,0:55:49.10,中,,0,0,0,,因此这两个预燃室之间交输的耦合程度更高\NSo this means the interaction between the two preburners is even more intertwined.
+Dialogue: 0,0:55:49.18,0:55:54.12,中,,0,0,0,,其中一个速度的改变会迅速对另一侧产生直接影响\NChanging the speed of one has a very direct correlation and impact on the other one.
 Dialogue: 0,0:55:54.12,0:55:57.47,中,,0,0,0,,猛禽发动机有一套液氧的动力头和一套燃料的动力头\NIn the case of Raptor, you've got an oxygen power head and a fuel power head,
 Dialogue: 0,0:55:54.12,0:55:57.47,注,,0,0,90,,powerhead/powerpack 动力头/动力包\N指涡轮泵与预燃室及其附属设备的总成\N国内一般叫"半系统"
 Dialogue: 0,0:55:57.68,0:56:02.79,中,,0,0,0,,它们使用不同的轮轴 对应两套涡轮与预燃室\Nand they're different shafts and you've got two turbines and two preburners.
@@ -948,36 +945,36 @@ Dialogue: 2,0:56:23.92,0:56:30.41,下注,,0,0,0,,正常是极度富氧/富燃状
 Dialogue: 0,0:56:23.92,0:56:30.41,中,,0,0,0,,预燃室可能就跑到理想燃烧比 直接被烧穿或炸烂了\Nthen you can go stoichiometric in the preburners and melt or explode the preburners.
 Dialogue: 0,0:56:30.41,0:56:34.54,中,,0,0,0,,等它运行起来 情况就简单多了\NOnce it's running, it's a much easier situation.
 Dialogue: 0,0:56:34.54,0:56:39.06,中,,0,0,0,,但启动程序有任何出错 发动机就可能会熔化或炸毁\NBut if you get anything wrong with that star sequence you're either gonna melt or explode the engine.
-Dialogue: 0,0:56:39.18,0:56:42.52,中,,0,0,0,,Initial spin up of Raptor is done with either helium or nitrogen.
-Dialogue: 0,0:56:42.52,0:56:45.94,中,,0,0,0,,And as we mentioned before, there are torch igniters in the preburners,
-Dialogue: 0,0:56:45.94,0:56:49.57,中,,0,0,0,,and likely some kind of homogenous ignition in the main combustion chamber.
-Dialogue: 0,0:56:49.57,0:56:53.03,中,,0,0,0,,And from there on, I honestly can't even begin to imagine
-Dialogue: 0,0:56:53.03,0:56:56.01,中,,0,0,0,,what goes on internally to balance the startup process.
-Dialogue: 0,0:56:56.34,0:57:00.53,中,,0,0,0,,It's no wonder they're firing up raptors about five times every day at this point.
-Dialogue: 0,0:57:00.53,0:57:02.47,中,,0,0,0,,They've really gotta get all the kinks worked out
-Dialogue: 0,0:57:02.47,0:57:06.31,中,,0,0,0,,because there's going to be so many engines going through startups simultaneously,
-Dialogue: 0,0:57:06.60,0:57:08.65,中,,0,0,0,,it has to be perfect.
-Dialogue: 0,0:57:08.90,0:57:12.83,中,,0,0,0,,So to summarize, starting a rocket engine is very hard.
-Dialogue: 0,0:57:12.83,0:57:14.62,中,,0,0,0,,Some are easier than others,
-Dialogue: 0,0:57:14.92,0:57:19.49,中,,0,0,0,,but you can imagine why it's easy for a company to come up with a rocket engine or concept
-Dialogue: 0,0:57:19.49,0:57:23.13,中,,0,0,0,,and very hard for them to get into production and operation.
-Dialogue: 0,0:57:23.13,0:57:26.06,中,,0,0,0,,So when a company shares that they've successfully started up an engine
-Dialogue: 0,0:57:26.06,0:57:28.67,中,,0,0,0,,and made it all the way up into operating power levels,
-Dialogue: 0,0:57:28.88,0:57:33.87,中,,0,0,0,,it's very applause worthy as they've likely made it through the biggest hurdles and development.
-Dialogue: 0,0:57:34.18,0:57:37.77,中,,0,0,0,,And it's really fun to see how different programs tackle starting an engine,
-Dialogue: 0,0:57:37.77,0:57:41.19,中,,0,0,0,,and what techniques they might employ to achieve a reliable engine.
-Dialogue: 0,0:57:41.19,0:57:43.99,中,,0,0,0,,But of course, starting a rocket engine can be extremely complicated,
-Dialogue: 0,0:57:44.10,0:57:48.42,中,,0,0,0,,like having valves changing their position by just two degrees within a few milliseconds
-Dialogue: 0,0:57:48.42,0:57:52.90,中,,0,0,0,,to avoid catastrophic conditions from pressure oscillations like in the RS-25.
-Dialogue: 0,0:57:52.90,0:57:56.23,中,,0,0,0,,Mastering this sequence can take thousands of hours of development,
-Dialogue: 0,0:57:56.23,0:57:59.39,中,,0,0,0,,which means millions of dollars in time and hardware,
-Dialogue: 0,0:57:59.63,0:58:03.20,中,,0,0,0,,which can mean years and years of hard work and troubleshooting.
-Dialogue: 0,0:58:03.20,0:58:06.81,中,,0,0,0,,It is pretty much a miracle to me that people have figured out how to make rocket engines
-Dialogue: 0,0:58:06.81,0:58:09.44,中,,0,0,0,,that are so complicated and so reliable,
-Dialogue: 0,0:58:09.44,0:58:13.75,中,,0,0,0,,considering how close to catastrophe they are throughout the entire startup sequence.
-Dialogue: 0,0:58:13.75,0:58:15.70,中,,0,0,0,,But that pretty much does it.
-Dialogue: 0,0:58:15.70,0:58:20.38,中,,0,0,0,,希望本期视频能让你们了解到工程师与科学家都要解决哪些难题\NHopefully this video helps give you an appreciation of what engineers and scientists have to solve
-Dialogue: 0,0:58:20.38,0:58:24.30,中,,0,0,0,,才能让你们喜欢的火箭直冲云霄\Nbefore your favorite rocket has ever made it to the launchpad for the first time.
+Dialogue: 0,0:56:39.18,0:56:42.52,中,,0,0,0,,猛禽发动机的起转使用的氦或氮\NInitial spin up of Raptor is done with either helium or nitrogen.
+Dialogue: 0,0:56:42.52,0:56:45.94,中,,0,0,0,,而之前我们也提到 预燃室内使用火炬点火器\NAnd as we mentioned before, there are torch igniters in the preburners,
+Dialogue: 0,0:56:45.94,0:56:49.57,中,,0,0,0,,主燃烧室内可能还有类似均质燃烧的点火方式\Nand likely some kind of homogenous ignition in the main combustion chamber.
+Dialogue: 0,0:56:49.57,0:56:53.03,中,,0,0,0,,但之后 我真的很难想象启动程序中发动机内部到底发生了什么\NAnd from there on, I honestly can't even begin to imagine
+Dialogue: 0,0:56:53.03,0:56:56.01,中,,0,0,0,,但之后 我真的很难想象启动程序中发动机内部到底发生了什么\Nwhat goes on internally to balance the startup process.
+Dialogue: 0,0:56:56.34,0:57:00.53,中,,0,0,0,,也难怪他们为此每天要点火大约五次猛禽发动机\NIt's no wonder they're firing up raptors about five times every day at this point.
+Dialogue: 0,0:57:00.53,0:57:02.47,中,,0,0,0,,他们必须解决所有难题\NThey've really gotta get all the kinks worked out
+Dialogue: 0,0:57:02.47,0:57:06.31,中,,0,0,0,,才能让这么多台猛禽发动机同时点火\Nbecause there's going to be so many engines going through startups simultaneously,
+Dialogue: 0,0:57:06.60,0:57:08.65,中,,0,0,0,,不容半点差池\Nit has to be perfect.
+Dialogue: 0,0:57:08.90,0:57:12.83,中,,0,0,0,,总结下来 火箭发动机的启动非常困难\NSo to summarize, starting a rocket engine is very hard.
+Dialogue: 0,0:57:12.83,0:57:14.62,中,,0,0,0,,有些稍微简单\NSome are easier than others,
+Dialogue: 0,0:57:14.92,0:57:19.49,中,,0,0,0,,大家可以想象 为什么公司弄出火箭发动机或概念的PPT很容易\Nbut you can imagine why it's easy for a company to come up with a rocket engine or concept
+Dialogue: 0,0:57:19.49,0:57:23.13,中,,0,0,0,,但真走到生产与运行那步却难如登天\Nand very hard for them to get into production and operation.
+Dialogue: 0,0:57:23.13,0:57:26.06,中,,0,0,0,,因此 每当有航天机构分享他们的发动机成功点火试车\NSo when a company shares that they've successfully started up an engine
+Dialogue: 0,0:57:26.06,0:57:28.67,中,,0,0,0,,并在功率上成功达到运行指标\Nand made it all the way up into operating power levels,
+Dialogue: 0,0:57:28.88,0:57:33.87,中,,0,0,0,,真的值得鼓掌 因为他们可能已经跨过研发中最大的坎\Nit's very applause worthy as they've likely made it through the biggest hurdles in development.
+Dialogue: 0,0:57:34.18,0:57:37.58,中,,0,0,0,,而且了解到不同发动机的启动程序\NAnd it's really fun to see how different programs tackle starting an engine,
+Dialogue: 0,0:57:37.58,0:57:41.19,中,,0,0,0,,以及为了让发动机更可靠而采用的技术 真的很有意思\Nand what techniques they might employ to achieve a reliable engine.
+Dialogue: 0,0:57:41.19,0:57:43.99,中,,0,0,0,,当然 火箭发动机的启动也可以复杂到\NBut of course, starting a rocket engine can be extremely complicated,
+Dialogue: 0,0:57:44.10,0:57:48.42,中,,0,0,0,,在几毫秒内控制阀门开闭仅仅两度\Nlike having valves changing their position by just two degrees within a few milliseconds
+Dialogue: 0,0:57:48.42,0:57:52.90,中,,0,0,0,,以避免像RS-25那样压力振荡造成灾难性的情况\Nto avoid catastrophic conditions from pressure oscillations like in the RS-25.
+Dialogue: 0,0:57:52.90,0:57:56.23,中,,0,0,0,,掌握这样的启动程序要花费数千小时的研发\NMastering this sequence can take thousands of hours of development,
+Dialogue: 0,0:57:56.23,0:57:59.39,中,,0,0,0,,消耗上百万美元硬件与时间\Nwhich means millions of dollars in time and hardware,
+Dialogue: 0,0:57:59.63,0:58:03.20,中,,0,0,0,,背后需要无数人刻苦攻关与排故\Nwhich can mean years and years of hard work and troubleshooting.
+Dialogue: 0,0:58:03.20,0:58:05.62,中,,0,0,0,,人类能制造出如此复杂又可靠的火箭发动机 简直就是奇迹\NIt is pretty much a miracle to me that people have figured out
+Dialogue: 0,0:58:05.62,0:58:09.44,中,,0,0,0,,人类能制造出如此复杂又可靠的火箭发动机 简直就是奇迹\Nhow to make rocket engines that are so complicated and so reliable,
+Dialogue: 0,0:58:09.44,0:58:13.75,中,,0,0,0,,尤其考虑到启动过程中发动机离爆炸只有一步之遥\Nconsidering how close to catastrophe they are throughout the entire startup sequence.
+Dialogue: 0,0:58:13.75,0:58:15.70,中,,0,0,0,,基本就是这样了\NBut that pretty much does it.
+Dialogue: 0,0:58:15.70,0:58:20.38,中,,0,0,0,,希望本期视频能让大家了解到工程师与科学家都要解决哪些难题\NHopefully this video helps give you an appreciation of what engineers and scientists have to solve
+Dialogue: 0,0:58:20.38,0:58:24.30,中,,0,0,0,,才能让你我热爱的火箭刺破苍穹\Nbefore your favorite rocket has ever made it to the launchpad for the first time.
 Dialogue: 0,0:58:24.57,0:58:29.12,中,,0,0,0,,这背后的庞大工程想想都让人头皮发麻\NIt's just absolutely incredible how much work has to go into this.
 Dialogue: 0,0:58:29.34,0:58:33.08,中,,0,0,0,,如果大家有其它问题或想法 欢迎在下方评论区分享\NLet me know if you have any other questions or thoughts in the comments below.
 Dialogue: 0,0:58:33.16,0:58:37.55,中,,0,0,0,,非常感谢在Patreon上赞助我制作像这样的视频的大家\NI owe a huge thank you to my Patreon supporters for helping make videos like this,
